@@ -6,5 +6,6 @@ Getting started with GitHub Pages and Jekyll. Resources:
 * Deploy Your Website: Deploy Your Website to GitHub Pages, Codecademy
 * Creating and Hosting a Personal Site on GitHub, Johnathan McGlone
 * Get Started With GitHub Pages (Plus Bonus Jekyll), Anna Debenham
+* Google Analytics for Jekyll, Desired Persona
 * A Guide to Using GitHub Pages, Thinkful
 * GitHub Pages itself
