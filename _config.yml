@@ -1,3 +1,4 @@
 name: "Mathilda Repo, the Examiner"
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+google_analytics: UA-82882327-1
