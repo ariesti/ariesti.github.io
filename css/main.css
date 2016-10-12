@@ -5,7 +5,7 @@ a:hover { color: #ff017e; }
 a:active { color: #ff017e; }
 
 p { font-size: 1.2em; line-height: 1.4em; padding: 12px; box-sizing: border-box; color: #333; overflow: auto; }
-ul { text-decoration: none; font-size: 1.2em; line-height: 1.4em; font-family: Montserrat, Helvetica Neue, sans-serif; color: #333; }
+ul { text-decoration: none; font-size: 1.2em; line-height: 1.4em; color: #333; }
 
 h1, h2, h3, h4 { font-family: Montserrat, Helvetica Neue, sans-serif; }
 h1 { font-size: 3em;  }
