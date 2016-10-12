@@ -4,7 +4,7 @@ a { text-decoration: underline; color: #ff017e; border-bottom: 3px solid #ff017e
 a:hover { color: #ff017e; }
 
 p { font-size: 1.2em; line-height: 1.4em; padding: 12px; box-sizing: border-box; color: #333; overflow: auto; }
-ul { font-size: 1.2em; line-height: 1.4em; font-family: Montserrat, Helvetica Neue, sans-serif; color: #333; }
+ul { text-decoration: none; font-size: 1.2em; line-height: 1.4em; font-family: Montserrat, Helvetica Neue, sans-serif; color: #333; }
 
 h1, h2, h3, h4 { font-family: Montserrat, Helvetica Neue, sans-serif; }
 h1 { font-size: 3em;  }
@@ -12,10 +12,10 @@ h2 { font-size: 2.7em; }
 h3 { font-size: 2.3em; }
 h4 { font-size: 1.9em; } 
 
-nav ul, footer ul { font-size: 1em; padding: 0px; list-style: none; font-weight: bold; }
+nav ul, footer ul { text-decoration: none; font-size: 1em; padding: 0px; list-style: none; font-weight: bold; }
 nav ul li, footer ul li { display: inline; margin-right: 20px; }
 
-footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
+footer { text-decoration: none; border-top: 1px solid #d5d5d5; font-size: .8em; }
 
 /* Blog */
 ul.posts { margin: 20px auto 40px; font-size: 1.2em; }
