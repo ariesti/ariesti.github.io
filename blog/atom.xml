@@ -10,7 +10,7 @@ layout: feed
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://ariesti.github.io/blog</id>
 	<author>
-		<name>Lovelli Ariesti</name>
+		<name>@ariesti</name>
 		<email>lovelliariesti@gmail.com</email>
 	</author>
 
