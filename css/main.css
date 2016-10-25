@@ -9,7 +9,7 @@ p { font-family: Montserrat, Helvetica Neue, sans-serif; font-size: 1.2em; line-
 ul { text-decoration: none; font-size: 1.2em; line-height: 1.4em; color: #333; }
 
 /*blockquote*/
-.pull-right { width: 33%; margin: 0 -10% 0 1.625em; display: inline; float: right; background-color: #ddd; }
+.pull-right { width: 33%; margin: -10%; display: inline; float: right; background-color: #ddd; }
 .pull-left { width: 33%; margin: 0 1.625em 0 -10%; display: inline; float: left; background-color: #ddd; }
 
 h1, h2, h3, h4 { font-family: Montserrat, Helvetica Neue, sans-serif; }
