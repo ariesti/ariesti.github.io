@@ -14,7 +14,7 @@ layout: feed2
 		<email>lovelliariesti@gmail.com</email>
 	</author>
 
-	{% for post in site.arts %}
+	{% for art in site.arts %}
 		<entry>
 			<title>{{ art.title }}</title>
 			<link href="http://ariesti.github.io{{ art.url }}"/>
