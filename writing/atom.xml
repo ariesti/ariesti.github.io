@@ -17,10 +17,10 @@ layout: feed2
 	{% for post in site.posts %}
 		<entry>
 			<title>{{ post.title }}</title>
-			<link href="http://ariesti.github.io{{ post.url }}"/>
-			<updated>{{ post.date | date_to_xmlschema }}</updated>
-			<id>http://ariesti.github.io/{{ post.id }}</id>
-			<content type="html">{{ post.content | xml_escape }}</content>
+			<link href="http://ariesti.github.io{{ art.url }}"/>
+			<updated>{{ art.date | date_to_xmlschema }}</updated>
+			<id>http://ariesti.github.io/{{ art.id }}</id>
+			<content type="html">{{ art.content | xml_escape }}</content>
 		</entry>
 	{% endfor %}
 
