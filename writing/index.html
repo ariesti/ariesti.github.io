@@ -7,7 +7,7 @@ title: Her Writings
 	<ul class="entry">
 		
 	  {% for content in site.content %}
-	    <li><span>{{ content.publication }}</span> » <a href="{{ content.url }}" title="{{ content.title }}">{{ content.title }}</a></li>
+	    <li><span>{{ page.publication }}</span> » <a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></li>
 	  {% endfor %}
 	
 	</ul>
