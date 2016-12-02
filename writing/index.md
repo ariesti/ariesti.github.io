@@ -1,15 +1,12 @@
 ---
-layout: page
+layout: default
 title: Her Writings
 ---
 
-[Jakarta](/_content/page_01.md)
+<h1>{{ page.title }}</h1>
+	<ul class="posts">
 
-
-Content about the post goes here, **strong points** are highlighted and quotes are presented clearly. Content about the post goes here, **strong points** are highlighted and quotes are presented clearly. Content about the post goes here, **strong points** are highlighted and quotes are presented clearly. 
-
-
-[New York](#)
-
-
-Content about the post goes here, **strong points** are highlighted and quotes are presented clearly. Content about the post goes here, **strong points** are highlighted and quotes are presented clearly. 
+	  {% for post in site.contents %}
+	    <li><span>{{ content.date | date_to_string }}</span> » <a href="{{ content.url }}" title="{{ content.title }}">{{ content.title }}</a></li>
+	  {% endfor %}
+	</ul>
