@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Her Writings
 ---
 <h2>{{page.title}}</h2>
