@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Mathilda Repo's content 
 date: 2016-12-01
 ---
