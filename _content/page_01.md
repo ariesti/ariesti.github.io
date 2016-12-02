@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: content
 title: "Page 01 gets updated"
 publication: "The Huffington Post"
 date: 2016-12-01
