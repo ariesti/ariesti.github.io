@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mathilda Repo's content 
-date: 2016-12-01
+permalink: /writing/
 ---
 
 About content goes here.
