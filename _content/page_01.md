@@ -1,9 +1,8 @@
 ---
 layout: page
-title: "Page 01 gets updated"
+title: "Mathilda Repo, the Examiner, Launches Site"
 publication: "The Huffington Post"
 date: 2016-12-01
-permalink: /writing/
 ---
 
 Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. 
