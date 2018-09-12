@@ -1,18 +1,8 @@
 <!DOCTYPE html>
-	<html>
-		<head>
-			<meta charset="utf-8">
-   		 	<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Montserrat" rel="stylesheet" type="text/css">
-  			<link rel="icon" href="assets/rosicon.jpg" type="image/jpg">
-			
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-			{% if jekyll.environment == 'production' %}
-    			{% include analytics.html %}
-    			{% endif %}
-			
-		</head>
+	<html lang="en">
+		
+		{% include head.html %}
+		
 		<body>
 			<nav>
 	    		<ul>
