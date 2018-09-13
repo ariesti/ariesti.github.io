@@ -6,10 +6,10 @@ a:hover { color: #ff017e; }
 
 /* Paragraphs */
 p { font-size: 1.5em; line-height: 1.4em; color: #333; }
-p.font-hairline { font-weight: 100; }
-p.font-thin { font-weight: 500; }
+.font-hairline { font-weight: 100; }
+.font-thin { font-weight: 500; }
 
-h1, h2, h3, h4, h5, h6 { font-family: 'Monserrat', sans-serif; }
+h1, h2, h3, h4, h5, h6 { font-family: 'Montserrat', sans-serif; }
 h1 { font-size: 3em; }
 h2 { font-size: 2.7em; }
 h3 { font-size: 2.4em; }
