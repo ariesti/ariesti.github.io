@@ -8,7 +8,7 @@ a:hover { color: #ff017e; }
 p, ul { font-size: 1.5em; line-height: 1.4em; color: #333; }
 
 p.font-hairline { font-weight: 100; }
-p.font-thin { font-weight: 200; }
+p.font-thin { font-weight: 500; }
 
 h1, h2, h3, h4, h5, h6 { font-family: Helvetica Neue, sans-serif; }
 h1 { font-size: 3em; }
