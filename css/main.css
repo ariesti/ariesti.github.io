@@ -6,7 +6,7 @@ a:hover { color: #ff017e; }
 
 /* Paragraphs */
 p { font-size: 1.5em; line-height: 1.4em; color: #333; }
-p.a { font-style: italic }
+p.italic { font-style: italic }
 p.light { font-weight: 300 }
 p.thick { font-style: bold }
 
