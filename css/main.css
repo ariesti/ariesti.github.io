@@ -7,7 +7,7 @@ a:hover { color: #ff017e; }
 /* Paragraphs */
 p { font-size: 1.5em; line-height: 1.4em; color: #333; }
 p.italic { font-style: italic }
-p.light { font-weight: 300 }
+p.light { font-weight: 100 }
 p.thick { font-weight: 600}
 
 h1, h2, h3, h4, h5, h6 { font-family: 'Montserrat', sans-serif; }
