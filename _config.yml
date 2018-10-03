@@ -1,5 +1,5 @@
 name: "Lovelli Fuad"
 markdown: kramdown
-description: A personal blog
+description: "A personal website (money-making)"
 permalink: /blog/:year/:month/:day/:title
 google_analytics: UA-82882327-1
