@@ -1,5 +1,5 @@
 /* Head */
-header {font-family: 'Montserrat', sans-serif; letter-spacing: .15em; 
+header {font-family: Montserrat, sans-serif; letter-spacing: .15em; 
         text-transform: uppercase; font-weight: lighter; font-size: 10px; text-align: center;}
 
 /* Body */
@@ -12,7 +12,7 @@ a:hover { color: #ff017e; }
 /* Paragraphs */
 p { font-size: 1.5em; line-height: 1.4em; color: #333; }
 
-h1, h2, h3, h4, h5, h6 { font-family: 'Montserrat', sans-serif; }
+h1, h2, h3, h4, h5, h6 { font-family: Montserrat, sans-serif; }
 h1 { font-size: 3em; }
 h2 { font-size: 2.7em; }
 h3 { font-size: 2.4em; }
