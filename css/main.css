@@ -16,7 +16,7 @@ h5 { font-size: 1.4em; }
 h6 { font-size: 0.9em; }
 
 ul { font-size: 1.5em; line-height: 1.4em; color: #333; }
-.nav { text-align:center;}
+.nav { text-align:center; list-style:none; margin:0; padding:0;}
 .nav li { display:inline; }
 .nav a { display:inline-block; }
 
