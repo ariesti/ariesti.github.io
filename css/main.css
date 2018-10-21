@@ -1,7 +1,7 @@
 /* Head */
 header {font-family: Source Sans Pro, Franklin Gothic Book, Arial, sans-serif;
-  letter-spacing: .15em; text-transform: uppercase; font-weight: bold;
-  font-size: 11px; text-align: center;}
+  letter-spacing: .15em; text-transform: uppercase; font-weight: lighter;
+  text-align: center;}
 
 /* Body */
 body { font-family: Helvetica Neue, sans-serif; margin: 60px auto; width: 70%; color: #333; overflow: auto; }
