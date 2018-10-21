@@ -21,7 +21,7 @@ h5 { font-size: 1.4em; }
 h6 { font-size: 0.9em; }
 
 ul { font-size: 1.5em; line-height: 1.4em; color: #333; }
-nav ul, footer ul { text-decoration: none; font-size: 1em; padding: 0px; list-style-type: none; font-weight: bold; } 
+nav ul, footer ul { text-decoration: none; font-size: 1.2em; padding: 0px; list-style-type: none; font-weight: bold; } 
 nav ul li, footer ul li { display: inline; margin-right: 20px; } 
 
 footer { text-decoration: none; border-top: 1px solid #d5d5d5; font-size: .8em; }
