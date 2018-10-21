@@ -16,6 +16,10 @@ h5 { font-size: 1.4em; }
 h6 { font-size: 0.9em; }
 
 ul { font-size: 1.5em; line-height: 1.4em; color: #333; }
+.nav { text-align:center;}
+.nav li { display:inline; }
+.nav a { display:inline-block; padding:10px; }
+
 nav ul, footer ul { text-decoration: none; font-size: 1.9em; padding: 0px; display: inline-block; list-style-type: none; font-weight: bold; }
 nav ul li, footer ul li { display: inline; margin-right: 20px; }
 
