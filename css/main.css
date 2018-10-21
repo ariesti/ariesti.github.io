@@ -1,6 +1,6 @@
 /* Head */
 header {font-family: Montserrat, sans-serif; letter-spacing: .15em; display: inline-block;
-        text-transform: uppercase; font-weight: lighter; font-size: 10px; text-align: center;}
+        list-style-type: none; text-transform: uppercase; font-weight: lighter; font-size: 10px; text-align: center;}
 
 /* Body */
 body { font-family: Helvetica Neue, sans-serif; margin: 60px auto; width: 70%; color: #333; overflow: auto; }
