@@ -26,12 +26,12 @@ nav ul li, footer ul li { display: inline; margin-right: 20px; }
 footer { text-decoration: none; border-top: 1px solid #d5d5d5; font-size: .8em; }
 
 /* More on Nav */
-.crumbs ol { 
+nav.crumbs ol { 
 	list-style-type: none; 
 	padding-left: 0 
 }
 	
-.crumb {
+li.crumb {
 	display: inline-block;
 	letter-spacing: .1em;
 	text-transform: uppercase;
@@ -39,7 +39,7 @@ footer { text-decoration: none; border-top: 1px solid #d5d5d5; font-size: .8em; 
 	font-family: 'Helvetica Neu'; 
 }
 
-.crumb a::after {
+li.crumb a::after {
     display: inline-block;
     color: #9f9f9f;
     content: '/';
