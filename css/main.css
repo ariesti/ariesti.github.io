@@ -26,27 +26,6 @@ nav ul li, footer ul li { display: inline; margin-right: 20px; }
 footer { text-decoration: none; border-top: 1px solid #d5d5d5; font-size: .8em; }
 
 /* More on Nav */
-nav.crumbs ol { 
-	list-style-type: none; 
-	padding-left: 0 
-}
-	
-li.crumb {
-	display: inline-block;
-	letter-spacing: .1em;
-	text-transform: uppercase;
-	font-size: 10px;
-	font-family: 'Helvetica Neu'; 
-}
-
-li.crumb a::after {
-    display: inline-block;
-    color: #9f9f9f;
-    content: '/';
-    font-size: 80%;
-    font-weight: bold;
-    padding: 0 3px;
-}
 
 /* Blockquote */
 blockquote {
