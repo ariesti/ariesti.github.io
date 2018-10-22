@@ -26,7 +26,9 @@ nav ul li, footer ul li { display: inline; margin-right: 20px; }
 footer { text-decoration: none; border-top: 1px solid #d5d5d5; font-size: .8em; }
 
 /* More on Nav */
-
+nav.crumbs { font-family: Helvetica Neue, sans serif; letter-spacing: .1em;
+             text-transform: uppercase; font-weight: lighter; font-size: 1em; }
+        
 /* Blockquote */
 blockquote {
   background: #f9f9f9;
