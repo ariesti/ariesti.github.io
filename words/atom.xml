@@ -10,7 +10,7 @@ layout: feed
 	  <updated>{{ site.time | date_to_xmlschema }}</updated>
 	  <id>http://fingertip.top/words</id>
 	  <author>
-		  <name>@lovellifuad</name>
+		  <name>Lovelli Fuad</name>
 		  <email>lovelliariesti@gmail.com</email>
 	  </author>
 
