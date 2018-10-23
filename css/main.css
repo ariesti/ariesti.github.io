@@ -1,17 +1,64 @@
+/*! normalize.css v8.0.0 | MIT License | github.com/necolas/normalize.css */
+Finger Tip-Top Screen Stylesheet
+
+version: 1.0
+date: 
+author: Lovelli Fuad
+email: 
+website:
+version history: 
+
 /* Main.css Doc - follow Normalize.css v8.0.0
 
-1. Correct the line height in all browsers. 
-2. Prevent adjustments of font size after orientation changes in iOS */
+	1. Correct the line height in all browsers. 
+	2. Prevent adjustments of font size after orientation changes in iOS */
 
 html {
   line-height: 1.15; /* 1 */
   -webkit-text-size-adjust: 100%; /* 2 */
 }
 
+/**
+	* Remove the margin in all browsers */
+
+body {
+	margin: 0;
+	padding: 0;
+	border:0;
+}
+
+/**
+	* Setup classes for floating and clearing */
+	
+.clear 
+    { 
+    clear:both; 
+} 
+
+.right 
+    { 
+    float: right; 
+} 
+
+.left 
+    { 
+    float: left; 
+}
+	
+/* Grouping Content 
+1. Add the correct box sizin in Firefox.
+2. Show the overflow in Edge and IE. */
+
+hr {
+	box-sizing: content-box; 
+	height: 0;
+	overflow: visible;
+}
+	
 /* Sections 
 
 /* Head
-Define the header font size, text properties, and spacing */
+	* Define the header font size, text properties, and spacing */
 
 header { 
 	font-family: Montserrat, sans-serif; 
@@ -22,23 +69,30 @@ header {
 	text-align: center;
 }
 
-/* Body
-Remove the margin in all browsers */
-
-body {
-	margin: 0;
-	padding: 0;
-	border:0;
-}
-
 /**
 *Correct the font size and margin on 'h1' elemet within 'section' and 'article' contexts in Chrome, Firefox, and Safari. */
+
+
+
+
+
+
+
+
+
+
 
 body { font-family: Helvetica Neue, sans-serif; margin: 60px auto; width: 70%; color: #333; overflow: auto; }
 
 a { text-decoration: none; color: #333; border-bottom: 3px solid #ff017e; }
 a:hover { color: #ff017e; }
 .pinklink:hover { color: #333; }
+
+
+
+
+
+
 
 /* More on Nav */
 
