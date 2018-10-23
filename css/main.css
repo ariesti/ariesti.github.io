@@ -3,6 +3,10 @@ header {font-family: Montserrat, sans-serif; letter-spacing: .15em;
         text-transform: uppercase; font-weight: lighter; font-size: 13px; text-align: center;}
 
 /* Body */
+html, body {
+    margin: 0;
+    padding: 0;
+}
 body { font-family: Helvetica Neue, sans-serif; margin: 60px auto; width: 70%; color: #333; overflow: auto; }
 
 a { text-decoration: none; color: #333; border-bottom: 3px solid #ff017e; }
@@ -15,7 +19,7 @@ a:hover { color: #ff017e; }
 p { font-size: 1.5em; line-height: 1.4em; color: #333; }
 
 h1, h2, h3, h4, h5, h6 { font-family: Montserrat, sans-serif; }
-h1 { font-size: 3em; padding: 0}
+h1 { font-size: 3em; }
 h2 { font-size: 2.7em; }
 h3 { font-size: 2.4em; }
 h4 { font-size: 1.9em; }
