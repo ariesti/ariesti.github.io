@@ -1,4 +1,4 @@
-/*! normalize.css v8.0.0 | MIT License | github.com/necolas/normalize.css */
+/*! normalize.css v8.0.0 | MIT License | github.com/necolas/normalize.css 
 Finger Tip-Top Screen Stylesheet
 
 version: 1.0
@@ -7,6 +7,7 @@ author: Lovelli Fuad
 email: 
 website:
 version history: 
+*/
 
 /* Main.css Doc - follow Normalize.css v8.0.0
 
@@ -54,6 +55,13 @@ hr {
 	height: 0;
 	overflow: visible;
 }
+
+/* Set the document up */
+
+body {
+	font-family: Helvetica Neue, sans-serif;
+	color: #333333;
+}
 	
 /* Sections 
 
@@ -82,7 +90,7 @@ header {
 
 
 
-body { font-family: Helvetica Neue, sans-serif; margin: 60px auto; width: 70%; color: #333; overflow: auto; }
+
 
 a { text-decoration: none; color: #333; border-bottom: 3px solid #ff017e; }
 a:hover { color: #ff017e; }
