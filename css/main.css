@@ -56,24 +56,6 @@ hr {
 	overflow: visible;
 }
 
-/* Set the document up */
-
-body {
-	font-family: Helvetica Neue, sans-serif;
-	color: #333333;
-	font-size: 1.5em;
-	margin: 60px auto;
-	width: 70%;
-	overflow: auto;
-}
-
-#wrapper {
-	width:980px;
-	text-alight:left;
-	margin-left:auto;
-	margin-right:auto;
-	background color: #FFFFFF;
-}
 	
 /* Sections 
 
@@ -92,26 +74,29 @@ header {
 /**
 *Correct the font size and margin on 'h1' elemet within 'section' and 'article' contexts in Chrome, Firefox, and Safari. */
 
+/* Set the document up */
 
+body {
+	font-family: Helvetica Neue, sans-serif;
+	color: #333333;
+	font-size: 1.5em;
+	margin: 60px auto;
+	width: 70%;
+	overflow: auto;
+}
 
-
-
-
-
-
-
-
-
+#wrapper {
+	width:980px;
+	text-alight:left;
+	margin-left:auto;
+	margin-right:auto;
+	background color: #FFFFFF;
+}
 
 
 a { text-decoration: none; color: #333; border-bottom: 3px solid #ff017e; }
 a:hover { color: #ff017e; }
 .pinklink:hover { color: #333; }
-
-
-
-
-
 
 
 /* More on Nav */
