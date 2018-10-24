@@ -52,7 +52,6 @@ body {
 hr {
 	box-sizing: content-box; 
 	height: 0;
-	margin: 40px;
 	overflow: visible;
 }
 
