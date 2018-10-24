@@ -62,7 +62,7 @@ hr {
 body {
 	font-family: Helvetica Neue, sans-serif;
 	color: #333333;
-	font-size: 1.5em;
+	font-size: 14px;
 	margin: 60px auto;
 	width: 70%;
 	overflow: auto;
@@ -84,7 +84,7 @@ header {
 	letter-spacing: .15em;
 	text-transform: uppercase; 
 	font-weight: 200;
-	font-size: 13px; 
+	font-size: 11px; 
 	text-align: center;
 }
 
