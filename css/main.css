@@ -47,19 +47,11 @@ hr {
 	overflow: visible;
 }
 
-header { 
-	font-family: Montserrat, sans-serif; 
-	letter-spacing: .15em;
-	text-transform: uppercase; 
-	font-weight: 200;
-	font-size: 11px; 
-	text-align: center;
-}
 
 /* Set the document up */
 
 /**
-	* Remove the margin in all browsers */
+* Remove the margin in all browsers */
 
 body {
 	margin: 0;
@@ -86,8 +78,17 @@ body {
 
 /* Sections */
 
-/* Head
-* Correct the font size and margin on 'h1' elemet within 'section' and 'article' contexts in Chrome, Firefox, and Safari. */
+/* Head */
+header { 
+	font-family: Montserrat, sans-serif; 
+	letter-spacing: .15em;
+	text-transform: uppercase; 
+	font-weight: 200;
+	font-size: 11px; 
+	text-align: center;
+}
+
+/* Correct the font size and margin on 'h1' elemet within 'section' and 'article' contexts in Chrome, Firefox, and Safari. */
 
 /* Handling the typography */
 
