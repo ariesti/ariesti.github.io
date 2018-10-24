@@ -41,17 +41,7 @@ html {
 1. Add the correct box sizin in Firefox.
 2. Show the overflow in Edge and IE. */
 
-hr {
-	box-sizing: content-box; 
-	height: 0;
-	overflow: visible;
-}
-
-
-/* Set the document up */
-
-/**
-* Remove the margin in all browsers */
+/*Remove the margin in all browsers */
 
 body {
 	margin: 0;
@@ -59,8 +49,15 @@ body {
 	border:0;
 }
 
+hr {
+	box-sizing: content-box; 
+	height: 0;
+	overflow: visible;
+}
+
+/* Set the document up */
 body { 
-	font-size: 62.5%/1.5em; 
+	font-size: 1.5em; 
 	font-family: Helvetica Neue, sans-serif;
     	color: #333;
     	margin: 60px auto;
