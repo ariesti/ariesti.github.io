@@ -42,6 +42,11 @@ html {
 2. Show the overflow in Edge and IE. */
 
 /*Remove the margin in all browsers */
+body {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
 
 hr {
 	box-sizing: content-box; 
@@ -79,12 +84,6 @@ body {
 }
 
 /* Correct the font size and margin on 'h1' elemet within 'section' and 'article' contexts in Chrome, Firefox, and Safari. */
-
-body {
-	margin: 0;
-	padding: 0;
-	border:0;
-}
 
 /* Handling the typography */
 h1, h2, h3, h4, h5, h6 { font-family: Montserrat, sans-serif; }
