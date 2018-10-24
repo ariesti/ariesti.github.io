@@ -160,6 +160,7 @@ blockquote p {
 
 footer {
 	position: absolute;
+	bottom: 0;
 	font-family: Montserrat, sans-serif; 
 	letter-spacing: -2px;
 	font-weight: 100;
