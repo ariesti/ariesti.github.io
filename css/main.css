@@ -130,8 +130,8 @@ a:hover { color: #ff017e; }
 /* Paragraphs */
 p { font-size: 18px; line-height: 1.4em; color: #333; }
 ul { font-size: 1.5em; line-height: 1.4em; color: #333; }
-nav ul, footer ul { text-decoration: none; font-size: 1.25em; padding: 0px; list-style-type: none; font-weight: bold; } 
-nav ul li, footer ul li { display: inline; margin-right: 20px; } 
+header ul, footer ul { text-decoration: none; font-size: 1.25em; padding: 0px; list-style-type: none; font-weight: bold; } 
+header ul li, footer ul li { display: inline; margin-right: 20px; } 
 
         
 /* Blockquote */
