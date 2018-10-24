@@ -62,7 +62,7 @@ header {
 
 /* Set the document up */
 body { 
-	font-size: 62.5%; 
+	font-size: 1em; 
 	font-family: Helvetica Neue, sans-serif;
     	color: #333;
     	margin: 60px auto;
