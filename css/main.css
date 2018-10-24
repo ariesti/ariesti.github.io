@@ -20,15 +20,6 @@ html {
 }
 
 /**
-	* Remove the margin in all browsers */
-
-body {
-	margin: 0;
-	padding: 0;
-	border:0;
-}
-
-/**
 	* Setup classes for floating and clearing */
 	
 .clear 
@@ -56,7 +47,25 @@ hr {
 	overflow: visible;
 }
 
+header { 
+	font-family: Montserrat, sans-serif; 
+	letter-spacing: .15em;
+	text-transform: uppercase; 
+	font-weight: 200;
+	font-size: 11px; 
+	text-align: center;
+}
+
 /* Set the document up */
+
+/**
+	* Remove the margin in all browsers */
+
+body {
+	margin: 0;
+	padding: 0;
+	border:0;
+}
 
 body { 
 	font: 62.5%/1.5  "Helvetica Neue", sans-serif;
@@ -100,16 +109,6 @@ h6 { font-size: 0.9em; }
 a { text-decoration: none; color: #333; border-bottom: 3px solid #ff017e; }
 a:hover { color: #ff017e; }
 .pinklink:hover { color: #333; }	
-
-/*Header style */
-header { 
-	font-family: Montserrat, sans-serif; 
-	letter-spacing: .15em;
-	text-transform: uppercase; 
-	font-weight: 200;
-	font-size: 11px; 
-	text-align: center;
-}
 
 /* Paragraphs */
 p { font-size: 1.5em; line-height: 1.4em; color: #333; }
