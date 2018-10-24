@@ -159,10 +159,10 @@ blockquote p {
 /* Footer */
 
 footer {
-	position:fixed;
 	text-decoration: none; 
 	border-top: 1px solid #d5d5d5; 
 	font-size: .8em; 
+	clear: both;
 	text-align: center; 
 }
 
