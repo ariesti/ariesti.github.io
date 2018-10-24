@@ -74,11 +74,17 @@ body {
 }
 
 /* Sections */
-
+header { 
+	font-family: Montserrat, sans-serif; 
+	letter-spacing: .15em;
+	text-transform: uppercase; 
+	font-weight: 200;
+	font-size: 11px;
+	text-align: center;
+}
 /* Correct the font size and margin on 'h1' elemet within 'section' and 'article' contexts in Chrome, Firefox, and Safari. */
 
 /* Handling the typography */
-
 h1, h2, h3, h4, h5, h6 { font-family: Montserrat, sans-serif; }
 h1 { font-size: 3em; margin-bottom: 10px; }
 h2 { font-size: 2.7em; }
@@ -125,16 +131,6 @@ blockquote:before {
 
 blockquote p {
   display: inline;
-}
-
-/* Header */
-header { 
-	font-family: Montserrat, sans-serif; 
-	letter-spacing: .15em;
-	text-transform: uppercase; 
-	font-weight: 200;
-	font-size: 11px;
-	text-align: center;
 }
 
 /* Blog */
