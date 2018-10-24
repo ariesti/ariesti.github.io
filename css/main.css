@@ -130,8 +130,8 @@ a:hover { color: #ff017e; }
 /* Paragraphs */
 p { font-size: 18px; line-height: 1.4em; color: #333; }
 ul { font-size: 1.5em; line-height: 1.4em; color: #333; }
-header ul, footer ul { text-decoration: none; font-size: 1.25em; padding: 0px; list-style-type: none; font-weight: bold; } 
-header ul li, footer ul li { display: inline; margin-right: 20px; } 
+header ul { text-decoration: none; font-size: 1.25em; padding: 0px; list-style-type: none; font-weight: bold; } 
+header ul li { display: inline; margin-right: 20px; } 
 
         
 /* Blockquote */
@@ -162,24 +162,7 @@ blockquote p {
 
 /* Footer */
 
-footer {
-	font-family: Montserrat, sans-serif; 
-	letter-spacing: .15em;
-	text-transform: uppercase; 
-	font-weight: 200;
-	font-size: 11px;
-	text-align: center;
-}
 
-.footer {
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  padding: 1rem;
-  background-color: #fffff;
-  text-align: center;
-}
 
 /* Blog */
 ul.posts { margin: 20px auto 40px; font-size: 1.2em; color: #ff017e; }
