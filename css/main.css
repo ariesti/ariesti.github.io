@@ -108,11 +108,12 @@ a:hover { color: #ff017e; }
 .pinklink:hover { color: #333; }	
 
 /* Paragraphs */
-p { font-size: 1.25em; line-height: 1.4em; color: #333; }
+p { font-size: 18px; line-height: 1.4em; color: #333; }
+
 ul { font-size: 1.5em; line-height: 1.4em; color: #333; }
-nav ul, footer ul { text-decoration: none; font-size: 1.25em; padding: 0px; list-style-type: none; font-weight: bold; } 
-nav ul li, footer ul li { display: inline; margin-right: 20px; } 
-footer { text-decoration: none; border-top: 1px solid #d5d5d5; font-size: .8em; text-align: center;}
+nav ul { text-decoration: none; font-size: 1.25em; padding: 0px; list-style-type: none; font-weight: bold; } 
+nav ul li { display: inline; margin-right: 20px; } 
+
         
 /* Blockquote */
 blockquote {
@@ -135,6 +136,12 @@ blockquote:before {
 blockquote p {
   display: inline;
 }
+
+/* Footer */
+
+footer ul { text-decoration: none; font-size: 1.25em; padding: 0px; list-style-type: none; font-weight: bold; } 
+footer ul li { display: inline; margin-right: 20px; } 
+footer { text-decoration: none; border-top: 1px solid #d5d5d5; font-size: .8em; text-align: center;}
 
 /* Blog */
 ul.posts { margin: 20px auto 40px; font-size: 1.2em; color: #ff017e; }
