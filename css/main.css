@@ -19,6 +19,14 @@ html {
   -webkit-text-size-adjust: 100%; /* 2 */
 }
 
+/*Remove the margin in all browsers */
+
+body {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
 /**
 	* Setup classes for floating and clearing */
 	
@@ -41,13 +49,6 @@ html {
 1. Add the correct box sizin in Firefox.
 2. Show the overflow in Edge and IE. */
 
-/*Remove the margin in all browsers */
-body {
-	margin: 0;
-	padding: 0;
-	border: 0;
-}
-
 hr {
 	box-sizing: content-box; 
 	height: 0;
@@ -55,15 +56,6 @@ hr {
 }
 
 /* Sections */
-
-header { 
-	font-family: Montserrat, sans-serif; 
-	letter-spacing: .15em;
-	text-transform: uppercase; 
-	font-weight: 200;
-	font-size: 11px;
-	text-align: center;
-}
 
 /* Set the document up */
 body { 
@@ -91,13 +83,24 @@ h4 { font-size: 1.7em; }
 h5 { font-size: 1.4em; }
 h6 { font-size: 1em; }
 
-/* Subtitle and title */
-
 .subtitle {
 	font-family: Montserrat, sans-serif;
 	font-size: 1em;
 	letter-spacing: 3px;
 }
+
+/* Header */
+
+header { 
+	font-family: Montserrat, sans-serif; 
+	letter-spacing: .15em;
+	text-transform: uppercase; 
+	font-weight: 200;
+	font-size: 11px;
+	text-align: center;
+}
+
+/* Subtitle and title */
 
 a { text-decoration: none; color: #333; border-bottom: 3px solid #ff017e; }
 a:hover { color: #ff017e; }
