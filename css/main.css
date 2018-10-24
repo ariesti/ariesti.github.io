@@ -97,7 +97,8 @@ h6 { font-size: 1em; }
 /* Subtitle and title */
 
 .subtitle {
-	font: 1em Montserrat, sans-serif;
+	font-family: Montserrat, sans-serif;
+	font-size: 1em;
 	letter-spacing: 3px;
 }
 
@@ -110,7 +111,7 @@ p { font-size: 1em; line-height: 1.4em; color: #333; }
 ul { font-size: 1.5em; line-height: 1.4em; color: #333; }
 nav ul, footer ul { text-decoration: none; font-size: 1.25em; padding: 0px; list-style-type: none; font-weight: bold; } 
 nav ul li, footer ul li { display: inline; margin-right: 20px; } 
-footer { text-decoration: none; border-top: 1px solid #d5d5d5; font-size: .8em; }
+footer { text-decoration: none; border-top: 1px solid #d5d5d5; font-size: .8em; text-align: center;}
         
 /* Blockquote */
 blockquote {
