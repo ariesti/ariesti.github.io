@@ -60,7 +60,8 @@ body {
 }
 
 body { 
-	font: 62.5%/1.5em  "Helvetica Neue", sans-serif;
+	font-size: 62.5%/1.5em; 
+	font-family: Helvetica Neue, sans-serif;
     	color: #333;
     	margin: 60px auto;
     	width: 70%;
@@ -77,16 +78,6 @@ body {
 }
 
 /* Sections */
-
-/* Head */
-header { 
-	font-family: Montserrat, sans-serif; 
-	letter-spacing: .15em;
-	text-transform: uppercase; 
-	font-weight: 200;
-	font-size: 11px; 
-	text-align: center;
-}
 
 /* Correct the font size and margin on 'h1' elemet within 'section' and 'article' contexts in Chrome, Firefox, and Safari. */
 
@@ -138,6 +129,16 @@ blockquote:before {
 
 blockquote p {
   display: inline;
+}
+
+/* Header */
+header { 
+	font-family: Montserrat, sans-serif; 
+	letter-spacing: .15em;
+	text-transform: uppercase; 
+	font-weight: 200;
+	font-size: 11px
+	text-align: center;
 }
 
 /* Blog */
