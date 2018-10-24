@@ -158,13 +158,13 @@ blockquote p {
 
 /* Footer */
 
-footer { 
+footer {
+	position:fixed;
 	text-decoration: none; 
 	border-top: 1px solid #d5d5d5; 
 	font-size: .8em; 
-	clear: both;
-	text-align: center;
-	bottom: 0px; }
+	text-align: center; 
+}
 
 /* Blog */
 ul.posts { margin: 20px auto 40px; font-size: 1.2em; color: #ff017e; }
