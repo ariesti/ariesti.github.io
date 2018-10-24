@@ -80,6 +80,7 @@ body {
 	font-family: Helvetica Neue, sans-serif;
 	color: #333333;
 	font-size: 1.25em;
+	margin: 60px auto;
 	width: 70%;
 	overflow: auto;
 }
