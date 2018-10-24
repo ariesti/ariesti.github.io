@@ -59,14 +59,13 @@ hr {
 	
 /* Sections */
 
-body {
-	font-family: Helvetica Neue, sans-serif;
-	color: #333333;
-	font-size: 14px;
-	margin: 60px auto;
-	width: 70%;
-	overflow: auto;
-}
+body 
+    { 
+    font: 62.5%/1.5  "Lucida Grande", "Lucida Sans", Tahoma, Verdana, sans-serif; 
+    background: url(/images/wallpaper.png) repeat; 
+    color: #000000;     
+    text-align:center; 
+} 
 
 #wrapper {
 	width:980px;
