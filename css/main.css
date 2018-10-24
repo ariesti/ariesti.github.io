@@ -62,7 +62,7 @@ header {
 
 /* Set the document up */
 body { 
-	font-size: 62.5%; 
+	font-size: 1em; 
 	font-family: Helvetica Neue, sans-serif;
     	color: #333;
     	margin: 60px auto;
@@ -107,7 +107,7 @@ a:hover { color: #ff017e; }
 .pinklink:hover { color: #333; }	
 
 /* Paragraphs */
-p { font-size: 1.2em; line-height: 1.4em; color: #333; }
+p { font-size: 1em; line-height: 1.4em; color: #333; }
 ul { font-size: 1.5em; line-height: 1.4em; color: #333; }
 nav ul, footer ul { text-decoration: none; font-size: 1.25em; padding: 0px; list-style-type: none; font-weight: bold; } 
 nav ul li, footer ul li { display: inline; margin-right: 20px; } 
