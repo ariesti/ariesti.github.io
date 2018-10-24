@@ -49,6 +49,21 @@ body {
 1. Add the correct box sizin in Firefox.
 2. Show the overflow in Edge and IE. */
 
+hr {
+	box-sizing: content-box; 
+	height: 0;
+	overflow: visible;
+}
+
+/*
+1. Correct the inheritance and scaling of font size in all browsers.
+2. Correct the odd `em` font sizing in all browsers. */
+
+pre {
+  font-family: Helvetica Neue, sans-serif; 
+  font-size: 1.25em; 
+}
+
 /* Set the document up */
 
 body { 
@@ -63,12 +78,6 @@ body {
 	margin-left:auto;
 	margin-right:auto;
 	background color: #FFFFFF;
-}
-
-hr {
-	box-sizing: content-box; 
-	height: 0;
-	overflow: visible;
 }
 
 /* Sections */
