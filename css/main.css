@@ -5,8 +5,8 @@ version: 1.0
 date: 
 author: Lovelli Fuad
 email: 
-website:
-version history: 
+website: www.fingertip.top
+version history: v.1.0
 */
 
 /* Main.css Doc - follow Normalize.css v8.0.0
@@ -27,8 +27,7 @@ body {
 	border: 0;
 }
 
-/**
-	* Setup classes for floating and clearing */
+/* Setup classes for floating and clearing */
 	
 .clear 
     { 
@@ -52,8 +51,10 @@ body {
 hr {
 	box-sizing: content-box; 
 	height: 0;
-	overflow: visible;
+	overflow: visible; /* 2 */
 }
+
+/* Add additional hr styles */
 
 hr.style-two {
     border: 0;
@@ -84,6 +85,17 @@ body {
 	margin-right:auto;
 	background color: #FFFFFF;
 }
+
+/* Container styles main template from @jmcglone*/
+
+.container > hr { margin: 30px 0; }
+.container > hr.footer {margin-bottom: 15px; }
+
+/* More container styles */
+.main-container { max-width: 980px; margin: 0 auto; padding: 50px 0; }
+
+
+/* Text level semantics */
 
 /* Sections */
 
@@ -156,9 +168,6 @@ blockquote p {
   display: inline;
 }
 
-/* Container */
-.container > hr { margin: 30px 0; }
-.container > hr.footer {margin-bottom: 15px; }
 
 /* Footer */
 #footer { 
