@@ -161,7 +161,7 @@ blockquote p {
 .container > hr.footer {margin-bottom: 15px; }
 
 /* Footer */
-footer { 
+#footer { 
 	font-family: Montserrat, sans-serif; 
 	letter-spacing: .12em;
 	text-transform: uppercase; 
