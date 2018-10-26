@@ -88,8 +88,8 @@ body {
 
 /* Container styles main template from @jmcglone*/
 
-.container > hr { margin: 30px 0; }
-.container > hr.footer {margin-bottom: 15px; }
+.container > hr { clear: both; margin: 30px 0; }
+.container > hr.footer { clear: both; margin-bottom: 15px; }
 
 /* More container styles */
 .main-container { max-width: 980px; margin: 0 auto; padding: 50px 0; }
