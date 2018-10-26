@@ -93,7 +93,6 @@ body {
 
 /* More container styles */
 .main-container { max-width: 980px; margin: 0 auto; padding: 50px 0; }
-.footer-container { clear:both; width: 980px; margin:0 auto; padding: 0; border:0; }
 .about { width: 85%; margin: 0 auto; }
 
 /* Divs */
@@ -106,10 +105,11 @@ body {
 }
 
 .content {
+	clear: both;
   	width: 650px;
 	height: 500px; 
   	background-color: #ffffff;
-	clear: both;
+	display: flex;
 }
 
 /* Text level semantics */
