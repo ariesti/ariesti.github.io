@@ -106,9 +106,10 @@ body {
 }
 
 .content {
-  	width: 980px;                 /* Add this */
+  	width: 650px;
+	height: 500px; 
   	background-color: #ffffff;
-	float: none;
+	float: center;
 }
 
 /* Text level semantics */
