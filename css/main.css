@@ -105,12 +105,18 @@ body {
 	border: 0;
 }
 
+/* Test content wrapper */
+
+#content {padding-top: 108px; padding-bottom: 108px; background-color: #fff;}
+.wrapper {padding: 0 108px; background: #fff;}
+
 .content {
 	clear: both;
   	width: 650px;
 	height: 500px; 
   	background-color: #ffffff;
 	display: flex;
+	position: relative;
 }
 
 /* Text level semantics */
