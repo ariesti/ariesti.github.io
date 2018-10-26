@@ -116,6 +116,7 @@ body {
   	width: 650px;
   	background-color: #ffffff;
 	display: flex;
+	position: relative;
 }
 
 /* Text level semantics */
