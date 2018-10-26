@@ -106,8 +106,9 @@ body {
 }
 
 .content {
-  	width: 650px;                 /* Add this */
+  	width: 980px;                 /* Add this */
   	background-color: #ffffff;
+	float: none;
 }
 
 /* Text level semantics */
