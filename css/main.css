@@ -114,8 +114,8 @@ body {
 .content {
 	clear: both;
   	width: 650px;
-	height: 500px; 
   	background-color: #ffffff;
+	display: flex;
 }
 
 /* Text level semantics */
