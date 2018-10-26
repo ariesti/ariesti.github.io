@@ -109,6 +109,13 @@ body {
   	width: 650px;                 /* Add this */
   	background-color: #ffffff;
 }
+
+.content-2 {
+	width: 650px;
+	float: left;
+	background-color: #ffffff;
+	padding-top:20px;
+}
 /* Text level semantics */
 
 /* Sections */
