@@ -108,16 +108,8 @@ body {
 
 /* Test content wrapper */
 
-#content { padding-top: 108px; padding-bottom: 108px; background-color: #fff; }
-.wrapper { padding: 0 108px; background: #fff; }
-
-.content {
-	clear: both;
-  	width: 850px;
-  	background-color: #ffffff;
-	display: block;
-	position: relative;
-}
+#content { padding-top: 100px; padding-bottom: 100px; background-color: #fff; }
+.wrapper { padding: 0 100px; background: #fff; }
 
 /* Text level semantics */
 
