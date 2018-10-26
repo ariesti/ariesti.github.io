@@ -97,8 +97,10 @@ body {
 
 /* Divs */
 .page { 
-	width: 980px; 
+	max-width: 980px; 
 	margin: 0 auto;
+	padding: 0;
+	border: 0;
 }
 
 /* Text level semantics */
