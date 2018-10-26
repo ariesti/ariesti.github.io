@@ -191,6 +191,17 @@ blockquote p {
 	text-align: center;
 }
 
+footer {font-family: Montserrat, sans-serif;
+  text-align: center; margin: 30px auto;
+  padding-top: 20px; font-size: 11px; color: #777; letter-spacing: .1em;
+  font-weight: 300; text-transform: uppercase;}
+footer ul {list-style: none; padding: 0 15px; display: inline-block; font-size: 11px;}
+footer li {text-align: left;}
+footer a {border: none; color: #505050; transition: color 0.2s;}
+footer a:hover {color: #357efc; border-color: #357efc;}
+.about-foot {max-width: 300px; display: inline-block; text-align: right;
+padding-right: 15px;}
+.meta {font-family: Montserrat, sans-serif; color: #777;}
 
 /* Blog */
 ul.posts { margin: 20px auto 40px; font-size: 1.2em; color: #ff017e; }
