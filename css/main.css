@@ -109,7 +109,7 @@ body {
   	width: 650px;
 	height: 500px; 
   	background-color: #ffffff;
-	float: center;
+	clear: both;
 }
 
 /* Text level semantics */
