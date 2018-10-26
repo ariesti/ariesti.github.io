@@ -93,7 +93,7 @@ body {
 
 /* More container styles */
 .main-container { max-width: 980px; margin: 0 auto; padding: 50px 0; }
-.footer-container { clear:both; width: 70%; margin:0 auto; padding: 0; }
+.footer-container { clear:both; width: 980px; margin:0 auto; padding: 0; border:0; }
 .about { width: 85%; margin: 0 auto; }
 
 /* Divs */
@@ -183,6 +183,7 @@ blockquote p {
 
 /* Footer */
 #footer { 
+	clear: both;
 	font-family: Montserrat, sans-serif; 
 	letter-spacing: .12em;
 	text-transform: uppercase; 
