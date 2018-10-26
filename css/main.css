@@ -93,7 +93,7 @@ body {
 
 /* More container styles */
 .main-container { max-width: 980px; margin: 0 auto; padding: 50px 0; }
-.footer-container { max-width: 980px; margin:0 auto; padding: 0; }
+.footer-container { clear:both; max-width: 980px; margin:0 auto; padding: 0; }
 .about { width: 85%; margin: 0 auto; }
 
 /* Divs */
