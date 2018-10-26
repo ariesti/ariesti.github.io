@@ -152,7 +152,7 @@ a:hover { color: #ff017e; }
 .pinklink:hover { color: #333; }	
 
 /* Paragraphs */
-p { font-size: 18px; line-height: 1.4em; color: #333; }
+p { font-size: 1.25em; line-height: 1.4em; color: #333; }
 .ex1 { padding-top: 25px; }
 ul { font-size: 1.1em; line-height: 1.4em; color: #333; }
 header ul { text-decoration: none; font-size: 1.25em; padding: 0px; list-style-type: none; font-weight: bold; } 
