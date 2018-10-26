@@ -179,7 +179,6 @@ blockquote p {
 
 /* Footer */
 #footer { 
-	clear: both;
 	font-family: Montserrat, sans-serif; 
 	letter-spacing: .12em;
 	text-transform: uppercase; 
