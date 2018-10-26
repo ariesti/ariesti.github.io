@@ -150,7 +150,8 @@ a:hover { color: #ff017e; }
 
 /* Paragraphs */
 p { font-size: 18px; line-height: 1.4em; color: #333; }
-p.ex1 { padding-top: 25px; }
+.ex1 { padding-top: 25px; }
+
 ul { font-size: 1.1em; line-height: 1.4em; color: #333; }
 header ul { text-decoration: none; font-size: 1.25em; padding: 0px; list-style-type: none; font-weight: bold; } 
 header ul li { display: inline; margin-right: 20px; } 
