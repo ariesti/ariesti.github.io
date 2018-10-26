@@ -205,10 +205,7 @@ ul.posts li { list-style: none; }
 .cv .download { float: right; font-size: .8em; text-transform: uppercase; }
 
 /* Image */
-img { 
-	width: 80%;
-	height: auto;
-	vertical-align: middle; }
+img { vertical-align: middle; }
 
 img:hover {
     /* Start the shake animation and make the animation last for 0.5 seconds */
