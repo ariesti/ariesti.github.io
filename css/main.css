@@ -97,12 +97,17 @@ body {
 
 /* Divs */
 .page { 
+	clear: both;
 	max-width: 980px; 
 	margin: 0 auto;
 	padding: 0;
 	border: 0;
 }
 
+.content {
+  	width: 650px;                 /* Add this */
+  	background-color: #F5CF8E;
+}
 /* Text level semantics */
 
 /* Sections */
