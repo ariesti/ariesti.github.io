@@ -118,6 +118,7 @@ body {
 
 /* Handling the typography */
 h1, h2, h3, h4, h5, h6 { font-family: Montserrat, sans-serif; }
+.ex1 { padding-top: 25px; }
 h1 { font-size: 2.4em; margin-bottom: 10px; }
 h2 { font-size: 2.1em; }
 h3 { font-size: 1.9em; }
@@ -151,7 +152,6 @@ a:hover { color: #ff017e; }
 /* Paragraphs */
 p { font-size: 18px; line-height: 1.4em; color: #333; }
 .ex1 { padding-top: 25px; }
-
 ul { font-size: 1.1em; line-height: 1.4em; color: #333; }
 header ul { text-decoration: none; font-size: 1.25em; padding: 0px; list-style-type: none; font-weight: bold; } 
 header ul li { display: inline; margin-right: 20px; } 
