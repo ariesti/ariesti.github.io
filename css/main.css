@@ -130,7 +130,6 @@ h6 { font-size: 1em; }
 
 .subtitle {
 	font-family: Montserrat, sans-serif;
-	font-size: 1em;
 	letter-spacing: 3px;
 }
 
@@ -154,7 +153,7 @@ a:hover { color: #ff017e; }
 /* Paragraphs */
 p { font-size: 1.5em; line-height: 1.4em; color: #333; }
 .ex1 { padding-top: 25px; }
-ul { font-size: 1.1em; line-height: 1.4em; color: #333; }
+ul { font-size: 1.3em; line-height: 1.4em; color: #333; }
 header ul { text-decoration: none; font-size: 1.25em; padding: 0px; list-style-type: none; font-weight: bold; } 
 header ul li { display: inline; margin-right: 20px; } 
 
