@@ -113,9 +113,9 @@ body {
 
 .content {
 	clear: both;
-  	width: 650px;
+  	width: 850px;
   	background-color: #ffffff;
-	display: flex;
+	display: block;
 	position: relative;
 }
 
