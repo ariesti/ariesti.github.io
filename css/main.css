@@ -120,11 +120,11 @@ body {
 /* Handling the typography */
 h1, h2, h3, h4, h5, h6 { font-family: Montserrat, sans-serif; }
 .ex1 { padding-top: 25px; }
-h1 { font-size: 2.4em; margin-bottom: 10px; }
-h2 { font-size: 2.1em; }
-h3 { font-size: 1.9em; }
-h4 { font-size: 1.7em; }
-h5 { font-size: 1.4em; }
+h1 { font-size: 2.3em; margin-bottom: 10px; }
+h2 { font-size: 2em; }
+h3 { font-size: 1.8em; }
+h4 { font-size: 1.6em; }
+h5 { font-size: 1.3em; }
 h6 { font-size: 1em; }
 
 /* Subtitle and title */
