@@ -131,7 +131,7 @@ h6 { font-size: 1em; }
 
 .subtitle {
 	font-family: Helvetica Neue, sans-serif;
-	letter-spacing: 1px;
+	letter-spacing: -0.13em;
 	text-transform: uppercase; 
 	font-weight: 100;
 }
