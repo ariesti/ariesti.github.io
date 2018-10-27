@@ -2,9 +2,9 @@
 Finger Tip-Top Screen Stylesheet
 
 version: 1.0
-date: 
+date: I don't have a date for this!
 author: Lovelli Fuad
-email: 
+email: admin@fingertip.top
 website: www.fingertip.top
 version history: v.1.0
 */
@@ -130,7 +130,7 @@ h6 { font-size: 1em; }
 /* Subtitle and title */
 
 .subtitle {
-	font-family: Montserrat, sans-serif;
+	font-family: Helvetica Neue, sans-serif;
 	letter-spacing: 3px;
 	text-transform: uppercase; 
 	font-weight: 100;
