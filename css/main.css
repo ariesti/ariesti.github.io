@@ -147,7 +147,24 @@ header {
 	text-align: center;
 }
 
-/* Link and hover */
+/* Link and hover 
+ 
+ * Remove the gray background on active links in IE 10 */
+
+a {
+  background-color: transparent;
+}
+
+/*
+ * 1. Remove the bottom border in Chrome 57-
+ * 2. Add the correct text decoration in Chrome, Edge, IE, Opera, and Safari.
+ */
+
+abbr[title] {
+  border-bottom: none; /* 1 */
+  text-decoration: underline; /* 2 */
+  text-decoration: underline dotted; /* 2 */
+}
 
 a { text-decoration: none; color: #333; border-bottom: 3px solid #ff017e; }
 a:hover { color: #ff017e; }
