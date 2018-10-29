@@ -1,12 +1,7 @@
 ---
 layout: post
-title: "Markdown Reference"
+title: "Mathilda Repo, the Examiner, Launches Site"
 date: 2016-10-20
 ---
-
-**Emphasis**
-
-'*Emphasize* _emphasize_'                   *Emphasize*                   
-
 
 
