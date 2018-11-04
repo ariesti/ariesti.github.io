@@ -21,13 +21,14 @@ description: Towards digital humanities
 </div>
 <hr class="style-two">
 <div id="content">
-	<h1>Hi there, I'm Lovelli</h1>
-	<p class="subtitle">Let's build something <i>great</i> together!</p>
-	<p>I’m a Riau-born cultural creative who code.
-	I’m better known as Lovelli Fuad from <a href="https://theminimalweb.wordpress.com/portfolio/yellow/">Inti Binti</a>. 
-	Some of my favourite tools are post-its, pens, pencils, thick lined journals, iPads, desktops, and headphones. 
-	I like to have things in threes.
-	</p>
+<ul>
+{% for post in site.posts %}
+  <li>
+    <a href="{% post.permalink %}">{% post.title %}</a>
+    <p>{{ post.excerpt }}</p>
+  </li>
+{% endfor %}
+</ul>
 </div>	
 </div>
 													     
