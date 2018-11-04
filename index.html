@@ -21,14 +21,15 @@ description: Towards digital humanities
 </div>
 <hr class="style-two">
 <div id="content">
-<ul>
-{% for post in site.posts %}
-  <li>
-    <a href="{% post.permalink %}">{% post.title %}</a>
-    <p>{{ post.excerpt }}</p>
-  </li>
-{% endfor %}
-</ul>
+	<h1>Most Recent Stories</h1>
+	<ul>
+	{% for post in site.posts %}
+  	<li>
+    	<a href="{% post.permalink %}">{% post.title %}</a>
+    	<p>{{ post.excerpt }}</p>
+  	</li>
+	{% endfor %}
+	</ul>
 </div>	
 </div>
 													     
