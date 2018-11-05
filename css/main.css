@@ -184,12 +184,9 @@ a:hover { color: #ff017e; }
 /* Paragraphs */
 p { font-size: 1.2em; line-height: 1.4em; color: #333; }
 .ex1 { padding-top: 25px; }
+
 ol {
-    font-size: 1.2em;
-    line-height: 1.4em;
-    color: #333;
     display: block;
-    list-style-type: decimal;
     margin-top: 1em;
     margin-bottom: 1em;
     margin-left: 0;
