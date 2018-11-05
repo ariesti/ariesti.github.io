@@ -113,7 +113,7 @@ body {
 .content::after {
 	content: " ";
     	display: block;
-    	border-bottom: 1px solid #rrggbb;
+    	border-bottom: 1px solid #ff60ae;
 }
 #middle { padding-top: 30px; padding-bottom: 30px; background-color: #fff; }
 #wrapper { padding: 0 100px; background: #fff; }
