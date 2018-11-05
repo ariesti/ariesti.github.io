@@ -114,7 +114,7 @@ body {
 	padding-top: 100px; 
 	padding-bottom: 100px; 
 	background-color: #fff;
-	border-bottom: 1px solid #ffe0e0;
+	border-bottom: 1px solid #ff017e;
 }
 
 #middle { padding-top: 30px; padding-bottom: 30px; background-color: #fff; }
@@ -175,7 +175,7 @@ abbr[title] {
   text-decoration: underline dotted; /* 2 */
 }
 
-a { text-decoration: none; color: #333; border-bottom: 1px solid #ff017e; }
+a { text-decoration: none; color: #333; border-bottom: 2px solid #ff017e; }
 a:hover { color: #ff017e; }
 .pinklink:hover { color: #333; }	
 
