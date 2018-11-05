@@ -186,6 +186,7 @@ p { font-size: 1.2em; line-height: 1.4em; color: #333; }
 .ex1 { padding-top: 25px; }
 
 ol {
+    clear: both;
     font-size: 1.2em; 
     line-height: 1.4em; 
     color: #333;	
