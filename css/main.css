@@ -52,6 +52,7 @@ hr {
 	box-sizing: content-box; 
 	height: 0;
 	overflow: visible; /* 2 */
+	position: relative;
 }
 
 /* Add additional hr styles */
