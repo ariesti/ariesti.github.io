@@ -131,6 +131,8 @@ body {
 /* Handling the typography */
 h1, h2, h3, h4, h5, h6 { font-family: Montserrat, sans-serif; }
 .ex1 { padding-top: 25px; }
+.ex2 { padding-top: 10px; }
+
 h1 { font-size: 2.3em; margin-bottom: 10px; }
 h2 { font-size: 2em; }
 h3 { font-size: 1.8em; }
@@ -184,7 +186,7 @@ a:hover { color: #ff017e; }
 /* Paragraphs */
 p { font-size: 1.2em; line-height: 1.4em; color: #333; }
 .ex1 { padding-top: 25px; }
-.ex2 { padding-top: 10px; }
+
 
 ol {
     font-size: 1em; 
