@@ -192,6 +192,8 @@ ol {
     color: #333;	
     display: block;
     padding-left: 40px;
+    margin: 0;
+    border: 0;
 }
 
 ol.a { list-style-type: lower-roman; }
