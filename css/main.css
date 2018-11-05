@@ -115,6 +115,7 @@ body {
 	padding-top: 100px; 
 	padding-bottom: 100px; 
 	background-color: #fff;
+	border-bottom: 1px solid #ff017e;
 }
 
 #middle { padding-top: 30px; padding-bottom: 30px; background-color: #fff; }
