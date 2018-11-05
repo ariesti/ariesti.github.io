@@ -184,11 +184,11 @@ a:hover { color: #ff017e; }
 /* Paragraphs */
 p { font-size: 1.2em; line-height: 1.4em; color: #333; }
 .ex1 { padding-top: 25px; }
+.ex2 { padding-top: 10px; }
 
 ol {
-    clear: both;
-    font-size: 1.2em; 
-    line-height: 1.4em; 
+    font-size: 1em; 
+    line-height: 1.2em; 
     color: #333;	
     display: block;
     padding-left: 40px;
