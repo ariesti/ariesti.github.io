@@ -112,9 +112,10 @@ body {
 .content { 
 	padding-top: 100px; 
 	padding-bottom: 100px; 
-	background-color: #fff; 
+	background-color: #fff;
+	border-width: 1px;
 	border-bottom-style: solid;
-    	border-bottom-color: coral;
+    	border-bottom-color: #ff017e;
 }
 #middle { padding-top: 30px; padding-bottom: 30px; background-color: #fff; }
 #wrapper { padding: 0 100px; background: #fff; }
