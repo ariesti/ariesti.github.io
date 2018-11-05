@@ -4,6 +4,8 @@ title: Lovelli Fuad's Blog
 tagline: What can be learned?
 description: Important things I have noted
 ---
+<div class="page">
+	
 	<h1>{{ page.title }}</h1>
 	<ul class="posts">
 
@@ -11,3 +13,5 @@ description: Important things I have noted
 	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  {% endfor %}
 	</ul>
+	
+</div>
