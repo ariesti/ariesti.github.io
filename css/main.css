@@ -185,6 +185,18 @@ a:hover { color: #ff017e; }
 p { font-size: 1.2em; line-height: 1.4em; color: #333; }
 .ex1 { padding-top: 25px; }
 
+ol {	
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 40px;
+}
+
+ol.a { list-style-type: lower-roman; }
+ol.b { list-style-type: lower-alpha; }
+
 ul { font-size: 1.2em; line-height: 1.4em; color: #333; }
 header ul { text-decoration: none; font-size: 1.25em; padding: 0px; list-style-type: none; font-weight: bold; } 
 header ul li { display: inline; margin-right: 20px; } 
