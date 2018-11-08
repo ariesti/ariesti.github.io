@@ -77,10 +77,15 @@ pre {
 /* Set the document up */
 
 body { 
-	font-size: 1.2em; 
+	font-size: 75%; 
 	font-family: Helvetica Neue, sans-serif;
     	color: #333;
 } 
+
+html>body {
+	font-size: 12px;
+}
+	
 
 #wrapperr {
 	display: block
@@ -184,10 +189,19 @@ a:hover { color: #ff017e; }
 .pinklink:hover { color: #333; }	
 
 /* Paragraphs */
-p { font-size: 1.2em; line-height: 1.4em; color: #333; }
+p { 
+	font-size: 1.2em; 
+	line-height: 1.4em; 
+	color: #333;
+	margin-top: 1.5em;
+	margin-bottom: 1.5em
+}
+
 .ex1 { padding-top: 25px; }
 
-
+font-size:1em;
+	margin-top: 1.5em;
+	margin-bottom: 1.5em; 
 ol {
     font-size: 1em; 
     line-height: 1.2em; 
