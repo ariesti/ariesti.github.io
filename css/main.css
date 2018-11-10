@@ -70,7 +70,7 @@ hr.style-two {
 2. Correct the odd `em` font sizing in all browsers. */
 
 pre {
-  font-family: Helvetica Neue, sans-serif; 
+  font-family: Consolas, monaco, monospace; 
   font-size: 1.2em; 
 }
 
@@ -78,7 +78,7 @@ pre {
 
 body { 
 	font-size: 1.2em; 
-	font-family: Helvetica Neue, sans-serif;
+	font-family: Open Sans, sans-serif;
     	color: #333;
 } 
 
@@ -256,7 +256,7 @@ ul.posts li { list-style: none; }
 .cv { margin: 0px 0px 60px; }
 .cv h1 { font-size: 3em; }
 .cv h2 { font-size: 2em; }
-.cv address, .cv .download { font-family: Helvetica Neue, sans-serif; }
+.cv address, .cv .download { font-family: Open Sans, sans-serif; }
 .cv address, .cv p { font-size: 1.2em; }
 .cv .download { float: right; font-size: .8em; text-transform: uppercase; }
 
