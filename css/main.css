@@ -97,13 +97,13 @@ body {
 .container > hr.footer { clear: both; margin-bottom: 15px; }
 
 /* More container styles */
-.main-container { max-width: 900px; margin: 0 auto; padding: 50px 0; }
+.main-container { max-width: 980px; margin: 0 auto; padding: 50px 0; }
 .about { width: 85%; margin: 0 auto; }
 
 /* Divs */
 .page { 
 	clear: both;
-	max-width: 900px; 
+	max-width: 980px; 
 	margin: 0 auto;
 	padding-top: 0;
 	padding-bottom: 0;
