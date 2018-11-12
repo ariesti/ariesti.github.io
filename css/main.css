@@ -71,7 +71,7 @@ hr.style-two {
 
 pre {
   font-family: Consolas, monaco, monospace; 
-  font-size: 1.2em; 
+  font-size: 1em; 
 }
 
 /* Set the document up */
@@ -192,8 +192,8 @@ a:hover { color: #ff017e; }
 
 /* Paragraphs */
 p { 
-	font-size: 1.2em; 
-	line-height: 1.4em; 
+	font-size: 1em; 
+	line-height: 1.2em; 
 	color: #333;
 	margin-top: 1.5em;
 	margin-bottom: 1.5em
@@ -215,8 +215,8 @@ ol {
 ol.a { list-style-type: lower-roman; }
 ol.b { list-style-type: lower-alpha; }
 
-ul { font-size: 1.2em; line-height: 1.4em; color: #333; }
-header ul { text-decoration: none; font-size: 1.25em; padding: 0px; list-style-type: none; font-weight: bold; } 
+ul { font-size: 1em; line-height: 1.2em; color: #333; }
+header ul { text-decoration: none; font-size: 1.1em; padding: 0px; list-style-type: none; font-weight: bold; } 
 header ul li { display: inline; margin-right: 20px; } 
 
         
