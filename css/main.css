@@ -122,6 +122,12 @@ body {
 #middle { padding-top: 30px; padding-bottom: 30px; background-color: #fff; }
 #wrapper { padding: 0 100px; background: #fff; }
 
+/* Half the page */
+
+.half {width: 47%; display: inline-block; vertical-align: top;}
+.whole {border-top: 1px solid #ECECEC; padding-bottom: 30px; overflow: auto;}
+.center {text-align: center;}
+
 /* Text level semantics */
 
 /* Sections */
