@@ -193,7 +193,7 @@ a:hover { color: #ff017e; }
 /* Paragraphs */
 p { 
 	font-size: 1.1em; 
-	line-height: 1.4em; 
+	line-height: 1.6em; 
 	color: #333;
 	margin-top: 1.5em;
 	margin-bottom: 1.5em
@@ -205,7 +205,7 @@ font-size:1.1em;
 
 ol {
     font-size: 1.1em; 
-    line-height: 1.3em; 
+    line-height: 1.4em; 
     color: #333;	
     display: block;
     padding-left: 40px;
@@ -216,7 +216,7 @@ ol {
 ol.a { list-style-type: lower-roman; }
 ol.b { list-style-type: lower-alpha; }
 
-ul { font-size: 1.1em; line-height: 1.3em; color: #333; }
+ul { font-size: 1.1em; line-height: 1.4em; color: #333; }
 header ul { text-decoration: none; font-size: 1.1em; padding: 0px; list-style-type: none; font-weight: bold; } 
 header ul li { display: inline; margin-right: 20px; } 
 
