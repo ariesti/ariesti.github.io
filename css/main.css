@@ -267,7 +267,12 @@ ul.posts li { list-style: none; }
 .cv .download { float: right; font-size: .8em; text-transform: uppercase; }
 
 /* Image */
-img { vertical-align: middle; }
+img { 
+	vertical-align: middle;
+	width: auto ;
+  	max-width: 100% ;
+  	height: auto ;
+}
 
 img:hover {
     /* Start the shake animation and make the animation last for 0.5 seconds */
