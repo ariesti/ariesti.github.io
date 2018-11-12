@@ -268,9 +268,10 @@ ul.posts li { list-style: none; }
 
 /* Media */
 
-@media (max-width: 550px) {
-  .half {width: 100%}
-}
+@media screen and (max-width: 600px) {
+    .half {
+        width: 100%;
+    }
 
 /* Image */
 img { 
