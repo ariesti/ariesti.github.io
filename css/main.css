@@ -242,6 +242,12 @@ blockquote p {
   display: inline;
 }
 
+blockquote cite {
+color: #999999;
+font-size: 0.8em;
+display: block;
+margin-top: 10px;
+}
 
 /* Footer */
 #footer { 
