@@ -125,7 +125,12 @@ body {
 /* Half the page */
 
 .half {width: 47%; display: inline-block; vertical-align: top;}
-.whole {border-top: 1px solid #ECECEC; padding-bottom: 30px; overflow: auto;}
+.whole {
+	border-top: 1px solid #ECECEC; 
+	padding-bottom: 30px;
+	padding-top: 20px;
+	overflow: auto;
+	}
 .center {text-align: center;}
 
 /* Text level semantics */
