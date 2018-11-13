@@ -133,7 +133,7 @@ body {
 	}
 .whole-topless {
 	padding-bottom: 30px;
-	padding-top: 20px;
+	padding-top: 0;
 	overflow: auto;
 }
 .center {text-align: center;}
