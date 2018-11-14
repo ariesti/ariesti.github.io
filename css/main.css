@@ -298,7 +298,10 @@ ul.posts li { list-style: none; }
     .half {
         width: 100%;
     }
-
+    .half-one {
+	width: 100%;
+	}
+}
 /* Image */
 img { 
 	vertical-align: middle;
