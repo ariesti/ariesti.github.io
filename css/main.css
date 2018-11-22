@@ -212,7 +212,7 @@ abbr[title] {
   text-decoration: underline dotted; /* 2 */
 }
 
-a { text-decoration: none; color: #333; border-bottom: 3px solid #ff017e; }
+a { text-decoration: none; color: #ff017e; border-bottom: 1px solid #ececec; }
 a:hover { color: #ff017e; }
 .pinklink:hover { color: #333; }	
 
