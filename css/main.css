@@ -247,8 +247,8 @@ abbr[title] {
 a { text-decoration: none; color: #ff017e; border-bottom: 1px solid #ececec; }
 a:hover { color: #ff017e; }
 
-a.pinklink { text-decoration: none; color: #333; border-bottom: 1px solid #ececec; }
-a.pinklink:hover { color: #333; }	
+a.pinklink { text-decoration: none; color: #333; border-bottom: 1px solid #ff017e; }
+a.pinklink:hover { color: #ff017e; }	
 
 /* Paragraphs */
 p { 
