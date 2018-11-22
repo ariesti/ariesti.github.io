@@ -51,7 +51,7 @@ body {
 hr {
 	box-sizing: content-box; 
 	height: 0;
-	border-top: 1px solid #ff017e;
+	border-top: 1px solid #F05A8B; /* Colorful #1 */
 	overflow: visible; /* 2 */
 	position: relative;
 }
@@ -62,6 +62,38 @@ hr.style-two {
    	border: 0;
     	height: 1px;
     	background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+	position: relative;	
+}
+
+hr.color-two {
+	box-sizing: content-box; 
+	height: 0;
+	border-top: 1px solid #B3C08F; /* Colorful #2 */
+	overflow: visible; /* 2 */
+	position: relative;	
+}
+
+hr.color-three {
+	box-sizing: content-box; 
+	height: 0;
+	border-top: 1px solid #F2EE97; /* Colorful #3 */
+	overflow: visible; /* 2 */
+	position: relative;	
+}
+
+hr.color-four {
+	box-sizing: content-box; 
+	height: 0;
+	border-top: 1px solid #735B45; /* Colorful #4 */
+	overflow: visible; /* 2 */
+	position: relative;	
+}
+
+hr.color-five {
+	box-sizing: content-box; 
+	height: 0;
+	border-top: 1px solid #F58063; /* Colorful #5 */
+	overflow: visible; /* 2 */
 	position: relative;	
 }
 
