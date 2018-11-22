@@ -186,6 +186,11 @@ body {
 
 .center {text-align: center;}
 
+.footer {
+	bottom: 0;
+	position-fixed;
+}
+
 /* Text level semantics */
 
 /* Sections */
