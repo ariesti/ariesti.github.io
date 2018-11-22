@@ -22,7 +22,7 @@ description: Towards digital humanities
 
 	  {% for post in site.posts %}
 	    <li>
-		<span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+		<a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <span class="me>{{ post.date | date_to_string }}</span>
 		<p><small>{{ post.excerpt }}</small></p>
 	    </li>
 	  {% endfor %}
