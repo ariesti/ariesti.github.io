@@ -31,4 +31,4 @@ The getting started with GitHub Pages and Jekyll is a personal project of mine. 
 * Get Started With GitHub Pages (Plus Bonus Jekyll), Anna Debenham
 * Google Analytics for Jekyll, Desired Persona
 * A Guide to Using GitHub Pages, Thinkful
-* GitHub Pages itself
+* [GitHub Pages](https://pages.github.com/) 
