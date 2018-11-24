@@ -12,7 +12,7 @@ css, html, javascript, processing, markdown
 ### Skills:
 html/css, web design, web development, websites, blogging, content strategy, social media marketing
 
-## To-do checklist:
+## To-do list:
 - [ ] Create a style sheet
 - [ ] Create at least one project to link
 - [ ] Fix the Stuff section
