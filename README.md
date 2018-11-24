@@ -4,9 +4,9 @@ The getting started with GitHub Pages and Jekyll is a personal project of mine. 
 
 ## Folder and File Structure
 
-* README.md: Where to find the full information about the project and instructions. 
+* **README.md:** Where to find the full information about the project and instructions. 
 
-Resources:
+## Resources:
 
 * Developing Data Products, Lecture 26 - Very quick introduction to gh-pages, Coursera 
 * Create a Website: Create a Static Website Using Jekyll, Codecademy
