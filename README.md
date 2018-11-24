@@ -21,7 +21,7 @@ The getting started with GitHub Pages and Jekyll is a personal project of mine. 
 - [ ] Divide content into folders: About, Words, Stuff, Guides, Resources
 - [x] Add dates to articles
 - [ ] Create article directory
-- [ ] Feed :cat:
+- [ ] Feed :octocat:
 
 ## Resources:
 
