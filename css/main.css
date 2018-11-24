@@ -298,7 +298,7 @@ header ul li { display: inline; margin-right: 20px; }
 .unstyled {
 	clear: both;
 	list-style-type: none;
-	margin: 0;
+	margin-left: 0;
 }
         
 /* Blockquote */
