@@ -13,14 +13,14 @@ css, html, javascript, processing, markdown
 html/css, web design, web development, websites, blogging, content strategy, social media marketing
 
 ## To-do checklist:
-[ ] Create a style sheet
-[ ] Create at least one project to link
-[ ] Fix the Stuff section
-[ ] Add social media buttons at the bottom of the page and the About section
-[ ] Finish up materials for the homepage
-[ ] Divide content into folders: About, Words, Stuff, Guides, Resources
-[x] Add dates to articles
-[ ] Create article directory 
+- [ ] Create a style sheet
+- [ ] Create at least one project to link
+- [ ] Fix the Stuff section
+- [ ] Add social media buttons at the bottom of the page and the About section
+- [ ] Finish up materials for the homepage
+- [ ] Divide content into folders: About, Words, Stuff, Guides, Resources
+- [x] Add dates to articles
+- [ ] Create article directory 
 
 ## Resources:
 
