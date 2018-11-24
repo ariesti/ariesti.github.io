@@ -175,7 +175,11 @@ body {
 	overflow: auto;
 }
 
-.center {text-align: center;}
+.center { text-align: center; }
+
+.nav-text {
+	vertical align: middle;
+}
 
 .footer {
 	bottom: 0;
