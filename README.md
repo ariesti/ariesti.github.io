@@ -7,7 +7,7 @@ The getting started with GitHub Pages and Jekyll is a personal project of mine. 
 * **README.md:** Where to find the full information about the project and instructions. 
 
 ### Languages:
-css, html, javascript, processing, markdown
+```css```, html, javascript, processing, markdown
 
 ### Skills:
 html/css, web design, web development, websites, blogging, content strategy, social media marketing
