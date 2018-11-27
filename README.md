@@ -19,6 +19,7 @@ The getting started with GitHub Pages and Jekyll is a personal project of mine. 
 - [ ] Add social media buttons at the bottom of the page and the About section
 - [ ] Finish up materials for the homepage
 - [ ] Divide content into folders: About, Words, Stuff, Guides, Resources
+- [ ] Remove idle folders
 - [x] Add dates to articles
 - [ ] Create article directory
 - [ ] Feed :octocat:
