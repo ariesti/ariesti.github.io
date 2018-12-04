@@ -382,15 +382,25 @@ li.posts {list-style: none;}
 	}
 }
 /* Image */
-img { 
+img {
 	vertical-align: middle;
 	width: auto ;
   	max-width: 100% ;
   	height: auto ;
 }
 
-img:hover {
+img.banner { 
+	vertical-align: middle;
+	width: auto ;
+  	max-width: 100% ;
+  	height: auto ;
+}
+
+img.banner:hover {
     -webkit-transform: scaleX(-1);
     transform: scaleX(-1);
 }
 
+img.banner {
+	padding: 5px;
+}
