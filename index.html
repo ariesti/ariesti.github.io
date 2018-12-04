@@ -47,5 +47,17 @@ description: Towards digital humanities
 			</div>
 		</div>
 		
+		<div class="whole">
+		<h1>Words</h1>
+		<ul class="posts">
+
+	  	{% for post in site.posts %}
+	   	<li>
+		<a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <span class="alpha">{{ post.date | date_to_string }}</span>
+		<small>{{ post.excerpt }}</small>
+	    	</li>
+	 	 {% endfor %}
+		</ul>
+		</div>
 	</div>
 </div>
