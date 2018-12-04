@@ -193,7 +193,7 @@ body {
 /* Correct the font size and margin on 'h1' elemet within 'section' and 'article' contexts in Chrome, Firefox, and Safari. */
 
 /* Handling the typography */
-h1, h2, h3, h4, h5, h6 { font-family: Montserrat, sans-serif; color: #666}
+h1, h2, h3, h4, h5, h6 { font-family: Montserrat, sans-serif; color: #333}
 .ex0 { padding-top: 5px; }
 .ex1 { padding-top: 25px; }
 .ex2 { padding-top: 10px; }
