@@ -260,8 +260,8 @@ a:hover { color: #ff017e; }
 a.pinklink { text-decoration: none; color: #333; border-bottom: 2px solid #ff017e; }
 a.pinklink:hover { color: #ff017e; }
 
-a.neutral { text-decoration: none; border-bottom: none; }
-a.neutral: hover { color: inherit; }
+a.neutral { text-decoration: none; border-bottom: none; color: #ffffff}
+a.neutral:hover { color: #ffffff; }
 
 /* Paragraphs */
 p { 
