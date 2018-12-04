@@ -264,7 +264,7 @@ a.neutral { text-decoration: none; border-bottom: none; color: #ffffff}
 a.neutral:hover { color: #ffffff; }
 
 a.call-to-action { text-decoration: underline; border-bottom: 1px solid #ececec;}
-a: hover { color: #ececec; }
+a.call-to-action:hover { color: #ececec; }
 
 /* Paragraphs */
 p { 
