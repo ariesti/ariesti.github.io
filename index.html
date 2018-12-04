@@ -52,7 +52,7 @@ description: Towards digital humanities
 		<ul>
 
 	  	{% for post in site.posts %}
-	   	<li>
+	   	<li class="posts">
 		<a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <span class="alpha">{{ post.date | date_to_string }}</span>
 		<small>{{ post.excerpt }}</small>
 	    	</li>
