@@ -215,6 +215,13 @@ h6 { font-size: 1em; }
 	text-transform: uppercase;
 }
 
+.beta {
+	margin: 0 auto;
+	color: #666;
+	letter-spacing: .1em;
+	text-transform: uppercase;
+}
+
 /* Subtitle and title */
 
 .subtitle {
