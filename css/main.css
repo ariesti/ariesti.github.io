@@ -240,7 +240,7 @@ header {
  * Remove the gray background on active links in IE 10 */
 
 a {
-  background-color: transparent;
+  background-color: transparent; !important;
 }
 
 /*
