@@ -176,9 +176,9 @@ body {
 }
 
 .whole-banner {
+	display: block;
 	padding-top: 10px;
 	padding-bottom: 10px:
-	overflow: auto;
 }
 .center { text-align: center; }
 
