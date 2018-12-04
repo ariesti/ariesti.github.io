@@ -353,7 +353,10 @@ ul.posts {
 	font-size: 1.2em; 
 	color: #ff017e; 
 }
+
 ul.posts li { list-style: none; }
+
+li.posts {list-style: none;}
 
 /* CV */
 .cv { margin: 0px 0px 60px; }
