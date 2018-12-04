@@ -13,6 +13,7 @@ The getting started with GitHub Pages and Jekyll is a personal project of mine. 
 ```html/css```, ```web design```, ```web development```, ```websites```, ```blogging```, ```content strategy```, ```social media marketing```
 
 ## To-do list:
+- [ ] Add social media icons to Home + one panic button
 - [ ] Create a style sheet
 - [ ] Create at least one project to link
 - [ ] Fix the Stuff section
