@@ -273,6 +273,7 @@ a.neutral:hover { color: #ffffff; }
 
 a.call-to-action { text-decoration: none; color: #666; border-bottom: 1px solid #ececec;}
 a.call-to-action:hover { color: #666; }
+a.call-to-action:visited { color: #333; }
 
 /* Paragraphs */
 p { 
