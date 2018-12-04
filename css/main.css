@@ -391,9 +391,10 @@ img {
 
 img.banner { 
 	vertical-align: middle;
-	width: auto ;
-  	max-width: 100% ;
-  	height: auto ;
+	width: auto;
+  	max-width: 100%;
+  	height: auto;
+	padding: 5px;
 }
 
 img.banner:hover {
@@ -401,6 +402,3 @@ img.banner:hover {
     transform: scaleX(-1);
 }
 
-img.banner {
-	padding: 5px;
-}
