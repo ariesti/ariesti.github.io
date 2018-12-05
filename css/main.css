@@ -380,6 +380,9 @@ li.posts {list-style: none;}
     .half-one {
 	width: 100%;
 	}
+    div.whole-banner {
+	display:none
+	}
 }
 /* Image */
 img {
