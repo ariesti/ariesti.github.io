@@ -30,7 +30,7 @@ They are not a one-way street. They evolve and grow over time. Genuine interacti
 
 ## Online vs. offline relationship
 
-Online and offline friendships to me don't differ that much:
+Online and offline friendships don't differ that much to me:
 
 **Spending time together.** This does not happen often with my offline friends. This also does not happen often with Facebook or Twitter friends. Seriously, nobody I know uses the “watch videos together” feature on Facebook. Most of my offline friendship initiated because we were spending some time together offline (at school or social clubs) or online (at an online forum or a freelance website). But after taking home the “friend” badge, e.g. invited on Facebook or mentioned on Twitter, usually nothing much gets shared but micro posts and/or app invites.  
 
