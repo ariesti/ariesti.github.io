@@ -24,7 +24,7 @@ All friendships are important, ask any mum. But online friendship is a special k
 
 One of the mistakes many people make about online friendship is to make the premature assumption that online friendship is a means of developing a true offline friendship. This is so wrong in so many ways. One, it assumes that only offline friendships are real. And that, two, online friendships are probably fake.
 
-Nope. Both online and offline friendships have a relatively equal chance of being fake. I rarely vouch for anything (or anyone), but I can attest to this: friendships are dynamic.
+Nope. Both online and offline friendships have a relatively equal chance of being fake. I rarely vouch for anything (or anyone), but I can attest to this: _friendships are dynamic._
 
 They are not a one-way street. They evolve and grow over time. Genuine interactions can easily turn to fake, and then genuine again, and then less fake. Especially when what both friends have in common is a lack of interest in keeping the friendship alive. 
 
@@ -46,7 +46,7 @@ _Everybody talks._ But the way people talk to you when you’re out and about is
 
 There are some things you probably shouldn't do to a freelancer friend:
 
-#### **1. Poke fun at their freelance service.** 
+#### **1. Poke fun at their offerings.** 
 Yes, friends do silly things and make fun of each other. But they do this together! Making fun of your freelancer friend’s online offering will not turn you into their BFF. In fact, if you, for example, order a service from your friend and then bail out, and turn a perfectly reasonable offer into a non-paying gig, your chances of remaining friends will decrease dramatically. Poking fun at someone’s way of making a living is not the best way to make friends, both online or offline.
 
 #### **2. Ask for a 'friend discount' only to never be heard from again.** 
