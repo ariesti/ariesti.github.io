@@ -32,11 +32,11 @@ They are not a one-way street. They evolve and grow over time. Genuine interacti
 
 Online and offline friendships to me don't differ that much:
 
-* **Spending time together.** This does not happen often with my offline friends. This also does not happen often with Facebook or Twitter friends. Seriously, nobody I know uses the “watch videos together” feature on Facebook. Most of my offline friendship initiated because we were spending some time together offline (at school or social clubs) or online (at an online forum or a freelance website). But after taking home the “friend” badge, e.g. invited on Facebook or mentioned on Twitter, usually nothing much gets shared but micro posts and/or app invites.  
+**Spending time together.** This does not happen often with my offline friends. This also does not happen often with Facebook or Twitter friends. Seriously, nobody I know uses the “watch videos together” feature on Facebook. Most of my offline friendship initiated because we were spending some time together offline (at school or social clubs) or online (at an online forum or a freelance website). But after taking home the “friend” badge, e.g. invited on Facebook or mentioned on Twitter, usually nothing much gets shared but micro posts and/or app invites.  
 
-* **Compliments.** I usually wouldn’t know when someone is complimenting me behind my back. I don’t think there is an app for that yet. I’m not a fan of talking about others, but isn’t that what we do all the time? Nobody waits for the other person’s approval before saying that she or he has a friend that is “a great cook” or “a great wingman.”  
+**Compliments.** I usually wouldn’t know when someone is complimenting me behind my back. I don’t think there is an app for that yet. I’m not a fan of talking about others, but isn’t that what we do all the time? Nobody waits for the other person’s approval before saying that she or he has a friend that is “a great cook” or “a great wingman.”  
 
-* **Supporting each other.** I don’t go to a friend’s music concert to provide moral support. I go to a concert to watch a musical performance. Friends can only give moral support if they care about something; it’s perfectly okay not to care openly about something. There’s always that “deep down inside” thing you have within you. 
+**Supporting each other.** I don’t go to a friend’s music concert to provide moral support. I go to a concert to watch a musical performance. Friends can only give moral support if they care about something; it’s perfectly okay not to care openly about something. There’s always that “deep down inside” thing you have within you. 
 
 However similar, online and offline friendships are essentially two different things. They are not one and the same. Here's an illustration. 
 
@@ -46,5 +46,7 @@ _Everybody talks._ But the way people talk to you when you’re out and about is
 
 There are some things you probably shouldn't do to a freelancer friend:
 
-**1. Poke fun at their freelance service.** Yes, friends do silly things and make fun of each other. But they do this together! Making fun of your freelancer friend’s online offering will not turn you into their BFF. In fact, if you, for example, order a service from your friend and then bail out, and turn a perfectly reasonable offer into a non-paying gig, your chances of remaining friends will decrease dramatically. Poking fun at someone’s way of making a living is not the best way to make friends, both online or offline.
+**1. Poke fun at their freelance service.** 
+
+Yes, friends do silly things and make fun of each other. But they do this together! Making fun of your freelancer friend’s online offering will not turn you into their BFF. In fact, if you, for example, order a service from your friend and then bail out, and turn a perfectly reasonable offer into a non-paying gig, your chances of remaining friends will decrease dramatically. Poking fun at someone’s way of making a living is not the best way to make friends, both online or offline.
 
