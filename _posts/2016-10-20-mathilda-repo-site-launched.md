@@ -40,7 +40,7 @@ Online and offline friendships don't differ that much to me:
 
 However similar, online and offline friendships are essentially two different things. They are not one and the same. Here's an illustration. 
 
-_Everybody talks._ But the way people talk to you when you’re out and about is different from the way you talk to someone you just met online. Due to the nature of their work, freelancers who work online might prefer one method of communication than another, e.g. email over phone. 
+_Everybody talks._ But the way people talk to you when you’re out and about is different from the way you talk to someone you just met online. Due to the nature of their work, freelancers who work online might prefer one method of communication to another, e.g. email over phone. 
 
 ## Don't do these to your freelancer friends
 
