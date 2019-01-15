@@ -76,6 +76,6 @@ The “don’t be a stranger” rule is common online agreement. But what we’r
 
 ## Friendship has tiers and levels
 
-Just because someone you used to know is now a freelancer that does not make her “your ex-friend”. It does not imply that if you would like to chat with her you would need to pay for her time. It also does not mean that she is using the term “freelancer” to stop the friendship from growing. 
+Just because someone you used to know is now a freelancer that does not make her “your ex-friend.” It does not imply that if you would like to chat with her you would need to pay for her time. It also does not mean that she is using the term “freelancer” to stop the friendship from growing. 
 
 Along the lines of relationships we have, friendship comes last. There’s family, sisters, brothers, parents, cousins, children, in-laws, pets, extended families, family friends. Married couples are usually very quick in cutting off ties with their single friends, and single people are not going to waste their time with couples they don’t like. 
