@@ -12,7 +12,7 @@ I don't have that many friends, which makes me the perfect person to write about
 
 **If there’s not at least one freelancer friend in your life, chances are you are it.** 
 
-Just kidding. You could also be a ghosted friend.
+Just kidding. (You could also be a [ghosted](https://01.media/11-weird-and-wonderful-new-merriam-webster-entries-from-tech) friend.)
 
 Can’t seem to find a freelancer friend? Try going to that cozy coffee shop around the corner and see if anybody there is sitting alone facing a laptop, while also taking pictures of the food. Try the cafes in the malls, the co-working spaces, the park benches… the beaches?! 
 
@@ -44,4 +44,7 @@ _Everybody talks._ But the way people talk to you when you’re out and about is
 
 ## Don't do these to your freelancer friends
 
+There are some things you probably shouldn't do to a freelancer friend:
+
+**1. Poke fun at their freelance service.** Yes, friends do silly things and make fun of each other. But they do this together! Making fun of your freelancer friend’s online offering will not turn you into their BFF. In fact, if you, for example, order a service from your friend and then bail out, and turn a perfectly reasonable offer into a non-paying gig, your chances of remaining friends will decrease dramatically. Poking fun at someone’s way of making a living is not the best way to make friends, both online or offline.
 
