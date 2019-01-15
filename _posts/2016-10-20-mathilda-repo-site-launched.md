@@ -2,7 +2,7 @@
 layout: post
 title: "A Friendly Guide to Being Good Friends with a Freelancer, Even If You’re Not One"
 description: How to interact with friends who freelance
-permalink: good-freelancer-friends-guide
+permalink: /words/good-freelancer-friends-guide
 date: 2016-10-20
 category: guide
 tags: [mentoring, hack, do]
