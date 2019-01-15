@@ -59,7 +59,7 @@ Sometimes when you’re having an emergency, friends and family can be a source 
 Making the life-changing decision of coming forward as a freelancer, where you are your own **boss**, is not easy. They could easily have used an alias and lead a double life. But the fact that they use the term “freelancer” to describe themselves is their decision not yours. You should not “punish” them for not being more like you. 
 
 #### **5. Assume the 'client from hell' persona.** 
-Don’t turn into an annoying client when you’re alone with your freelancer friend just because she is a freelancer. 
+Don’t turn into an annoying client when you’re alone with your freelancer friend just because she is a freelancer. I know this sounds cliche, but.. just be yourself.
 
 #### **6. Turn every chance into a job interview.** 
 Just because a friend is working remotely from home, does not mean that she wants a job interview practice session with you. You don’t have to ask her about her finances, her product offerings, or her services. You also don’t have to give her unsolicited career advice just because. A piece of unsolicited advice may cause stress and people easily take them as criticism instead of support. 
