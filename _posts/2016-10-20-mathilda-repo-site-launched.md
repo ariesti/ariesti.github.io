@@ -46,22 +46,22 @@ _Everybody talks._ But the way people talk to you when you’re out and about is
 
 There are some things you probably shouldn't do to a freelancer friend:
 
-### **1. Poke fun at their freelance service.** 
+#### **1. Poke fun at their freelance service.** 
 Yes, friends do silly things and make fun of each other. But they do this together! Making fun of your freelancer friend’s online offering will not turn you into their BFF. In fact, if you, for example, order a service from your friend and then bail out, and turn a perfectly reasonable offer into a non-paying gig, your chances of remaining friends will decrease dramatically. Poking fun at someone’s way of making a living is not the best way to make friends, both online or offline.
 
-### **2. Ask for a “friend discount” only to never be heard from again.** 
+#### **2. Ask for a 'friend discount' only to never be heard from again.** 
 This is what people do to people who are not really their friends. Asking for a different standard of pricing, usually a lower than average one, for a service your freelancer friend offers. Or even a free service… This goes against the rule of reciprocity, which is what many friendships are based on.  
 
-### **3. Treat them as your personal bank.** 
+#### **3. Treat them as your personal bank.** 
 Sometimes when you’re having an emergency, friends and family can be a source of financial help. But usually only very close friends. Your freelancer friend is not the bank of mom and dad. Don’t treat them as such, unless that is the type of freelance service they offer.  
 
-### **4. Act differently towards them.** 
+#### **4. Act differently towards them.** 
 Making the life-changing decision of coming forward as a freelancer, where you are your own **boss**, is not easy. They could easily have used an alias and lead a double life. But the fact that they use the term “freelancer” to describe themselves is their decision not yours. You should not “punish” them for not being more like you. 
 
-### **5. Assume the “client from hell” persona.** 
+#### **5. Assume the 'client from hell' persona.** 
 Don’t turn into an annoying client when you’re alone with your freelancer friend just because she is a freelancer. 
 
-### **6. Turn every chance into a job interview.** 
+#### **6. Turn every chance into a job interview.** 
 Just because a friend is working remotely from home, does not mean that she wants a job interview practice session with you. You don’t have to ask her about her finances, her product offerings, or her services. You also don’t have to give her unsolicited career advice just because. A piece of unsolicited advice may cause stress and people easily take them as criticism instead of support. 
 
 ## The ‘don’t be a stranger’ rule
