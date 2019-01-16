@@ -8,7 +8,9 @@ category: guide
 tags: [mentoring, hack, do]
 ---
 
-I don't have that many friends, which makes me the perfect person to write about friendship. In our lives, there are many types of friends. There’s the online friend, the offline friend, the Twitter friend, the Facebook friend, the blogging friend, the childhood friend, and nowadays, _the freelancer friend._ 
+_I don't have that many friends, which makes me the perfect person to write about friendship. So here goes._ 
+
+In our lives, there are many types of friends. There’s the online friend, the offline friend, the Twitter friend, the Facebook friend, the blogging friend, the childhood friend, and nowadays, _the freelancer friend._ 
 
 **If there’s not at least one freelancer friend in your life, chances are you are it.** 
 
@@ -40,7 +42,7 @@ Online and offline friendships don't differ that much to me:
 
 However similar, online and offline friendships are essentially two different things. They are not one and the same. Here's an illustration. 
 
-_Everybody talks._ But the way people talk to you when you’re out and about is different from the way you talk to someone you just met online. Due to the nature of their work, freelancers who work online might prefer one method of communication to another, e.g. email over phone. 
+_Everybody talks._ But the way people talk to you when you’re out and about is different from the way you talk to someone you just met online. Due to the nature of their work, freelancers who work online might prefer one method of communication to another, e.g. email over phone. The old fashioned offline friendship relies heavily on phone conversations, text messages, and face-to-face chats. Meanwhile, an online friendship can still flourish even if you never meet each other in real life. 
 
 ## Don't do these to your freelancer friends
 
@@ -72,7 +74,7 @@ Most waiters won’t be a jerk to you, because if they do, they risk losing thei
 
 Likewise, the friendliness of a waiter at some café does not warrant a friendship. Neither the waiter nor you owe each other anything more than the common hospitality standards. You can be a good customer and provide helpful feedback or a tip you deem appropriate, but both of you are practically strangers beyond this point. 
 
-The “don’t be a stranger” rule is common online agreement. But what we’re really saying is _don’t be a jerk_ to the strangers you meet. This rule goes beyond the realm of the internet. And when it comes to your freelancing friend, don’t become the stranger. 
+The “don’t be a stranger” rule is common online agreement. But what we’re really saying is _don’t be a jerk_ to the strangers you meet. This rule goes beyond the realm of the internet. And when it comes to your freelancing friend, don’t _become_ the stranger. 
 
 ## Friendship has tiers and levels
 
