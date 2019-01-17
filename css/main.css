@@ -280,6 +280,9 @@ a.call-to-action { text-decoration: none; color: #666; border-bottom: 1px solid 
 a.call-to-action:hover { color: #666; }
 a.call-to-action:visited { color: #333; }
 
+a.tag-1 { color: #B3C08F }
+a.tag-1:hover { color: #B3C08F }
+
 /* Paragraphs */
 p { 
 	font-size: 1.1em; 
