@@ -299,6 +299,11 @@ font-size:1.1em;
 	margin-top: 1.5em;
 	margin-bottom: 1.5em; 
 
+/*colors*/
+#colorful-2 {
+	color: #B3C08F;
+}
+
 ol {
     font-size: 1.1em; 
     line-height: 1.4em; 
