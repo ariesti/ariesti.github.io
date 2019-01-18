@@ -66,7 +66,7 @@ Just because a friend is working remotely from home, does not mean that she want
 
 ## The ‘don’t be a stranger’ rule
 
-Imagine visiting a small neighborhood café for the first time. Nobody there knows you and you don’t know anyone. In fact, you don’t even know what drink to order. When you approach the counter, you know for sure, and even expect, the waiter to greet you in such a manner that would not make you feel embarrassed or unwelcome. Most waiters would offer a warm smile and a bit of advice on what to order to help you make up your mind. They are friendly but they are not your friends. 
+Imagine visiting a small neighborhood café for the first time. Nobody there knows you and you don’t know anyone. In fact, you don’t even know what drink to order. When you approach the counter, you know for sure, and even expect, the waiter to greet you in such a manner that would not make you feel embarrassed or unwelcomed. Most waiters would offer a warm smile and a bit of advice on what to order to help you make up your mind. They are friendly but they are not your friends. 
 
 Most waiters won’t be a jerk to you, because if they do, they risk losing their job. You might not return to their coffee house. You might say something bad about their business online. You might sue them. 
 
