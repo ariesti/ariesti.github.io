@@ -11,7 +11,7 @@ description: Important things I have noted
 			<ul class="posts">
 
 	  		{% for post in site.posts %}
-	    			<li><span class="beta">{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}" class="call-to-action" id="font-5">{{ post.title }}</a></li>
+	    			<li><span class="beta">{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}" class="call-to-action">{{ post.title }}</a></li>
 	  		{% endfor %}
 			</ul>
 	</div>
