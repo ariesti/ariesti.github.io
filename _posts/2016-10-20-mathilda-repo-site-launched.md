@@ -1,5 +1,6 @@
 ---
 layout: post
+author: LF
 title: "A Friendly Guide to Being Good Friends with a Freelancer, Even If You’re Not One"
 tagline: I don't have that many friends, which makes me the perfect person to write about friendship.
 description: How to interact with friends who freelance
