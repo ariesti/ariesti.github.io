@@ -15,7 +15,7 @@ In our lives, there are many types of friends. There’s the online friend, the 
 
 {% include image.html image=page.image1 %}
 
-![Post banner](https://github.com/ariesti/ariesti.github.io/blob/master/assets/1-guide.png) 
+![Post banner](https://github.com/ariesti/ariesti.github.io/assets/1-guide.png) 
 *How to tell if you're the freelancer friend.*
 
 **If there’s not at least one freelancer friend in your life, chances are you are it.** 
