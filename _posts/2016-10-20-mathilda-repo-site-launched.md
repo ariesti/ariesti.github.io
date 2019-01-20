@@ -8,8 +8,6 @@ permalink: good-freelancer-friends-guide
 date: 2016-10-20
 category: guide
 tags: [mentoring, hack, do]
-featured-image: ./assets/1-guide.png
-featured-image-alt: images
 lang: en
 
 ---
