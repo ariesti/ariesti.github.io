@@ -391,7 +391,6 @@ li.posts {list-style: none;}
 	color:#ffffff;
 	padding:9px 19px;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #8c0046;
 }
 .myButton:hover {
 	background-color:#ff0180;
@@ -400,7 +399,6 @@ li.posts {list-style: none;}
 	position:relative;
 	top:1px;
 }
-
 
 /* Media */
 
