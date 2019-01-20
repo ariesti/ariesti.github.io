@@ -55,7 +55,7 @@ description: Towards digital humanities
 		<h1>Words</h1>
 		<ul>
 
-	  	{% for post in site.posts %}
+	  	{% for post in site.posts limit: 4 %}
 	   	<li class="posts">
 		<a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <span class="alpha">{{ post.date | date_to_string }}</span>
 		<small>{{ post.excerpt }}</small>
