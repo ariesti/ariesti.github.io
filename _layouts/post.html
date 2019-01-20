@@ -14,6 +14,8 @@ layout: default
 ]</span>
     <span class="alpha"><p class="date">{{ page.date | date_to_string }}</p></span>
 
+    {% include image.html image=page.image1 %}
+    
 <div class="post">
   {{ content }}
 </div>
