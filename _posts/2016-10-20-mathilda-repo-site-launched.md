@@ -10,7 +10,7 @@ tags: [mentoring, hack, do]
 ---
 In our lives, there are many types of friends. There’s the online friend, the offline friend, the Twitter friend, the Facebook friend, the blogging friend, the childhood friend, and nowadays, _the freelancer friend._ 
 
-![Post banner](https://github.com/ariesti/ariesti.github.io/blob/master/assets/Good%20freelancer%20friends.png) 
+![Post banner](https://github.com/ariesti/ariesti.github.io/blob/master/assets/1-guide.png) 
 *How to tell if you're the freelancer friend.*
 
 **If there’s not at least one freelancer friend in your life, chances are you are it.** 
