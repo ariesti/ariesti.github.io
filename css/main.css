@@ -379,6 +379,28 @@ li.posts {list-style: none;}
 .cv address, .cv p { font-size: 1.2em; }
 .cv .download { float: right; font-size: .8em; text-transform: uppercase; }
 
+/* Button */
+
+.myButton {
+	background-color:#ff0180;
+	-moz-border-radius:42px;
+	-webkit-border-radius:42px;
+	border-radius:42px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	padding:9px 19px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #8c0046;
+}
+.myButton:hover {
+	background-color:#f05a8c;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
 /* Media */
 
 @media screen and (max-width: 600px) {
