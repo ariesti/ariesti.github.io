@@ -14,9 +14,6 @@ lang: en
 ---
 In our lives, there are many types of friends. There’s the online friend, the offline friend, the Twitter friend, the Facebook friend, the blogging friend, the childhood friend, and nowadays, _the freelancer friend._ 
 
-![Post banner](./assets/1-guide.png) 
-*How to tell if you're the freelancer friend.*
-
 **If there’s not at least one freelancer friend in your life, chances are you are it.** 
 
 Just kidding. (You could also be a [ghosted](https://01.media/11-weird-and-wonderful-new-merriam-webster-entries-from-tech) friend.)
