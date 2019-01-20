@@ -7,8 +7,13 @@ permalink: good-freelancer-friends-guide
 date: 2016-10-20
 category: guide
 tags: [mentoring, hack, do]
+image1: assets/1-guide.png
+lang: en
+
 ---
 In our lives, there are many types of friends. There’s the online friend, the offline friend, the Twitter friend, the Facebook friend, the blogging friend, the childhood friend, and nowadays, _the freelancer friend._ 
+
+{% include image.html image=page.image1 %}
 
 ![Post banner](https://github.com/ariesti/ariesti.github.io/blob/master/assets/1-guide.png) 
 *How to tell if you're the freelancer friend.*
