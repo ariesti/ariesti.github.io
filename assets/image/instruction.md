@@ -15,8 +15,9 @@ We're going to try to follow the instructions as laid out by the author of this 
 
 4. Sample code
 
-```<!-- 1. Post File [2018-09-30-Sample-Post.md] -->
----
+In the Post File [2018-09-30-Sample-Post.md]
+
+```---
 layout: post
 title:  A Sample Post
 date:   2018-09-30
@@ -27,8 +28,9 @@ featured-image-alt: Mike the Blogger speaking at Times Square, New York City, Ne
 categories: Side Hustle
 ---```
 
-```<!-- 2. post.hml; located in the _layouts directory -->
-<!-- some page content -->
+In the post.hml; located in the _layouts directory
+
+``` <!-- some page content -->
 <header class="post-header">
    <h1 class="post-title">{{ page.title }}</h1>
    <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%b %-d, %Y" }}</time>
@@ -38,7 +40,8 @@ categories: Side Hustle
 </header>
 <!-- other page content -->```
 
-```<!-- 3. index.html, located in project's root directory -->
+In the index.html, located in project's root directory
+```
 <!-- some HTML content -->
 {% for post in site.posts limit:3 %}
     <div>
