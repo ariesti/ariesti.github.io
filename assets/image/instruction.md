@@ -17,7 +17,8 @@ We're going to try to follow the instructions as laid out by the author of this 
 
 In the Post File [2018-09-30-Sample-Post.md]
 
-```---
+```
+---
 layout: post
 title:  A Sample Post
 date:   2018-09-30
@@ -26,11 +27,13 @@ description: This is the one blog post to rule them all
 featured-image: my-awesome-photo.jpg
 featured-image-alt: Mike the Blogger speaking at Times Square, New York City, New York
 categories: Side Hustle
----```
+---
+```
 
-In the post.hml; located in the _layouts directory
+The post.html; located in the _layouts directory
 
-``` <!-- some page content -->
+```
+<!-- some page content -->
 <header class="post-header">
    <h1 class="post-title">{{ page.title }}</h1>
    <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%b %-d, %Y" }}</time>
@@ -38,9 +41,10 @@ In the post.hml; located in the _layouts directory
    <!-- call the featured-post-image.html template file -->
    {% if page.featured-image %}{% include post-featured-image.html image=page.featured-image alt=page.featured-image-alt %}{% endif %}
 </header>
-<!-- other page content -->```
+<!-- other page content -->
+```
 
-In the index.html, located in project's root directory
+The index.html, located in project's root directory
 ```
 <!-- some HTML content -->
 {% for post in site.posts limit:3 %}
@@ -54,4 +58,6 @@ In the index.html, located in project's root directory
         {% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}
     </div>   
 {% endfor %}
-<!-- some other HTML content -->```
+<!-- some other HTML content -->
+```
+
