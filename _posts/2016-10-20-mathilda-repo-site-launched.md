@@ -9,8 +9,8 @@ date: 2016-10-20
 categories: guide
 tags: [mentoring, hack, do]
 lang: en
-featured-image: 1-guide.png
-featured-image-alt: The freelance journey is some kind of wonderful
+featured-image: my-cinema-quote.png
+featured-image-alt: The freelancer friend is not your "ex-friend"
 ---
 
 In our lives, there are many types of friends. There’s the online friend, the offline friend, the Twitter friend, the Facebook friend, the blogging friend, the childhood friend, and nowadays, **the freelancer friend.**
