@@ -44,13 +44,13 @@ permalink: /categories/
     
     <h5 class="tag-head">{{ tag_name }}</h5>
     <a name="{{ tag_name | slugize }}"></a>
-<!--    {% for post in site.tags[tag_name] %}
+    {% for post in site.tags[tag_name]
     <article class="archive-item">
-      <p><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></p>
-    </article>
-    {% endfor %}
+    <!--  <p><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></p> -->
+    </article> 
+    {% endfor %} 
   </div>
-{% endfor %} -->
+{% endfor %} 
 </div>        
 
 </div>
