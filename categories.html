@@ -35,12 +35,15 @@ permalink: /categories/
 <div class="whole">
   
 <h1>Tags</h1>
+
 <div id="archives">
 {% for tag in site.tags %}
   <div class="archive-group">
     {% capture tag_name %}{{ tag | first }}{% endcapture %}
     <div id="#{{ tag_name | slugize }}"></div>
     <p></p>
+    
+    <h4 class="tag-head">{{ tag_name}}</h4>
   </div>
 {% endfor %} 
 </div>        
