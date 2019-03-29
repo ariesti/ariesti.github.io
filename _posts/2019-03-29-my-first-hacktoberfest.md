@@ -43,7 +43,9 @@ But if installing Git looks like a lot of extra work, you can definitely skip it
 These are some other interesting first-timer guides to open source projects. Each comes with links to where to find your first projects:
 
 * [A First Timer's Guide to an Open Source Project from AuthO](https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/)
+
 * [Open Source Guide](https://opensource.guide/) and [Open Source Friday](https://opensourcefriday.com/#participate) from GitHub and friends
+
 * [Contributing to Your First Open Source Project: A Practical Approach](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae)
 
 Learning about open source projects and how to contribute is only the first step. You still need to find projects to contribute to. Many first-time projects are reserved for first-timers to take part in during the Hacktoberfest community event. If you do some search, you will find many such lists. 
