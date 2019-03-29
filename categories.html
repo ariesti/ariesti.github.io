@@ -43,7 +43,7 @@ permalink: /categories/
     
     <h4 class="tag-head">{{ tag_name }}</h4>
     <a name="{{ tag_name | slugize }}"></a>
-    {% for post in site.tags[ctag_name] %}
+    {% for post in site.tags[tag_name] %}
     <article class="archive-item">
       <p><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></p>
     </article>
