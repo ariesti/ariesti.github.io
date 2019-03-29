@@ -25,7 +25,7 @@ Some things you can do to get started (right away):
 
 * **Viewport for responsive pages.** Almost all websites are built with mobile in mind nowadays, so they've got to be responsive and stay responsive. You can go over the website code and check if the viewport meta tag is correctly set up. Google's recommendation is: 
 
-```<meta name=viewport content="width=device-width, initial-scale=1">```
+  ```<meta name=viewport content="width=device-width, initial-scale=1">```
 
-Copy the project's URL and paste it onto any mobile SEO tool and see if the viewport tag is correctly used. If not, there's your first PR. 
+  Copy the project's URL and paste it onto any mobile SEO tool and see if the viewport tag is correctly used. If not, there's your first PR. 
 
