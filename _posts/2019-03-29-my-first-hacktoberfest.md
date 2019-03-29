@@ -21,10 +21,9 @@ If you’ve been thinking about collaborating with others, open source is a grea
 Don't worry so much about the coding part, because the focus of Hacktoberfest is *to contribute to a software project.* 
 You are not limited to only your coding skillsets. Any area where you might be able to help is within your reach: social media marketing, copywriting, editing, design, testing, bug reporting, business, etc. 
 
-## Some Things You Can Do to Get Started (Right Away)
+Some things you can do to get started (right away):
 
-
-* **Viewport for responsive pages.** Almost all websites are built with mobile in mind nowadays, so they've got to be responsive and stay responsive. You can go over the website code and check if the viewport meta tag is correctly set up. Google's recommendation is: 
+> **Viewport for responsive pages.** Almost all websites are built with mobile in mind nowadays, so they've got to be responsive and stay responsive. You can go over the website code and check if the viewport meta tag is correctly set up. Google's recommendation is: 
 
 ```<meta name=viewport content="width=device-width, initial-scale=1">```
 
