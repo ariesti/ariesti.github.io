@@ -55,7 +55,7 @@ Learning about open source projects and how to contribute is only the first step
 
 As you can probably imagine, getting started is easy as 1-2-3. But if you try to contribute to these open source projects outside of Hacktoberfest it might take you some time before your contribution is considered “good enough.” After my first contribution in 2018, I still return to the projects to see how else I can make myself useful.  
 
-1.	Before registering for Hacktoberfest, you need to setup a GitHub account that you’ll use during the community event. You can do that from GitHub: https://github.com/join.
+1.	Before registering for Hacktoberfest, you need to setup a GitHub account that you’ll use during the community event. You can do that from GitHub: [github.com/join](https://github.com/join).
 
 2.	Register through the Hacktoberfest registration page. 
 
