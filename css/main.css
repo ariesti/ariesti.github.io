@@ -324,7 +324,7 @@ ol {
 ol.a { list-style-type: lower-roman; }
 ol.b { list-style-type: lower-alpha; }
 
-ul { font-size: 1em; line-height: 1.4em; color: #333; }
+ul { font-size: 1.1em; line-height: 1.4em; color: #333; }
 header ul { text-decoration: none; font-size: 1.1em; padding: 0px; list-style-type: none; font-weight: bold; } 
 header ul li { display: inline; margin-right: 20px; } 
         
@@ -367,7 +367,7 @@ ul.posts {
 	margin-bottom: 1.5em;
 	margin-left: 1em;
 	margin-right: 1em;
-	font-size: 1.2em; 
+	font-size: 1.1em; 
 	color: #ff017e; 
 }
 
