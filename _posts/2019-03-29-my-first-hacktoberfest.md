@@ -29,3 +29,31 @@ Some things you can do to get started (right away):
 
   Copy the project's URL and paste it onto any mobile SEO tool and see if the viewport tag is correctly used. If not, there's your first PR. 
 
+* **Check for broken or outdated links.** This was mostly what I did. I contributed the changes to a WebDevStudio project that creates a WordPress starter theme, so there was a lot of links referencing WordPress's Codex, which has moved to a different subdomain in Wordpress.org. Some of these links are not broken, but simply needed to be updated to point to newer webpages. 
+
+* **Fix typos.** Typos are bugs! Content can be buggy, too. And you need to fix them, especially if teh website is localized into other languages. Go for the obvious grammar and misspelling ones, rather than the more subtle issues of style. 
+
+## Making Your First 'Pull Request'
+
+Luckily, I have read about how to make a Pull Request/PR years back when I first learned to use Git and GitHub. So I wasn’t all that unfamiliar with the way open source projects work, but like I said, it was years ago. To make your first real PR, you need to learn how to create a PR on GitHub. And you need to practice. 
+
+There’s a bunch of very neat tutorials from Hacktoberfest’s host, Digital Ocean. I encourage you to go to their website and read their Introduction to Open Source thoroughly before installing Git on your computer. Follow the Git installation guide there, too. 
+But if installing Git looks like a lot of extra work, you can definitely skip it. There are open source projects, such as the freeCodeCamp repository, that will let you help improve articles by editing [directly from your browser](decamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b). You just need to do some digging to find these repos. 
+
+These are some other interesting first-timer guides to open source projects. Each comes with links to where to find your first projects:
+
+* [A First Timer's Guide to an Open Source Project from AuthO](https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/)
+* [Open Source Guide](https://opensource.guide/) and [Open Source Friday](https://opensourcefriday.com/#participate) from GitHub and friends
+* [Contributing to Your First Open Source Project: A Practical Approach](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae)
+
+Learning about open source projects and how to contribute is only the first step. You still need to find projects to contribute to. Many first-time projects are reserved for first-timers to take part in during the Hacktoberfest community event. If you do some search, you will find many such lists. 
+
+## How to Participate
+
+1.	Before registering for Hacktoberfest, you need to setup a GitHub account that you’ll use during the community event. You can do that from GitHub: https://github.com/join.
+2.	Register through the Hacktoberfest registration page. 
+3.	Make 5 PRs and follow the instructions to receive your dev swag. 
+
+As you can probably imagine, getting started is easy as 1-2-3. But if you try to contribute to these open source projects outside of Hacktoberfest it might take you some time before your contribution is considered “good enough.” After my first contribution in 2018, I still return to the projects to see how else I can make myself useful.  
+
+It is not enough to just interact on GitHub. If your project has a mailing list, you should join it. In theory, you need to read up their bug reporting guideline, Slack channel, and developer forums. When you need some help, you should ask for assistance from other developers and communicate. If existing projects are no longer sufficient, you’d want to consider creating your own open source project. 
