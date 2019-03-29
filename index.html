@@ -59,7 +59,7 @@ description: Towards digital humanities
 
 	  	{% for post in site.posts limit: 4 %}
 	   	<li class="posts">
-		<a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <span class="alpha"><br>{{ post.date | date_to_string }}</span>
+		<h4><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h4> <span class="alpha"><br>{{ post.date | date_to_string }}</span>
 		{{ post.excerpt }}
 	    	</li>
 	 	 {% endfor %}
