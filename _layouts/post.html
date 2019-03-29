@@ -14,9 +14,8 @@ layout: default
 ]</span>
     <p><span class="alpha">{{ page.date | date_to_string }}</span></p>
 <!-- call the featured-post-image.html template file -->
-   {% if page.featured-image %}{% include post-featured-image.html image=page.featured-image alt=page.featured-image-alt %}{% endif %}
-   {% if page.featured-image-description %} {% include page.featured-image-description %}{% endif %}
-    
+   {% if page.featured-image %}{% include post-featured-image.html image=page.featured-image alt=page.featured-image-alt %}{% endif %}    
+
 <article class="post-content">
   {{ content }}
 </article>
