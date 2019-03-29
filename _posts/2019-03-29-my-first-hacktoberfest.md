@@ -8,7 +8,7 @@ date: 2019-03-29
 categories: [community/events, tutorials]
 tags: [beginners, open-source, reviews]
 lang: en
-featured-image:
+featured-image: 2-ftt.png
 featured-image-alt: S-S-S-SWAAAG!
 ---
 **Disclaimer: The community event ended last year in October, but my dev swag was just delivered a few business days ago.**
@@ -61,4 +61,8 @@ As you can probably imagine, getting started is easy as 1-2-3. But if you try to
 
 3.	Make 5 PRs and follow the instructions to receive your dev swag. 
 
-It is not enough to just interact on GitHub. If your project has a mailing list, you should join it. In theory, you need to read up their bug reporting guideline, Slack channel, and developer forums. When you need some help, you should ask for assistance from other developers and communicate. If existing projects are no longer sufficient, you’d want to consider creating your own open source project. 
+It is not enough to just interact on GitHub. If your project has a mailing list, you should join it. In theory, you need to read up their bug reporting guideline, Slack channel, and developer forums. When you need some help, you should ask for assistance from other developers and communicate. If existing projects are no longer sufficient, you’d want to consider creating your own open source project.
+
+## About the S-S-S-SWAAAG!
+
+
