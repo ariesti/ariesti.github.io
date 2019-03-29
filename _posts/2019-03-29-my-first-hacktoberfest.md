@@ -67,7 +67,8 @@ It is not enough to just interact on GitHub. If your project has a mailing list,
 ## About the S-S-S-SWAAAG!
 
 ![My first dev swag](/assets/image/2-ftt.png)
-My first dev swag {:.alpha} 
+{:.alpha}
+My first dev swag 
 
 Many developers are discussing this in online dev forums. The package tracking for Hacktoberfest swag was unavailable after some time.. so people weren't able to find out where the package is or where it got stuck. I was told that my package was already dispatched in time but was rejected due to conflict of address. The design team had to resend my package, and luckily the second time was a charm. 
 
