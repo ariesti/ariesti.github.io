@@ -13,4 +13,7 @@ featured-image-alt: S-S-S-SWAAAG!
 ---
 **Disclaimer: The community event ended last year in October, but my dev swag was just delivered a few business days ago.**
 
-In case you need to know, Hacktoberfest is a chance to contribute to open source projects. Last year was my first time participating fully, and I did not regret any minute of it. Although come to think of it now, there could have been a few things I could do to maximize my participation. If you’ve been thinking about collaborating with others, open source is a great means of collaboration. 
+In case you need to know, Hacktoberfest is a chance to contribute to open source projects. 
+Last year was my first time participating fully, and I did not regret any minute of it. 
+Although come to think of it now, there could have been a few things I could do to maximize my participation. 
+If you’ve been thinking about collaborating with others, open source is a great means of collaboration. 
