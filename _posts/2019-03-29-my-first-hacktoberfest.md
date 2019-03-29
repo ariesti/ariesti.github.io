@@ -11,7 +11,7 @@ lang: en
 featured-image: 2-ftt.png
 featured-image-alt: S-S-S-SWAAAG!
 ---
-**Disclaimer: The community event ended last year in October, but my dev swag was just delivered a few business days ago.**
+Disclaimer: The community event ended **last year** in October, but my dev swag was just delivered a few business days ago.
 
 In case you need to know, Hacktoberfest is a chance to contribute to open source projects. 
 Last year was my first time participating fully, and I did not regret any minute of it. 
