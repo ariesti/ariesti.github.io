@@ -9,6 +9,7 @@ categories: [community/events, tutorials]
 tags: [beginners, open-source, reviews]
 lang: en
 featured-image: 2-ftt.png
+featured-image-description: S-S-S-SWAAAG!
 featured-image-alt: S-S-S-SWAAAG!
 ---
 Disclaimer: The community event ended **last year** in October, but my dev swag was just delivered a few business days ago.
