@@ -67,6 +67,4 @@ It is not enough to just interact on GitHub. If your project has a mailing list,
 
 Many developers are discussing this in online dev forums. The package tracking for Hacktoberfest swag was unavailable after some time.. so people weren't able to find out where the package is or where it got stuck. I was told that my package was already dispatched in time but was rejected due to conflict of address. The design team had to resend my package, and luckily the second time was a charm. 
 
-Indonesian customs fee for imported goods does not charge any item that is less than $100 in value, but somehow my dev swag was held in customs. I had to pay about $1.5 for the customs fee, which is outrageous, considering tha package itself is not even half the minimum customs value to be eligible for a fee. It took my swag about one month to arrive at the post office.  
-
-
+Indonesian customs fee for imported goods does not charge any item that is less than $100 in value, but somehow my dev swag was held in customs. I had to pay about $1.5 for the customs fee, which is outrageous, considering that the package itself is not even half the minimum customs value to be eligible for a fee! It took my swag about one month to arrive at the post office.  
