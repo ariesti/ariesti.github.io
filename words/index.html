@@ -12,6 +12,7 @@ description: Important things I have noted
 
 	  		{% for post in site.posts %}
 	    			<li><span class="beta">{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}" class="call-to-action">{{ post.title }}</a></li>
+				<br>
 	  		{% endfor %}
 			</ul>
 	</div>
