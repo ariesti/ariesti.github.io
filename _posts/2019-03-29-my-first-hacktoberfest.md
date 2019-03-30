@@ -66,19 +66,19 @@ As you can probably imagine, getting started is easy as 1-2-3. . But if you trie
 
 After my first contribution in 2018, I still return to the projects to see how else I can make myself useful. So here are my plan of actions:
 
-#### It is not enough to just interact on GitHub. 
+##### It is not enough to just interact on GitHub. 
 
 If your project has a mailing list, you should definitely join it. In theory, reading up on the project’s reporting guideline, Slack channel discussion, and developer forums would help you select a decent issue to work on. The project’s contributing guideline also would lay out the basics to help you prepare your PRs. 
 
-#### Ask for help from other developers
+##### Ask for help from other developers
 
 This is hard. But it’s one of the main benefits of working on open source projects: you get to work with other developers. When you need (and you will need it) some help, you should ask for assistance from other developers and communicate. This ensures that you are able to work on the items you have set out to work on. They can point you to the right direction or advice you on where to look for stuff. 
 
-#### Get familiar with the community swag lists
+##### Get familiar with the community swag lists
 
 Turns out that the open source community has a culture of rewarding contributors with swag! Each of the companies have their own requirement for the free gifts they give for your time and your help. Why not make the most of your contributing month? During Hacktoberfest, try to contribute to the companies that offer dev swags. They could also motivate you to continue contributing regularly to projects that match your schedule and qualifications. 
 
-#### Consider creating your own open source projects
+##### Consider creating your own open source projects
 
 If existing projects are no longer sufficient, you’d want to consider creating your own. With the right dev swag you might be able to attract interesting talents that could lead to something great. 
 
