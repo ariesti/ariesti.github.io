@@ -26,7 +26,7 @@ Don’t worry so much about the coding bits, because the focus of Hacktoberfest 
 Okay, maybe business is still a little way off, but here are some things you can do to get started (right away):
 
 
-* **Viewport for responsive pages.** . Modern websites are built with mobile in mind, so they’ve got to be responsive and stay responsive. You should be able to go over the website code and check if the viewport meta tag is correctly setup. Google’s recommendation is: 
+* **Viewport for responsive pages.** Modern websites are built with mobile in mind, so they’ve got to be responsive and stay responsive. You should be able to go over the website code and check if the viewport meta tag is correctly setup. Google’s recommendation is: 
 
   ```<meta name=viewport content="width=device-width, initial-scale=1">```
 
