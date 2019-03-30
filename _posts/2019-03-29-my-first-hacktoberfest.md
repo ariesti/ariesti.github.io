@@ -40,7 +40,7 @@ Luckily, I have read about how to make a Pull Request/PR years back when I first
 
 There’s a bunch of very neat tutorials from Hacktoberfest’s host, Digital Ocean. I encourage you to go to their website and read their [Introduction to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) thoroughly before installing Git on your computer. Follow the Git installation guide [there](https://www.digitalocean.com/community/tutorials/how-to-contribute-to-open-source-getting-started-with-git#contributing-to-open-source-projects), too. 
 
-But if installing Git looks like a lot of extra work, you can definitely skip it. There are open source projects, such as the freeCodeCamp repository, that will let you help improve articles by editing **[directly from your browser]**(decamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b). 
+But if installing Git looks like a lot of extra work, you can definitely skip it. There are open source projects, such as the freeCodeCamp repository, that will let you help improve articles by editing **[directly from your browser]**(https://freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b). 
 
 Learning about open source projects and how to contribute is only the first steps. You still need to find projects you can actually contribute to. Many projects are reserved for first-timers to take part in during the Hacktoberfest community event. If you do a bit of internet search, you will find many such project lists.
 
