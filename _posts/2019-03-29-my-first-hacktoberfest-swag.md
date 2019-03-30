@@ -48,7 +48,7 @@ Learning about open source projects and how to contribute is only the first step
 
 You just need to do some digging to find those repos. 
 
-These are some other interesting first-timer guides to open source projects. Each includes links to where to find your first projects:
+These are some other interesting first-timer guides to open source projects. Each includes links to where to find your first:
 
 * [A First Timer's Guide to an Open Source Project](https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/)  from AuthO
 
@@ -58,7 +58,7 @@ These are some other interesting first-timer guides to open source projects. Eac
 
 ## How to Participate
 
-As you can probably imagine, getting started is easy as 1-2-3. . But if you tried to contribute to these open source projects outside of Hacktoberfest it would have taken you some time before your contribution is considered "good enough."  
+As you can probably imagine, getting started is easy as 1-2-3. But if you tried to contribute to these open source projects outside of Hacktoberfest it would have taken you some time, and probably more than 5 issues, before your contribution is considered "good enough."  
 
 1.	Before registering for Hacktoberfest, you need to setup a GitHub account that you’ll use during the community event. You can do that from GitHub: [github.com/join](https://github.com/join).
 
