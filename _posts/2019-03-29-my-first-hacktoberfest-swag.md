@@ -50,7 +50,7 @@ You just need to do some digging to find those repos.
 
 These are some other interesting first-timer guides to open source projects. Each includes links to where to find your first projects:
 
-* [A First Timer's Guide to an Open Source Project from AuthO](https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/)
+* [A First Timer's Guide to an Open Source Project](https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/)  from AuthO
 
 * [Open Source Guide](https://opensource.guide/) and [Open Source Friday](https://opensourcefriday.com/#participate) from GitHub and friends
 
