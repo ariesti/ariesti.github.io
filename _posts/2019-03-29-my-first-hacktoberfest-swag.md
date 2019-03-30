@@ -44,9 +44,9 @@ There’s a bunch of very neat tutorials from Hacktoberfest’s host, Digital Oc
 
 But if installing Git looks like a lot of extra work, you can definitely skip it. There are open source projects, such as the freeCodeCamp repository, that will let you help improve articles by editing **[directly from your browser](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b)**. 
 
-Learning about open source projects and how to contribute is only the first steps. You still need to find projects you can actually contribute to. Many projects are reserved for first-timers to take part in during the Hacktoberfest community event. If you do a bit of internet search, you will find many such project lists.
+Learning about open source projects and how to contribute is only the beginning. You still need to find projects you can actually contribute to. Many are reserved for first-timers to take part in during the Hacktoberfest community event. And if you do a bit of internet search, you will find many such project lists.
 
-You just need to do some digging to find those repos. 
+Just need to do some digging to find those repos. 
 
 These are some other interesting first-timer guides to open source projects. Each includes links to where to find your first:
 
@@ -58,7 +58,7 @@ These are some other interesting first-timer guides to open source projects. Eac
 
 ## How to Participate
 
-As you can probably imagine, getting started is easy as 1-2-3. But if you tried to contribute to these open source projects outside of Hacktoberfest it would have taken you some time, and probably more than 5 issues, before your contribution is considered "good enough."  
+As you can probably imagine, getting started is easy as 1-2-3. But if you tried to contribute to these open source projects outside of Hacktoberfest it would have taken you some time, and probably more than 5 issues, before your contribution is considered "good enough." 
 
 1.	Before registering for Hacktoberfest, you need to setup a GitHub account that you’ll use during the community event. You can do that from GitHub: [github.com/join](https://github.com/join).
 
@@ -66,7 +66,7 @@ As you can probably imagine, getting started is easy as 1-2-3. But if you tried 
 
 3.	Make 5 PRs and follow the instructions to receive your dev swag. 
 
-After my first contribution in 2018, I still return to the projects to see how else I can make myself useful. So here are my plan of actions:
+After my first contribution in 2018, I still return to the projects to see how else I can make myself useful. So here's some of my after thoughts:
 
 ##### It is not enough to just interact on GitHub. 
 
@@ -89,6 +89,6 @@ If existing projects are no longer sufficient, you’d want to consider creating
 ![My first dev swag](/assets/image/2-ftt.png)
 <p class="alpha">My first dev swag</p> 
 
-Many developers are discussing this in online dev forums. The package tracking for Hacktoberfest swag was unavailable after some time.. so people weren't able to find out where the package is or where the rewards got stuck. I was told that my package was already dispatched in time but was rejected due to conflict of address. The design team had to resend my package, and luckily the second time was a charm. 
+This issue has come up in online forum discussions. After some time, the package tracking for Hacktoberfest swag became unavailable.. so people weren't able to find out where their package was or where the rewards got stuck. I was told that my package was already dispatched in time but was rejected due to conflict of address. The design team had to resend my package, and luckily the second time was a charm. 
 
-Indonesian customs fee for imported goods does not charge any item that is less than $100 in value, but somehow my dev swag was held in customs. I had to pay about $1.5 for the customs fee, which is outrageous, considering that the package itself is not even half the minimum customs value to be eligible for a fee! It took my swag about one month to arrive at the post office.  
+Indonesian customs fee for imported goods does not charge any item that is less than $100 in value, but somehow my dev swag was held in customs, as proven by the customs tariff receipt handed to me. I had to pay about $1.5 for customs, which is hilarious! The package itself is not even a taxable item. It took my swag about one month to make it to the post office.  
