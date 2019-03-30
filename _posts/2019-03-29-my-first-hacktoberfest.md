@@ -80,7 +80,7 @@ Turns out that the open source community has a culture of rewarding contributors
 
 ##### Consider creating your own open source projects
 
-If existing projects are no longer sufficient, you’d want to consider creating your own. With the right dev swag you might be able to attract interesting talents that could lead to something great. 
+If existing projects are no longer sufficient, you’d want to consider creating your own. With the right dev swags (and marketing mix) you might be able to attract rising talents that could lead to somewhere amazing. 
 
 ## It's Not All About the S-S-S-SWAAAG!
 
