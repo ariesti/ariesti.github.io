@@ -44,7 +44,7 @@ But if installing Git looks like a lot of extra work, you can definitely skip it
 
 Learning about open source projects and how to contribute is only the first steps. You still need to find projects you can actually contribute to. Many projects are reserved for first-timers to take part in during the Hacktoberfest community event. If you do a bit of internet search, you will find many such project lists.
 
-You just need to do some digging to find similar repos. 
+You just need to do some digging to find those repos. 
 
 These are some other interesting first-timer guides to open source projects. Each includes links to where to find your first projects:
 
