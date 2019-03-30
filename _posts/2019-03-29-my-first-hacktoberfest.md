@@ -83,8 +83,7 @@ If existing projects are no longer sufficient, you’d want to consider creating
 
 ## It's Not All About the S-S-S-SWAAAG!
 
-![My first dev swag](/assets/image/2-ftt.png)
-<p class="alpha">My first dev swag</p> 
+![My first dev swag](/assets/image/2-ftt.png)<p class="alpha">My first dev swag</p> 
 
 Many developers are discussing this in online dev forums. The package tracking for Hacktoberfest swag was unavailable after some time.. so people weren't able to find out where the package is or where the rewards got stuck. I was told that my package was already dispatched in time but was rejected due to conflict of address. The design team had to resend my package, and luckily the second time was a charm. 
 
