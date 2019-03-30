@@ -12,6 +12,7 @@ featured-image: 2-ftt.png
 featured-image-description: S-S-S-SWAAAG!
 featured-image-alt: S-S-S-SWAAAG!
 ---
+
 <p class="alpha">Disclaimer: The community event ended last year in October, but my first dev swag was just delivered to me a few business days ago.</p>
 
 Hacktoberfest motivates newbies to contribute to **open source projects**. In case you need to know, last year was my first time participating fully, and I did not regret a minute of it. Although come to think of it now, there were a few things I could have done to maximize my participation. 
@@ -83,7 +84,8 @@ If existing projects are no longer sufficient, you’d want to consider creating
 
 ## It's Not All About the S-S-S-SWAAAG!
 
-![My first dev swag](/assets/image/2-ftt.png)<p class="alpha">My first dev swag</p> 
+![My first dev swag](/assets/image/2-ftt.png)
+<p class="alpha">My first dev swag</p> 
 
 Many developers are discussing this in online dev forums. The package tracking for Hacktoberfest swag was unavailable after some time.. so people weren't able to find out where the package is or where the rewards got stuck. I was told that my package was already dispatched in time but was rejected due to conflict of address. The design team had to resend my package, and luckily the second time was a charm. 
 
