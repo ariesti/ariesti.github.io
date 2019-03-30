@@ -12,7 +12,7 @@ featured-image: 2-ftt.png
 featured-image-description: S-S-S-SWAAAG!
 featured-image-alt: S-S-S-SWAAAG!
 ---
-
+<br>
 <p class="alpha">Disclaimer: The community event ended last year in October, but my first dev swag was just delivered to me a few business days ago.</p>
 
 Hacktoberfest motivates newbies to contribute to **open source projects**. In case you need to know, last year was my first time participating fully, and I did not regret a minute of it. Although come to think of it now, there were a few things I could have done to maximize my participation. 
