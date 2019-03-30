@@ -82,7 +82,7 @@ Turns out that the open source community has a culture of rewarding contributors
 
 If existing projects are no longer sufficient, you’d want to consider creating your own. With the right dev swags (and marketing mix) you might be able to attract rising talents that could lead to somewhere amazing. 
 
-## It's Not All About the S-S-S-SWAAAG!
+## It's Not All About the S-S-SWAAAG!
 
 ![My first dev swag](/assets/image/2-ftt.png)
 <p class="alpha">My first dev swag</p> 
