@@ -58,7 +58,7 @@ These are some other interesting first-timer guides to open source projects. Eac
 
 ## How to Participate
 
-As you can probably imagine, getting started is easy as 1-2-3. But if you tried to contribute to these open source projects outside of Hacktoberfest it would have taken you some time, and probably more than 5 issues, before your contribution is considered "good enough." 
+As you can probably imagine, getting started is easy as 1-2-3: 
 
 1.	Before registering for Hacktoberfest, you need to setup a GitHub account that you’ll use during the community event. You can do that from GitHub: [github.com/join](https://github.com/join).
 
@@ -66,7 +66,7 @@ As you can probably imagine, getting started is easy as 1-2-3. But if you tried 
 
 3.	Make 5 PRs and follow the instructions to receive your dev swag. 
 
-After my first contribution in 2018, I still return to the projects to see how else I can make myself useful. So here's some of my after thoughts:
+But if you tried to contribute to these open source projects outside of Hacktoberfest it would have taken you some time, and probably more than 5 issues, before your contribution is considered "good enough." After my first contribution in 2018, I still return to the projects to see how else I can make myself useful. So here's some of my after thoughts:
 
 ##### It is not enough to just interact on GitHub. 
 
