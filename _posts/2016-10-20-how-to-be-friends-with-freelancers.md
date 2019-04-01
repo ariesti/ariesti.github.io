@@ -10,7 +10,7 @@ categories: [guide]
 tags: [mentoring, hack, do]
 lang: en
 featured-image: my-cinema-quote.png
-featured-image-alt: The freelancer friend is not your "ex-friend"
+featured-image-alt: People facing home cinema screen
 ---
 
 In our lives, there are many types of friends. There’s the online friend, the offline friend, the Twitter friend, the Facebook friend, the blogging friend, the childhood friend, and nowadays, **the freelancer friend.**
