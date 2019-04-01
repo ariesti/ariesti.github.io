@@ -2,7 +2,7 @@
 layout: post
 author: Lovelli Fuad
 title: "Got My Very First Dev Swag in the Mail. It's Hacktoberfest No. 5!"
-description: What I did for Hacktoberfest last year. 
+description: I joined Hacktoberfest last year and got my first dev swag this year. You too can take part in this community event this October. 
 permalink: hacktoberfest-dev-swag
 date: 2019-03-29
 categories: [community/events, tutorials]
