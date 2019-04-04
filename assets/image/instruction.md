@@ -60,4 +60,4 @@ The index.html, located in project's root directory
 {% endfor %}
 <!-- some other HTML content -->
 ```
-NOTE: Currently the featured images are used for Facebook social media posts, to accompany the articles. 
+NOTE: Currently the featured images are used for Facebook social media posts, to accompany the articles. Also, major blunder: I have not been able to make head.html include file to work with the default layout, so I just copy and paste everything into the default layout file and work from there. 
