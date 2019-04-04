@@ -15,6 +15,7 @@ So we are going to add the twitter:image line when we have the thumbnails ready:
 
 ```html
       <meta name="twitter:image" content="{{ site.url }}/assets/thumbs/{{ page.image }}" />
+```
 
 2. The rules for the Twitter thumbnail image:
 
