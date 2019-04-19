@@ -5,7 +5,7 @@ title: "A Friendly Guide to Being Good Friends with a Freelancer, Even If You’
 tagline: I don't have that many friends, which makes me the perfect person to write about friendship.
 description: How to interact with friends who freelance
 permalink: good-freelancer-friends-guide
-date: 2016-10-20
+date: 2016-10-20 00:38
 categories: [guide]
 tags: [mentoring, hack, do]
 lang: en
