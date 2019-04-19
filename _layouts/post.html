@@ -12,7 +12,7 @@ layout: default
 <span>[
   {% for tag in page.tags %}
     {% capture tag_name %}{{ tag }}{% endcapture %}
-    <a href="/categories/#{{ tag_name }}" class="tag-2"><code class="highlighter-rouge"><nobr>{{ tag_name }}</nobr></code></a>
+    <a href="/categories/#tags" class="tag-2"><code class="highlighter-rouge"><nobr>{{ tag_name }}</nobr></code></a>
   {% endfor %}
 ]</span>
     <p><span class="alpha">{{ page.date | date_to_string }}</span></p>
