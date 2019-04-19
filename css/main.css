@@ -97,6 +97,14 @@ hr.color-five {
 	position: relative;	
 }
 
+hr.grey {
+	box-sizing: content-box; 
+	height: 0;
+	border-top: 1px solid #ECECEC; 
+	overflow: visible; /* 2 */
+	position: relative;
+}
+
 /*
 1. Correct the inheritance and scaling of font size in all browsers.
 2. Correct the odd `em` font sizing in all browsers. */
