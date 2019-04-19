@@ -41,7 +41,7 @@ permalink: /categories/
   
 <h1>Tag Clouds</h1>
   
-<div id="#tags">
+
 <ul class="tag-cloud">
 {% for tag in site.tags %}
   <li style="font-size: {{ tag | last | size | times: 100 | divided_by: site.tags.size | plus: 70  }}%">
@@ -51,7 +51,7 @@ permalink: /categories/
   </li>
 {% endfor %}
 </ul> 
-  </div>  
+
 
 <h1>Tags</h1>        
 
