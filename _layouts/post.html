@@ -15,7 +15,7 @@ layout: default
     <a href="/categories/#{{ tag_name }}" class="tag-2"><code class="highlighter-rouge"><nobr>{{ tag_name }}</nobr></code></a>
   {% endfor %}
 ]</span>
-    <p><span class="alpha">{{ page.date | date_to_string }}</span></p>
+    <p><span class="alpha">{{ page.date | date: "date: "%A, %B %-d, %Y" }}</span></p>
 <!-- call the featured-post-image.html template file -->
    {% if page.featured-image %}{% include post-featured-image.html image=page.featured-image alt=page.featured-image-alt %}{% endif %}    
 
