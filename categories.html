@@ -51,27 +51,17 @@ permalink: /categories/
 {% endfor %}
 </ul>  
 
-<h1>Tags</h1>  
+<h1>Tags</h1>        
 
 <div id="archives">
 {% for tag in site.tags %}
   <div class="archive-group">
     {% capture tag_name %}{{ tag | first }}{% endcapture %}
     <div id="#{{ tag_name | slugize }}"></div>
-    <p></p>
     
-    <h5 class="tag-head">{{ tag_name}}</h5>
-  </div>
-{% endfor %} 
-</div>        
-
-<div id="archives">
-{% for tag in site.tags %}
-  <div class="archive-group">
-    {% capture tag_name %}{{ tag | first }}{% endcapture %}
-    <div id="#{{ tag_name | slugize }}"></div>
-    <p></p>
     
+    <p>
+    <ul>
     <h4 class="tag-head">{{ tag_name }}</h4>
     <a name="{{ tag_name | slugize }}"></a>
     {% for post in site.tags[tag_name] %}
@@ -79,7 +69,10 @@ permalink: /categories/
       <li><a href="{{ post.url | prepend: site.url }}">{{post.title}}</a></li>
     </article>
     {% endfor %}
+    </p>
+  </ul>
   </div>
+  
 {% endfor %}
 </div>
   
