@@ -60,7 +60,7 @@ description: Towards digital humanities
 	  	{% for post in site.posts limit: 4 %}
 	   	<li class="posts">
 		<h5><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h5> <span class="alpha">&nbsp{{ post.date | date: '%B %-d, %Y — %H:%M' }}</span>
-		{{ post.excerpt }}
+		{{ post.excerpt }} {% if post.excerpt != post.content %} <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>{% endif %}
 	    	</li>
 	 	 {% endfor %}
 			
