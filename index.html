@@ -61,7 +61,8 @@ description: Towards digital humanities
 	   	<li class="posts">
 		<h5><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h5> <span class="alpha">&nbsp{{ post.date | date: '%B %-d, %Y — %H:%M' }}</span>
 		{{ post.excerpt }}<a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
-		</li>			
+		</li>
+		<hr class="grey">	
 	 	{% endfor %}
 		<hr class="grey">
 		</ul>
