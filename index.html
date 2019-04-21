@@ -54,20 +54,19 @@ description: Towards digital humanities
 		
 		<div class="whole">
 		<h1>Words</h1>
-			<p>			
-				<ul>
-
+		
+		<p>			
+		<ul>
 	  	{% for post in site.posts limit: 4 %}
 	   	<li class="posts">
 		<h5><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h5> <span class="alpha">&nbsp{{ post.date | date: '%B %-d, %Y — %H:%M' }}</span>
 		{{ post.excerpt }}<a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
-	    	<br>
-		</li>
-					
-	 	 {% endfor %}
+		</li>			
+	 	{% endfor %}
+		</hr>	
+		</ul>
+		</p>
 			
-				</ul>
-				</p>
 		</div>
 	</div>
 </div>
