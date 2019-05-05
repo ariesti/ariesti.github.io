@@ -13,11 +13,13 @@ featured-image-description:
 featured-image-alt: 
 ---
 
-So there aren’t that many pages or posts yet on Finger Tip-Top. A manual search is enough to find what you’re looking for, but I wanted to add a search page early on. It’s going to be difficult to find anything once the blog has hundreds of blog posts. 
+So there aren’t that many pages or posts yet on Finger Tip-Top. A manual search is enough to find what you’re looking for.
+
+A search page or search functionality for a blog is not vital, but I wanted to add a search page early on. Because it’s going to be difficult to find anything once the blog has hundreds of blog posts. A search functionality is a nice extra touch to help readers who are interested in a particular topic but people can still read blog posts without it. 
 
 The search page I had in mind is not just a blank box to fill with search phrases. No, no. I wanted visitors to be able to 1) search for anything they are looking for, and 2) be able to see the big picture at once—all the categories and tags that they might not know they were looking for. I got the idea for something like this from browsing through a list of available free themes from Jekyll. Instead of a blank search box floating on a blank page, [the theme](http://projectpages.github.io) displays a list of project names below the search box. 
 
-Finger Tip-Top’s search page includes all the categories and tags and a Google search functionality. This is pretty easy to do with Google custom search, which requires only 3 simple steps to set up:
+Finger Tip-Top’s search page includes all the categories and tags and a Google search functionality. This is pretty easy to do with the free Google custom search, which requires only 3 simple steps to set up:
 
 1.	Go to Google custom search’s website at [cse.google.com](https://cse.google.com).
 2.	Create a new search engine. Let Google know the name of your site and the language of the posts. 
