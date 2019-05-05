@@ -1,9 +1,13 @@
 ---
 layout: default
-title: Search this site
-tagline: Use a search phrase 
-description: Find what you're looking for
+title: Categories & Tags
+description: All the categories and tags used in the blog.
+tagline: Let's see what else we've got on that..
+permalink: /categories/
 ---
+<div class="page">
+  <div class="content">
+    <main>
 
 <script>
   (function() {
@@ -17,3 +21,79 @@ description: Find what you're looking for
   })();
 </script>
 <gcse:search></gcse:search>
+      
+<div class="whole-topless">
+        
+<h1>Categories</h1>
+  
+<div id="archives">
+{% for category in site.categories %}
+  <div class="archive-group">
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    <div id="#{{ category_name | slugize }}"></div>
+    
+    <p>
+    <ul>
+    <h4 class="category-head">{{ category_name }}</h4>
+    <a name="{{ category_name | slugize }}"></a>
+    {% for post in site.categories[category_name] %}
+    <article class="archive-item">
+      <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></li>
+    </article>
+    {% endfor %}
+    </ul>
+    </p>
+  
+  </div>
+{% endfor %}
+</div>
+        
+</div>
+      
+<div class="whole">
+  
+<h1>Tag Clouds</h1>
+  
+
+<ul class="tag-cloud">
+{% for tag in site.tags %}
+  <li style="font-size: {{ tag | last | size | times: 100 | divided_by: site.tags.size | plus: 70  }}%">
+    <a href="#{{ tag | first | slugize }}">
+      {{ tag | first }}
+    </a>
+  </li>
+{% endfor %}
+</ul> 
+
+
+<h1>Tags</h1>        
+
+<div id="archives">
+{% for tag in site.tags %}
+  <div class="archive-group">
+    {% capture tag_name %}{{ tag | first }}{% endcapture %}
+    <div id="#{{ tag_name | slugize }}"></div>
+    
+    
+    <p>
+    <ul>
+    <h4 class="tag-head">{{ tag_name }}</h4>
+    <a name="{{ tag_name | slugize }}"></a>
+    {% for post in site.tags[tag_name] %}
+    <article class="archive-item">
+      <li><a href="{{ post.url | prepend: site.url }}">{{post.title}}</a></li>
+    </article>
+    {% endfor %}
+    </p>
+  </ul>
+  </div>
+  
+{% endfor %}
+</div>
+  
+  
+</div>
+        
+    </main>
+  </div>
+</div>
