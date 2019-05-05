@@ -4,7 +4,7 @@ author: Lovelli Fuad
 title: "A Super Simple Search Page for Finger Tip-Top"
 description: Finger Tip-Top now has a search page
 permalink: search-page-for-Jekyll-blog
-date: 2019-03-29 05:45 PM
+date: 2019-05-05 05:01 PM
 categories: [admin, tutorials]
 tags: [beginners, ui, websites]
 lang: en
