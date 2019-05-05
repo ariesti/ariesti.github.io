@@ -13,7 +13,7 @@ featured-image-description:
 featured-image-alt: 
 ---
 
-So there aren’t that many pages or posts yet on Finger Tip-Top. A manual search is enough to find what you’re looking for.
+There aren’t that many pages or posts yet on Finger Tip-Top. So a manual search should be enough to find what you’re looking for.
 
 A search page or search functionality for a blog is not vital, but I wanted to add a search page early on. Because it’s going to be difficult to find anything once the blog has hundreds of blog posts. A search functionality is a nice extra touch to help readers who are interested in a particular topic but people can still read blog posts without it. 
 
