@@ -8,9 +8,9 @@ date: 2019-05-05 05:01 PM
 categories: [web, admin, tutorials]
 tags: [beginners, ui, websites]
 lang: en
-featured-image: 
-featured-image-description: 
-featured-image-alt: 
+featured-image: search-page.png
+featured-image-description: A blog search page is not vital, but it's nice to have.
+featured-image-alt: Search page 
 ---
 
 There aren’t that many pages or posts yet on Finger Tip-Top. So a manual search should be enough to find what you’re looking for.
