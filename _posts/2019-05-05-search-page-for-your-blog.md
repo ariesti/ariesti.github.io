@@ -29,6 +29,6 @@ It’s super easy and quick. Later, you can tweak the advanced setting even furt
 
 Jekyll actually allows for a simple **instant search** that displays the search result “live” as the search phrase is being typed. It is pretty neat and easy to make, without the need for JQuery or plug-ins. I might create one in the near future, but for now I think the search page will have to do. 
 
-So where is this super simple search page, you ask? You can access it by clicking the "Search" tab on the top of the site, or... you can just follow thi link right here:
+So where is this super simple search page, you ask? You can access it by clicking the "Search" tab on the top of the site, or... you can just follow the link below:
 
 [www.fingertip.top/search/](https://fingertip.top/search/)
