@@ -25,12 +25,11 @@ Don’t worry so much about the coding bits, because the focus of Hacktoberfest 
 
 Okay, maybe business is still a little way off, but here are some things you can do to get started (right away):
 
-
 * **Viewport for responsive pages.** Modern websites are built with mobile in mind, so they’ve got to be responsive and stay responsive. You should be able to go over the website code and check if the viewport meta tag is correctly setup. Google’s recommendation is: 
 
   ```<meta name=viewport content="width=device-width, initial-scale=1">```
 
-  You can copy your project’s URL and paste it on to any mobile SEO tool to see if the viewport tag is correctly used. If not, that could just be your very first PR. 
+You can copy your project’s URL and paste it on to any mobile SEO tool to see if the viewport tag is correctly used. If not, that could just be your very first PR. 
 
 * **Check for broken and/or outdated links.** This is mostly what I did. I contributed to a WebDevStudio project creating WordPress starter themes, so there were plenty of links referencing WordPress’s Codex, which has moved to a different subdomain but still at Wordpress.org. Some of these links are not broken; they simply need to be updated to point to the most recent webpages. 
 
