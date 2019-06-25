@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Lovelli Fuad
-title: “Hacker X Jakarta: My Speed Dating (for Work) Experience“
+title: "Hacker X Jakarta: My Speed Dating (for Work) Experience"
 description: That time I went to a recruitment speed dating
 permalink: hackerx-speed-dating-for-work
 date: 2019-06-25 10:16 PM
@@ -10,7 +10,7 @@ tags: [social, data, advertising]
 lang: en
 featured-image: hackerx-2017.png
 featured-image-description: Recruitment speed dating might be worth it
-Featured-image-alt: Speed dating for work
+featured-image-alt: Speed dating for work
 ---
 
 As soon as I completed my Johns Hopkins data science specialization with Coursera [that one time](https://www.coursera.org/specializations/jhu-data-science), offers began flooding in. 
