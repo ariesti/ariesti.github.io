@@ -8,9 +8,9 @@ date: 2019-05-05 05:01 PM
 categories: [web, admin, tutorials]
 tags: [beginners, ui, websites]
 lang: en
-featured-image: 
-featured-image-description: 
-featured-image-alt: 
+featured-image: search-page.png
+featured-image-description: A blog search page is not vital, but it's nice to have.
+featured-image-alt: Search page 
 ---
 
 There aren’t that many pages or posts yet on Finger Tip-Top. So a manual search should be enough to find what you’re looking for.
@@ -28,3 +28,7 @@ Finger Tip-Top’s search page includes all the categories and tags and a Google
 It’s super easy and quick. Later, you can tweak the advanced setting even further to include things like image search, safe search, and other tweaks, such as limiting the regions. Since Google is going to be serving the search results, searchers will also have the option to search the entire web. 
 
 Jekyll actually allows for a simple **instant search** that displays the search result “live” as the search phrase is being typed. It is pretty neat and easy to make, without the need for JQuery or plug-ins. I might create one in the near future, but for now I think the search page will have to do. 
+
+So where is this super simple search page, you ask? You can access it by clicking the "Search" tab on the top of the site, or... you can just follow the link below and see for yourself:
+
+[www.fingertip.top/search/](https://fingertip.top/search/)
