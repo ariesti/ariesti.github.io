@@ -27,7 +27,7 @@ I learned that what people tell each other in “networking events”, especiall
 
 First, the Hacker X event organizer sent me a personalized invitation. I expressed my interest in attending and filled in some sort of online form. Then my e-ticket was emailed to me with a confirmation of the event. A few days before and on D-day, reminders were sent with a few pointers. 
 
-Supposedly, a few hours before event start time recruiters would send out introductory emails to the participants. Only a few did. And at the night of the Hacker X event, August 22, 2017, a few tables were empty. 
+Supposedly, a few hours before event start time recruiters would send out introductory emails to the participants. Only a few did. And at the night of the event, August 22, 2017, a few tables were empty. 
 
 The event organizer wanted to make sure that each attendee was given a fair chance to get to know the recruiters. Perhaps they wanted us to talk to all of the companies? I can’t quite explain how it was done, but after a couple of minutes someone would just be running around telling attendees where to stand or where to sit. 
 
