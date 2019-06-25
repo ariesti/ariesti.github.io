@@ -69,7 +69,7 @@ _Dinner_
 
 Late in the night, the event organizers started handing out dinner. I probably wouldn’t have eaten anything if I hadn’t loitered to listen to Tokopedia staff talking about a regular networking event held at their new headquarters. The way the pizza boxes were lined up gave me the impression that the food was only for recruiters. An entire dinner pack had a recruiter’s name and company written on it, so…
 
-_Some Swag_
+_Some swag_
 
 Some of these companies were nice enough to give me a notebook or a mug or a bag. It’s a nice gesture, but I really wasn’t expecting anything other than a call or an email the next day. It would probably just make more sense to hand out goodie bags at the end or the beginning to everyone who came, if you ask me.
 
@@ -94,6 +94,6 @@ Both Hacker X events were centered around tech companies instead of the develope
 
 The second time was a mixed bag, but still felt a bit like a waste of time. The stress was still there. Although the event was held at a smaller kind of co-working space, networking didn’t become any easier. 
 
-So if you’re thinking about going to a Hacker X night out in your city, whether as an attendee or a recruiter, and you’re okay with meeting random developers who might or might not be interested in your company, then you would probably like it. 
+So if you’re thinking about [going to a Hacker X night out](https://hackerx.org/) in your city, whether as an attendee or a recruiter, and you’re okay with meeting random developers who might or might not be interested in your company, then you would probably like it. 
 
 
