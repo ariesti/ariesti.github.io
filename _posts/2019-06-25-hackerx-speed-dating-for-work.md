@@ -81,7 +81,9 @@ Some time after date night, some recruiters would do a follow-up. A few calls fr
 
 I was a bit bummed at how uncomfortable the first one went. I decided to go again the following year just to see how I felt about this one. Instead of printing my resume and handing out name cards, I decided to hand out links to my online cv to these recruiters. 
 
-The second time I went, it was a lot better organized. Many who came was quite clueless of what the event was and what to expect. You’d probably get more out of an actual developer meetup or by participating at a local community program. 
+The second time I went, it was a lot better organized. But after talking to some of the developers, they were still quite clueless of what the event was and what to expect. 
+
+For networking, though, you’d probably get more out of an actual developer meetup or by participating at a local community program. 
 
 But still not a lot of female developers were taking part. The ratio was maybe around 1 female developer every 5 attendees. This time, however, the food was better, the drinks were better. Even the Hacker X team gave a better presentation about the event. 
 
