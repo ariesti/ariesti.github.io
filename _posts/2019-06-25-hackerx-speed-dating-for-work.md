@@ -15,7 +15,7 @@ featured-image-alt: Speed dating for work
 
 As soon as I completed my Johns Hopkins data science specialization with Coursera [that one time](https://www.coursera.org/specializations/jhu-data-science), offers began flooding in. 
 
-One particularly interesting offer to get social was an email invitation to a Hacker X (full-stack) recruitment event in Jakarta, just a little over a year ago. I personally have never attended or RSVP-ed for a speed dating event outside of work, but at the time the idea somewhat made sense.
+One particularly interesting offer to get social was an email invitation to a Hacker X (full-stack) recruitment event in Jakarta, just a little over a year ago. I personally have never attended or RSVP-ed for a speed dating event ever, but at the time the idea somewhat made sense. 
 
 Each attendee gets to spend about 10 to 15 minutes talking to a potential recruiter before rushing on to the next table to talk to the next recruiter, and the next, and the next, and so on.  
 
@@ -29,7 +29,7 @@ First, the Hacker X event organizer sent me a personalized invitation. I express
 
 Supposedly, a few hours before event start time recruiters would send out introductory emails to the participants. Only a few did. And at the night of the Hacker X event, August 22, 2017, a few tables were empty. 
 
-The event organizer wanted to make sure that each attendee was given a fair chance to talk to the recruiters. Perhaps they wanted us to talk to all of the recruiters? I can’t quite explain how it was done, but after a couple of minutes someone would just be running around telling attendees where to stand or where to sit. 
+The event organizer wanted to make sure that each attendee was given a fair chance to get to know the recruiters. Perhaps they wanted us to talk to all of the companies? I can’t quite explain how it was done, but after a couple of minutes someone would just be running around telling attendees where to stand or where to sit. 
 
 On the plus side, I landed a few interviews after the event. Not entirely sure if date night was the reason I landed them, though. Because what happened was after I met with some recruiters during the Hacker X event, and after sending (and replying to) thank you emails back and forth, it would all just boil down to a link from their website.
 
