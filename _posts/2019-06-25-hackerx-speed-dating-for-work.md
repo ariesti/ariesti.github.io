@@ -16,7 +16,9 @@ featured-image-alt: Speed dating for work
 As soon as I completed my Johns Hopkins data science specialization with Coursera [that one time](https://www.coursera.org/specializations/jhu-data-science), offers began flooding in. 
 
 One particularly interesting offer to get social was an email invitation to a Hacker X (full-stack) recruitment event in Jakarta, just a little over a year ago. I personally have never attended or RSVP-ed for a speed dating event outside of work, but at the time the idea somewhat made sense.
+
 Each attendee gets to spend about 10 to 15 minutes talking to a potential recruiter before rushing on to the next table to talk to the next recruiter, and the next, and the next, and so on.  
+
 Having worked in Jakarta for a couple of years, I had very low expectation of what to expect. 
 
 I learned that what people tell each other in “networking events”, especially over cocktail or after hours, are not to be taken too seriously. Plus, the workforce management in Jakarta is not really known for delivering on their promises. So I went and was ready to be disappointed.
@@ -29,7 +31,7 @@ Supposedly, a few hours before event start time recruiters would send out introd
 
 The event organizer wanted to make sure that each attendee was given a fair chance to talk to the recruiters. Perhaps they wanted us to talk to all of the recruiters? I can’t quite explain how it was done, but after a couple of minutes someone would just be running around telling attendees where to stand or where to sit. 
 
-On the plus side, I landed a few interviews after the event. Not entirely sure that the Hacker X event was the reason I landed them, though. Because what happened was after I met with some recruiters during “date night”, and after sending (and replying to) thank you emails back and forth, it would all just boil down to a link from their website.
+On the plus side, I landed a few interviews after the event. Not entirely sure if date night was the reason I landed them, though. Because what happened was after I met with some recruiters during the Hacker X event, and after sending (and replying to) thank you emails back and forth, it would all just boil down to a link from their website.
 
 I then read about the vacancy these companies have published online, clicked on a link, filled a form, and everything after that was the usual. Wait for a phone call from a number I do not recognize to tell me where to go, when, and what to bring.  
 
@@ -86,7 +88,7 @@ But still not a lot of female developers were taking part. The ratio was maybe a
 I proceeded to invite every single person I talked to during that event. A few human resources staff or employees from recruiting departments within the companies that took part reached out to me before the event. I received a couple of invites to do further testing, but that was it really. 
 
 ![My second Hacker X event was a lot better and felt more homey](/assets/image/hackerx-2018.png)
-<p class="alpha">HackerX on July 19, 2018</p> 
+<p class="alpha">HackerX | July 19, 2018</p> 
 
 Both Hacker X events were centered around tech companies instead of the developers. On the first event in 2017, I felt like I had to win over the recruiting company by saying something interesting about myself. The companies didn’t really have to pitch anything in any way to attract the tech talents. 
 
