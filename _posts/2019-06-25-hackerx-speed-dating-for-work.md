@@ -37,7 +37,7 @@ I then read about the vacancy these companies have published online by clicking 
 
 Quite possibly, like every single person who’ve never attended a recruitment speed dating before.
 
-Companies that attended were large and emerging start-ups who were probably used to long periods of international, domestic, and internal recruitments. I suspect these companies were also hiring all throughout the year. 
+Participating companies were large and emerging start-ups who were probably used to long periods of international, domestic, and internal recruitments. I suspect these companies were also hiring all throughout the year. 
 
 ## What did I get from it?
 
