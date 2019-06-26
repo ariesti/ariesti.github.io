@@ -11,7 +11,7 @@ layout: default
 <h1>{{ page.title }}</h1>  
 <span>[
   {% for tag in page.tags %}
-    {% capture tag_name %}{{ tag | capitalize | join:',' }}{% endcapture %}
+    {% capture tag_name %}{{ tag | split:',' | sort }}{% endcapture %}
     <a href="/categories/#{{ tag_name }}" class="tag-2"><code class="highlighter-rouge"><nobr>{{ tag_name }}</nobr></code></a>
   {% endfor %}
 ]</span>
