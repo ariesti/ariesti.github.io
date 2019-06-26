@@ -3,3 +3,5 @@ markdown: kramdown
 description: "After I discovered coding, by Lovelli Fuad"
 permalink: /blog/:year/:month/:day/:title
 google_analytics: UA-82882327-1
+highlighter: rouge
+url: "http://fingertip.top"
