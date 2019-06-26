@@ -33,11 +33,11 @@ The event organizer wanted to make sure that each attendee was given a fair chan
 
 On the plus side, I landed a few interviews after the event. Not entirely sure if date night was the reason I landed them, though. Because what happened was after I met with some recruiters during the Hacker X event, and after sending (and replying to) thank you emails back and forth, it would all just boil down to them sending me a link from their website.
 
-I then read about the vacancy these companies have published online by clicking on the link they sent me, filled a form, and everything after that was **the usual**. Wait for a phone call from a number I do not recognize to tell me where to go, when, and what to bring.  
+I then read about the vacancy these companies have published online by clicking on the link they sent me, filled a form, and everything after that was **the usual**: wait for a phone call from a number I do not recognize to tell me where to go, when, and what to bring. Just like everybody else. 
 
-Just like everybody else. Quite possibly, like every single person who’ve never heard of recruitment speed dating before.
+Quite possibly, like every single person who’ve never attended a recruitment speed dating before.
 
-Companies that responded were large and emerging start-ups who were probably used to long periods of international, domestic, and internal recruitments. I suspect these companies were also hiring all throughout the year. 
+Companies that attended were large and emerging start-ups who were probably used to long periods of international, domestic, and internal recruitments. I suspect these companies were also hiring all throughout the year. 
 
 ## What did I get from it?
 
@@ -71,7 +71,7 @@ Late in the night, the event organizers started handing out dinner. I probably w
 
 _Some swag_
 
-Some of these companies were nice enough to give me a notebook or a mug or a bag. It’s a nice gesture, but I really wasn’t expecting anything other than a call or an email the next few days. It would probably just make more sense to hand out goodie bags at the end or the beginning to everyone who came, if you ask me.
+Some of these companies were nice enough to give me a notebook or a mug or a tote bag. It’s a nice gesture, but I really wasn’t expecting anything other than a call or an email the next few days. It would probably just make more sense to hand out goodie bags at the end or the beginning to everyone who came, if you ask me.
 
 _A call_
 
