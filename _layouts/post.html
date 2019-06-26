@@ -12,7 +12,7 @@ layout: default
     
 <span>[
   {% for tag in page.tags %}
-    {% capture tag_name %}{{ tag_name | sort | join:',' }}{% endcapture %}
+    {% capture tag_name %}{{ tag | join:',' }}{% endcapture %}
     <a href="/categories/#{{ tag_name }}" class="tag-3"><code class="highlighter-rouge"><nobr>{{ tag_name }}</nobr></code></a>
   {% endfor %}
 ]</span>
