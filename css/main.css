@@ -328,6 +328,8 @@ a.tag-2 { color: #cc0064 }
 a.tag-2:hover { color: #ff017e }
 
 .tag-3 { background-color: #ececec; color: #FFD9DC }
+a.tag-3 { text-decoration; color: #666; }
+
 /* Paragraphs */
 p { 
 	font-size: 1.1em; 
