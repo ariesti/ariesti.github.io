@@ -27,7 +27,7 @@ I learned that what people tell each other in “networking events”, especiall
 
 First, the event organizer sent me a personalized invitation. I expressed my interest in attending and filled in some sort of online form. Then my e-ticket was emailed to me with a confirmation of the event. A few days before and on D-day, reminders were sent with a few pointers. 
 
-Supposedly, a few hours before event start time recruiters would send out introductory emails to the participants. Only a few did. And on the night of the event, August 22, 2017, a few tables were empty. 
+Supposedly, a few hours before event start time recruiters would send out introductory emails to the participants. Only a few did. And on the night of the event, August 22, 2017, a few tables remained empty. 
 
 The event organizer wanted to make sure that each attendee was given a fair chance to get to know the recruiters. Perhaps they wanted us to talk to all attending companies? I can’t quite explain how it was done, but after a couple of minutes someone would just be running around telling attendees where to stand or where to sit. 
 
@@ -67,7 +67,7 @@ The event was geared towards developers, but the type of vacancy was pretty rand
 
 _Dinner_
 
-Late in the night, the event organizers started handing out dinner. I probably wouldn’t have eaten anything if I hadn’t loitered to listen to Tokopedia staff talking about a regular networking event held at their new headquarters. The way the pizza boxes were lined up gave me the impression that the food was only for recruiters. An entire dinner pack had a recruiter’s name and company written on it, so…
+Late in the night, the event organizers started handing out dinner. I probably wouldn’t have eaten anything if I hadn’t loitered to listen to Tokopedia staff talking about a regular networking event held at their new headquarters. The way the ```pizza``` boxes were lined up gave me the impression that the food was only for recruiters. An entire dinner pack had a recruiter’s name and company written on it, so…
 
 _Some swag_
 
@@ -81,11 +81,11 @@ Some time after date night, some recruiters would do a follow-up. A few calls fr
 
 I was a bit bummed at how uncomfortable the first one went. I decided to go again the following year just to see how I felt about this one. Instead of printing my resume and handing out name cards, I decided to hand out links to my online cv to these recruiters. 
 
-The second time I went, it was a lot better organized. But after talking to some of the developers, they were still quite clueless of what the event was and what to expect. 
+The second time I went, it was a lot better organized. But after talking to fellow developers, it was apparent that they were still quite clueless of what the event was and what to expect. 
 
 For networking, though, you’d probably get more out of an actual developer meetup or by participating at a local community program. 
 
-But still not a lot of female developers were taking part. The ratio was maybe around 1 female developer every 5 attendees. This time, however, the food was better, the drinks were better. Even the Hacker X team gave a better presentation about the event. 
+But still, not a lot of female developers were taking part. The ratio was maybe around 1 female developer every 5 attendees. The previous year it was closer to 1 in 8. This time, however, the food was better, the drinks were better. Even the Hacker X team gave a better presentation about the event. 
 
 I proceeded to invite every single person I talked to during that event to become a LinkedIn contact. A few human resources staff or employees from recruiting departments within the companies that took part reached out to me before the event. I received a couple of invites to do further testing, but that was it really. 
 
@@ -96,4 +96,4 @@ Both Hacker X events were centered around tech companies instead of the develope
 
 The second time was a mixed bag, but still felt a bit like a waste of time. The stress was still there. Although the event was held at a smaller kind of co-working space, networking didn’t become any easier. 
 
-So if you’re thinking about [going to a Hacker X night out](https://hackerx.org/) in your city, whether as an attendee or a recruiter, and you’re okay with meeting random developers who might or might not be interested in your company, then you would probably like it. As for me, I am not planning to go to a third one. 
+So if you’re thinking about [going to a Hacker X night out](https://hackerx.org/) in your city, whether as an attendee or a recruiter, and you’re okay with meeting random developers who might or might not know what they're doing there, then you would probably like it. As for me, I am not planning to go to a third one. 
