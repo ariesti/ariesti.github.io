@@ -1,6 +1,5 @@
 ---
 layout: post
-author: Lovelli Fuad
 title: "Hacker X Jakarta: My Speed Dating (for Work) Experience"
 description: That time I went to a recruitment speed dating
 permalink: hackerx-speed-dating-for-work
@@ -92,7 +91,7 @@ I proceeded to invite every single person I talked to during that event to becom
 ![My second Hacker X event was a lot better and felt more homey](/assets/image/hackerx-2018.png)
 <p class="alpha">HackerX | July 19, 2018</p> 
 
-Both Hacker X events were centered around tech companies instead of the developers. On the first event in 2017, I felt like I had to win over the recruiting company by saying something interesting about myself. The companies didn’t really have to pitch anything in any way to attract the tech talents. 
+Both Hacker X events were centered around tech companies instead of the developers. On the first event in 2017, I felt like I had to win over the recruiting company by saying something interesting about myself. The companies didn’t really have to pitch anything in any way to attract these tech talents. 
 
 The second time was a mixed bag, but still felt a bit like a waste of time. The stress was still there. Although the event was held at a smaller kind of co-working space, networking didn’t become any easier. 
 
