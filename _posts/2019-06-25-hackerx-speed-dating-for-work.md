@@ -66,7 +66,7 @@ The event was geared towards developers, but the type of vacancy was pretty rand
 
 _Dinner_
 
-Late in the night, the event organizers started handing out dinner. I probably wouldn’t have eaten anything if I hadn’t loitered to listen to Tokopedia staff talking about a regular networking event held at their new headquarters. The way the ```pizza``` boxes were lined up gave me the impression that the food was only for recruiters. An entire dinner pack had a recruiter’s name and company written on it, so…
+Late in the night, the event organizers started handing out dinner. I probably wouldn’t have eaten anything if I hadn’t loitered to listen to Tokopedia staff talking about a regular networking event held at their new headquarters. The way the ```pizza``` boxes were lined up gave me the impression that the food was only for employees. An entire dinner pack had a recruiter’s name and company written on it, so…
 
 _Some swag_
 
