@@ -307,6 +307,8 @@ a.PageNavigation  {
   border-bottom: none;
 }
 
+a.PageNavigation:hover { color: #ff0180 }
+
 .PageNavigation .next {
   text-align: right;
   float: right;
