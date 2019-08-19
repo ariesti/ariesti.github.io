@@ -269,6 +269,7 @@ h6 { font-size: 1em; }
 	text-transform: uppercase;
 }
 
+
 /* Subtitle and title */
 
 .subtitle {
@@ -325,6 +326,11 @@ a.PageNavigation:active {
 .PageNavigation .next {
   text-align: right;
   float: right;
+}
+
+.cate {
+	display: inline-block;
+	margin: 0;
 }
 
 /* Link and hover 
