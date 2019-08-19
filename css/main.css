@@ -298,16 +298,18 @@ header {
   overflow: hidden;
 }
 
-.PageNavigation a {
+a.PageNavigation  {
   display: block;
   width: 50%;
   float: left;
   margin: 1em 0;
+  text-decoration: none;
   border-bottom: none;
 }
 
 .PageNavigation .next {
   text-align: right;
+  float: right;
 }
 
 /* Link and hover 
