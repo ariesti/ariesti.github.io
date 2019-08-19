@@ -28,8 +28,7 @@ layout: default
     <br>
 
 <div class="post-categories">
-<span>
-  <h5>Categories:</h5>&nbsp;
+<p><h5>Categories:</h5>&nbsp;
   <span class="alpha">{% if post %}
     {% assign categories = post.categories %}
   {% else %}
@@ -39,8 +38,9 @@ layout: default
   <a href="{{site.baseurl}}/categories/#{{category|slugize}}" class="myButton neutral">{{category}}</a>
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
+</p>
   </span>
-  </span>
+
 </div>
     
   <br>
