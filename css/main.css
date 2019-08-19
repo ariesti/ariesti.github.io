@@ -296,7 +296,7 @@ header {
   display: block;
   width: auto;
   overflow: hidden;
-  color: #ff017e;
+  color: #F05A8B;
 }
 
 a.PageNavigation:link {
@@ -312,10 +312,11 @@ a.PageNavigation:link {
 a.PageNavigation:hover {
   text-decoration: none; 
   border-bottom: none;
-  color: #ff0180;	
+  color: #ff017e;	
 }
+
 a.PageNavigation:visited {
-  color: #ff0180;
+  color: #cc0066;
 }
 a.PageNavigation:active {
   color: #cc0066;
