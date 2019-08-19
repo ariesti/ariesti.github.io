@@ -289,6 +289,10 @@ header {
 	text-align: center;
 }
 
+.next {
+        float: right;
+    }
+
 /* Link and hover 
  
  * Remove the gray background on active links in IE 10 */
