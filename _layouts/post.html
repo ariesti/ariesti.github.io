@@ -27,8 +27,8 @@ layout: default
     <p><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
     <br>
 
-<div class="post-categories">
-  <span class="alpha"><p><h5>Categories:</h5>&nbsp;{% if post %}
+<div class="post-categories whole">
+  <p><h5>Categories:</h5>&nbsp;<span class="alpha">{% if post %}
     {% assign categories = post.categories %}
   {% else %}
     {% assign categories = page.categories %}
@@ -36,8 +36,8 @@ layout: default
   {% for category in categories %}
   <a href="{{site.baseurl}}/categories/#{{category|slugize}}" class="myButton neutral">{{category}}</a>
   {% unless forloop.last %}&nbsp;{% endunless %}
-    {% endfor %}</p>
-  </span>
+    {% endfor %}
+  </span></p>
 </div>
     
   <br>
