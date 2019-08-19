@@ -305,10 +305,10 @@ a.PageNavigation  {
   margin: 1em 0;
   color: #ff017e;
   text-decoration: none;
-  border-bottom: 0px;
+  border-bottom: none;
 }
 
-a.PageNavigation:hover { color: #ff0180 }
+a.PageNavigation:hover { color: #ff0180; text-decoration: none; border-bottom: none; }
 
 .PageNavigation .next {
   text-align: right;
