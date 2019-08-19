@@ -296,6 +296,7 @@ header {
   display: block;
   width: auto;
   overflow: hidden;
+  color: #ff017e;
 }
 
 a.PageNavigation {
