@@ -28,7 +28,7 @@ layout: default
     <br>
 
 <div class="post-categories whole">
-  <p><h5>Categories:</h5>&nbsp;<span class="alpha">{% if post %}
+  <p><span class="alpha"><h5>Categories:</h5>{% if post %}
     {% assign categories = post.categories %}
   {% else %}
     {% assign categories = page.categories %}
