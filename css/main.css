@@ -308,7 +308,7 @@ a.PageNavigation  {
   border-bottom: none;
 }
 
-a.PageNavigation:hover { color: #ff0180; text-decoration: none; border-bottom: none; }
+a.PageNavigation: hover { color: #ff0180; text-decoration: none; border-bottom: none; }
 
 .PageNavigation .next {
   text-align: right;
@@ -334,7 +334,7 @@ abbr[title] {
   text-decoration: underline dotted; /* 2 */
 }
 
-a { text-decoration: none; color: #ff017e; border-bottom: 1px solid #ececec; }
+a { text-decoration: none; color: #ff017e; border-bottom: none; }
 a:hover { color: #ff017e; }
 
 a.pinklink { text-decoration: none; color: #333; border-bottom: 2px solid #ff017e; }
