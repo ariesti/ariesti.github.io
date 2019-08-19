@@ -329,8 +329,7 @@ a.PageNavigation:active {
 }
 
 .cate {
-	display: inline-block;
-	margin: 0;
+	display: inline;
 }
 
 /* Link and hover 
