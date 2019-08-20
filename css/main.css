@@ -365,7 +365,7 @@ a.call-to-action:hover { color: #666; }
 a.call-to-action:visited { color: #333; }
 
 .tag-3 { background-color: #ececec; color: #FFD9DC }
-a.tag-3 { text-decoration: none; color: #333; border-bottom-style: none; }
+a.tag-3:link { text-decoration: none; color: #333; border-bottom-style: none; }
 
 a.tag-cloud:link { text-decoration: none; color: #666; border-bottom-style: none;}
 a.tag-cloud:hover { color: #666; }
