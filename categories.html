@@ -9,8 +9,34 @@ permalink: /categories/
   <div class="content">
     <main>
       
-<div class="whole-topless">
-        
+<div class="whole-topless">  
+
+  <h1>Tag Clouds</h1>
+  
+<!-- Not used, good.
+<ul class="tag-cloud">
+{% for tag in site.tags %}
+  <li style="font-size: {{ tag | last | size | times: 100 | divided_by: site.tags.size | plus: 70  }}%">
+    <a href="#{{ tag | first | slugize }}">
+      {{ tag | first }}
+    </a>
+  </li>
+{% endfor %}
+</ul> --> 
+
+<p>
+  {% for tag in site.tags %}
+  <a href="#{{ tag[0]}}"
+    style="font-size: {{ tag[1] | size | times: 39 | divided_by: site.tags.size | plus: 21 }}px" class="tag-cloud">
+    {{ tag[0] }} |
+  </a>
+  {% endfor %}
+  </p>
+
+    </div>  
+
+<div class="whole">
+  
 <h1>Categories</h1>
   
 <div id="archives">
@@ -36,31 +62,9 @@ permalink: /categories/
 </div>
         
 </div>
-      
+    
 <div class="whole">
   
-<h1>Tag Clouds</h1>
-  
-<!-- Not used, good.
-<ul class="tag-cloud">
-{% for tag in site.tags %}
-  <li style="font-size: {{ tag | last | size | times: 100 | divided_by: site.tags.size | plus: 70  }}%">
-    <a href="#{{ tag | first | slugize }}">
-      {{ tag | first }}
-    </a>
-  </li>
-{% endfor %}
-</ul> --> 
-
-<p>
-  {% for tag in site.tags %}
-  <a href="#{{ tag[0]}}"
-    style="font-size: {{ tag[1] | size | times: 39 | divided_by: site.tags.size | plus: 21 }}px" class="tag-cloud">
-    {{ tag[0] }} |
-  </a>
-  {% endfor %}
-  </p>
-
 <h1>Tags</h1>        
 
 <div id="archives">
