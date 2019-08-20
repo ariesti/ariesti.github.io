@@ -364,7 +364,10 @@ a.call-to-action { text-decoration: none; color: #666; border-bottom: 1px solid 
 a.call-to-action:hover { color: #666; }
 a.call-to-action:visited { color: #333; }
 
-a.tag-cloud:link { text-decoration: none; color: #666; border-bottom: none;}
+.tag-3 { background-color: #ececec; color: #FFD9DC }
+a.tag-3 { text-decoration: none; color: #333; border-bottom-style: none; }
+
+a.tag-cloud:link { text-decoration: none; color: #666; border-bottom-style: none;}
 a.tag-cloud:hover { color: #666; }
 a.tag-cloud:visited { color: #333; }
 
