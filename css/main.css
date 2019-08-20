@@ -364,9 +364,9 @@ a.call-to-action { text-decoration: none; color: #666; border-bottom: 1px solid 
 a.call-to-action:hover { color: #666; }
 a.call-to-action:visited { color: #333; }
 
-.tag-3 { background-color: #ececec; color: #333 }
-a.tag-3:link { text-decoration: none; color: #333; border-bottom-style: none; }
-a.tag-3:hover { color: #666; }
+.tag-3 { background-color: #ececec; color: #666 }
+a.tag-3:link { text-decoration: none; color: #666; border-bottom-style: none; }
+a.tag-3:hover { color: #333; }
 
 a.tag-cloud:link { text-decoration: none; color: #666; border-bottom-style: none;}
 a.tag-cloud:hover { color: #666; }
