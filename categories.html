@@ -54,7 +54,7 @@ permalink: /categories/
 <p>
   {% for tag in site.tags %}
   <a href="#{{ tag[0]}}"
-    style="font-size: {{ tag[1] | size \ times: 2 | plus: 10}}px">
+    style="font-size: {{ tag[1] | size | times: 2 | plus: 10}}px">
     {{ tag[0] }} |
   </a>
   {% endfor %}
