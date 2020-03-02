@@ -16,7 +16,9 @@ layout: default
 <hr class="mt-2 mb-5">    
 
 <!-- call the featured-post-image.html template file -->
-   {% if page.featured-image %}{% include post-featured-image.html image=page.featured-image alt=page.featured-image-alt %}{% endif %}    
+<figure class="figure-img img-fluid rounded">
+  <img src="{% if page.featured-image %}{% include post-featured-image.html image=page.featured-image alt=page.featured-image-alt %}{% endif %}" alt="My second hacker X event">
+</figure>
 
 <article class="post-content">
   {{ content }}
