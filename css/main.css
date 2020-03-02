@@ -526,5 +526,5 @@ img.banner:hover {
 }
 
 .img-circle {
-    border-radius: 50%;
+    border-radius: 50%!important;
 } 
