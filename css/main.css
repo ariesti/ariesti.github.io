@@ -524,7 +524,3 @@ img.banner:hover {
     -webkit-transform: scaleX(-1);
     transform: scaleX(-1);
 }
-
-.img-circle {
-    border-radius: 50%!important;
-} 
