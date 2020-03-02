@@ -30,10 +30,10 @@ description: Towards digital humanities
 		<hr class="mt-2 mb-5">
 		<p>			
 		<ul>
-	  	{% for post in site.posts limit: 4 %}
+	  	{% for post in site.posts limit: 2 %}
 	   	<li class="posts">
 		<h5><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h5> <span class="alpha">&nbsp{{ post.date | date: '%B %-d, %Y — %H:%M' }}</span>
-		{{ post.excerpt }}<a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
+			{{ post.excerpt }}<a href="{{ site.baseurl }}{{ post.url }}">Read more</a>//<a href="https://fingertip.top/words/">All words</a>
 		</li>
 		<hr class="grey">	
 	 	{% endfor %}
@@ -67,6 +67,5 @@ description: Towards digital humanities
 		<h2>Just <a href="https://stackoverflow.com/cv/lovellifuad">show me</a> what you've done!</h2>
 			</div>
 		</div>
-		<hr class="mt-2 mb-5">
 	</div>
 </div>
