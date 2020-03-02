@@ -90,7 +90,7 @@ I proceeded to invite every single person I talked to during that event to becom
 
 <figure class="figure">
   <img src="/assets/image/hackerx-2018.png" class="figure-img img-fluid rounded" alt="My second hacker X event">
-  <figcaption class="figure-caption">HackerX | July 19, 2018</figcaption>
+  <figcaption class="figure-caption alpha">HackerX | July 19, 2018</figcaption>
 </figure>
 
 ![My second Hacker X event was a lot better and felt more homey](/assets/image/hackerx-2018.png)
