@@ -6,14 +6,15 @@ layout: default
 <div class="content">  
 <div class="container">
   
-<h1 class="font-weight-light text-lg-left mt-4 mb-0">{{ page.title }}</h1><span class="beta">
+<h1 class="font-weight-light text-lg-left mt-4 mb-0">{{ page.title }}</h1>
+<span class="alpha">{{ page.date | date: "%A, %B %-d, %Y" }}</span><span class="beta">
   {% for tag in page.tags %}
     {% capture tag_name %}#{{ tag | join:',' }}{% endcapture %}
     <a href="/categories/{{ tag_name }}" class="tag-3"><code class="highlighter-rouge"><nobr>{{ tag_name }}</nobr></code></a>
   {% endfor %}
 </span>
 <hr class="mt-2 mb-5">    
-<p><span class="alpha">{{ page.date | date: "%A, %B %-d, %Y" }}</span></p>
+
 <!-- call the featured-post-image.html template file -->
    {% if page.featured-image %}{% include post-featured-image.html image=page.featured-image alt=page.featured-image-alt %}{% endif %}    
 
