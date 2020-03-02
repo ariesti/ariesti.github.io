@@ -90,11 +90,8 @@ I proceeded to invite every single person I talked to during that event to becom
 
 <figure class="figure">
   <img src="/assets/image/hackerx-2018.png" class="figure-img img-fluid rounded" alt="My second hacker X event">
-  <figcaption class="figure-caption alpha">HackerX | July 19, 2018</figcaption>
+  <p class="alpha">HackerX | July 19, 2018</p>
 </figure>
-
-![My second Hacker X event was a lot better and felt more homey](/assets/image/hackerx-2018.png)
-<p class="alpha">HackerX | July 19, 2018</p> 
 
 Both Hacker X events were centered around tech companies instead of the developers. On the first event in 2017, I felt like I had to win over the recruiting company by saying something interesting about myself. The companies didn’t really have to pitch anything in any way to attract these tech talents. 
 
