@@ -504,17 +504,4 @@ li.posts {list-style: none;}
 	display:none;
 	}
 }
-/* Image */
 
-img.banner { 
-	vertical-align: middle;
-	width: auto;
-  	max-width: 100%;
-  	height: auto;
-	padding: 5px;
-}
-
-img.banner:hover {
-    -webkit-transform: scaleX(-1);
-    transform: scaleX(-1);
-}
