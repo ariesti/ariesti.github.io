@@ -10,6 +10,7 @@ categories: [guide]
 tags: [mentoring, hack, do]
 lang: en
 featured-image: my-cinema-quote.png
+featured-image-description: Are you a freelancer friend?
 featured-image-alt: People facing home cinema screen
 ---
 
