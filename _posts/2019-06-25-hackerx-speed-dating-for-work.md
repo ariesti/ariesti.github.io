@@ -88,6 +88,11 @@ But still, not a lot of female developers were taking part. The ratio was maybe 
 
 I proceeded to invite every single person I talked to during that event to become a LinkedIn contact. A few human resources staff or employees from recruiting departments within the companies that took part reached out to me before the event. I received a couple of invites to do further testing, but that was it really. 
 
+<figure class="figure">
+  <img src="/assets/image/hackerx-2018.png" class="figure-img img-fluid rounded" alt="My second hacker X event">
+  <figcaption class="figure-caption">HackerX | July 19, 2018</figcaption>
+</figure>
+
 ![My second Hacker X event was a lot better and felt more homey](/assets/image/hackerx-2018.png)
 <p class="alpha">HackerX | July 19, 2018</p> 
 
