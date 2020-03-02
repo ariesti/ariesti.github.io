@@ -505,12 +505,6 @@ li.posts {list-style: none;}
 	}
 }
 /* Image */
-img {
-	vertical-align: middle;
-	width: auto ;
-  	max-width: 100% ;
-  	height: auto ;
-}
 
 img.banner { 
 	vertical-align: middle;
