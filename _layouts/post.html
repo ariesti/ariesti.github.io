@@ -17,6 +17,8 @@ layout: default
 <div class="mt-0 mb-5">
 {% if page.updated %}
   <span class="alpha">Updated on {{ page.updated | date: '%B %-d, %Y — %H:%M' }} by </span><a href="/categories/#" class="neutral"><span class="beta"><code class="highlighter-rouge"><nobr>{{ page.updated-by }}</nobr></code></span></a>
+{% else %}
+  <span class="alpha">   </span>
 {% end if %}
 </div>
 </div>
