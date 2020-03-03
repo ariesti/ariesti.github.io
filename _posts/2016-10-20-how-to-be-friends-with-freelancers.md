@@ -6,6 +6,8 @@ tagline: I don't have that many friends, which makes me the perfect person to wr
 description: How to interact with friends who freelance
 permalink: good-freelancer-friends-guide
 date: 2016-10-20 00:38
+updated: 2020-03-04 01:14 AM
+updated-by: "Bob Bock"
 categories: [guide]
 tags: [mentoring, hack, do]
 lang: en
