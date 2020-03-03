@@ -85,7 +85,7 @@ If existing projects are no longer sufficient, you’d want to consider creating
 
 ## It's Not All About the S-S-SWAAAG!
 
-<figure class="figure-img img-fluid rounded">
+<figure class="figure-img img-fluid rounded mb-4">
   <img src="/assets/image/2-ftt.png" class="figure-img img-fluid rounded" alt="Finally got my swag in the mail">
   <p class="alpha">My first dev swag</p>
 </figure>
