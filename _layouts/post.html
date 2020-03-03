@@ -14,7 +14,9 @@ layout: default
   {% endfor %}
 </span>
 <hr class="mt-2 mb-0">    
-<span class="alpha mb-4">{{ page.date | date: "%A, %B %-d, %Y" }}</span>
+<div class="mt-0 mb-4">
+<span class="alpha">{{ page.date | date: "%A, %B %-d, %Y" }}</span>
+</div>
 <!-- call the featured-post-image.html template file -->
 {% if page.featured-image %}{% include post-featured-image.html image=page.featured-image alt=page.featured-image-alt %}{% endif %}
 
