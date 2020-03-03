@@ -24,7 +24,7 @@ Can’t seem to find a freelancer friend? Try going to that cozy coffee shop aro
 
 Better yet, try the online forums. 
 
-## <div class="grey mb-4">Online friendship is important</div>
+<h2 class="grey mb-4">Online friendship is important</h2>
 
 All friendships are important, ask any mum. But online friendship is a special kind of friendship. The nature of online friendship is already different from the rest. 
 
