@@ -354,7 +354,7 @@ abbr[title] {
 a { text-decoration: none; color: #ff017e; border-bottom: none;}
 a:hover { color: #ff017e; }
 
-.gray {text-decoration: none; color: inherit; margin-bottom: ($spacer * .5) !important; border-bottom: 1px solid #ececec;}
+.grey {text-decoration: none; color: inherit; margin-bottom: ($spacer * .5) !important; border-bottom: 1px solid #ececec;}
 
 a.pinklink { text-decoration: none; color: #333; border-bottom: 2px solid #ff017e; }
 a.pinklink:hover { text-decoration: none; color: #ff017e; }
