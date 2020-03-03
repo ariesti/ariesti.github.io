@@ -28,7 +28,7 @@ Okay, maybe business is still a little way off, but here are some things you can
 * **Viewport for responsive pages.** Modern websites are built with mobile in mind, so they’ve got to be responsive and stay responsive. You should be able to go over the website code and check if the viewport meta tag is correctly setup. Google’s recommendation is: 
 
 {% highlight ruby %}
-<meta name=viewport content="width=device-width, initial-scale=1">
+  <meta name=viewport content="width=device-width, initial-scale=1">
 {% endhighlight %}
 
 You can copy your project’s URL and paste it on to any mobile SEO tool to see if the viewport tag is correctly used. If not, that could just be your very first PR. 
