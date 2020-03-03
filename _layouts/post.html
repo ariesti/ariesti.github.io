@@ -15,11 +15,11 @@ layout: default
 </span>
 <hr class="mt-2 mb-0">    
 <div class="mt-0 mb-5">
-{% if page.updated %}
+  
+{% for updated in page.updated %}
+  {% capture updated_name %}{{ updated }}{% endcapture %}
   <span class="alpha">Updated on {{ page.updated | date: '%B %-d, %Y — %H:%M' }} by </span><a href="/categories/#" class="neutral"><span class="beta"><code class="highlighter-rouge"><nobr>{{ page.updated-by }}</nobr></code></span></a>
-{% else %}
-  <span class="alpha">   </span>
-{% end if %}
+{% endfor %}
 </div>
 </div>
 <!-- call the featured-post-image.html template file -->
