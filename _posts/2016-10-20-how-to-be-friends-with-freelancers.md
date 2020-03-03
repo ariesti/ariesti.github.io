@@ -14,7 +14,7 @@ featured-image-description: Are you a freelancer friend?
 featured-image-alt: People facing home cinema screen
 ---
 
-In our lives, there are many types of friends. There’s the online friend, the offline friend, the Twitter friend, the Facebook friend, the blogging friend, the childhood friend, and nowadays, **the freelancer friend.**
+<div class="lead">In our lives, there are many types of friends. There’s the online friend, the offline friend, the Twitter friend, the Facebook friend, the blogging friend, the childhood friend, and nowadays, **the freelancer friend.**</div>
 
 **If there’s not at least one freelancer friend in your life, chances are you are it.** 
 
