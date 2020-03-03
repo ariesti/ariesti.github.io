@@ -5,6 +5,8 @@ title: "A Super Simple Search Page for Finger Tip-Top"
 description: Finger Tip-Top now has a search page
 permalink: search-page-for-Jekyll-blog
 date: 2019-05-05 05:01 PM
+updated: 2020-03-02 04:00 AM
+updated-by: "Abigale Mollica"
 categories: [web, admin, tutorials]
 tags: [beginners, ui, websites]
 lang: en
