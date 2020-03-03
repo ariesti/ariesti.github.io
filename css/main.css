@@ -355,7 +355,7 @@ a { text-decoration: none; color: #ff017e; border-bottom: none;}
 a:hover { color: #ff017e; }
 
 .grey {text-decoration: none; color: inherit; margin-bottom: ($spacer * .5) !important; border-bottom: 1px solid #ececec;}
-.grey:hover { color: #0056b3; text-decoration: none; margin-bottom: ($spacer * .5) !important; none; border-bottom: 1px solid #0056b3; }
+a.grey:hover { color: #0056b3; text-decoration: none; margin-bottom: ($spacer * .5) !important; none; border-bottom: 1px solid #0056b3; }
 	
 a.pinklink { text-decoration: none; color: #333; border-bottom: 2px solid #ff017e; }
 a.pinklink:hover { text-decoration: none; color: #ff017e; }
