@@ -15,7 +15,7 @@ layout: default
 </span>
 <hr class="mt-2 mb-0">    
 <div class="mt-0 mb-5">
-<span class="alpha">Updated on {{ page.updated | date: '%B %-d, %Y — %H:%M' }} by </span><code>{{ page.updated-by }}</code>
+<span class="alpha">Updated on {{ page.updated | date: '%B %-d, %Y — %H:%M' }} by </span><code class="alpha">{{ page.updated-by }}</code>
 </div>
 <!-- call the featured-post-image.html template file -->
 {% if page.featured-image %}{% include post-featured-image.html image=page.featured-image alt=page.featured-image-alt %}{% endif %}
