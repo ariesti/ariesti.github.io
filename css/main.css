@@ -354,7 +354,7 @@ abbr[title] {
 a { text-decoration: none; color: #ff017e; border-bottom: none;}
 a:hover { color: #ff017e; }
 
-.grey {text-decoration: none; color: 007bff; margin-bottom: ($spacer * .5) !important; border-bottom: 1px solid #ececec;}
+.grey {text-decoration: none; color: inherit; margin-bottom: ($spacer * .5) !important; border-bottom: 1px solid #ececec;}
 a.grey {text-decoration: none; color: 007bff; margin-bottom: ($spacer * .5) !important; border-bottom: 1px solid #ececec;}
 a.grey:hover { color: #0056b3; text-decoration: none; margin-bottom: ($spacer * .5) !important; none; border-bottom: 1px solid #0056b3; }
 	
