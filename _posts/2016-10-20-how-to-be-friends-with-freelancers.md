@@ -24,7 +24,7 @@ Can’t seem to find a freelancer friend? Try going to that cozy coffee shop aro
 
 Better yet, try the online forums. 
 
-## <span class="grey">Online friendship is important</span>
+## <span class="gray">Online friendship is important</span>
 
 All friendships are important, ask any mum. But online friendship is a special kind of friendship. The nature of online friendship is already different from the rest. 
 
@@ -34,7 +34,7 @@ Nope. Both online and offline friendships have a relatively equal chance of bein
 
 They are not a one-way street. They evolve and grow over time. Genuine interactions can easily turn to fake, and then genuine again, and then less fake. Especially when what both friends have in common is a lack of interest in keeping the friendship alive. 
 
-## Online vs. offline relationship
+## <span class="gray">Online vs. offline relationship</span>
 
 Online and offline friendships don't differ that much to me:
 
@@ -48,7 +48,7 @@ However similar, online and offline friendships are essentially two different th
 
 _Everybody talks._ But the way people talk to you when you’re out and about is different from the way you talk to someone you just met online. Due to the nature of their work, freelancers who work online might prefer one method of communication to another, e.g. email over phone. The old fashioned offline friendship relies heavily on phone conversations, text messages, and face-to-face chats. Meanwhile, an online friendship can still flourish even if you never meet each other in real life. 
 
-## Don't do these to your freelancer friends
+## <span class="gray">Don't do these to your freelancer friends</gray>
 
 There are some things you probably shouldn't do to a freelancer friend:
 
@@ -70,7 +70,7 @@ Don’t turn into an annoying client when you’re alone with your freelancer fr
 #### **6. Turn every chance into a job interview.** 
 Just because a friend is working remotely from home, does not mean that she wants a job interview practice session with you. You don’t have to ask her about her finances, her product offerings, or her services. You also don’t have to give her unsolicited career advice just because. A piece of unsolicited advice may cause stress and people easily take them as criticism instead of support. 
 
-## The ‘don’t be a stranger’ rule
+## <span class="gray">The ‘don’t be a stranger’ rule</span>
 
 Imagine visiting a small neighborhood café for the first time. Nobody there knows you and you don’t know anyone. In fact, you don’t even know what drink to order. When you approach the counter, you know for sure, and even expect, the waiter to greet you in such a manner that would not make you feel embarrassed or unwelcomed. Most waiters would offer a warm smile and a bit of advice on what to order to help you make up your mind. They are friendly but they are not your friends. 
 
@@ -80,7 +80,7 @@ Likewise, the friendliness of a waiter at some café does not warrant a friendsh
 
 The “don’t be a stranger” rule is common online agreement. But what we’re really saying is _don’t be a jerk_ to the strangers you meet. This rule goes beyond the realm of the internet. And when it comes to your freelancing friend, don’t _become_ the stranger. 
 
-## Friendship has tiers and levels
+## <span class="gray">Friendship has tiers and levels</span>
 
 Just because someone you used to know is now a freelancer that does not make her “your ex-friend.” It does not imply that if you would like to chat with her you would need to pay for her time. It also does not mean that she is using the term “freelancer” to stop the friendship from growing. 
 
