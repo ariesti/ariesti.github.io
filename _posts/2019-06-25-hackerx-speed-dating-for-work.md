@@ -4,6 +4,8 @@ title: "Hacker X Jakarta: My Speed Dating (for Work) Experience"
 description: That time I went to a recruitment speed dating
 permalink: hackerx-speed-dating-for-work
 date: 2019-06-25 10:16 PM
+updated: 2020-03-03 09:17 PM
+updated-by: "Sikh Canon"
 categories: [reviews, events, community]
 tags: [social, data, advertising]
 lang: en
