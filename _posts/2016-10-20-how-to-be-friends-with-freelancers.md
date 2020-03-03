@@ -18,7 +18,7 @@ featured-image-alt: People facing home cinema screen
 
 **If there’s not at least one freelancer friend in your life, chances are you are it.** 
 
-Just kidding. (You could also be a [ghosted](https://01.media/11-weird-and-wonderful-new-merriam-webster-entries-from-tech) friend.)
+Just kidding. (You could also be a <span class="grey">[ghosted](https://01.media/11-weird-and-wonderful-new-merriam-webster-entries-from-tech)</span> friend.)
 
 Can’t seem to find a freelancer friend? Try going to that cozy coffee shop around the corner and see if anybody there is sitting alone facing a laptop, while also taking pictures of the food. Try the cafes in the malls, the co-working spaces, the park benches… the beaches?! 
 
