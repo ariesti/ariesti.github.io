@@ -276,6 +276,11 @@ h6 { font-size: 1em; }
 	border-bottom: 1px solid #ececec;
 }
 
+.points {
+	font-size: 1.1em; 
+	font-family: Work Sans, sans-serif;
+    	color: #333;
+}
 /* Subtitle and title */
 
 .subtitle {
