@@ -53,11 +53,11 @@ Just need to do some digging to find those repos.
 
 These are some other interesting first-timer guides to open source projects. Each includes links to where to find your first:
 
-* <a href="https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/" class="pinklink">A First Timer's Guide to an Open Source Project</a> from AuthO
+* <a href="https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/" class="pinklink">A First Timer's Guide to an Open Source Project</a> from <code>AuthO</code>
 
-* [Open Source Guide](https://opensource.guide/) and [Open Source Friday](https://opensourcefriday.com/#participate) from GitHub and friends
+* <a href="https://opensource.guide/" class="pinklink">Open Source Guide]() and <a href="https://opensourcefriday.com/#participate" class="pinklink">Open Source Friday</a> from <code>GitHub</code> and friends
 
-* [Contributing to Your First Open Source Project: A Practical Approach](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae)
+* <a href="https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae" class="pinklink">Contributing to Your First Open Source Project: A Practical Approach</a>
 
 <div class="mt-4 mb-4"><h2><span class="grey">How to Participate</span></h2></div>
 
