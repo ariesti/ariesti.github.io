@@ -5,7 +5,7 @@ title: "Got My Very First Dev Swag in the Mail. It's Hacktoberfest No. 5!"
 description: I joined Hacktoberfest last year and got my first dev swag this year. You too can take part in this community event this October. 
 permalink: hacktoberfest-dev-swag
 date: 2019-03-29 05:45 PM
-updated: 2020-03-04 01:21 AM
+updated: 2020-03-04 05:34 PM
 updated-by: "Bob Bock"
 categories: [community/events, tutorials]
 tags: [beginners, open-source, reviews]
@@ -86,7 +86,6 @@ Turns out that the open source community has a culture of rewarding contributors
 <div class="mt-4 mb-4"><h4><span class="grey">Consider creating your own open source projects.</span></h4></div>
 
 If existing projects are no longer sufficient, you’d want to consider creating your own. With the right dev swags (and marketing mix) you might be able to attract rising talents that could lead to somewhere amazing. 
-
 
 <div class="mt-4 mb-4"><h2><span class="grey">It's Not All About the S-S-SWAAAG! But when it is, it's lit...</span></h2></div>
 
