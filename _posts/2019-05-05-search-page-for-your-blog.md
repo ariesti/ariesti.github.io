@@ -23,7 +23,7 @@ The search page I had in mind is not just a blank box to fill with search phrase
 
 Finger Tip-Top’s search page includes all the categories and tags and a Google search functionality. This is pretty easy to do with the free Google custom search, which requires only 3 simple steps to set up:
 
-1.	Go to Google custom search’s website at <h ref="https://cse.google.com" class="blue">cse.google.com</a>.
+1.	Go to Google custom search’s website at <a h ref="https://cse.google.com" class="blue">cse.google.com</a>.
 
 2.	Create a new search engine. Let Google know the name of your site and the language of the posts. 
 
