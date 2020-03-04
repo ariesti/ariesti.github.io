@@ -27,7 +27,7 @@ Don’t worry so much about the coding bits, because the focus of Hacktoberfest 
 
 Okay, maybe business is still a little way off, but here are some things you can do to get started (right away):
 
-<div class="points mt-4 ml-3"><b><span class="grey">Check for broken and/or outdated links.</span></b> This is mostly what I did. I contributed to a WebDevStudio project creating WordPress starter themes, so there were plenty of links referencing WordPress’s Codex, which has moved to a different subdomain but still at Wordpress.org. Some of these links are not broken; they simply need to be updated to point to the most recent webpages.</div> 
+1. <div class="points mt-4 ml-3"><b><span class="grey">Check for broken and/or outdated links.</span></b> This is mostly what I did. I contributed to a WebDevStudio project creating WordPress starter themes, so there were plenty of links referencing WordPress’s Codex, which has moved to a different subdomain but still at Wordpress.org. Some of these links are not broken; they simply need to be updated to point to the most recent webpages.</div> 
 
 <div class="points mt-2 ml-3"><b><span class="grey">Fix the typos.</span></b> Typos are bugs! And you need to fix them. Content can be buggy, too, especially if the website is localized into other languages. Go for the obvious grammar and misspelling ones, rather than the more subtle issues of style.</div> 
 
