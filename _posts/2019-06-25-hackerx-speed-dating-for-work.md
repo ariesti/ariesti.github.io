@@ -44,15 +44,13 @@ Participating companies were large and emerging start-ups who were probably used
 
 A recruitment speed dating. The idea of getting to know 20 people in one night is just up my sleeves. Here's what each event left me with:
 
-<div class="points mt-4 ml-3"><b><span class="grey">Name tag</span></b> As soon as I arrived, the Hacker X team assigned me a blank sticker for a name badge. Wrote my name on it with a marker.</div> 
+* <b><span class="grey">Name tag</span></b> As soon as I arrived, the Hacker X team assigned me a blank sticker for a name badge. Wrote my name on it with a marker. 
 
-<div class="points mt-2 ml-3"><b><span class="grey">A list of attending organizations.</span></b> A piece of handout listing out all the recruiters coming that night and a brief description. The list is pretty useful, and I still keep it as a memento, because I love lists!</div> 
+* <b><span class="grey">A list of attending organizations.</span></b> A piece of handout listing out all the recruiters coming that night and a brief description. The list is pretty useful, and I still keep it as a memento, because I love lists!
 
-<div class="points mt-2 ml-3"><b><span class="grey">Name cards.</span></b> The paper ones. Every recruiter brought a pack, I think.</div> 
+* <b><span class="grey">Name cards.</span></b> The paper ones. Every recruiter brought a pack, I think.
 
-<div class="points mt-2 ml-3"><b><span class="grey">A presentation.</span></b> But not just any presentation. A surprise presentation! Didn't know there was going to be one until D-day. We had to sit through presentations from sponsors like we sat through ads in movie theaters. Anyone who's been tricked into attending a multi-level marketing presentation would probably see how this is not very beneficial.
-
-It felt like it would have been more on point if only people who were **actually interested** in these companies were attending the presentation. Why not have the presentation **_after_** the speed dating? I'm pretty sure I would've figured out if I wanted to know the recruiter a little bit more by then.</div> 
+* <b><span class="grey">A presentation.</span></b> But not just any presentation. A surprise presentation! Didn't know there was going to be one until D-day. We had to sit through presentations from sponsors like we sat through ads in movie theaters. Anyone who's been tricked into attending a multi-level marketing presentation would probably see how this is not very beneficial. It felt like it would have been more on point if only people who were **actually interested** in these companies were attending the presentation. Why not have the presentation **_after_** the speed dating? I'm pretty sure I would've figured out if I wanted to know the recruiter a little bit more by then.
 
 <div class="points mt-2 ml-3"><b><span class="grey">5 random minutes.</span></b> The event was supposedly geared towards developers, but the type of vacancy was pretty random. Only a few of the companies that actually emailed me before the event was getting somewhere. After the first few exchanges, it began to feel a bit stressful. The room a bit too big, the speakers a bit too loud, and the companies a bit too self-absorbant.</div>
 
