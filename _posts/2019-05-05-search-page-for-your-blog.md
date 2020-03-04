@@ -35,4 +35,4 @@ Jekyll actually allows for a simple <a href="https://blog.webjeda.com/instant-je
 
 So where is this super simple search page, you ask? You can access it by clicking the "Search" tab on the top of the site, or... you can just follow the link below and see for yourself:
 
-[www.fingertip.top/search/](https://fingertip.top/search/)
+<a href="https://fingertip.top/search/" class="pinklink">www.fingertip.top/search/</a>
