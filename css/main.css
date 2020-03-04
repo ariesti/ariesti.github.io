@@ -116,7 +116,7 @@ pre {
 
 /* Set the document up */
 
-body { 
+body, article { 
 	font-size: 1.1em; 
 	font-family: Work Sans, sans-serif;
     	color: #333;
