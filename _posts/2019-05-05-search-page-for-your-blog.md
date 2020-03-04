@@ -23,7 +23,7 @@ The search page I had in mind is not just a blank box to fill with search phrase
 
 Finger Tip-Top’s search page includes all the categories and tags and a Google search functionality. This is pretty easy to do with the free Google custom search, which requires only 3 simple steps to set up:
 
-1.	Go to Google custom search’s website at <a h ref="https://cse.google.com" class="blue">cse.google.com</a>.
+1.	Go to Google custom search’s website at <a href="https://cse.google.com" class="blue">cse.google.com</a>.
 
 2.	Create a new search engine. Let Google know the name of your site and the language of the posts. 
 
@@ -31,7 +31,7 @@ Finger Tip-Top’s search page includes all the categories and tags and a Google
 
 It’s super easy and quick. Later, you can tweak the advanced setting even further to include things like image search, safe search, and other tweaks, such as limiting the regions. Since Google is going to be serving the search results, searchers will also have the option to search the entire web. 
 
-Jekyll actually allows for a simple **instant search** that displays the search result “live” as the search phrase is being typed. It is pretty neat and easy to make, without the need for JQuery or plug-ins. I might create one in the near future, but for now I think the search page will have to do. 
+Jekyll actually allows for a simple <a href="https://blog.webjeda.com/instant-jekyll-search/" class="pinklink"><b>instant search</b></a> that displays the search result “live” as the search phrase is being typed. It is pretty neat and easy to make, without the need for JQuery or plug-ins. I might create one in the near future, but for now I think the search page will have to do. 
 
 So where is this super simple search page, you ask? You can access it by clicking the "Search" tab on the top of the site, or... you can just follow the link below and see for yourself:
 
