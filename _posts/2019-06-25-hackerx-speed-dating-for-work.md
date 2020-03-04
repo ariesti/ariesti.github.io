@@ -16,6 +16,7 @@ featured-image-alt: Speed dating for work
 
 <div class="mb-4 lead">As soon as I completed my Johns Hopkins data science specialization with Coursera <a href="https://www.coursera.org/specializations/jhu-data-science" class="blue">that one time</a>, offers began flooding in.</div>
 
+
 One particularly interesting offer to get social was an email invitation to a Hacker X (full-stack) recruitment event in Jakarta, just a little over a year ago. I personally have never attended or RSVP-ed for a speed dating event ever, but at the time the idea somewhat made sense. 
 
 Each attendee gets to spend about 10 to 15 minutes talking to a potential recruiter before rushing on to the next table to talk to the next recruiter, and the next, and the next, and so on.  
