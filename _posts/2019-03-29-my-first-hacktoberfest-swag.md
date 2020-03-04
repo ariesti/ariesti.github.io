@@ -27,7 +27,7 @@ Don’t worry so much about the coding bits, because the focus of Hacktoberfest 
 
 Okay, maybe business is still a little way off, but here are some things you can do to get started (right away):
 
-<h3 class="mt-4"><span class="grey">Make sure you've got the viewport for responsive pages.</span></h3> Modern websites are built with mobile in mind, so they’ve got to be responsive and stay responsive. You should be able to go over the website code and check if the viewport meta tag is correctly setup. Google’s recommendation is: 
+<div><b class="mt-4"><span class="grey">Make sure you've got the viewport for responsive pages.</span></b> Modern websites are built with mobile in mind, so they’ve got to be responsive and stay responsive. You should be able to go over the website code and check if the viewport meta tag is correctly setup. Google’s recommendation is:</div> 
 
 {% highlight ruby %}
   <meta name=viewport content="width=device-width, initial-scale=1">
