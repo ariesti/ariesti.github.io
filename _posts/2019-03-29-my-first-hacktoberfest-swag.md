@@ -33,7 +33,7 @@ Okay, maybe business is still a little way off, but here are some things you can
 
 <div class="points mt-2 ml-3 mb-4"><b><span class="grey">Make sure the viewport is for responsive pages.</span></b> Modern websites are built with mobile in mind, so they've got to be responsive and stay responsive. You should be able to go over the website code and check if the viewport meta tag is correctly set up.</div>
 
-You can (and you should) copy your projects's URL and paste it on to any mobile SEO tool to check for things like the viewport tag, load time, image optimization, etc. is correctly used. If the viewport is not, for example, responsive, that could just be your very first PR.
+You can (and you should) copy your projects's URL and paste it on to any mobile SEO tool to check for things like the viewport tag, load time, image optimization, etc. is correctly used. If the viewport is not, for example, responsive, that could just be your very first <abbr title="Pull Reuqest">PR</abbr>.
 
 {% highlight ruby %}
   <meta name=viewport content="width=device-width, initial-scale=1">
