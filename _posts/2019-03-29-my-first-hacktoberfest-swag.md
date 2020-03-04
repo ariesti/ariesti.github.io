@@ -31,7 +31,7 @@ Okay, maybe business is still a little way off, but here are some things you can
 
 <div class="points mt-2 ml-3"><b><span class="grey">Fix the typos.</span></b> Typos are bugs! And you need to fix them. Content can be buggy, too, especially if the website is localized into other languages. Go for the obvious grammar and misspelling ones, rather than the more subtle issues of style.</div> 
 
-<div class="points mt-2 ml-3 mb-4"><b><span class="grey">Make sure the viewport is for responsive pages.</span></b> Modern websites are built with mobile in mind, so they've got to be responsive and stay responsive. You should be able to go over the website code and check if the viewport meta tag is correctly set up.</div>
+<div class="points mt-2 ml-3 mb-4"><p><b><span class="grey">Make sure the viewport is for responsive pages.</span></b> Modern websites are built with mobile in mind, so they've got to be responsive and stay responsive. You should be able to go over the website code and check if the viewport meta tag is correctly set up.</p></div>
 
 You can (and you should) copy your projects's URL and paste it on to any mobile SEO tool to check for things like the viewport tag, load time, image optimization, etc. is correctly used. If the viewport is not, for example, responsive, that could just be your very first PR.
 
