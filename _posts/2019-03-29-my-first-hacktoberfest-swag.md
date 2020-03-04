@@ -43,9 +43,9 @@ You can (and you should) copy your projects's URL and paste it on to any mobile 
 
 Luckily, I have read about how to make a Pull Request/PR years back when I first learned to use Git and GitHub. So I wasn’t all that unfamiliar with the way open source projects work, but like I said, it was years ago. To make your first real PR, you need to learn to create a PR on GitHub. And you need to practice. 
 
-There’s a bunch of very neat tutorials from Hacktoberfest’s host, Digital Ocean. I encourage you to go to their website and read their [Introduction to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) thoroughly before installing Git on your computer. Follow the Git installation guide [there](https://www.digitalocean.com/community/tutorials/how-to-contribute-to-open-source-getting-started-with-git#contributing-to-open-source-projects), too. 
+There’s a bunch of very neat tutorials from Hacktoberfest’s host, Digital Ocean. I encourage you to go to their website and read their <a href="https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source" class="pinklink">Introduction to Open Source</a> thoroughly before installing Git on your computer. Follow the Git installation guide <a href="https://www.digitalocean.com/community/tutorials/how-to-contribute-to-open-source-getting-started-with-git#contributing-to-open-source-projects" class="blue">there</a>, too. 
 
-But if installing Git looks like a lot of extra work, you can definitely skip it. There are open source projects, such as the freeCodeCamp repository, that will let you help improve articles by editing **[directly from your browser](https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b)**. 
+But if installing Git looks like a lot of extra work, you can definitely skip it. There are open source projects, such as the freeCodeCamp repository, that will let you help improve articles by editing <a href="https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b" class="blue"><b>directly from your browser</b></a>. 
 
 Learning about open source projects and how to contribute is only the beginning. You still need to find projects you can actually contribute to. Many are reserved for first-timers to take part in during the Hacktoberfest community event. And if you do a bit of internet search, you will find many such project lists.
 
@@ -53,7 +53,7 @@ Just need to do some digging to find those repos.
 
 These are some other interesting first-timer guides to open source projects. Each includes links to where to find your first:
 
-* [A First Timer's Guide to an Open Source Project](https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/)  from AuthO
+* <a href="https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/" class="pinklink">A First Timer's Guide to an Open Source Project</a> from AuthO
 
 * [Open Source Guide](https://opensource.guide/) and [Open Source Friday](https://opensourcefriday.com/#participate) from GitHub and friends
 
