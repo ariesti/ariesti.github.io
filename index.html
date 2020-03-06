@@ -63,7 +63,7 @@ description: Towards digital humanities
 	  	{% for post in site.posts limit: 2 %}
 	   	<li class="posts">
 		<h5><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h5> <span class="alpha">&nbsp{{ post.date | date: '%B %-d, %Y — %H:%M' }}</span>
-			<p>{{ post.excerpt }}</p><a href="{{ site.baseurl }}{{ post.url }}">Read more</a>&nbsp;//&nbsp;<a href="https://fingertip.top/words/">All words</a>
+			<p class="mt-0 lead>{{ post.excerpt }}</p><a href="{{ site.baseurl }}{{ post.url }}">Read more</a>&nbsp;//&nbsp;<a href="https://fingertip.top/words/">All words</a>
 		</li>
 		<hr class="grey">	
 	 	{% endfor %}
