@@ -269,6 +269,17 @@ h6 { font-size: 1em; }
 	text-transform: uppercase;
 }
 
+.gamma { 
+	margin: 0 auto; 
+	font-size: 0.6em; 
+	color: #666; 
+	font-family: Montserrat, sans-serif;
+	letter-spacing: .1em; 
+	font-weight: 300; 
+	text-transform: uppercase;
+}
+
+
 .grey {
 	text-decoration: none; 
 	color: inherit; 
@@ -276,13 +287,6 @@ h6 { font-size: 1em; }
 	border-bottom: 1px solid #ececec;
 }
 
-.points {
-	font-size: 1.1em;
-  	font-weight: 400;
-  	color: #212529;
-  	text-align: left;
-  	background-color: #fff;
-}
 /* Subtitle and title */
 
 .subtitle {
