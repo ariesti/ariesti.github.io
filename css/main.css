@@ -403,7 +403,7 @@ p {
 	margin-bottom: 1.5em;
 }
 
-.tight {
+p.tight {
 	font-size: 1.1em;
 	line-height:1.6em;
 	color:#333
