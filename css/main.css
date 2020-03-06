@@ -619,3 +619,7 @@ li.posts {list-style: none;}
       background-size: cover;
       background-position: center center;
    }
+
+	a.carousel-control-prev, a.carousel-control-next {
+  width: 7%;
+}
