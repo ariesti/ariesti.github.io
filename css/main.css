@@ -280,6 +280,7 @@ h6 { font-size: 1em; }
 }
 
 .delta {
+	clear: both;
 	margin: 0 auto;
 	font-size: 50%;
 	font-family: Montserrat, sans-serif;
