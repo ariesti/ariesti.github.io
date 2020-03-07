@@ -281,7 +281,7 @@ h6 { font-size: 1em; }
 
 .delta {
 	margin: 0 auto;
-	font-size: small;
+	font-size: 50%;
 	color: #666; 
 	letter-spacing: .1em; 
 	font-weight: 300; 
