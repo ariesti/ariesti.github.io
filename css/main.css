@@ -279,6 +279,13 @@ h6 { font-size: 1em; }
 	text-transform: uppercase;
 }
 
+.delta {
+	margin: 0 auto; 
+	color: #666; 
+	letter-spacing: .1em; 
+	font-weight: 300; 
+	text-transform: uppercase;
+}
 
 .grey {
 	text-decoration: none; 
