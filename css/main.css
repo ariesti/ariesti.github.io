@@ -327,6 +327,12 @@ footer {
 	text-align: center;
 }
 
+/* Text Styles */
+.text-fine {
+	font-family: Work Sans, sans-serif;
+	font-weight: 200;
+}
+
 /* Navigation */
 
 .PageNavigation {
@@ -447,13 +453,14 @@ font-size:1.1em;
 	margin-top: 1.5em;
 	margin-bottom: 1.5em; 
 
-/*colors*/
-#colorful-2 {
-	color: #B3C08F;
-}
+/*Colors*/
 
 #colorful-1 {
 	color: #ff017e;
+}
+
+#colorful-2 {
+	color: #B3C08F;
 }
 
 ol {
@@ -496,6 +503,7 @@ blockquote p {
 }
 
 /* Footer */
+
 #footer { 
 	clear: both;
 	font-family: Montserrat, sans-serif; 
@@ -521,6 +529,7 @@ ul.posts li { list-style: none; }
 li.posts {list-style: none;}
 
 /* CV */
+
 .cv { margin: 0px 0px 60px; }
 .cv h1 { font-size: 3em; }
 .cv h2 { font-size: 2em; }
@@ -637,6 +646,7 @@ li.posts {list-style: none;}
 .highlight .il { color: #3677a9 } /* Literal.Number.Integer.Long */
 
 /* Carousel */
+
 .carousel-nav-icon {
    height: 48px;
    width: 48px;
