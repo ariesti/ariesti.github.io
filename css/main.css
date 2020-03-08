@@ -417,8 +417,8 @@ a.tag-cloud:link { text-decoration: none; color: #666; border-bottom-style: none
 a.tag-cloud:hover { color: #666; }
 a.tag-cloud:visited { color: #333; }
 
-a.fiverr { text-decoration: none; color: #89c05d; }
-a.fiverr:hover { color: #63963a; }
+a.fiverr { text-decoration: none; color: #1cbf73; }
+a.fiverr:hover { color: #127c4b; }
 
 /* Paragraphs */
 p { 
