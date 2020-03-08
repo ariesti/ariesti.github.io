@@ -126,8 +126,8 @@ body {
 .container > hr { clear: both; margin: 30px 0; }
 .container > hr.footer { clear: both; margin-bottom: 15px; }
 
-.color-grey {
-	background-color: #f8f9fa;
+.color-grey-200 {
+	background-color: #e9ecef;
 }
 .color-black {
 	background-color: #000;
