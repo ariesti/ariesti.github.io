@@ -308,7 +308,7 @@ h6 { font-size: 1em; }
 
 /* Header */
 
-header, .footer { 
+header, .foot { 
 	font-family: Montserrat, sans-serif; 
 	letter-spacing: .15em;
 	text-transform: uppercase; 
