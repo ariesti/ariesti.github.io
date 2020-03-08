@@ -129,6 +129,10 @@ body {
 .color-grey-200 {
 	background-color: #e9ecef;
 }
+
+.color-grey-100 {
+	background-color: #f8f9fa
+}
 .color-black {
 	background-color: #000;
 }
