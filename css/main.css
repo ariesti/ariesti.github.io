@@ -126,6 +126,10 @@ body {
 .container > hr { clear: both; margin: 30px 0; }
 .container > hr.footer { clear: both; margin-bottom: 15px; }
 
+.color-grey {
+	background-color: #f8f9fa;
+}
+
 /* More container styles */
 .main-container { clear: both; max-width: 980px; margin: 0 auto; padding: 20px 0 20px 0; }
 .about { width: 85%; margin: 0 auto; }
