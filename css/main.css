@@ -129,6 +129,9 @@ body {
 .color-grey {
 	background-color: #f8f9fa;
 }
+.color-black {
+	background-color: #000;
+}
 
 /* More container styles */
 .main-container { clear: both; max-width: 980px; margin: 0 auto; padding: 20px 0 20px 0; }
