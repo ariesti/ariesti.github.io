@@ -308,8 +308,18 @@ h6 { font-size: 1em; }
 
 /* Header */
 
-header, footer { 
+header { 
 	font-family: Montserrat, sans-serif; 
+	letter-spacing: .15em;
+	text-transform: uppercase; 
+	font-weight: 200;
+	font-size: 11px;
+	text-align: center;
+}
+
+footer { 
+	font-family: Montserrat, sans-serif; 
+	color: #ff017e;
 	letter-spacing: .15em;
 	text-transform: uppercase; 
 	font-weight: 200;
