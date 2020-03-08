@@ -12,7 +12,7 @@ version history: v.1.0
 /* Main.css Doc - follow Normalize.css v8.0.0
 
 	1. Correct the line height in all browsers. 
-	2. Prevent adjustments of font size after orientation changes in iOS */
+	2. Prevent adjustments of font sfooize after orientation changes in iOS */
 
 html {
   line-height: 1.15; /* 1 */
@@ -321,7 +321,7 @@ footer {
 	font-family: Montserrat, sans-serif; 
 	color: #ff017e;
 	letter-spacing: .15em;
-	text-transform: uppercase; 
+	text-transform: none; 
 	font-weight: 200;
 	font-size: 11px;
 	text-align: center;
