@@ -330,7 +330,8 @@ footer {
 /* Text Styles */
 .text-fine {
 	font-family: Work Sans, sans-serif;
-	font-weight: 200;
+	font-weight: 100;
+	text-transform: none;
 }
 
 /* Navigation */
