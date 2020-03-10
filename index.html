@@ -5,8 +5,7 @@ tagline: I am known to those who need to know me
 description: Towards digital humanities
 ---
 </main>
-
-		<div class="container">
+<div class="container">
 			
 		<div class="row">
 			
@@ -25,89 +24,4 @@ description: Towards digital humanities
 			
 		</div>
 		</div>
-		
-			
-		<div class="container-fluid">
-		<h1 class="font-weight-light text-lg-left mt-4 mb-0">Guides & Tutorials</h1>
-		<hr class="mt-2 mb-5">
-		<div class="row">
-			<div class="col-md-3">
-			<a href="/categories/#" class="neutral"><span class="beta tag-2"><code class="highlighter-rouge"><nobr>Zombie-Fighting</nobr></code></span></a>
-			</div>
-			<div class="col-md-3">
-			<a href="/categories/#" class="neutral"><span class="beta tag-2"><code class="highlighter-rouge"><nobr>Search Basics</nobr></code></span></a>
-			</div>
-			<div class="col-md-3">
-			<a href="/categories/#" class="neutral"><span class="beta"><code class="highlighter-rouge tag-2"><nobr>Presentation Design</nobr></code></span></a>
-			</div>
-			<div class="col-md-3">
-			<a href="/categories/#" class="neutral"><span class="beta"><code class="highlighter-rouge tag-2"><nobr>Static Web</nobr></code></span></a>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-md-3 mx-auto">
-			<a href="/categories/#" class="pinklink"><span class="beta"><code class="highlighter-rouge  tag-2"><nobr>Zombie-Fighting</nobr></code></span></a>
-			</div>
-			<div class="col-md-3">
-			<a href="/categories/#" class="neutral"><span class="beta"><code class="highlighter-rouge tag-2"><nobr>Search Basics</nobr></code></span></a>
-			</div>
-			<div class="col-md-3">
-			<a href="/categories/#" class="neutral"><span class="beta"><code class="highlighter-rouge"><nobr>Presentation Design</nobr></code></span></a>
-			</div>
-		</div>
-		</div>
-		
-		<div class="container">
-		<h1 class="font-weight-light text-lg-left mt-4 mb-0">Words</h1>
-		<hr class="mt-2 mb-5">
-		<p>			
-		<ul>
-	  	{% for post in site.posts limit: 2 %}
-	   	<li class="posts">
-		<h5><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h5> <span class="alpha">&nbsp{{ post.date | date: '%B %-d, %Y — %H:%M' }}</span>
-			<div class="mb-2 lead">{{ post.excerpt }}</div>
-			<a href="{{ site.baseurl }}{{ post.url }}">Read more</a>&nbsp;//&nbsp;<a href="https://fingertip.top/words/">All words</a>
-		</li>
-		<hr class="grey">	
-	 	{% endfor %}
-		</ul>
-		</p> 
-		</div>
-		
-		<div class="container">
-			<div class="right half">
-		
-		<h2><a href="http://fingertip.top/stuff/">Elsewhere</a></h2>
- 		<p>
-		<ul class="list-unstyled">
-			<li class="ex2"><span class="alpha">2019-04-07 </span><a href="https://owlcation.com/stem/meteor-js-beginners-tutorial" class="pinklink">The Complete Beginner's Meteor JavaScript Installation and Getting Started Guide</a></li>
-			<li class="ex2"><span class="alpha">2019-02-06 </span><a href="https://turbofuture.com/internet/blogging-for-dummies-glossary" class="pinklink">Blogs vs Online Diaries vs Blog Posts vs Journals vs Online Magazines</a></li>
-			<li class="ex2"><span class="alpha">2019-01-11 </span><a href="https://toughnickel.com/self-employment/setup-paypal-non-us-freelance" class="pinklink">Correctly Set up a PayPal Account for Your Online Work (Outside the US)</a></li>	
-			<li class="ex2"><span class="alpha">2018-11-17 </span><a href="https://toughnickel.com/self-employment/creative-blogging-for-personal-branding" class="pinklink">Stay Creative: How to Blog for Your Personal Brand</a></li>
-			<li class="ex2"><span class="alpha">2018-10-31 </span><a href="https://owlcation.com/stem/git-and-github-tutorial-for-beginners" class="pinklink">All Things Git You Can Absolutely Get Right the First Time</a><li>	
-		</ul>
-		</p>	
-			</div>
-
-			<div class="half">
-		<h2>Git</h2>
-		<blockquote><p>Odds are that someone somewhere out of the billions of people who have lived on this planet has had the same concerns as me.
-		<br><p id="footer"><a href="https://github.com/ariesti">Read this on GitHub</a></p></p></blockquote>
-			</div>
-	
-			<div class="half-one">
-		<h2>No time for that.</h2> 
-		<h2>Just <a href="https://stackoverflow.com/cv/lovellifuad">show me</a> what you've done!</h2>
-			</div>
-		</div>
-		
-		<div class="container-fluid mt-3 bg-info text-white">
-   			<div class="d-flex p-2 justify-content-center mb-1 mt-1 flex-column flex-md-row">
-    				<div class="d-flex p-2 justify-content-center">Material Releases:</div>
-    				<div class="d-flex p-2 justify-content-center"><a href="#"><b>Search 0.1.1</b></a></div>
-    				<div class="d-flex p-2 justify-content-center">Static Blogging 0.1.3</div>
-    				<div class="d-flex p-2 justify-content-center">Resources</div>
-    				<div class="d-flex p-2 justify-content-center">Implementation Guide</div>
-   			</div>
-		</div>	
 </main>
