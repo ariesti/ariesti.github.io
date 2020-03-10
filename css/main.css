@@ -112,15 +112,15 @@ body {
 }
 
 .color-secondary {
-	#ffde03;
+	color: #ffde03;
 }
 
 .color-secondary-light {
-	#ffff54;
+	color: #ffff54;
 }
 
 .color-secondary-dark {
-	#c7ad00;
+	color: #c7ad00;
 }
 
 /* Fingertip-Top color palette: muted */
@@ -379,10 +379,10 @@ footer {
 /* SHAPES */
 
 .dot {
- height: 25px;
-  width: 25px;
-  border-radius: 50%;
-  display: inline-block;
+ 	height: 25px;
+  	width: 25px;
+  	border-radius: 50%;
+  	display: inline-block;
 }
 
 /* Text Styles */
