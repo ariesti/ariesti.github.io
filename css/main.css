@@ -144,7 +144,6 @@ body {
 /* Divs */
 .page { 
 	clear: both;
-	max-width: 980px; 
 	margin: 0 auto;
 	padding-top: 0;
 	padding-bottom: 0;
