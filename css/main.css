@@ -96,6 +96,61 @@ body {
 .container > hr { clear: both; margin: 30px 0; }
 .container > hr.footer { clear: both; margin-bottom: 15px; }
 
+/* COLORS */
+/* Brand colors */
+
+.color-primary {
+	color: #ff017e;
+}
+
+.color-primary-light {
+	color: #ff5dad
+}
+
+.color-primary-dark {
+	color: #c50052
+}
+
+.color-secondary {
+	#ffde03;
+}
+
+.color-secondary-light {
+	#ffff54;
+}
+
+.color-secondary-dark {
+	#c7ad00;
+}
+
+/* Fingertip-Top color palette: muted */
+
+.color-muted-pink {
+	color: #f05a8b; 
+}
+
+.color-muted-green {
+	color: #b3c08f;
+}
+
+.color-muted-yellow {
+	color: #f2ee97;
+}
+
+.color-muted-brown {
+	color: #735b45;
+}
+
+.color-muted-coral {
+	color: #f58063;
+}
+
+/* Background variations */
+
+.color-grey-300 {
+	background-color: #e0e0e0;
+}
+
 .color-grey-200 {
 	background-color: #e9ecef;
 }
@@ -103,8 +158,15 @@ body {
 .color-grey-100 {
 	background-color: #f8f9fa
 }
+
 .color-black {
 	background-color: #000;
+}
+
+/* Other brands */
+
+.color-fiverr {
+	color: #1cbf73;
 }
 
 /* More container styles */
@@ -198,6 +260,7 @@ body {
 	padding-top: 10px;
 	padding-bottom: 10px:
 }
+
 .center { text-align: center; }
 
 .nav-text {
@@ -216,18 +279,10 @@ body {
 /* Correct the font size and margin on 'h1' elemet within 'section' and 'article' contexts in Chrome, Firefox, and Safari. */
 
 /* Handling the typography */
-h1, h2, h3, h4, h5, h6 { font-family: Montserrat, sans-serif; color: #333}
-.ex0 { padding-top: 5px; }
-.ex1 { padding-top: 25px; }
-.ex2 { padding-top: 10px; }
-.ex3 { padding-top: 20px; }
-
-h1 { font-size: 2.3em; margin-bottom: 10px; }
-h2 { font-size: 2em; }
-h3 { font-size: 1.8em; }
-h4 { font-size: 1.6em; }
-h5 { font-size: 1.3em; }
-h6 { font-size: 1em; }
+h1, h2, h3, h4, h5, h6 { 
+	font-family: Montserrat, sans-serif; 
+	color: #333
+}
 
 .alpha { 
 	margin: 0 auto; 
