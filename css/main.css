@@ -100,27 +100,27 @@ body {
 /* Brand colors */
 
 .color-primary {
-	color: #ff017e;
+	background-color: #ff017e;
 }
 
 .color-primary-light {
-	color: #ff5dad
+	background-color: #ff5dad
 }
 
 .color-primary-dark {
-	color: #c50052
+	background-color: #c50052
 }
 
 .color-secondary {
-	color: #ffde03;
+	background-color: #ffde03;
 }
 
 .color-secondary-light {
-	color: #ffff54;
+	background-color: #ffff54;
 }
 
 .color-secondary-dark {
-	color: #c7ad00;
+	background-color: #c7ad00;
 }
 
 /* Fingertip-Top color palette: muted */
