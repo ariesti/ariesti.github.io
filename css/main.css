@@ -324,21 +324,22 @@ h1, h2, h3, h4, h5, h6 {
 	text-transform: uppercase;
 }
 
-.grey {
+.grey { /* For styling text with underline but not links */
 	text-decoration: none; 
 	color: inherit; 
 	margin-bottom: ($spacer * .5) !important; 
 	border-bottom: 1px solid #ececec;
 }
 
+
+/* Subtitle and title */
+
 #manual {
 	text-decoration:none; 
 	color: inherit;
 	margin-bottom: ($spacer * .5) !important;
-	border-bottom: 2px solid #ececec;
+	border-bottom: 3px solid #ececec;
 }
-
-/* Subtitle and title */
 
 .subtitle {
 	font-family: Montserrat, sans-serif;
