@@ -376,6 +376,15 @@ footer {
 	text-align: center;
 }
 
+/* SHAPES */
+
+.dot {
+ height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
 /* Text Styles */
 .text-fine {
 	text-transform: none;
