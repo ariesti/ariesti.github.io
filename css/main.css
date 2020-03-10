@@ -48,61 +48,25 @@ body {
 1. Add the correct box sizin in Firefox.
 2. Show the overflow in Edge and IE. */
 
-hr.color-one {
-	box-sizing: content-box; 
+hr {
+	/* Create hr style */
+	box-sizing: content-box;
 	height: 0;
-	border-top: 1px solid #F05A8B; /* Colorful #1 */
-	overflow: visible; /* 2 */
+	border top: 1px solid;
+	overflow: visible;
 	position: relative;
 }
 
-/* Add additional hr styles */
-
-hr.style-two {
-   	border: 0;
-    	height: 1px;
-    	background-
-	position: relative;	
+hr.style2 { /* Similar in visual to style one, but... less lines */
+	border: 0;
+	height: 1px;
+	background-position: relative;
 }
 
-hr.color-two {
-	box-sizing: content-box; 
-	height: 0;
-	border-top: 1px solid #B3C08F; /* Colorful #2 */
-	overflow: visible; /* 2 */
-	position: relative;	
-}
-
-hr.color-three {
-	box-sizing: content-box; 
-	height: 0;
-	border-top: 1px solid #F2EE97; /* Colorful #3 */
-	overflow: visible; /* 2 */
-	position: relative;	
-}
-
-hr.color-four {
-	box-sizing: content-box; 
-	height: 0;
-	border-top: 1px solid #735B45; /* Colorful #4 */
-	overflow: visible; /* 2 */
-	position: relative;	
-}
-
-hr.color-five {
-	box-sizing: content-box; 
-	height: 0;
-	border-top: 1px solid #F58063; /* Colorful #5 */
-	overflow: visible; /* 2 */
-	position: relative;	
-}
-
-hr.grey {
-	box-sizing: content-box; 
-	height: 0;
-	border-top: 1px solid #ECECEC; 
-	overflow: visible; /* 2 */
-	position: relative;
+hr.style3 {
+	height: 10px;
+	border: 0;
+	box-shadow: 0 10px 10px -10px #8c8b8b inset;
 }
 
 /*
