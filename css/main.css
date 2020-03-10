@@ -69,6 +69,12 @@ hr.style3 {
 	box-shadow: 0 10px 10px -10px #8c8b8b inset;
 }
 
+hr.style4 {
+  	border: 0;
+  	height: 0;
+  	box-shadow: 0 0 10px 1px black;
+}
+
 /*
 1. Correct the inheritance and scaling of font size in all browsers.
 2. Correct the odd `em` font sizing in all browsers. */
