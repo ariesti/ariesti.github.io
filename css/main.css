@@ -126,23 +126,23 @@ body {
 /* Fingertip-Top color palette: muted */
 
 .color-muted-pink {
-	color: #f05a8b; 
+	background-color: #f05a8b; 
 }
 
 .color-muted-green {
-	color: #b3c08f;
+	background-color: #b3c08f;
 }
 
 .color-muted-yellow {
-	color: #f2ee97;
+	background-color: #f2ee97;
 }
 
 .color-muted-brown {
-	color: #735b45;
+	background-color: #735b45;
 }
 
 .color-muted-coral {
-	color: #f58063;
+	background-color: #f58063;
 }
 
 /* Background variations */
