@@ -334,11 +334,16 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Subtitle and title */
 
-#manual {
+#manualTitle {
 	text-decoration:none; 
 	color: inherit;
 	margin-bottom: ($spacer * .5) !important;
 	border-bottom: 5px solid #ececec;
+}
+
+#manualSub {
+	margin-bottom: ($spacer * .5) !important;
+	border-bottom: 3px solid #ececec;
 }
 
 .subtitle {
