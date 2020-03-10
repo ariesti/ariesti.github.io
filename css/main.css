@@ -331,6 +331,13 @@ h1, h2, h3, h4, h5, h6 {
 	border-bottom: 1px solid #ececec;
 }
 
+#manual {
+	text-decoration:none; 
+	color: inherit;
+	margin-bottom: ($spacer * .5) !important;
+	border-bottom: 2px solid #ececec;
+}
+
 /* Subtitle and title */
 
 .subtitle {
