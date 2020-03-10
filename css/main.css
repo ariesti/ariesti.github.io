@@ -48,7 +48,7 @@ body {
 1. Add the correct box sizin in Firefox.
 2. Show the overflow in Edge and IE. */
 
-hr {
+hr.style1 {
 	/* Create hr style */
 	box-sizing: content-box;
 	height: 0;
