@@ -421,6 +421,8 @@ footer {
 	font-weight: 100;
 }
 
+#large { font-size: 1.5em; }
+
 /* Navigation */
 
 .dropdown-item:hover, .dropdown-item:focus {
