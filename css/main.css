@@ -423,6 +423,24 @@ footer {
 
 /* Navigation */
 
+.dropdown-item:hover, .dropdown-item:focus {
+  color: #212529;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+.dropdown-item.active, .dropdown-item:active {
+  color: #212529;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+.dropdown-item.disabled, .dropdown-item:disabled {
+  color: #6c757d;
+  pointer-events: none;
+  background-color: transparent;
+}
+
 .PageNavigation {
   font-size: 14px;
   display: block;
