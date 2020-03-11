@@ -92,6 +92,10 @@ body {
     	color: #333;
 } 
 
+.post-content {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+}
 /* Container styles main template from @jmcglone*/
 
 .container > hr { clear: both; margin: 30px 0; }
