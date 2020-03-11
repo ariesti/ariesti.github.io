@@ -58,6 +58,11 @@
 			<script async src="https://buttons.github.io/buttons.js"></script>
 			<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
 			<script async src="https://cdn.ampproject.org/v0.js"></script>
+			<script>
+    				$(document).ready(function(){
+        				$(".dropdown-toggle").dropdown();
+    					});  
+			</script>
 			
 			{% include cookie-consent.html %}
 		
@@ -75,8 +80,16 @@
 	<div class="row w-100">
             <div class="col-4 pl-lg-0">
               <ul class="navbar-nav"><li class="nav-item"><a class="nav-link active" href="https://fingertip.top/about/">About</a></li>       
-		 <li class="nav-item"><a class="nav-link" href="#">Services</a></li>
                 <li class="nav-item"><a class="nav-link" href="https://fingertip.top/words/">Blog</a></li>
+		<li class="nav-item dropdown">
+		        <a class="nav-link dropdown-toggle" href="http://example.com" id="dropdown09" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown</a>
+              			<div class="dropdown-menu" aria-labelledby="dropdown09">
+               	 		<a class="dropdown-item" href="#">Action</a>
+                			<a class="dropdown-item" href="#">Another action</a>
+                			<a class="dropdown-item" href="#">Something else here</a>
+              </div>	
+			
+			<a class="nav-link" href="#">Services</a></li>      
               </ul></div>
 		
             <div class="col-4 navbar-nav text-center pr-0 d-none d-lg-block"><a class="navbar-brand mr-0" href="https://fingertip.top">Fingertip-top</a></div>
