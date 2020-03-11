@@ -381,7 +381,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Header */
 
-header, .foot { 
+header, .foot, .index { 
 	font-family: Montserrat, sans-serif; 
 	letter-spacing: .15em;
 	text-transform: uppercase; 
