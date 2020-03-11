@@ -123,6 +123,24 @@ body {
 	background-color: #c7ad00;
 }
 
+/* Header or Footer */
+
+.color-night-rider {
+	background-color: #333333;
+}
+
+.color-dim-gray {
+	background-color: #666666;
+}
+
+.color-raven {
+	background-color: #6C757D;
+}
+
+.color-blue-charcoal {
+	background-color: #212529;
+}
+
 /* Fingertip-Top color palette: muted */
 
 .color-muted-pink {
