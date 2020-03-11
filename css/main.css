@@ -410,6 +410,11 @@ footer {
 }
 
 /* Text Styles */
+
+.lead {
+	font-family: 'Lora', serif;
+}
+
 .text-fine {
 	text-transform: none;
 	font-family: 'Work Sans', sans-serif;
