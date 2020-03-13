@@ -510,7 +510,21 @@ a.bottom:hover { color: #212529; }
 
 a.blue {text-decoration: none; color: 007bff; margin-bottom: ($spacer * .5) !important; border-bottom: 1px solid #ececec;}
 a.blue:hover { color: #0056b3; text-decoration: none; margin-bottom: ($spacer * .5) !important; none; border-bottom: 1px solid #0056b3; }
-	
+
+a.white {
+	text-decoration: none;
+	color: #ffffff;
+	margin-bottom: ($spacer * .5) !important;
+	border-bottom: .5px dotted #ffffff
+}
+
+a.white:hover {
+	color: #fffff; text
+	text-decoration: none; 
+	margin-bottom: ($spacer * .5) !important; none; 
+	border-bottom: 1px solid #ffffff;
+}
+
 a.pinklink { text-decoration: none; color: #333; border-bottom: 2px solid #ff017e; }
 a.pinklink:hover { text-decoration: none; color: #ff017e; }
 
