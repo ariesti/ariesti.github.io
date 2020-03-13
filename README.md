@@ -1,4 +1,4 @@
-# Ariesti.github.io
+# Fingertip-Top 
 
 The getting started with GitHub Pages and Jekyll is a personal project of mine. The goal is to get familiar with the process of setting up and maintaining a static site with Git. It is a simple exercise to help me get started in learning this new thing. It will not serve as a portfolio site, but I plan to have my other GitHub projects linked to one of the categories that will be added later. 
 
@@ -19,7 +19,7 @@ The getting started with GitHub Pages and Jekyll is a personal project of mine. 
 - [ ] Fix the Stuff section
 - [ ] Add social media buttons at the bottom of the page and the About section
 - [ ] Finish up materials for the homepage
-- [ ] Divide content into folders: About, Words, Stuff, Guides, Resources
+- [x] Divide content into folders: About, Words, Stuff, Guides, Resources
 - [ ] Remove idle folders
 - [ ] Create secret guides
 - [x] Add dates to articles
