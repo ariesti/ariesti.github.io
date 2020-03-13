@@ -89,7 +89,7 @@ pre {
 body { 
 	font-family: 'Roboto', sans-serif;
 	font-size: 1.1em; 
-    	color: #333;
+    	color: #212529;
 } 
 
 /* Container styles main template from @jmcglone*/
@@ -552,7 +552,7 @@ a.fiverr:hover { color: #127c4b; }
 p { 
 	font-size: 1.1em; 
 	line-height: 1.6em; 
-	color: #333;
+	color: #212529;
 	margin-top: 1.5em;
 	margin-bottom: 1.5em;
 	font-weight: 300;
