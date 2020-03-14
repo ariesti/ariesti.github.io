@@ -330,7 +330,7 @@ p.tight {	/* Spacing closer together */
 	font-weight: 100;
 }
 
-#story-1 { /* For stories in the home page and elsewhere not on the blog. */
+p.story-1 { /* For stories in the home page and elsewhere not on the blog. */
 	font-family: 'Roboto Mono', monospace;
 	font-weight: 700;
 	font-size: 4em;
