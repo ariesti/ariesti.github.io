@@ -295,13 +295,49 @@ body {
 	position-fixed;
 }
 
-/* Text level semantics */
+/* TEXT-LEVEL SEMANTICS */
 
 /* Sections */
 
 /* Correct the font size and margin on 'h1' elemet within 'section' and 'article' contexts in Chrome, Firefox, and Safari. */
 
+
+/* Paragraphs */
+p { 	/* Normal paragraph */
+	font-size: 1.1em; 
+	line-height: 1.6em; 
+	color: #212529;
+	margin-top: 1.5em;
+	margin-bottom: 1.5em;
+	font-weight: 300;
+}
+
+p.tight {	/* Spacing closer together */
+	font-size: 1.1em;
+	line-height:1.6em;
+	color:#333
+	margin-top: 0;
+  	margin-bottom: 1rem;
+}
+
+.lead {		/* For lead paragraph in pages, not in blog posts */
+	font-family: 'Lora', serif;
+}
+
+.text-fine {	/* Not sure how to use this yet, back on it later. */
+	text-transform: none;
+	font-family: 'Work Sans', sans-serif;
+	font-weight: 100;
+}
+
+#font-1 { font-size: 2.3em; }
+#font-2 { font-size: 2em; }
+#font-3 { font-size: 1.8em; }
+#font-4 { font-size: 1.6em; }
+#font-5 { font-size: 1.3em; }
+
 /* Handling the typography */
+
 h1, h2, h3, h4, h5, h6 { 
 	font-family: Montserrat, sans-serif; 
 	color: #333
@@ -353,6 +389,10 @@ h1, h2, h3, h4, h5, h6 {
 	margin-bottom: ($spacer * .5) !important; 
 	border-bottom: 1px solid #ececec;
 }
+
+/* Text Styles */
+
+#large { font-size: 1.5em; }
 
 
 /* Subtitle and title */
@@ -409,23 +449,9 @@ footer {
   	display: inline-block;
 }
 
-/* Text Styles */
+/* LINKS & NAVIGATIONS */
 
-.lead {
-	font-family: 'Lora', serif;
-}
-
-.text-fine {
-	text-transform: none;
-	font-family: 'Work Sans', sans-serif;
-	font-weight: 100;
-}
-
-#large { font-size: 1.5em; }
-
-/* Navigation */
-
-.dropdown-item:hover, .dropdown-item:focus {
+.dropdown-item:hover, .dropdown-item:focus { /* Personalization of Bootstrap's default, with clean bg */
   color: #212529;
   text-decoration: none;
   background-color: transparent;
@@ -443,47 +469,42 @@ footer {
   background-color: transparent;
 }
 
-.PageNavigation {
-  font-size: 14px;
-  display: block;
-  width: auto;
-  overflow: hidden;
-  color: #F05A8B;
-}
-
-a.PageNavigation:link {
-  display: block;
-  width: 50%;
-  float: left;
-  margin: 1em 0;
-  color: #F05A8B;
-  text-decoration: none;
-  border-bottom: none;
-}
-
-a.PageNavigation:hover {
-  text-decoration: none; 
-  border-bottom: none;
-  color: #ff017e;	
-}
-
-a.PageNavigation:visited {
-  color: #cc0066;
-}
-a.PageNavigation:active {
-  color: #cc0066;
-}
-
-.PageNavigation .next {
-  text-align: right;
-  float: right;
-}
-
-.cate {
+.cate {		/* Forgot what this was for, will get back to this later */
 	display: inline;
 }
 
-/* Link and hover 
+a.bottom {	/* Navigation on the botton area, made similar in style to the header. */
+	text-decoration: none; 
+	color: #6c757d; 
+	border-bottom: none;
+}
+a.bottom:hover { color: #212529; }
+
+a.pink {	/* Code to achieve the Sass effect 'darken($link-color, 15%)'. */
+	text-decoration: none; 
+	color: #ff017e; 
+	border-bottom: none;
+}
+a.pink:hover { color: #b40058; }
+
+a.neutral { 	/* This not good practice for search engine - displays link as not a link.
+		Best to use WITH Sass darken effect for social media icons. */
+	text-decoration: none; 
+	border-bottom: none; 
+	color: #fff; 
+}
+a.neutral:hover { 
+	text-decoration: none; 
+	color: #fff; 
+	border-bottom: none; }
+
+a.fiverr {	/* Styling for Fiverr links */
+	text-decoration: none; 
+	color: #1cbf73; 
+}
+a.fiverr:hover { color: #127c4b; }
+
+/* Inline links and hover 
  
  * Remove the gray background on active links in IE 10 */
 
@@ -502,22 +523,23 @@ abbr[title] {
   text-decoration: underline dotted; /* 2 */
 }
 
-a.pink { text-decoration: none; color: #ff017e; border-bottom: none;}
-a.pink:hover { color: #b40058; }
+a.blue {	/* For internal links */
+	text-decoration: none; 
+	color: 007bff; margin-bottom: ($spacer * .5) !important; 
+	border-bottom: 1px solid #ececec;
+}
+a.blue:hover { 
+	color: #0056b3; 
+	text-decoration: none; 
+	margin-bottom: ($spacer * .5) !important; 
+	border-bottom: 1px solid #0056b3; }
 
-a.bottom { text-decoration: none; color: #6c757d; border-bottom: none;}
-a.bottom:hover { color: #212529; }
-
-a.blue {text-decoration: none; color: 007bff; margin-bottom: ($spacer * .5) !important; border-bottom: 1px solid #ececec;}
-a.blue:hover { color: #0056b3; text-decoration: none; margin-bottom: ($spacer * .5) !important; none; border-bottom: 1px solid #0056b3; }
-
-a.white {
+a.white { /* For internal links on the release banner. */
 	text-decoration: none;
 	color: #ffffff;
 	margin-bottom: ($spacer * .5) !important;
 	border-bottom: .5px dotted #ffffff
 }
-
 a.white:hover {
 	color: #fffff; text
 	text-decoration: none; 
@@ -525,15 +547,25 @@ a.white:hover {
 	border-bottom: 1px solid #ffffff;
 }
 
-a.pinklink { text-decoration: none; color: #333; border-bottom: 2px solid #ff017e; }
-a.pinklink:hover { text-decoration: none; color: #ff017e; }
+a.pinklink { /* For external links that I strongly recommend. */
+	text-decoration: none; 
+	color: #333; 
+	border-bottom: 2px solid #ff017e; 
+}
+a.pinklink:hover { 
+	text-decoration: none; 
+	color: #ff017e; 
+}
 
-a.neutral { text-decoration: none; border-bottom: none; color: #fff; }
-a.neutral:hover { text-decoration: none; color: #fff; border-bottom: none; }
-
-a.call-to-action { text-decoration: none; color: #666; border-bottom: 1px solid #ececec;}
+a.call-to-action { /* For links to internal blog posts. */
+	text-decoration: none; 
+	color: #666; 
+	border-bottom: 1px solid #ececec;
+}
 a.call-to-action:hover { color: #666; }
 a.call-to-action:visited { color: #333; }
+
+/* Tags and tagged links */
 
 .tag-2 { background-color: #B3C08F; color: #fff }
 .tag-3 { background-color: #ececec; color: #666 }
@@ -544,37 +576,6 @@ a.tag-3:hover { color: #333; }
 a.tag-cloud:link { text-decoration: none; color: #666; border-bottom-style: none;}
 a.tag-cloud:hover { color: #666; }
 a.tag-cloud:visited { color: #333; }
-
-a.fiverr { text-decoration: none; color: #1cbf73; }
-a.fiverr:hover { color: #127c4b; }
-
-/* Paragraphs */
-p { 
-	font-size: 1.1em; 
-	line-height: 1.6em; 
-	color: #212529;
-	margin-top: 1.5em;
-	margin-bottom: 1.5em;
-	font-weight: 300;
-}
-
-p.tight {
-	font-size: 1.1em;
-	line-height:1.6em;
-	color:#333
-	margin-top: 0;
-  	margin-bottom: 1rem;
-}
-
-#font-1 { font-size: 2.3em; }
-#font-2 { font-size: 2em; }
-#font-3 { font-size: 1.8em; }
-#font-4 { font-size: 1.6em; }
-#font-5 { font-size: 1.3em; }
-
-font-size:1.1em;
-	margin-top: 1.5em;
-	margin-bottom: 1.5em; 
 
 /*Colors*/
 
