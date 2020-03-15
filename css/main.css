@@ -626,9 +626,10 @@ button:-moz-focusring,[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[
 .w3-bar{position:static;float:left}
 .w3-bar .w3-button{white-space:normal}
 
-/* Button wrapper */
+/* Button wrapper
+	1. Use the .w3-bar to wrap the buttons inside columns or rows.
+	2. Use the <div class="btn-group d-flex" role="group"> to style the buttons with .w-100 to break the columns. */
  
-
 .tag-2 { background-color: #B3C08F; color: #fff }
 .tag-3 { background-color: #ececec; color: #666 }
 
@@ -724,7 +725,7 @@ li.posts {list-style: none;}
 .cv .download { float: right; font-size: .8em; text-transform: uppercase; }
 
 /* Media */
-@media (max-width: 375px) {
+@media (max-width: 600px) {
 .half, .half-one, .w3-btn, .w3-button {
         width: 100%;
 }
