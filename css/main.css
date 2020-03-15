@@ -205,7 +205,7 @@ body {
 	border: 0;
 }
 
-/* Test content wrapper */
+/* Test content wrapper - no longer used */
 
 .content { 
 	padding-top: 50px; 
@@ -625,6 +625,9 @@ button:-moz-focusring,[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[
 .w3-bar{padding:8px 16px;float:left;width:auto;border:none;display:block;outline:0}
 .w3-bar{position:static;float:left}
 .w3-bar .w3-button{white-space:normal}
+
+/* Button wrapper */
+ 
 
 .tag-2 { background-color: #B3C08F; color: #fff }
 .tag-3 { background-color: #ececec; color: #666 }
