@@ -5,21 +5,18 @@ description: All the categories and tags used in the blog.
 tagline: Let's see what else we've got on that..
 permalink: /search/
 ---
-<div class="page">
-  <div class="content">
-    <main>
+<main>
       
-<div class="whole-topless"> 
-<h1>Search</h1>
+<div class="container-fluid"> 
+<h1 class="font-weight-light text-center text-lg-left mt-4 mb-0">Search</h1>
 
 {% include search.html %}  
-  
+
 </div>
       
-<div class="whole">
+<div class="container">
 
-<h1>Tag Clouds</h1>
-  
+<h2 class="font-weight-light text-center text-lg-left mt-4 mb-0">Tag Clouds</h1>
 <p>
   {% for tag in site.tags %}
   <a href="#{{ tag[0]}}"
@@ -29,7 +26,7 @@ permalink: /search/
   {% endfor %}
   </p>
 
-      </div>  
+</div>  
   
 <div class="whole">
   
@@ -88,7 +85,4 @@ permalink: /search/
   
   
 </div>
-        
-    </main>
-  </div>
-</div>
+</main>
