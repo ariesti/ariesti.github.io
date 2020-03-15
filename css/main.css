@@ -721,14 +721,18 @@ li.posts {list-style: none;}
 .cv .download { float: right; font-size: .8em; text-transform: uppercase; }
 
 /* Media */
-
-@media screen and (max-width: 575px) {
+@media (max-width: 575.98px) {
 .half, .half-one, .w3-btn, .w3-button {
         width: 100%;
+}
+.w3-btn, .w3-button {
+	max-width:200px;	
 }
 div.whole-banner {
 	display:none;
 }}
+
+@media 
 
 /* Syntax Highlighter */
 
