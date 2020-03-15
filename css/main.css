@@ -618,9 +618,9 @@ button:-moz-focusring,[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[
 .w3-padding-32{padding-top:32px!important;padding-bottom:32px!important}.w3-padding-48{padding-top:48px!important;padding-bottom:48px!important}
 .w3-padding-64{padding-top:64px!important;padding-bottom:64px!important}
 
-.w3-bar{width:100%;overflow:hidden}
+.w3-bar{width:100%;overflow:hidden}  .w3-bar{display:inline-block;width:auto}
 .w3-bar{padding:8px 16px;float:left;width:auto;border:none;display:block;outline:0}
-.w3-bar{position:static;float:left;display:inline-block;width:auto}
+.w3-bar{position:static;float:left}
 .w3-bar .w3-button{white-space:normal}
 
 .tag-2 { background-color: #B3C08F; color: #fff }
