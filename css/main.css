@@ -594,7 +594,7 @@ a.call-to-action:visited { color: #333; }
 
 /* W3 Buttons */
 
-button,input {font:inherit;margin:0}
+button,input {font:inherit;margin:2}
 button,input{overflow:visible}
 button,select{text-transform:none}
 button,[type=button],[type=reset],[type=submit]{-webkit-appearance:button}
