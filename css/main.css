@@ -721,7 +721,7 @@ li.posts {list-style: none;}
 .cv .download { float: right; font-size: .8em; text-transform: uppercase; }
 
 /* Media */
-@media (max-width: 575.98px) {
+@media (max-width: 375px) {
 .half, .half-one, .w3-btn, .w3-button {
         width: 100%;
 }
@@ -731,8 +731,6 @@ li.posts {list-style: none;}
 div.whole-banner {
 	display:none;
 }}
-
-@media 
 
 /* Syntax Highlighter */
 
