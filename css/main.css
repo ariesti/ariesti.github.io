@@ -492,8 +492,8 @@ a.pink {	/* Code to achieve the Sass effect 'darken($link-color, 15%)'. */
 }
 a.pink:hover { color: #b40058; }
 
-a.neutral { 	/* This not good practice for search engine - displays link as not a link.
-		Best to use WITH Sass darken effect for social media icons. */
+a.neutral { 	/* This not good practice for search engine - displays link as not a link. 
+		Best to use WITH Sass darken effect for social media icons and categories buttons. */
 	text-decoration: none; 
 	border-bottom: none; 
 	color: #fff; 
@@ -570,7 +570,27 @@ a.call-to-action { /* For links to internal blog posts. */
 a.call-to-action:hover { color: #666; }
 a.call-to-action:visited { color: #333; }
 
-/* Tags and tagged links */
+/* Buttons, categories, tags and tagged links */
+/* Button for categories */
+
+.myButton {
+	background-color:#f05a8c;
+	-moz-border-radius:42px;
+	-webkit-border-radius:42px;
+	border-radius:42px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	padding:5px 19px;
+	text-decoration:none;
+}
+.myButton:hover {
+	background-color:#ff0180;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
 
 .tag-2 { background-color: #B3C08F; color: #fff }
 .tag-3 { background-color: #ececec; color: #666 }
@@ -665,27 +685,6 @@ li.posts {list-style: none;}
 .cv address, .cv .download { font-family: Open Sans, sans-serif; }
 .cv address, .cv p { font-size: 1.2em; }
 .cv .download { float: right; font-size: .8em; text-transform: uppercase; }
-
-/* Button */
-
-.myButton {
-	background-color:#f05a8c;
-	-moz-border-radius:42px;
-	-webkit-border-radius:42px;
-	border-radius:42px;
-	display:inline-block;
-	cursor:pointer;
-	color:#ffffff;
-	padding:5px 19px;
-	text-decoration:none;
-}
-.myButton:hover {
-	background-color:#ff0180;
-}
-.myButton:active {
-	position:relative;
-	top:1px;
-}
 
 /* Media */
 
