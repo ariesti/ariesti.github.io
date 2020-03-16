@@ -613,23 +613,27 @@ button:-moz-focusring,[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[
 /* FTT style with proper margin, try to add this to every piece of button if applicable. */
 .w3-ftt{font-size:0.8125em!important;margin:2px;overflow:hidden!important}
 
+/* Button font sizes in em */
 .w3-tiny{font-size: 0.625em!important}.w3-small{font-size:0.75em}.w3-medium{font-size:0.9375em}.w3-large{font-size:1.125em}
 .w3-xlarge{font-size:1.5em}.w3-xxlarge{font-size:2.25em}.w3-xxxlarge{font-size:3em}.w3-jumbo{font-size:4em}
 
+/*Padding sizes */
 .w3-padding-small{padding:4px 8px!important}.w3-padding{padding:8px 16px!important}.w3-padding-large{padding:12px 24px!important}
 .w3-padding-16{padding-top:16px!important;padding-bottom:16px!important}.w3-padding-24{padding-top:24px!important;padding-bottom:24px!important}
 .w3-padding-32{padding-top:32px!important;padding-bottom:32px!important}.w3-padding-48{padding-top:48px!important;padding-bottom:48px!important}
 .w3-padding-64{padding-top:64px!important;padding-bottom:64px!important}
 
-.w3-bar{width:100%;overflow:hidden}  .w3-bar{display:inline-block;width:auto}
-.w3-bar{padding:8px 16px;float:left;width:auto;border:none;display:block;outline:0}
-.w3-bar{position:static;float:left}
-.w3-bar .w3-button{white-space:normal}
+.w3-border-0{border:0!important}.w3-border{border:1px solid #ccc!important}
 
 /* Button wrapper
 	1. Use the .w3-bar to wrap the buttons inside columns or rows.
 	2. Use the <div class="btn-group d-flex" role="group"> to style the buttons with .w-100 to break the columns. 
 	Some problems on small screen, but works fine on xs and xl. */
+
+.w3-bar{width:100%;overflow:hidden}  .w3-bar{display:inline-block;width:auto}
+.w3-bar{padding:8px 16px;float:left;width:auto;border:none;display:block;outline:0}
+.w3-bar{position:static;float:left}
+.w3-bar .w3-button{white-space:normal}
  
 .tag-2 { background-color: #B3C08F; color: #fff }
 .tag-3 { background-color: #ececec; color: #666 }
