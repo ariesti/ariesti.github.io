@@ -497,7 +497,13 @@ footer {
 .breadcrumb {background-color: #ffffff !important;}
 .breadcrumb-item:hover::before {text-decoration: none !important;}
 .breadcrumb-item:hover {color:#6c757d !important;}
-a.bread, a.bread:hover {color:#6c757d;text-decoration:none;border-bottom:none}
+
+a.bread {	/* Links for the breadcrumb area, hence bread... */
+	text-decoration: none; 
+	color: #6c757d; 
+	border-bottom: none;
+}
+a.bread:hover { color: #6c757d; }
 
 .cate {		/* Forgot what this was for, will get back to this later */
 	display: inline;
