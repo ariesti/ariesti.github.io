@@ -497,6 +497,12 @@ footer {
 .breadcrumb {
 	background-color: #ffffff !important;
 }
+.breadcrumb, .breadcrumb-item, .breadcrumb-item::before {
+	font-size: 0.6em;
+	letter-spacing: .1em;
+	font-weight: 300;
+	text-transform: uppercase;
+}
 
 .cate {		/* Forgot what this was for, will get back to this later */
 	display: inline;
