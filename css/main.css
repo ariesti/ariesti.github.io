@@ -215,7 +215,8 @@ body {
 
 #middle { padding-top: 30px; padding-bottom: 30px; background-color: #fff; }
 #wrapper { padding: 0 100px; background: #fff; }
-#allBreak { 
+#allBreak { word-break: break all;}
+#break { 
 	word-break: break all;
 	display: inline-block;
 	white-space: normal;
