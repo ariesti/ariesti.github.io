@@ -226,6 +226,8 @@ body {
 	width: 20%;
 	display: inline-block;
 	vertical-align: top;
+	word-break: break all;
+
 }
 
 .quarter-one {
