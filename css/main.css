@@ -492,6 +492,12 @@ footer {
   background-color: transparent;
 }
 
+/* Breadcrumbs */
+
+.breadcrumb {
+	background-color: #ffffff !important;
+}
+
 .cate {		/* Forgot what this was for, will get back to this later */
 	display: inline;
 }
@@ -532,7 +538,7 @@ a.fiverr:hover { color: #127c4b; }
  * Remove the gray background on active links in IE 10 */
 
 a {
-  background-color: transparent; !important;
+  background-color: transparent !important;
 }
 
 /*
