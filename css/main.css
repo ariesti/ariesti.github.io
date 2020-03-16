@@ -628,6 +628,7 @@ button:-moz-focusring,[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[
 
 /* Bordered button */
 .w3-border-0{border:0}.w3-border{border:1px solid #ccc}
+.w3-border-black,.w3-hover-border-black:hover{border-color:#000!important}
 
 /* Button wrapper
 	1. Use the .w3-bar to wrap the buttons inside columns or rows.
