@@ -639,6 +639,15 @@ button:-moz-focusring,[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[
 .w3-bar{padding:8px 16px;float:left;width:auto;border:none;display:block;outline:0}
 .w3-bar{position:static;float:left}
 .w3-bar .w3-button{white-space:normal}
+
+#btnWrap {
+	max-width: 1140px;
+	overflow: hidden;
+	position: relative;
+	background: #e4f;
+	margin: 2px;
+	padding: 0 auto;
+}
  
 .tag-2 { background-color: #B3C08F; color: #fff }
 .tag-3 { background-color: #ececec; color: #666 }
