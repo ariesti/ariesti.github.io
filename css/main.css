@@ -494,9 +494,9 @@ footer {
 
 /* Breadcrumbs */
 
-.breadcrumb {
-	background-color: #ffffff !important;
-}
+.breadcrumb {background-color: #ffffff !important;}
+.breadcrumb-item:hover::before {text-decoration: none !important;}
+.breadcrumb-item:hover {color:#6c757d !important;}
 
 .cate {		/* Forgot what this was for, will get back to this later */
 	display: inline;
