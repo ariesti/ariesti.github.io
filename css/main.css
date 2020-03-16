@@ -227,7 +227,7 @@ div.quarter {
 	display: inline-block;
 	vertical-align: top;
 	word-break: break all;
-
+	white-space: normal;
 }
 
 div.quarter-one {
