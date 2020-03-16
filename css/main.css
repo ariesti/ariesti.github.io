@@ -632,7 +632,8 @@ button:-moz-focusring,[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[
 /* Button wrapper
 	1. Use the .w3-bar to wrap the buttons inside columns or rows.
 	2. Use the <div class="btn-group d-flex" role="group"> to style the buttons with .w-100 to break the columns. 
-	Some problems on small screen, but works fine on xs and xl. */
+	Some problems on small screen, but works fine on xs and xl.
+	3. Use w3-container when grouping buttons outside of columns and rows, e.g. in paragraphs or divs. */
 
 .w3-bar{width:100%;overflow:hidden}  .w3-bar{display:inline-block;width:auto}
 .w3-bar{padding:8px 16px;float:left;width:auto;border:none;display:block;outline:0}
