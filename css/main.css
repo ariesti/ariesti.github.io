@@ -215,6 +215,7 @@ body {
 
 #middle { padding-top: 30px; padding-bottom: 30px; background-color: #fff; }
 #wrapper { padding: 0 100px; background: #fff; }
+#allBre { word-break: break all; }
 	
 /* Half the page */
 
