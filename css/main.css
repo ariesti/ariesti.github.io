@@ -218,6 +218,7 @@ body {
 #allBreak { 
 	word-break: break all;
 	display: inline-block;
+	white-space: normal;
 }
 	
 /* Half the page */
