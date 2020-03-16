@@ -647,6 +647,7 @@ button:-moz-focusring,[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[
 	background: #e4f;
 	margin: 2px;
 	padding: 0 auto;
+	object-fit: contain;
 }
  
 .tag-2 { background-color: #B3C08F; color: #fff }
