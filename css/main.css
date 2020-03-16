@@ -222,7 +222,7 @@ body {
 	
 /* Half the page */
 
-.quarter {
+div.quarter {
 	width: 20%;
 	display: inline-block;
 	vertical-align: top;
@@ -230,7 +230,7 @@ body {
 
 }
 
-.quarter-one {
+div.quarter-one {
 	border-top: 1px solid #ECECEC;
 	width: 20%;
 	display: inline-block;
@@ -239,14 +239,14 @@ body {
 	overflow: auto;
 }
 
-.quarter-third {
+div.quarter-third {
 	width: 74%;
 	display: inline-block;
 	vertical-align: top;
 	
 }
 
-.quarter-third-top {
+div.quarter-third-top {
 	border-top: 1px solid #ECECEC;
 	width: 74%;
 	display: inline-block;
@@ -256,13 +256,13 @@ body {
 	
 }
 
-.half {
+div.half {
 	width: 47%; 
 	display: inline-block; 
 	vertical-align: top;
 }
 
-.half-one {
+div.half-one {
 	border-top: 1px solid #ECECEC;
 	width: 47%;
 	display: inline-block;
@@ -271,20 +271,20 @@ body {
 	overflow: auto;
 }
 
-.whole {
+div.whole {
 	border-top: 1px solid #ECECEC; 
 	padding-bottom: 30px;
 	padding-top: 20px;
 	overflow: auto;
 	}
 
-.whole-topless {
+div.whole-topless {
 	padding-bottom: 30px;
 	padding-top: 0;
 	overflow: auto;
 }
 
-.whole-banner {
+div.whole-banner {
 	display: block;
 	padding-top: 10px;
 	padding-bottom: 10px:
