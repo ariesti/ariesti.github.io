@@ -3,3 +3,11 @@ header,footer,.foot,.index{text-transform:none!important;font-family:'Poppins',s
 h1,h2,h3,h4,h5,h6{font-family:'Poppins',sans-serif!important;color:#212529;}
 .alpha,.beta,.lead,.text-fine,.index,.bottom,.foot{font-family:'Poppins',sans-serif!important;}
 div.cookieinfo{font-family:'Poppins',sans-serif!important;font-size:13px!important;font-weight:200!important;}
+
+/* Post styling */
+article,div{display:block}
+.banner{align-items:center;justify-content:center;position:relative;margin:0 0 20px;min-height:450px;}
+.is-faded{background-color:#000;color:#fff;}
+.banner_top{z-index:20;position:absolute;top:60px;}
+.banner_top,.banner_bottom{text-align:center;max-width:1000px;margin-left:auto;margin-right:auto;height:auto;width:100%;}
+.banner.is-faded .banner_background{opacity:.6}
