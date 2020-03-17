@@ -234,6 +234,10 @@ body {
 	
 /* Half the page */
 
+div.cookieinfo {
+	font-weight: 300 !important;
+}
+
 div.quarter {
 	width: 20%;
 	display: inline-block;
