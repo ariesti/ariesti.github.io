@@ -1,5 +1,5 @@
 body {font-family: 'Poppins', sans-serif !important;font-size: 1.1em;color: #212529;} 
-header {text-transform: none !important}
-h1, h2, h3, h4, h5, h6, .alpha, .beta, header, footer, .lead, .text-fine {font-family: 'Poppins', sans-serif !important;color: #212529}
+header, footer {text-transform: none !important;font-family: 'Poppins', sans-serif !important;color: #212529 }
+h1, h2, h3, h4, h5, h6, .alpha, .beta, .lead, .text-fine {font-family: 'Poppins', sans-serif !important;color: #212529}
 
 
