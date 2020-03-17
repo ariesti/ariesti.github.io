@@ -9,7 +9,7 @@ article,div{display:block}
 .banner{align-items:center;justify-content:center!important;position:relative;margin:0 0 20px;min-height:450px;}
 .is-faded{background-color:#000;color:#fff;}
 .banner_top{z-index:20;position:absolute;top:60px;}
-.banner_top,.banner_bottom{max-width:1000px;margin-left:auto;margin-right:auto;height:auto;width:100%;}
+.banner_top,.banner_bottom{margin-left:auto;margin-right:auto;height:auto;width:100%;}
 .banner.is-faded .banner_background{opacity:.6}
 .banner_bottom:after,.banner_top:after {clear: both;content: "";display: block;}
 
