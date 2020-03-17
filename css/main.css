@@ -238,8 +238,6 @@ div.quarter {
 	width: 20%;
 	display: inline-block;
 	vertical-align: top;
-	word-break: break all;
-	white-space: normal;
 }
 
 div.quarter-one {
@@ -352,12 +350,6 @@ p.story-1 { /* For stories in the home page and elsewhere not on the blog. */
 	font-family: 'Roboto Mono', monospace;
 	font-weight: 700;
 }
-
-#font-1 { font-size: 2.3em; }
-#font-2 { font-size: 2em; }
-#font-3 { font-size: 1.8em; }
-#font-4 { font-size: 1.6em; }
-#font-5 { font-size: 1.3em; }
 
 /* Handling the typography */
 
@@ -498,47 +490,9 @@ footer {
 .breadcrumb-item:hover::before {text-decoration: none !important;}
 .breadcrumb-item:hover {color:#6c757d !important;}
 
-a.bread {	/* Links for the breadcrumb area, hence bread... */
-	text-decoration: none; 
-	color: #6c757d; 
-	border-bottom: none;
-}
-a.bread:hover { color: #6c757d; }
-
 .cate {		/* Forgot what this was for, will get back to this later */
 	display: inline;
 }
-
-a.bottom {	/* Navigation on the botton area, made similar in style to the header. */
-	text-decoration: none; 
-	color: #6c757d; 
-	border-bottom: none;
-}
-a.bottom:hover { color: #212529; }
-
-a.pink {	/* Code to achieve the Sass effect 'darken($link-color, 15%)'. */
-	text-decoration: none; 
-	color: #ff017e; 
-	border-bottom: none;
-}
-a.pink:hover { color: #b40058; }
-
-a.neutral { 	/* This not good practice for search engine - displays link as not a link. 
-		Best to use WITH Sass darken effect for social media icons and categories buttons. */
-	text-decoration: none; 
-	border-bottom: none; 
-	color: #fff; 
-}
-a.neutral:hover { 
-	text-decoration: none; 
-	color: #fff; 
-	border-bottom: none; }
-
-a.fiverr {	/* Styling for Fiverr links */
-	text-decoration: none; 
-	color: #1cbf73; 
-}
-a.fiverr:hover { color: #127c4b; }
 
 /* Inline links and hover 
  
@@ -600,6 +554,44 @@ a.call-to-action { /* For links to internal blog posts. */
 }
 a.call-to-action:hover { color: #666; }
 a.call-to-action:visited { color: #333; }
+
+a.bread {	/* Links for the breadcrumb area, hence bread... */
+	text-decoration: none; 
+	color: #6c757d; 
+	border-bottom: none;
+}
+a.bread:hover { color: #6c757d; }
+
+a.bottom {	/* Navigation on the botton area, made similar in style to the header. */
+	text-decoration: none; 
+	color: #6c757d; 
+	border-bottom: none;
+}
+a.bottom:hover { color: #212529; }
+
+a.pink {	/* Code to achieve the Sass effect 'darken($link-color, 15%)'. */
+	text-decoration: none; 
+	color: #ff017e; 
+	border-bottom: none;
+}
+a.pink:hover { color: #b40058; }
+
+a.neutral { 	/* This not good practice for search engine - displays link as not a link. 
+		Best to use WITH Sass darken effect for social media icons and categories buttons. */
+	text-decoration: none; 
+	border-bottom: none; 
+	color: #fff; 
+}
+a.neutral:hover { 
+	text-decoration: none; 
+	color: #fff; 
+	border-bottom: none; }
+
+a.fiverr {	/* Styling for Fiverr links */
+	text-decoration: none; 
+	color: #1cbf73; 
+}
+a.fiverr:hover { color: #127c4b; }
 
 /* Buttons, categories, tags and tagged links */
 /* Button for categories */
