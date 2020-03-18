@@ -6,7 +6,7 @@ header,.index {text-transform:none!important;font-family:'Poppins',sans-serif!im
 h1,h2,h3,h4,h5,h6,p{font-family:'Poppins',sans-serif!important;}h1,h2,h3,h4,h5,h6,p{margin:0!important;padding:0!important;}
 .alpha,.beta,.lead,.text-fine,.index,.bottom,.foot{font-family:'Poppins',sans-serif!important;}
 div.cookieinfo{font-family:'Poppins',sans-serif!important;font-size:13px!important;font-weight:200!important;}
-
+h1{font-size:2em;margin:.67em 0}
 /* Post styling */
 article,div{display:block}
 .banner{display:-webkit-box;display:-moz-box;display:box;display:-moz-flex;display:-ms-flexbox;display:flex;box-align:center;-moz-align-items:center;-ms-align-items:center;-o-align-items:center;align-items:center;-ms-flex-align:center;box-pack:center;-moz-justify-content:center;-ms-justify-content:center;-o-justify-content:center;justify-content:center;-ms-flex-pack:center;position:relative;height:auto;width:auto;margin:0 0 20px;min-height:450px}@media screen and (min-width:720px){.banner{height:450px;width:auto}}
@@ -14,13 +14,6 @@ article,div{display:block}
 .banner_middle{color:#fff;z-index:10;max-width:1000px;margin-left:auto;margin-right:auto;position:relative;padding:60px 40px;text-align:center;max-width:100%}.banner_middle:after{clear:both;content:"";display:block}@media screen and (min-width:720px){.banner_middle{max-width:40%;padding:60px 0}}
 .banner_background{position:absolute;top:0;right:0;bottom:0;left:0;background-position:50%;background-size:cover;background-repeat:no-repeat;z-index:0}
 .banner.is-faded{background-color:#000;color:#fff}.banner.is-faded .banner_background{opacity:.6}
-
-/*<.banner {align-items: center;justify-content: center!important;position:relative;margin:0 0 20px;min-height: 450px;}.banner_top{z-index:20;position:absolute;top:60px;}*/
-/*.banner_top,.banner_bottom{margin-left:auto!important;margin-right:auto;height:auto;width:100%;}*/
-/* .banner_bottom:after,.banner_top:after {clear: both;content: "";display: block;}@media screen and (min-width:720px){.banner{height:450px;width:auto}}*/
-/*.banner_middle{color:var(--white)!important;z-index:10;margin-left:auto;margin-right:auto;position:relative;padding:60px 40px;text-align:center;top:25%;}.banner_middle:after{clear:both;content:"";display:block}@media screen and (min-width:720px){.banner_middle{max-width:40%;padding:60px 0}}*/
-
-
 /*Text */
 .title.is-cat{font-size:0.75em;letter-spacing:.16em;text-transform:uppercase;font-weight:400;}
 .title.is-1{font-size:32px;line-height:38px;letter-spacing:-.02em;font-weight:500;}
