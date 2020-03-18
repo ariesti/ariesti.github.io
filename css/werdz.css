@@ -1,6 +1,6 @@
-html{box-sizing:border-box;font-size:16px!important;}*,:after,:before{box-sizing:inherit}
+html{box-sizing:border-box;font-size:16px;}*,:after,:before{box-sizing:inherit}
 html{font-smooth:always;-webkit-font-smoothing:antialiased}
-body{font-family:'Poppins',sans-serif!important;font-size:.85rem;line-height:1.3rem;font-weight:400;letter-spacing:.02rem} 
+body{font-family:'Poppins',sans-serif!important;line-height:1.3rem;font-weight:400;letter-spacing:.02rem} 
 footer,.foot,{text-transform:none!important;font-family:'Poppins',sans-serif!important;color:#212529;font-size:0.75em!important;font-weight:200!important;}
 header,.index {text-transform:none!important;font-family:'Poppins',sans-serif!important;color:#212529;font-size:0.8125em!important;font-weight:300!important;}
 h1,h2,h3,h4,h5,h6,p{font-family:'Poppins',sans-serif!important;}
@@ -24,4 +24,4 @@ article,div{display:block}
 
 /*Text */
 .title.is-cat{font-size:0.75em;letter-spacing:.16em;text-transform:uppercase;font-weight:400;}
-.title.is-1{font-size:2em;line-height:2.375em;letter-spacing:-.02em;font-weight:500;}
+.title.is-1{font-size:32px;line-height:38px;letter-spacing:-.02em;font-weight:500;}
