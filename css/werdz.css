@@ -8,7 +8,8 @@ div.cookieinfo{font-family:'Poppins',sans-serif!important;font-size:13px!importa
 /* Post styling */
 article,div{display:block}
 .banner {align-items: center;justify-content: center!important;position:relative;margin:0 0 20px;min-height: 450px;}.banner_top{z-index:20;position:absolute;top:60px;}
-.banner_top,.banner_bottom{margin-left:auto!important;margin-right:auto;height:auto;width:100%;}.banner.is-faded .banner_background{opacity:.6}
+.banner_top,.banner_bottom{margin-left:auto!important;margin-right:auto;height:auto;width:100%;}
+.banner.is-faded{background-color:#000;color:#fff}.banner.is-faded .banner__background{opacity:.6}
 .banner_bottom:after,.banner_top:after {clear: both;content: "";display: block;}@media screen and (min-width:720px){.banner{height:450px;width:auto}}
 
 .title.is-cat{font-size:0.75em;letter-spacing:.16em;text-transform:uppercase;font-weight:400;}
