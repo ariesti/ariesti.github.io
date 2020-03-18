@@ -4,7 +4,7 @@ body{font-family:'Poppins',sans-serif!important;font-size:0.85rem!important;line
 footer,.foot,{text-transform:none!important;font-family:'Poppins',sans-serif!important;color:#212529;font-size:0.75em!important;font-weight:200!important;}
 header,.index {text-transform:none!important;font-family:'Poppins',sans-serif!important;color:#212529;font-size:13px!important;font-weight:300!important;}
 h1,h2,h3,h4,h5,h6,p{font-family:'Poppins',sans-serif!important;}h1,h2,h3,h4,h5,h6,p{margin:0!important;padding:0!important;}
-.alpha,.beta,.lead,.text-fine,.index,.bottom,.foot{font-family:'Poppins',sans-serif!important;}
+.alpha,.beta,.lead,.text-fine,.index,.bottom,.foot{font-family:'Poppins',sans-serif!important;}.alpha{font-size:0.687em!important;}
 div.cookieinfo{font-family:'Poppins',sans-serif!important;font-size:13px!important;font-weight:200!important;}
 h1{font-size:2em;margin:.67em 0}
 /* Post styling */
