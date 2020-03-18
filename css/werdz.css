@@ -23,4 +23,4 @@ article,div{display:block}
 
 /*Text */
 .title.is-cat{font-size:0.75em;letter-spacing:.16em;text-transform:uppercase;font-weight:400;}
-.title.is-1{font-size:2em;line-height:2.375em;letter-spacing:-.02em}
+.title.is-1{font-size:2em;line-height:2.375em;letter-spacing:-.02em;font-weight:500;}
