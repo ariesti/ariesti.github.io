@@ -16,5 +16,5 @@ article,div{display:block}
 .banner.is-faded{background-color:#000;color:#fff}.banner.is-faded .banner_background{opacity:.6}
 /*Text */
 
-title.is-cat{text-transform:uppercase;font-weight:400}.title.is-cat{font-size:12px;letter-spacing:.16em}.title.is-cat a{text-decoration:none}
+.title.is-cat{text-transform:uppercase;font-weight:400}.title.is-cat{font-size:12px;letter-spacing:.16em}.title.is-cat a{text-decoration:none}
 .title.is-1{font-size:2.66em;line-height:38px;letter-spacing:-.02em;font-weight:500;}
