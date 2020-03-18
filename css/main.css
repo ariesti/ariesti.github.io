@@ -310,6 +310,8 @@ div.whole-banner {
 	vertical align: middle;
 }
 
+.navbar-brand {font-weight:700!important;}
+
 .footer {
 	bottom: 0;
 	position-fixed;
