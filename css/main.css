@@ -16,7 +16,8 @@ version history: v.1.0
 
 html {
   line-height: 1.15; /* 1 */
-  -webkit-text-size-adjust: 100%; /* 2 */
+  -webkit-text-size-adjust: 100%;
+	font-size:16px; /* Set up baseline for 1 em is 16px */
 }
 
 /*Remove the margin in all browsers */
