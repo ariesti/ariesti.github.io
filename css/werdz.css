@@ -1,5 +1,6 @@
-html{box-sizing:border-box;font-size:16px}*,:after,:before{box-sizing:inherit}
-body{font-family:'Poppins',sans-serif!important;font-size:1.1em;} 
+html{box-sizing:border-box;font-size:16px!important;}*,:after,:before{box-sizing:inherit}
+html{font-smooth:always;-webkit-font-smoothing:antialiased}
+body{font-family:'Poppins',sans-serif!important;font-size:.85rem;line-height:1.3rem;font-weight:400;letter-spacing:.02rem} 
 footer,.foot,{text-transform:none!important;font-family:'Poppins',sans-serif!important;color:#212529;font-size:0.75em!important;font-weight:200!important;}
 header,.index {text-transform:none!important;font-family:'Poppins',sans-serif!important;color:#212529;font-size:0.8125em!important;font-weight:300!important;}
 h1,h2,h3,h4,h5,h6,p{font-family:'Poppins',sans-serif!important;}
