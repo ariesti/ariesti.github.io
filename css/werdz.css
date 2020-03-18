@@ -3,8 +3,7 @@ html{font-smooth:always;-webkit-font-smoothing:antialiased}
 body{font-family:'Poppins',sans-serif!important;font-size:0.85rem!importanr;line-height:1.3rem!importanr;font-weight:400!important;letter-spacing:.02rem} 
 footer,.foot,{text-transform:none!important;font-family:'Poppins',sans-serif!important;color:#212529;font-size:0.75em!important;font-weight:200!important;}
 header,.index {text-transform:none!important;font-family:'Poppins',sans-serif!important;color:#212529;font-size:0.8125em!important;font-weight:300!important;}
-h1,h2,h3,h4,h5,h6,p{font-family:'Poppins',sans-serif!important;}
-h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit}h1,h2,h3,h4,h5,h6,p{margin:0!important;padding:0!important;}
+h1,h2,h3,h4,h5,h6,p{font-family:'Poppins',sans-serif!important;}h1,h2,h3,h4,h5,h6,p{margin:0!important;padding:0!important;}
 .alpha,.beta,.lead,.text-fine,.index,.bottom,.foot{font-family:'Poppins',sans-serif!important;}
 div.cookieinfo{font-family:'Poppins',sans-serif!important;font-size:13px!important;font-weight:200!important;}
 
