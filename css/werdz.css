@@ -16,7 +16,7 @@ article,div{display:block}
 /*<.banner {align-items: center;justify-content: center!important;position:relative;margin:0 0 20px;min-height: 450px;}.banner_top{z-index:20;position:absolute;top:60px;}*/
 /*.banner_top,.banner_bottom{margin-left:auto!important;margin-right:auto;height:auto;width:100%;}*/
 .banner.is-faded{background-color:#000;color:#fff}.banner.is-faded .banner_background{opacity:.6}
-.banner_bottom:after,.banner_top:after {clear: both;content: "";display: block;}@media screen and (min-width:720px){.banner{height:450px;width:auto}}
+/* .banner_bottom:after,.banner_top:after {clear: both;content: "";display: block;}@media screen and (min-width:720px){.banner{height:450px;width:auto}}*/
 .banner_background{position:absolute;top:0;right:0;bottom:0;left:0;background-position:50%;background-size:cover;background-repeat:no-repeat;z-index:0}
 .banner_middle{color:var(--white)!important;z-index:10;margin-left:auto;margin-right:auto;position:relative;padding:60px 40px;text-align:center;top:25%;}.banner_middle:after{clear:both;content:"";display:block}@media screen and (min-width:720px){.banner_middle{max-width:40%;padding:60px 0}}
 
