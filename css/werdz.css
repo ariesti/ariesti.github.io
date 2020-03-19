@@ -15,10 +15,9 @@ article,div{display:block}
 .banner_background{position:absolute;top:0;right:0;bottom:0;left:0;background-position:50%;background-size:cover;background-repeat:no-repeat;z-index:0}
 .banner.is-faded{background-color:#000;color:#fff}.banner.is-faded .banner_background{opacity:.6}
 /*Text */
-
 .title.is-cat{text-transform:uppercase;font-weight:400}.title.is-cat{font-size:12px;letter-spacing:.16em}.title.is-cat a{text-decoration:none}
 .title.is-1{font-size:2.66em;line-height:38px;letter-spacing:-.02em;font-weight:500;}
-
+/*Blog */
 .blog-header{height:75px;width:100%;line-height:75px;margin:0;background-color:#fff;display:none}
 .blog-header_inner{max-width:1000px;margin-left:auto;margin-right:auto;position:relative}
 .blog-header_inner:after{clear:both;content:"";display:block}
@@ -31,5 +30,5 @@ article,div{display:block}
 .blog-header.stuck .nav .menu-item.blog-header_mark .icon.is-mark{opacity:1}
 .blog-header .search-bar{background-color:#fff;padding-left:20px;width:60px;text-align:right;overflow:hidden;transition:all .3s cubic-bezier(.165,.84,.44,1);white-space:nowrap}
 .blog-header .search-bar_form{float:left;width:100%;padding-left:40px}.blog-header .search-bar_toggle{position:absolute;top:0;left:20px;width:40px;text-align:center;background-color:#fff;text-decoration:none}
-.blog-header .search-bar_input{height:30px;width:100%;position:relative;top:-2px;border:none;background-color:#f5f5f5;font-size:13px;line-height:30px;text-indent:10px;font-family:Karla,Helvetica Neue,Helvetica,Arial,sans-serif;color:#323232;outline:none}
+.blog-header .search-bar_input{height:30px;width:100%;position:relative;top:-2px;border:none;background-color:#f5f5f5;font-size:13px;line-height:30px;text-indent:10px;font-family:'Poppins',sans-serif;color:#323232;outline:none}
 .blog-header.search-open .search-bar{width:300px}.blog-header.search-open .blog-header_menu{opacity:.4}@media screen and (min-width:720px){.blog-header{display:block}}
