@@ -33,7 +33,7 @@ article,div{display:block}
 .blog-header .search-bar_input{height:30px;width:100%;position:relative;top:-2px;border:none;background-color:#f5f5f5;font-size:13px;line-height:30px;text-indent:10px;font-family:'Poppins',sans-serif;color:#323232;outline:none}
 .blog-header.search-open .search-bar{width:300px}.blog-header.search-open .blog-header_menu{opacity:.4}@media screen and (min-width:720px){.blog-header{display:block}}
 
-.footer_top a,.nav-style,.nav.is-primary .menu-item,.nav.is-secondary .menu-item{color:#000;font-family:'Poppins',sans-serif;font-size:13px;line-height:16px;letter-spacing:.15em;text-transform:uppercase;box-sizing:border-box;border:2px solid #fff;vertical-align:middle;font-spacing:.06em;font-weight:400;text-decoration:none}
+.footer_top a,.nav-style,.nav.is-primary .menu-item,.nav.is-secondary .menu-item{color:#000;font-family:'Poppins',sans-serif;font-size:13px;line-height:16px;letter-spacing:.15em;text-transform:uppercase;box-sizing:border-box;border:2px solid #fff!important;vertical-align:middle;font-spacing:.06em;font-weight:400;text-decoration:none}
 .footer_top a a,.nav-style a,.nav.is-primary .menu-item a,.nav.is-secondary .menu-item a{text-decoration:none}
 .footer_top a:active,.footer_top a:focus,.footer_top a:hover,.nav-style:active,.nav-style:focus,.nav-style:hover,.nav.is-primary .menu-item:active,.nav.is-primary .menu-item:focus,.nav.is-primary .menu-item:hover,.nav.is-secondary .menu-item:active,.nav.is-secondary .menu-item:focus,.nav.is-secondary .menu-item:hover{color:#222;text-decoration:none}
 
