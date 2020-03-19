@@ -94,3 +94,11 @@ article,div{display:block}
 .shop-list.is-small .product{width:50%}@media screen and (min-width:720px){.shop-list.is-small .product{width:25%}}
 .shop-list.is-medium .product{width:50%}@media screen and (min-width:720px){.shop-list.is-medium .product{width:33.33333%}}
 .shop-list.is-large .product{width:50%}@media screen and (min-width:720px){.shop-list.is-large .product{width:50%}}
+.product{margin:0 0 30px;padding:0 15px}
+.product_thumbnail{position:relative;height:auto;width:100%;display:block;margin:0 0 16px}
+.product_thumbnail:after{padding-top:100%;display:block;content:""}
+.product_image{position:absolute;top:0;right:0;bottom:0;left:0;background-position:bottom;background-repeat:no-repeat;background-size:cover;background-color:#f5f5f5}
+.product_header{height:auto;width:100%;position:relative}
+.product_header .title.is-product-likes{position:absolute;top:0;right:0}
+.product_header .title.is-product-title{padding:0 70px 0 0}
+.product_body{height:auto;width:100%;position:relative}
