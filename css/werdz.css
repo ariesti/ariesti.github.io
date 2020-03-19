@@ -36,3 +36,8 @@ article,div{display:block}
 .footer_top a,.nav-style,.nav.is-primary .menu-item,.nav.is-secondary .menu-item{color:#000;font-family:'Poppins',sans-serif;font-size:13px;line-height:16px;letter-spacing:.15em;text-transform:uppercase;box-sizing:border-box;border:2px solid #fff;vertical-align:middle;font-spacing:.06em;font-weight:400;text-decoration:none}
 .footer_top a a,.nav-style a,.nav.is-primary .menu-item a,.nav.is-secondary .menu-item a{text-decoration:none}
 .footer_top a:active,.footer_top a:focus,.footer_top a:hover,.nav-style:active,.nav-style:focus,.nav-style:hover,.nav.is-primary .menu-item:active,.nav.is-primary .menu-item:focus,.nav.is-primary .menu-item:hover,.nav.is-secondary .menu-item:active,.nav.is-secondary .menu-item:focus,.nav.is-secondary .menu-item:hover{color:#222;text-decoration:none}
+
+.nav ul{margin:0;padding:0;list-style:none}
+.nav .menu-item{display:inline-block;position:relative}
+.nav .menu-item a{color:#000;display:block}
+.nav .menu-item a:active,.nav .menu-item a:focus,.nav .menu-item a:hover{color:#222;text-decoration:none}
