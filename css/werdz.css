@@ -45,3 +45,4 @@ article,div{display:block}
 .icon.is-mark{opacity:1}.icon{height:14px;width:14px}
 .icon{height:18px;width:18px;position:relative;display:inline-block;background-position:50%;background-size:contain;background-repeat:no-repeat}
 .icon.is-mark{background-image:url(/assets/iconmonstr-arrow-65.svg)!important;height:26px;width:26px}
+.pagination .page-numbers.current{border-color:#fff}
