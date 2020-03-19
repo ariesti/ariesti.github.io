@@ -18,3 +18,18 @@ article,div{display:block}
 
 .title.is-cat{text-transform:uppercase;font-weight:400}.title.is-cat{font-size:12px;letter-spacing:.16em}.title.is-cat a{text-decoration:none}
 .title.is-1{font-size:2.66em;line-height:38px;letter-spacing:-.02em;font-weight:500;}
+
+.blog-header{height:75px;width:100%;line-height:75px;margin:0;background-color:#fff;display:none}
+.blog-header_inner{max-width:1000px;margin-left:auto;margin-right:auto;position:relative}
+.blog-header_inner:after{clear:both;content:"";display:block}
+.blog-header_menu{transition:all .3s cubic-bezier(.165,.84,.44,1);margin:0;padding:0;position:relative;display:inline-block}
+.blog-header_menu .nav .menu-item.blog-header_mark{transition:all .3s cubic-bezier(.165,.84,.44,1);margin:0;padding:0;height:52px;width:0;overflow:hidden}
+.blog-header_menu .nav .menu-item.blog-header_mark .icon.is-mark{transition:opacity .6s cubic-bezier(.165,.84,.44,1);transition-delay:.1s;opacity:0}
+.blog-header_search{position:absolute;top:0;right:0}
+.blog-header.stuck{position:fixed;top:0;right:0;left:0;box-shadow:0 1px 3px rgba(0,0,0,.1);z-index:50}
+.blog-header.stuck .nav .menu-item.blog-header_mark{margin:0;padding:0;height:52px;width:52px;overflow:hidden;opacity:1}
+.blog-header.stuck .nav .menu-item.blog-header_mark .icon.is-mark{opacity:1}
+.blog-header .search-bar{background-color:#fff;padding-left:20px;width:60px;text-align:right;overflow:hidden;transition:all .3s cubic-bezier(.165,.84,.44,1);white-space:nowrap}
+.blog-header .search-bar_form{float:left;width:100%;padding-left:40px}.blog-header .search-bar_toggle{position:absolute;top:0;left:20px;width:40px;text-align:center;background-color:#fff;text-decoration:none}
+.blog-header .search-bar_input{height:30px;width:100%;position:relative;top:-2px;border:none;background-color:#f5f5f5;font-size:13px;line-height:30px;text-indent:10px;font-family:Karla,Helvetica Neue,Helvetica,Arial,sans-serif;color:#323232;outline:none}
+.blog-header.search-open .search-bar{width:300px}.blog-header.search-open .blog-header_menu{opacity:.4}@media screen and (min-width:720px){.blog-header{display:block}}
