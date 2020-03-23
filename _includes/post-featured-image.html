@@ -1,5 +1,7 @@
-<div class="container">
+<!--div class="container">
 <figure class="figure-img img-fluid rounded mb-4">
 <img src="{{ site.baseurl }}/assets/image/{{ include.image }}" class="figure-img img-fluid rounded" alt="{{ include.alt | default: 'image representing a theme in this article' }}" />
 <p class="alpha">{{ page.featured-image-description }}</p>  
-</figure></div>
+</figure></div -->
+
+<div class="container" style="background-image: url('{{ site.baseurl }}/assets/image/{{ include.image }} alt="{{ include.alt | default: 'image representing a theme in this article' }}"><p class="alpha">{{ page.featured-image-description }}</p></div>
