@@ -23,12 +23,13 @@ layout: carou
 <!-- call the featured-post-image.html template file -->
 {% if page.featured-image %}{% include post-featured-image.html image=page.featured-image alt=page.featured-image-alt %}{% endif %}
 
-<article class="post-content">
+<section class="py-5">
   {{ content }}
-</article>
-    <p><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+</section>
 
-<div class="post-categories whole">
+<p><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
+<div class="post-categories container-fluid">
 <span class="alpha cate"><p><h5 class="cate">Categories:  </h5>&nbsp;{% if post %}
     {% assign categories = post.categories %}
   {% else %}
