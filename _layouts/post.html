@@ -29,9 +29,8 @@ layout: carou
   {{ content }}
 </div></section>
 
-<p><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-
 <div class="post-categories container">
+<p class="pb-2"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 <span class="alpha cate"><p><h5 class="cate">Categories:  </h5>&nbsp;{% if post %}
     {% assign categories = post.categories %}
   {% else %}
@@ -42,8 +41,8 @@ layout: carou
   {% unless forloop.last %}&nbsp;{% endunless %}
     {% endfor %}</p></span>
 </div>
-    
-  <br>
+<br>
+<div class="container">
 <div class="PageNavigation neutral">
   {% if page.previous.url %}
     <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
@@ -51,7 +50,7 @@ layout: carou
   {% if page.next.url %}
     <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
   {% endif %}
-</div>
+</div></div>
 
 <br>
 <!-- <div class="relatedPosts">
