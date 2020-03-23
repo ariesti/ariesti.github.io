@@ -1,6 +1,6 @@
 html{box-sizing:border-box;font-size:16px;!important}*,:after,:before{box-sizing:inherit}
 html{font-smooth:always;-webkit-font-smoothing:antialiased}
-body{font-family:'Poppins',sans-serif!important;font-size:0.85rem!important;line-height:1.3rem!important;font-weight:400!important;letter-spacing:.02rem} 
+.block,.block.is-paragraph .block_content p,.block.is-qanda .block_content .title,.block.is-qanda .block_content p,.body-style,.button.is-link,.caption,.paragraph,.title.is-answer,.title.is-question,body{font-family:'Poppins',sans-serif!important;font-size:0.85rem!important;line-height:1.3rem!important;font-weight:400!important;letter-spacing:.02rem} 
 footer,.foot,{text-transform:none!important;font-family:'Poppins',sans-serif!important;color:#212529;font-size:0.75em!important;font-weight:200!important;}
 header,.index {text-transform:none!important;font-family:'Poppins',sans-serif!important;color:#212529;font-size:13px!important;font-weight:300!important;}
 h1,h2,h3,h4,h5,h6,p{font-family:'Poppins',sans-serif!important;}h1,h2,h3,h4,h5,h6,p{margin:0!important;padding:0!important;}
@@ -114,3 +114,9 @@ article,div{display:block}
 .product_header .title.is-product-likes{position:absolute;top:0;right:0}
 .product_header .title.is-product-title{padding:0 70px 0 0}
 .product_body{height:auto;width:100%;position:relative}
+
+.post-meta{margin:30px 0;padding:40px 0 0;border-top:1px solid #ddd}@media screen and (min-width:720px){.post-meta{border:none;padding:0}}
+.post-meta_inner{max-width:1000px;margin-left:auto;margin-right:auto;position:relative;padding:0 40px}
+.post-meta_inner:after{clear:both;content:"";display:block}@media screen and (min-width:720px){.post-meta_inner{padding:0}}@media screen and (min-width:720px){.post-meta_tags{margin-left:17.2%;float:left;display:block;margin-right:3.2%;width:31.2%}
+.post-meta_tags:last-child{margin-right:0}}@media screen and (min-width:720px){.post-meta_share{float:left;display:block;margin-right:3.2%;width:31.2%;text-align:right}
+.post-meta_share:last-child{margin-right:0}}.product{margin:0 0 30px;padding:0 15px}
