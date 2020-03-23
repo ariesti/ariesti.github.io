@@ -120,3 +120,8 @@ article,div{display:block}
 .post-meta_inner:after{clear:both;content:"";display:block}@media screen and (min-width:720px){.post-meta_inner{padding:0}}@media screen and (min-width:720px){.post-meta_tags{margin-left:17.2%;float:left;display:block;margin-right:3.2%;width:31.2%}
 .post-meta_tags:last-child{margin-right:0}}@media screen and (min-width:720px){.post-meta_share{float:left;display:block;margin-right:3.2%;width:31.2%;text-align:right}
 .post-meta_share:last-child{margin-right:0}}.product{margin:0 0 30px;padding:0 15px}
+
+.share_header,.share_item,.share_list{display:inline-block}
+.share_list{margin:0 -2px;padding:0}
+.share_header{margin:0 20px 0 0}
+.share_item{margin:0 2px}
