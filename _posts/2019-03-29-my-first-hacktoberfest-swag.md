@@ -15,7 +15,7 @@ featured-image-description: S-S-S-SWAAAG!
 featured-image-alt: S-S-S-SWAAAG!
 ---
 
-<div class="mb-4 lead"><b>Disclaimer:</b> The community event ended two years ago in October, but my first dev swag was just delivered to me a few <b>business days</b> ago.</div>
+<div class="mb-4 w3-large"><b>Disclaimer:</b> The community event ended two years ago in October, but my first dev swag was just delivered to me a few <b>business days</b> ago.</div>
 
 <hr class="mt-2 mb-4">
 
