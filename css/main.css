@@ -600,6 +600,12 @@ a.fiverr {	/* Styling for Fiverr links */
 }
 a.fiverr:hover { color: #127c4b; }
 
+.share {	/* Links for the Share section in werdz */ 
+	color: #999999; 
+	border-bottom: none;
+	text-transform: uppercase; 
+}
+
 /* Buttons, categories, tags and tagged links */
 /* Button for categories */
 
