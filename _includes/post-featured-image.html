@@ -4,4 +4,4 @@
 <p class="alpha">{{ page.featured-image-description }}</p>  
 </figure></div -->
 
-<div class="container" style="background-image: url('{{ site.baseurl }}/assets/image/{{ include.image }} alt="{{ include.alt | default: 'image representing a theme in this article' }}"><p class="alpha">{{ page.featured-image-description }}</p></div>
+<div class="container" alt="{{ include.alt | default: 'image representing a theme in this article' }} style="background-image: url('{{ site.baseurl }}/assets/image/{{ include.image }}');"><p class="alpha">{{ page.featured-image-description }}</p></div>
