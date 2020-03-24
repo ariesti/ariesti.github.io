@@ -58,6 +58,7 @@ In no event shall Finger Tip-Top or its suppliers be liable for any damages (inc
 The materials appearing on Finger Tip-Top's website could include technical, typographical, or photographic errors. Finger Tip-Top does not warrant that any of the materials on its website are accurate, complete or current. Finger Tip-Top may make changes to the materials contained on its website at any time without notice. However Finger Tip-Top does not make any commitment to update the materials.
 
 ### 6. Links
+
 Finger Tip-Top has not reviewed all of the sites linked to its website and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by Finger Tip-Top of the site. Use of any such linked website is at the user's own risk.
 
 ### 7. Modifications
