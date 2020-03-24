@@ -271,7 +271,10 @@ div.quarter-third-top {
 	
 }
 
-.fix-10-12{max-width:980px!important}
+.fix-10-12	{
+	max-width:980px!important;
+	display:block;
+}
 
 div.half {
 	width: 47%; 
