@@ -271,12 +271,6 @@ div.quarter-third-top {
 	
 }
 
-.fix-10-12	{
-	max-width:980px!important;
-	display:block;
-	margin: 0 auto;
-}
-
 div.half {
 	width: 47%; 
 	display: inline-block; 
