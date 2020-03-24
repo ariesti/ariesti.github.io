@@ -27,7 +27,7 @@ Your continued use of our website will be regarded as acceptance of our practice
 This policy is effective as of 5 November 2018.
 
 ## Finger Tip-Top Terms of Service
-***
+<hr class="mt-2 mb-0">   
 
 ### 1. Terms
 
