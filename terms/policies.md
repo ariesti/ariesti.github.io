@@ -37,10 +37,10 @@ By accessing the website at [http://fingertip.top](http://fingertip.top), you ar
 
 - Permission is granted to temporarily download one copy of the materials (information or software) on Finger Tip-Top's website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
 
-1. modify or copy the materials;
-2. attempt to decompile or reverse engineer any software contained on Finger Tip-Top's website;
-3. remove any copyright or other proprietary notations from the materials; or
-4. transfer the materials to another person or "mirror" the materials on any other server.
+    1. modify or copy the materials;
+    2. attempt to decompile or reverse engineer any software contained on Finger Tip-Top's website;
+    3. remove any copyright or other proprietary notations from the materials; or
+    4. transfer the materials to another person or "mirror" the materials on any other server.
 
 - This license shall automatically terminate if you violate any of these restrictions and may be terminated by Finger Tip-Top at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.
     
