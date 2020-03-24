@@ -1,5 +1,5 @@
 ---
-layout: carou
+layout: page
 sitemap:
     priority: 0.7
     changefreq: 'monthly'
@@ -8,7 +8,6 @@ title: Terms & Policies
 tagline: Understanding privacy in public spaces
 description: Finger Tip-Top's terms and privacy policy
 ---
-<div class="container">
 ## Privacy Policy 
 
 Your privacy is important to us. It is Finger Tip-Top's policy to respect your privacy regarding any information we may collect from you across our website, http://fingertip.top, and other sites we own and operate.
@@ -26,5 +25,4 @@ You are free to refuse our request for your personal information, with the under
 Your continued use of our website will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to contact us.
 
 This policy is effective as of 5 November 2018.
-</div>
 
