@@ -23,6 +23,13 @@ layout: words
   <p class="mt-2 w3-large">{{ page.description }}</p></div>                                                       
 </div>
                   
+<!-- Meta author, meta date -->
+<div class="fix-7x-12 toCenter">
+  {% for updated in page.updated %}
+  {% capture updated_name %}{{ updated }}{% endcapture %}
+  <span class="alpha">Updated on {{ page.updated | date: '%B %-d, %Y — %H:%M' }} by </span><a href="/categories/#" class="neutral"><span class="beta"><code class="highlighter-rouge"><nobr>{{ page.updated-by }}</nobr></code></span></a>
+{% endfor %}
+  </div>
   
 <!-- span class="alpha">{{ page.date | date: "%A, %B %-d, %Y" }}</span><span class="beta">
   {% for tag in page.tags %}
