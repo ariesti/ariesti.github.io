@@ -9,8 +9,12 @@
 .fix-5-12{max-width:480px!important}
 .fix-6-12{max-width:580px!important}
 .fix-7-12 {
-    max-width:666px!important;
+    max-width:680px!important;
     margin: 0 auto;
+}
+.fix-7x-12 {
+    max-width:600px!important;
+    margin:0 auto;
 }
 .fix-8-12{max-width:780px!important}
 .fix-9-12{max-width:880px!important}
