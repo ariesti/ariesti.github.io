@@ -4,5 +4,6 @@
 <p class="alpha">{{ page.featured-image-description }}</p>  
 </figure></div -->
 
-<div class="container banner" alt="{{ include.alt | default: 'image representing a theme in this article' }}" style="background-image: url(/assets/image/{{ include.image }});height:auto; width:100%;"></div>
-<div class="container pt-0"><p class="alpha">{{ page.featured-image-description }}</p></div>
+<fig class="figure">
+  <div class="container banner" alt="{{ include.alt | default: 'image representing a theme in this article' }}" style="background-image: url(/assets/image/{{ include.image }});height:auto; width:100%;"></div></fig>
+<figcaption class="figure-caption">{{ page.featured-image-description }}</figcaption>
