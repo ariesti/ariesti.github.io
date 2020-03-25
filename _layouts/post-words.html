@@ -1,0 +1,87 @@
+---
+layout: words
+---
+<div class="container">
+{% include adsense.html %} 
+
+<h1 class="font-weight-light text-lg-left mt-4 mb-0">{{ page.title }}</h1>
+  
+<span class="alpha">{{ page.date | date: "%A, %B %-d, %Y" }}</span><span class="beta">
+  {% for tag in page.tags %}
+    {% capture tag_name %}#{{ tag | join:',' }}{% endcapture %}
+    <a href="/categories/{{ tag_name }}" class="tag-3"><code class="highlighter-rouge"><nobr>{{ tag_name }}</nobr></code></a>
+  {% endfor %}
+</span>
+<hr class="mt-2 mb-0">    
+<div class="mt-0 mb-5"> 
+{% for updated in page.updated %}
+  {% capture updated_name %}{{ updated }}{% endcapture %}
+  <span class="alpha">Updated on {{ page.updated | date: '%B %-d, %Y — %H:%M' }} by </span><a href="/categories/#" class="neutral"><span class="beta"><code class="highlighter-rouge"><nobr>{{ page.updated-by }}</nobr></code></span></a>
+{% endfor %}
+</div></div>
+
+<!-- call the featured-post-image.html template file -->
+<section class="py-0">
+{% if page.featured-image %}{% include post-featured-image.html image=page.featured-image alt=page.featured-image-alt %}{% endif %}
+</section>
+
+<section class="py-5"><div class="container">
+  {{ content }}
+</div></section>
+
+<div class="post-categories container">
+<p class="pb-2"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<span class="alpha cate"><p><h5 class="cate">Categories:  </h5>&nbsp;{% if post %}
+    {% assign categories = post.categories %}
+  {% else %}
+    {% assign categories = page.categories %}
+  {% endif %}
+  {% for category in categories %}
+  <a href="{{site.baseurl}}/categories/#{{category|slugize}}" class="myButton neutral">{{category}}</a>
+  {% unless forloop.last %}&nbsp;{% endunless %}
+    {% endfor %}</p></span>
+</div>
+<br>
+<div class="container">
+<div class="PageNavigation neutral">
+<div class="row"><div class="col-6 text-left">
+  {% if page.previous.url %}
+    <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+  {% endif %}</div>
+  <div class="col-6 text-right">
+  {% if page.next.url %}
+    <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+    {% endif %}</div>
+  </div></div></div>
+
+<br>
+<!-- <div class="relatedPosts">
+<h4>You May Also Enjoy</h4>
+{% assign maxRelated = 4 %}
+{% assign minCommonTags =  2 %}
+{% assign maxRelatedCounter = 0 %}
+  {% for post in site.posts %}
+    {% assign sameTagCount = 0 %}
+    {% assign commonTags = '' %}
+    {% for tag in post.tags %}
+      {% if post.url != page.url %}
+        {% if page.tags contains tag %}
+          {% assign sameTagCount = sameTagCount | plus: 1 %}
+          {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
+          {% assign commonTags = commonTags | append: tagmarkup %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+    {% if sameTagCount >= minCommonTags %}
+      <div>
+      <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}{{ commonTags }}</a></h5>
+      </div>
+      {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+      {% if maxRelatedCounter >= maxRelated %}
+        {% break %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</div> -->   
+
+</div>
