@@ -13,7 +13,11 @@ featured-image:
 featured-image-description: 
 featured-image-alt: 
 ---
-<p align="center">![Gone giffy](/assets/image/testpost-gif.gif)</p>
+![Gone giffy](/assets/image/testpost-gif.gif)
+
+ <p align="center"> 
+    <img src="/assets/image/testpost-gif.gif" alt="Test Post!">
+ </p>
 
 What did you do?
 
