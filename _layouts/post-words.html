@@ -22,9 +22,8 @@ layout: words
    <p class="mt-2">{{ page.description }}</p>                                                       
 </div>
                   
-<h1 class="font-weight-light text-lg-left mt-4 mb-0">{{ page.title }}</h1>
   
-<span class="alpha">{{ page.date | date: "%A, %B %-d, %Y" }}</span><span class="beta">
+<!-- span class="alpha">{{ page.date | date: "%A, %B %-d, %Y" }}</span><span class="beta">
   {% for tag in page.tags %}
     {% capture tag_name %}#{{ tag | join:',' }}{% endcapture %}
     <a href="/categories/{{ tag_name }}" class="tag-3"><code class="highlighter-rouge"><nobr>{{ tag_name }}</nobr></code></a>
@@ -36,7 +35,7 @@ layout: words
   {% capture updated_name %}{{ updated }}{% endcapture %}
   <span class="alpha">Updated on {{ page.updated | date: '%B %-d, %Y — %H:%M' }} by </span><a href="/categories/#" class="neutral"><span class="beta"><code class="highlighter-rouge"><nobr>{{ page.updated-by }}</nobr></code></span></a>
 {% endfor %}
-</div></div>
+</div></div-->
 
 <!-- call the featured-post-image.html template file -->
 <section class="py-0">
