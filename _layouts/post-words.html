@@ -1,9 +1,27 @@
 ---
 layout: words
 ---
+<!-- Setup the main container for the post -->
 <div class="container">
 {% include adsense.html %} 
-
+  
+<!-- Assign categories for post --> 
+{% if post %}
+    {% assign categories = post.categories %}
+  {% else %}
+    {% assign categories = page.categories %}
+  {% endif %}
+  
+<!-- Title information area -->
+<div class=fix-7-12 pt-5">
+ {% for category in categories %}
+ <p class="alpha">{{ category }}</p>                        
+ {% endfor %}
+<div class="fix-4-12 toLeft">              
+   <h1 class="font-weight-light text-lg-left mt-2 mb-0">{{ page.title }}</h1></div>
+   <p class="mt-2">{{ page.description }}</p>                                                       
+</div>
+                  
 <h1 class="font-weight-light text-lg-left mt-4 mb-0">{{ page.title }}</h1>
   
 <span class="alpha">{{ page.date | date: "%A, %B %-d, %Y" }}</span><span class="beta">
