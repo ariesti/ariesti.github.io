@@ -371,7 +371,7 @@ p.story-1 { /* For stories in the home page and elsewhere not on the blog. */
 
 h1, h2, h3, h4, h5, h6 { 
 	font-family: Montserrat, sans-serif;
-	font-weight: 500;
+	font-weight: 500 !important;
 	color: #333
 }
 
