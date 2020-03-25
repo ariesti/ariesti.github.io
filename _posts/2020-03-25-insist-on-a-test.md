@@ -10,10 +10,10 @@ categories: [guide]
 tags: [mentoring, hack, do]
 lang: en
 featured-image:
-featured-image-description: How much wood would a woodchuck chuck?
-featured-image-alt: How much wood?
+featured-image-description: 
+featured-image-alt: 
 ---
-![Gone giffy](/assets/image/testpost-gif.gif)
+<p align="center">![Gone giffy](/assets/image/testpost-gif.gif)</p>
 
 What did you do?
 
