@@ -9,7 +9,7 @@ date: 2020-03-25 00:38
 categories: [guide]
 tags: [mentoring, hack, do]
 lang: en
-featured-image: testpost-insta.png
+featured-image: testpost-gif.gif
 featured-image-description: How much wood would a woodchuck chuck?
 featured-image-alt: How much wood?
 ---
