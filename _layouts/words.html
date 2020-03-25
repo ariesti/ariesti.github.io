@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+	<html lang="en">
+		<head>
+			<meta charset="utf-8">			
+			<meta http-equiv="X-UA-Compatible" content="IE=edge">
+			<meta name="author" content="Lovelli Fuad">
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+			<meta name="msvalidate.01" content="4DA12F9AE94F96D1C66B5EF1AC9C0254" />
+			<meta name="yandex-verification" content="fcb97232824ea615" />
+			
+			<meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
+	
+			<!-- Open Graph for Facebook -->
+	
+			<meta property="og:locale" content="en_US">
+			<meta property="og:type" content="article">
+			<meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+			<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+			<meta property="og:image" content="{{ site.url }}/assets/image/{{ page.featured-image }}" />
+			<meta property="og:site_name" content="Finger Tip-top">
+			<meta property="article:publisher" content="http://www.facebook.com/lovelli.fuad" />
+			<meta property="article:author" content="https://www.facebook.com/lovelli.fuad" />
+			<meta property="article:published_time" content="{{ page.date }}" />
+			<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+	
+			<!-- Twitter Cards -->
+	
+			<meta name="twitter:card" content="summary_large_image"/>
+			<meta name="twitter:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+			<meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+			<meta name="twitter:site" content="@lovellifuad" />
+			<meta name="twitter:creator" content="@lovellifuad">
+			<meta name="twitter:card" content="summary">		
+			
+			<!-- Favicon -->
+			
+			<link rel="canonical" href="{{ page.url | prepend: site.url }}">
+			<link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
+			<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
+			<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
+			<link rel="manifest" href="/assets/favicon/site.webmanifest">
+
+			<link href="https://fonts.googleapis.com/css?family=Montserrat:600" rel="stylesheet">	
+			<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500&display=swap" rel="stylesheet">
+			<link href="https://fonts.googleapis.com/css?family=Roboto+Mono:500,700&display=swap" rel="stylesheet">
+	
+			<title>
+				{%if page.title %}
+       					{{ page.title }}
+   				{% else %}
+       					{{ site.title }}
+   				{% endif %}
+			</title>
+	
+			<link rel="stylesheet" href="/css/bootstrap.css">
+			<link rel="stylesheet" href="/css/main.css">
+      <link rel"stylesheet" href="/css/words.css">
+			
+			{% include analytics.html %}
+			
+			{% include adsense.html %}
+			
+			<script async src="https://buttons.github.io/buttons.js"></script>
+			<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+			<script async src="https://cdn.ampproject.org/v0.js"></script>
+			<script>
+    				$(document).ready(function(){
+        				$(".dropdown-toggle").dropdown();
+    					});  
+			</script>
+			
+			{% include cookie-consent.html %}
+		
+		</head>
+		<body>
+
+		<header>
+			
+<div class="container-fluid mb-0">
+<nav class="navbar navbar-expand-lg navbar-light"><a class="navbar-brand d-lg-none" href="https://fingertip.top">Fingertip-Top</a>
+        
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigations-02"><span class="navbar-toggler-icon"></span></button>
+    <div class="collapse navbar-collapse justify-content-md-center align-items-center" id="navigations-02">
+		<div class="row w-100">
+            <div class="col-4 pl-lg-0">
+              <ul class="navbar-nav">
+			<li class="nav-item"><a class="nav-link active" href="/about" title="Read more about the author & this workspace ">About</a></li>       
+        		<li class="nav-item"><a class="nav-link" href="/stuff/blog/words" title="What's new what's happening">Blog</a></li>
+			<li class="nav-item"><a class="nav-link" href="/stuff" title="Some more fun stuff">Stuff</a></li>
+				</ul>
+			</div>
+		
+        <div class="col-4 navbar-nav text-center pr-0 d-none d-lg-block"><a class="navbar-brand mr-0" href="https://fingertip.top">Fingertip-top</a></div>
+            <div class="col-4 pr-lg-0">
+              <ul class="navbar-nav justify-content-end">
+				<li class="nav-item"><a class="nav-link" href="/search" title="Have a look around">Search</a></li>
+				<li class="nav-item"><a class="nav-link" href="https://fingertip.top/contact/" title="Contact Fingertip-Top">Contact</a></li>
+                <li class="nav-item dropdown">
+		        	<a class="nav-link dropdown-toggle" href="http://example.com" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="What's recommended">Services</a>
+              			<div class="dropdown-menu pr-lg-0">
+               	 		<a class="dropdown-item index bottom disabled" href="#">Service 1</a>
+                		<a class="dropdown-item index bottom disabled" href="#">Service 2</a>
+                		<a class="dropdown-item index bottom disabled" href="#">Service 3</a>
+              			</div>	
+              	</ul>
+			</div>
+        </div>
+	</div>
+</nav>
+</div>				
+			</header>
+	
+			<hr class="mt-0">
+			
+			<div>
+			
+			{{ content }}
+		
+			</div> <!-- Where content goes -->	
+			
+  <div class="container-fluid color-grey-100">
+                
+      <footer class="py-3"><div class="container-fluid">
+          <div class="d-flex justify-content-md-between align-items-center flex-column flex-md-row pb-2">
+            <h5 class="d-flex ml-0 ml-md-3 mb-4"><a href="https://getcraft.com/fingertip-top" class="pink" title="Visit Fingertip-Top @GetCraft">Fingertip-Top</a></h5>
+            <ul class="nav justify-content-center foot">
+	      <li class="nav-item"><a class="nav-link bottom" href="#" title="In development">Subscriptions</a></li>
+              <li class="nav-item"><a class="nav-link fiverr" href="#" title="In development">Fiverr</a></li>
+              <li class="nav-item"><a class="nav-link bottom" href="#" title="In development">Courses</a></li>
+            </ul>
+	      </div>
+	    <div class="d-flex justify-content-md-between align-items-right flex-column flex-md-row border-bottom pb-2">
+	     <h5 class="ml-0 ml-xl-3 mb-0"><a href="#" class="pink">             </a></h5>    
+	     <ul class="nav justify-content-center foot">
+	       <li class="nav-item"><a class="nav-link bottom" href="/about/faq" title="Frequently asked questions">FAQ</a></li>
+	       <li class="nav-item"><a class="nav-link bottom" href="#" title="In development">Support</a></li>
+	       <li class="nav-item"><a class="nav-link bottom" href="#" title="In development">Brraaainzz!</a></li>	     
+	    </ul>
+	    </div>
+          <div class="d-flex justify-content-center align-items-center justify-content-md-between flex-column flex-md-row mx-3 mt-3">
+            <div class="d-flex"><a href="https://www.twitter.com/lovellifuad"><img class="mr-3" src="/assets/iconmonstr-twitter-1-16.png" alt="${list_field2}"></a><a href="#"><img class="mr-3" src="/assets/iconmonstr-facebook-1-16.png" alt="${list_field2}"></a><a href="https://www.instagram.com/lovellifuad/"><img class="mr-3" src="/assets/iconmonstr-instagram-11-16.png" alt="${list_field2}"></a></div>
+            <div class="d-flex mt-3 mt-md-0 text-fine">
+              <p class="mb-0 text-muted">Fingertip-Top &copy;2018-2020 <a href="https://www.lovellifuad.com" class="call-to-action">Lovelli</a> available under the <a href="https://github.com/ariesti/ariesti.github.io" class="call-to-action">MIT license</a>.</p>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+				
+			{% include scripts.html %}
+	
+		</body>
+	</html>
