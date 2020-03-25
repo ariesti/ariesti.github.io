@@ -22,15 +22,7 @@ layout: words
 <div class="fix-7x-12 toLeft">                                                     
   <p class="mt-2 w3-large">{{ page.description }}</p></div>                                                       
 </div>
-                  
-<!-- Meta author, meta date -->
-<div class="fix-7x-12 toCenter">
-  {% for updated in page.updated %}
-  {% capture updated_name %}{{ updated }}{% endcapture %}
-  <p>Updated on <span class="alpha">{{ page.updated | date: '%B %-d, %Y — %H:%M' }}</span> by</p> <a href="/categories/#" class="neutral"><span class="beta"><code class="highlighter-rouge"><nobr>{{ page.updated-by }}</nobr></code></span></a>
-{% endfor %}
-  </div>
-  
+                 
 <!-- span class="alpha">{{ page.date | date: "%A, %B %-d, %Y" }}</span><span class="beta">
   {% for tag in page.tags %}
     {% capture tag_name %}#{{ tag | join:',' }}{% endcapture %}
@@ -49,7 +41,14 @@ layout: words
 <section class="py-0">
 {% if page.featured-image %}{% include post-featured-image.html image=page.featured-image alt=page.featured-image-alt %}{% endif %}
 </section>
-
+  
+<!-- Meta author, meta date -->
+<div class="fix-7x-12 toCenter">
+  {% for updated in page.updated %}
+  {% capture updated_name %}{{ updated }}{% endcapture %}
+  <p>Updated on <span class="alpha">{{ page.updated | date: '%B %-d, %Y — %H:%M' }}</span> by</p> <a href="/categories/#" class="neutral"><span class="beta"><code class="highlighter-rouge"><nobr>{{ page.updated-by }}</nobr></code></span></a>
+{% endfor %}
+  </div>
 <section class="py-5"><div class="container">
   {{ content }}
 </div></section>
