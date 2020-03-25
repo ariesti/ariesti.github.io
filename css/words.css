@@ -1,5 +1,4 @@
 /* Additional fixes for divs */
-
 .fix-1-12{max-width:80px!important}
 .fix-2-12{max-width:180px!important}
 .fix-3-12{max-width:280px!important}
@@ -18,3 +17,8 @@
 .fix-10-12{max-width:980px!important}
 .fix-11-12{max-width:1080px!important}
 .fix-12-12{max-width:1180px!important}
+
+.toLeft{margin-left:0!important}
+.toCenter,.toRight{margin-left:auto!important}
+.toRight{margin-right:0!important;float:right}
+.toCenter{margin-right:auto!important}
