@@ -9,7 +9,7 @@ date: 2020-03-25 00:38
 categories: [guide]
 tags: [mentoring, hack, do]
 lang: en
-featured-image: testpost.png
+featured-image: testpost-insta.png
 featured-image-description: How much wood?
 featured-image-alt: How much wood?
 ---
