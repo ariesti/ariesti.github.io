@@ -46,9 +46,11 @@ layout: words
 <div class="fix-7x-12 toCenter">
   {% for updated in page.updated %}
   {% capture updated_name %}{{ updated }}{% endcapture %}
-  <p class="text-left">Updated on <span class="alpha">{{ page.updated | date: '%B %-d, %Y — %H:%M' }}</span> by<a href="/categories/#" class="neutral"><span class="beta"><code class="highlighter-rouge"><nobr>{{ page.updated-by }}</nobr></code></span></a></p> 
-{% endfor %}
-  </div>
+  <p class="text-left">Updated by <a href="/categories/#" class="neutral"><span class="beta"><code class="highlighter-rouge"><nobr>{{ page.updated-by }}</nobr></code></span></a><p>
+  <span class="alpha mt-3">{{ page.updated | date: '%B %-d, %Y — %H:%M' }}</span> 
+  {% endfor %}
+</div>
+    
 <section class="py-5"><div class="container">
   {{ content }}
 </div></section>
