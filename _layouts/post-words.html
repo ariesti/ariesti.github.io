@@ -43,13 +43,16 @@ layout: words
 </section>
   
 <!-- Meta author, meta date -->
+<div class="row">
+<div class="col">
 <div class="fix-7x-12 toCenter">
   {% for updated in page.updated %}
   {% capture updated_name %}{{ updated }}{% endcapture %}
   <p class="text-left">Updated by <a href="/categories/#" class="neutral"><span class="beta"><code class="highlighter-rouge"><nobr>{{ page.updated-by }}</nobr></code></span></a>
   <br><span class="alpha mt-3">{{ page.updated | date: '%B %-d, %Y — %H:%M' }}</span></p> 
-  {% endfor %}
-</div>
+  {% endfor %}</div>
+<div class="col toRight"><p class="pb-2"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p><div>
+  </div></div>
     
 <section class="pb-5"><div class="container font-weight-light">
   {{ content }}
