@@ -9,9 +9,9 @@ date: 2020-03-25 00:38
 categories: [guide]
 tags: [mentoring, hack, do]
 lang: en
-featured-image: 
-featured-image-description: Are you a freelancer friend?
-featured-image-alt: 
+featured-image: testpost-insta.png
+featured-image-description: How much wood would a woodchuck chuck?
+featured-image-alt: How much wood?
 ---
 
 What did you do?
