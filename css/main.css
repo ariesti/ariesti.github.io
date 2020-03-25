@@ -798,6 +798,12 @@ div.whole-banner {
 @media (min-width: 576px) and (max-width: 767.98px) { ... } */
 
 /* Syntax Highlighter */
+.hghlght {
+	background-image: linear-gradient(-1deg,#f2ee97 30%,#f2ee97 70%,rgba(242,238,151,0) 70%);
+    	background-repeat: no-repeat;
+	background-position: -1000px;
+	transition: 0.5s 0.5s background-position;
+}
 
 .highlight pre { background-color: #404040 }
 .highlight .hll { background-color: #404040 }
