@@ -43,7 +43,6 @@ layout: words
 </section>
   
 <!-- Meta author, meta date -->
-
 <div class="fix-7x-12 toCenter row">
   <div class="col-6 text-left">
   {% for updated in page.updated %}
@@ -73,7 +72,17 @@ layout: words
   
 <div class="container mb-5">
 <div class="PageNavigation neutral">
-<div class="row"><div class="col-6 text-left">
+<div class="row">
+  <div class="col-6 text-left">
+  <p>Tagged as: <span class="beta">
+  {% for tag in page.tags %}
+    {% capture tag_name %}#{{ tag | join:',' }}{% endcapture %}
+    <a href="/categories/{{ tag_name }}"><code><nobr>{{ tag_name }}</nobr></code></a>
+  {% endfor %}
+    </span></p>  
+  </div>
+  
+  <div class="col-6 text-left">
   {% if page.previous.url %}
     <a class="prev pink" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
   {% endif %}</div>
