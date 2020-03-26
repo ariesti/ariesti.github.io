@@ -70,11 +70,9 @@ layout: words
     {% endfor %}</p></span>
 </div -->
   
-<div class="container mb-5">
-<div class="PageNavigation neutral">
-<div class="row">
   <div class="col-6 text-left">
-  <p>Tagged as: <span class="beta">
+  <hr>
+  <p class="w3-small">Tagged as: <span class="beta">
   {% for tag in page.tags %}
     {% capture tag_name %}#{{ tag | join:',' }}{% endcapture %}
     <a href="/categories/{{ tag_name }}"><code><nobr>{{ tag_name }}</nobr></code></a>
@@ -82,6 +80,9 @@ layout: words
     </span></p>  
   </div>
   
+<div class="container mb-5">
+<div class="PageNavigation neutral">
+<div class="row">
   <div class="col-6 text-left">
   {% if page.previous.url %}
     <a class="prev pink" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
