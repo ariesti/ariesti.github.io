@@ -70,14 +70,13 @@ layout: words
     {% endfor %}</p></span>
 </div -->
   
-  <div class="col-6 text-left">
+  <div class="fix-7x-12 toCenter row">
   <hr>
-  <p class="w3-small">Tagged as: <span class="beta">
+  <p class="w3-small">Tagged as:
   {% for tag in page.tags %}
     {% capture tag_name %}#{{ tag | join:',' }}{% endcapture %}
     <a href="/categories/{{ tag_name }}"><code><nobr>{{ tag_name }}</nobr></code></a>
-  {% endfor %}
-    </span></p>  
+  {% endfor %}</p>  
   </div>
   
 <div class="container mb-5">
