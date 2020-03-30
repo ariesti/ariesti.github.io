@@ -16,9 +16,9 @@ featured-image: my-cinema-quote.png
 featured-image-description: Are you a freelancer friend?
 featured-image-alt: People facing home cinema screen
 ---
-<div class="fix-7x-12 toCenter mb-0 w3-medium">
+  <div class="fix-7x-12 toCenter mb-0 w3-medium">
   <p><b>If there’s not at least one freelancer friend in your life, chances are you are it.</b></p> 
-  <p>Just kidding. (You could also be a <a href ="https://01.media/11-weird-and-wonderful-new-merriam-webster-entries-from-tech" class="blue">ghosted</a> friend.)</p>
+  <p>Just kidding. (You could also be a <a href="https://01.media/11-weird-and-wonderful-new-merriam-webster-entries-from-tech" class="blue">ghosted</a> friend.)</p>
   <p>Can’t seem to find a freelancer friend? Try going to that cozy coffee shop around the corner and see if anybody there is sitting alone facing a laptop, while also taking pictures of the food. Try the cafes in the malls, the co-working spaces, the park benches… the beaches?!</p>
   <p>Better yet, try the online forums.</p></div>
 
@@ -40,12 +40,12 @@ featured-image-alt: People facing home cinema screen
 <p>However similar, online and offline friendships are essentially two different things. They are not one and the same. Here's an illustration.</p></div>
 
 <div class="row py-0">
-<div class="fix-7x-12 toRight mb-0 w3-medium">
-<p><em>Everybody talks.</em> But the way people talk to you when you’re out and about is different from the way you talk to someone you just met online. Due to the nature of their work, freelancers who work online might prefer one method of communication to another, e.g. email over phone. The old fashioned offline friendship relies heavily on phone conversations, text messages, and face-to-face chats. Meanwhile, an online friendship can still flourish even if you never meet each other in real life.</p></div></div>
+<div class="fix-7x-12 toCenter mb-0 pb-3 w3-medium">
+<p class="py-my-0"><em>Everybody talks.</em> But the way people talk to you when you’re out and about is different from the way you talk to someone you just met online. Due to the nature of their work, freelancers who work online might prefer one method of communication to another, e.g. email over phone. The old fashioned offline friendship relies heavily on phone conversations, text messages, and face-to-face chats. Meanwhile, an online friendship can still flourish even if you never meet each other in real life.</p></div></div>
 
 <div class="fix-7x-12 toCenter mb-5 w3-medium"><h2 class="font-weight-bold">Don't do these to your freelancer friends</h2></div>
 
-<div class="fix-7x-12 toRight mb-0 w3-medium">
+<div class="fix-7x-12 toCenter mb-0 w3-medium">
 
 <p>There are some things you probably shouldn't do to a freelancer friend:</p>
 
@@ -59,7 +59,7 @@ featured-image-alt: People facing home cinema screen
 <p>Sometimes when you’re having an emergency, friends and family can be a source of financial help. But usually only very close friends. Your freelancer friend is not the bank of mom and dad. Don’t treat them as such, unless that is the type of freelance service they offer.</p>
 
 <h4 class="call-for-action">4. Act differently towards them.</h4> 
-<p>Making the life-changing decision of coming forward as a freelancer, where you are your own **boss**, is not easy. They could easily have used an alias and lead a double life. But the fact that they use the term “freelancer” to describe themselves is their decision not yours. You should not “punish” them for not being more like you.</p>
+<p>Making the life-changing decision of coming forward as a freelancer, where you are your own <b>boss</b>, is not easy. They could easily have used an alias and lead a double life. But the fact that they use the term “freelancer” to describe themselves is their decision not yours. You should not “punish” them for not being more like you.</p>
 
 <h4 class="call-for-action">5. Assume the 'client from hell' persona.</h4>
 <p>Don’t turn into an annoying client when you’re alone with your freelancer friend just because she is a freelancer. I know this sounds cliche, but.. just be yourself.</p>
@@ -69,14 +69,16 @@ featured-image-alt: People facing home cinema screen
 
 <div class="fix-7x-12 toCenter mb-5 w3-medium"><h2 class="font-weight-bold">The ‘don’t be a stranger’ rule</h2></div>
 
-<div class="fix-7x-12 toRight mb-0 w3-medium">
-<p>Imagine visiting a small neighborhood café for the first time. Nobody there knows you and you don’t know anyone. In fact, you don’t even know what drink to order. When you approach the counter, you know for sure, and even expect, the waiter to greet you in such a manner that would not make you feel embarrassed or unwelcomed. Most waiters would offer a warm smile and a bit of advice on what to order to help you make up your mind. They are friendly but they are not your friends.</p> 
-<p>Most waiters won’t be a jerk to you, because if they do, they risk losing their job. You might not return to their coffee house. You might say something bad about their business online. You might sue them.</p> 
-<p>Likewise, the friendliness of a waiter at some café does not warrant a friendship. Neither the waiter nor you owe each other anything more than the common hospitality standards. You can be a good customer and provide helpful feedback or a tip you deem appropriate, but both of you are practically strangers beyond this point.</p> 
-<p>The “don’t be a stranger” rule is common online agreement. But what we’re really saying is _don’t be a jerk_ to the strangers you meet. This rule goes beyond the realm of the internet. And when it comes to your freelancing friend, don’t _become_ the stranger.</p></div> 
+<div class="fix-7x-12 toCenter mb-0 w3-medium">
+<p class="toLeft">Imagine visiting a small neighborhood café for the first time. Nobody there knows you and you don’t know anyone. In fact, you don’t even know what drink to order. When you approach the counter, you know for sure, and even expect, the waiter to greet you in such a manner that would not make you feel embarrassed or unwelcomed. Most waiters would offer a warm smile and a bit of advice on what to order to help you make up your mind. They are friendly but they are not your friends.</p></div>
+<div class="fix-7x-12 toLeft mb-0 w3-xlarge">
+<p>Most waiters won’t be a jerk to you, because if they do, they risk losing their job. You might not return to their coffee house. You might say something bad about their business online. You might sue them.</p></div> 
+<div class="fix-7x-12 toCenter mb-0 w3-medium"><p>Likewise, the friendliness of a waiter at some café does not warrant a friendship. Neither the waiter nor you owe each other anything more than the common hospitality standards. You can be a good customer and provide helpful feedback or a tip you deem appropriate, but both of you are practically strangers beyond this point.</p>
+<p>The “don’t be a stranger” rule is common online agreement. But what we’re really saying is <em>don’t be a jerk</em> to the strangers you meet. This rule goes beyond the realm of the internet. And when it comes to your freelancing friend, don’t <em>become</em> the stranger.</p></div> 
+
 
 <div class="fix-7x-12 toCenter mb-5 w3-medium"><h2 class="font-weight-bold">Friendship has tiers and levels</h2></div>
 
-<div class="fix-7x-12 toRight mb-0 w3-medium">
+<div class="fix-7x-12 toCenter mb-0 w3-medium">
 <p>Just because someone you used to know is now a freelancer that does not make her “your ex-friend.” It does not imply that if you would like to chat with her you would need to pay for her time. It also does not mean that she is using the term “freelancer” to stop the friendship from growing.</p> 
 <p>Along the lines of relationships we have, friendship comes last. There’s family, sisters, brothers, parents, cousins, children, in-laws, pets, extended families, family friends. Married couples are usually very quick in cutting off ties with their single friends, and single people are not going to waste their time with couples they don’t like.</p></div>
