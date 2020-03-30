@@ -22,7 +22,7 @@ featured-image-alt: Speed dating for work
 <p>I learned that what people tell each other in “networking events”, especially over cocktail or after hours, are not to be taken too seriously. Plus, the workforce management in Jakarta is not really known for delivering on their promises. So I went and was ready to be disappointed.</p>
 </div>
 
-<div class="fix-7x-12 toCenter mb-5 w3-medium"><h2 class="font-weight-bold grey">How to Arrange for a Recruitment Speed Dating</h2></div>
+<div class="fix-7x-12 toCenter mb-5 w3-medium"><h2 class="font-weight-bold">How to Arrange for a Recruitment Speed Dating</h2></div>
 
 <div class="fix-7x-12 toCenter mb-5 w3-medium">
 <p>First, the event organizer sent me a personalized invitation. I expressed my interest in attending and filled in some sort of online form. Then my e-ticket was emailed to me with a confirmation of the event. A few days before and on D-day, reminders were sent with a few pointers.</p>
@@ -34,7 +34,7 @@ featured-image-alt: Speed dating for work
 <p>Participating companies were large and emerging start-ups who were probably used to long periods of international, domestic, and internal recruitments. I suspect these companies were also hiring all throughout the year.</p>
 </div>
 
-<div class="fix-7x-12 toLeft mb-5 w3-medium"><h2 class="font-weight-bold grey">What Did I Get From It?</h2></div>
+<div class="fix-7x-12 toLeft mb-5 w3-medium"><h2 class="font-weight-bold">What Did I Get From It?</h2></div>
 
 <div class="row">
 <div class="col fix-7x-12 toLeft mb-5 w3-large">
@@ -72,7 +72,7 @@ featured-image-alt: Speed dating for work
 <p>I proceeded to invite every single person I talked to during that event to become a LinkedIn contact. A few human resources staff or employees from recruiting departments within the companies that took part reached out to me before the event. I received a couple of invites to do further testing, but that was it really.</p>
 </div>
 
-<div class="fix-7x-12 toCenter text-center mb-5 w3-medium">
+<div class="container mb-5 w3-medium">
 <figure class="figure-img img-fluid rounded mt-4 mb-4">
   <img src="/assets/image/hackerx-2018.png" class="figure-img img-fluid rounded" alt="My second hacker X event">
   <p class="alpha text-left">HackerX | July 19, 2018</p>
