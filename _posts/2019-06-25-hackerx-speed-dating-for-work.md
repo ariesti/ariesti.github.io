@@ -15,13 +15,13 @@ featured-image-description: Recruitment speed dating might be worth it
 featured-image-alt: Speed dating for work
 ---
 
-<div class="mb-4 w3-xlarge">As soon as I completed my Johns Hopkins data science specialization with Coursera <a href="https://www.coursera.org/specializations/jhu-data-science" class="blue">that one time</a>, offers began flooding in.</div>
+<div class="fix-7x-12 toCenter mb-5 w3-large">As soon as I completed my Johns Hopkins data science specialization with Coursera <a href="https://www.coursera.org/specializations/jhu-data-science" class="blue">that one time</a>, offers began flooding in.</div>
 
-One particularly interesting offer to get social was an email invitation to a Hacker X (full-stack) recruitment event in Jakarta, just a little over a year ago. I personally have never attended or RSVP-ed for a speed dating event ever, but at the time the idea somewhat made sense. 
-
-Each attendee gets to spend about 10 to 15 minutes talking to a potential recruiter before rushing on to the next table to talk to the next recruiter, and the next, and the next, and so on.  
-
-Having worked in Jakarta for a couple of years, I had very low expectation of what to expect. 
+<div class="fix-7x-12 toCenter mb-5 w3-medium">
+<p>One particularly interesting offer to get social was an email invitation to a Hacker X (full-stack) recruitment event in Jakarta, just a little over a year ago. I personally have never attended or RSVP-ed for a speed dating event ever, but at the time the idea somewhat made sense.</p>
+<p>Each attendee gets to spend about 10 to 15 minutes talking to a potential recruiter before rushing on to the next table to talk to the next recruiter, and the next, and the next, and so on.</p>
+<p>Having worked in Jakarta for a couple of years, I had very low expectation of what to expect. </p>
+</div>
 
 I learned that what people tell each other in “networking events”, especially over cocktail or after hours, are not to be taken too seriously. Plus, the workforce management in Jakarta is not really known for delivering on their promises. So I went and was ready to be disappointed.
 
