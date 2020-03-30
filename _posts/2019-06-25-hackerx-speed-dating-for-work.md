@@ -18,26 +18,21 @@ featured-image-alt: Speed dating for work
 <div class="fix-7x-12 toCenter mb-5 w3-medium">
 <p>One particularly interesting offer to get social was an email invitation to a Hacker X (full-stack) recruitment event in Jakarta, just a little over a year ago. I personally have never attended or RSVP-ed for a speed dating event ever, but at the time the idea somewhat made sense.</p>
 <p>Each attendee gets to spend about 10 to 15 minutes talking to a potential recruiter before rushing on to the next table to talk to the next recruiter, and the next, and the next, and so on.</p>
-<p>Having worked in Jakarta for a couple of years, I had very low expectation of what to expect. </p>
+<p>Having worked in Jakarta for a couple of years, I had very low expectation of what to expect.</p>
+<p>I learned that what people tell each other in “networking events”, especially over cocktail or after hours, are not to be taken too seriously. Plus, the workforce management in Jakarta is not really known for delivering on their promises. So I went and was ready to be disappointed.</p>
 </div>
 
-I learned that what people tell each other in “networking events”, especially over cocktail or after hours, are not to be taken too seriously. Plus, the workforce management in Jakarta is not really known for delivering on their promises. So I went and was ready to be disappointed.
+<div class="fix-7x-12 toCenter mb-5 w3-medium"><h2 class="font-weight-bold">How to Arrange for a Recruitment Speed Dating</h2></div>
 
-<div class="mt-4 mb-4"><h2><span class="grey">How to Arrange for a Recruitment Speed Dating</span></h2></div>
-
-First, the event organizer sent me a personalized invitation. I expressed my interest in attending and filled in some sort of online form. Then my e-ticket was emailed to me with a confirmation of the event. A few days before and on D-day, reminders were sent with a few pointers. 
-
-Supposedly, a few hours before event start time recruiters would send out introductory emails to the participants. Only a few did. And on the night of the event, August 22, 2017, a few tables remained empty. 
-
-The event organizer wanted to make sure that each attendee was given a fair chance to get to know the recruiters. Perhaps they wanted us to talk to all attending companies? I can’t quite explain how it was done, but after a couple of minutes someone would just be running around telling attendees where to stand or where to sit. 
-
-On the plus side, I landed a few interviews after the event. Not entirely sure if date night was the reason I landed them, though. Because what happened was after I met with some recruiters during the Hacker X event, and after sending (and replying to) thank you emails back and forth, it would all just boil down to them sending me a link from their website.
-
-I then read about the vacancy these companies have published online by clicking on the link they sent me, filled a form, and everything after that was **the usual**: wait for a phone call from a number I do not recognize to tell me where to go, when, and what to bring. Just like everybody else. 
-
-Quite possibly, like every single person who’ve never attended a recruitment speed dating before.
-
-Participating companies were large and emerging start-ups who were probably used to long periods of international, domestic, and internal recruitments. I suspect these companies were also hiring all throughout the year. 
+<div class="fix-7x-12 toCenter mb-5 w3-medium">
+<p>First, the event organizer sent me a personalized invitation. I expressed my interest in attending and filled in some sort of online form. Then my e-ticket was emailed to me with a confirmation of the event. A few days before and on D-day, reminders were sent with a few pointers.</p>
+<p>Supposedly, a few hours before event start time recruiters would send out introductory emails to the participants. Only a few did. And on the night of the event, August 22, 2017, a few tables remained empty.</p>
+<p>The event organizer wanted to make sure that each attendee was given a fair chance to get to know the recruiters. Perhaps they wanted us to talk to all attending companies? I can’t quite explain how it was done, but after a couple of minutes someone would just be running around telling attendees where to stand or where to sit.</p> 
+<p>On the plus side, I landed a few interviews after the event. Not entirely sure if date night was the reason I landed them, though. Because what happened was after I met with some recruiters during the Hacker X event, and after sending (and replying to) thank you emails back and forth, it would all just boil down to them sending me a link from their website.</p>
+<p>I then read about the vacancy these companies have published online by clicking on the link they sent me, filled a form, and everything after that was <b>the usual</b>: wait for a phone call from a number I do not recognize to tell me where to go, when, and what to bring. Just like everybody else.</p>
+<p>Quite possibly, like every single person who’ve never attended a recruitment speed dating before.</p>
+<p>Participating companies were large and emerging start-ups who were probably used to long periods of international, domestic, and internal recruitments. I suspect these companies were also hiring all throughout the year.</p>
+</div>
 
 <div class="mt-4 mb-4"><h2><span class="grey">What Did I Get From It?</span></h2></div>
 
