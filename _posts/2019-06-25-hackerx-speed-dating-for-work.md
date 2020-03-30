@@ -34,12 +34,13 @@ featured-image-alt: Speed dating for work
 <p>Participating companies were large and emerging start-ups who were probably used to long periods of international, domestic, and internal recruitments. I suspect these companies were also hiring all throughout the year.</p>
 </div>
 
-<div class="mt-4 mb-4"><h2><span class="grey font-weight-bold">What Did I Get From It?</span></h2></div>
+<div class="fix-7x-12 toLeft mb-5 w3-medium"><h2 class="font-weight-bold grey">What Did I Get From It?</h2></div>
 
-<div class="fix-7x-12 toLeft mb-5 w3-medium">
+<div class="row">
+<div class="col fix-7x-12 toLeft mb-5 w3-medium">
 <p>A recruitment speed dating. The idea of getting to know 20 people in one night is just up my sleeves. Here's what each event left me with:</p></div>
 
-<div class="fix-7x-12 toRight mb-5 w3-medium">
+<div class="col fix-7x-12 toRight mb-5 w3-medium">
 <p><b><span class="grey">Name tag.</span></b> As soon as I arrived, the Hacker X team assigned me a blank sticker for a name badge. Wrote my name on it with a marker.</p>
 
 <p><b><span class="grey">A list of attending organizations.</span></b> A piece of handout listing out all the recruiters coming that night and a brief description. The list is pretty useful, and I still keep it as a memento, because I love lists!</p>
@@ -55,7 +56,7 @@ featured-image-alt: Speed dating for work
 <p><b><span class="grey">Some swag.</span></b> Some of these companies were nice enough to give me a notebook or a mug or a tote bag. It’s a nice gesture, but I really wasn’t expecting anything other than a call or an email the next few days. It would probably just make more sense to hand out goodie bags at the end or the beginning to everyone who came, if you ask me.</p>
 
 <p><b><span class="grey">A call.</span></b> Some time after date night, some recruiters would do a follow-up. A few calls from unfamiliar numbers not listed in my phonebook were a bit disturbing, but some recruiters were kind enough to send me an introductory email before making a call or scheduling for a meetup.</p>
-</div>
+</div></div>
 
 <div class="fix-7x-12 toCenter mb-5 w3-medium"><h2 class="font-weight-bold grey">Is This for You?</h2></div>
 
