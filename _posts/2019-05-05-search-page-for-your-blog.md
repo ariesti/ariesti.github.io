@@ -22,12 +22,12 @@ featured-image-alt: Search page
 <p>Finger Tip-Top’s search page includes all the categories and tags and a Google search functionality. This is pretty easy to do with the free Google custom search, which requires only 3 simple steps to set up:</p>
 <p></div>
 
-<div class="row">
-<div class="fix-7x-12 toRight mb-5 w3-medium">
+<div class="row py-0">
+<div class="fix-7x-12 toRight mx-0 px-0 w3-medium">
 <p>1.	Go to Google custom search’s website at <a href="https://cse.google.com" class="blue">cse.google.com</a>.</p>
 <p>2.	Create a new search engine. Let Google know the name of your site and the language of the posts.</p>
 <p>3.	Copy the script code and paste it into your page layout.</p>
-</p></div></div>
+</div></div>
 
 <div class="fix-7x-12 toCenter mb-5 w3-medium">
 <p>It’s super easy and quick. Later, you can tweak the advanced setting even further to include things like image search, safe search, and other tweaks, such as limiting the regions. Since Google is going to be serving the search results, searchers will also have the option to search the entire web.</p> 
