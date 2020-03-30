@@ -20,7 +20,7 @@ featured-image-alt: People facing home cinema screen
   <p><b>If there’s not at least one freelancer friend in your life, chances are you are it.</b></p> 
   <p>Just kidding. (You could also be a <a href ="https://01.media/11-weird-and-wonderful-new-merriam-webster-entries-from-tech" class="blue">ghosted</a> friend.)</p>
   <p>Can’t seem to find a freelancer friend? Try going to that cozy coffee shop around the corner and see if anybody there is sitting alone facing a laptop, while also taking pictures of the food. Try the cafes in the malls, the co-working spaces, the park benches… the beaches?!</p>
-  <p>Better yet, try the online forums.</p>
+  <p>Better yet, try the online forums.</p></div>
 
 <div class="fix-7x-12 toCenter mb-5 w3-medium"><h2 class="font-weight-bold">Online friendship is important</h2></div>
 
@@ -49,23 +49,23 @@ featured-image-alt: People facing home cinema screen
 
 <p>There are some things you probably shouldn't do to a freelancer friend:</p>
 
-<p><h4 class="call-for-action">1. Poke fun at their offerings.</h4>
-Yes, friends do silly things and make fun of each other. But they do this together! Making fun of your freelancer friend’s online offering will not turn you into their BFF. In fact, if you, for example, order a service from your friend and then bail out, and turn a perfectly reasonable offer into a non-paying gig, your chances of remaining friends will decrease dramatically. Poking fun at someone’s way of making a living is not the best way to make friends, both online or offline.</p>
+<h4 class="call-for-action">1. Poke fun at their offerings.</h4>
+<p>Yes, friends do silly things and make fun of each other. But they do this together! Making fun of your freelancer friend’s online offering will not turn you into their BFF. In fact, if you, for example, order a service from your friend and then bail out, and turn a perfectly reasonable offer into a non-paying gig, your chances of remaining friends will decrease dramatically. Poking fun at someone’s way of making a living is not the best way to make friends, both online or offline.</p>
 
-<p><h4 class="call-for-action">2. Ask for a 'friend discount' only to never be heard from again.</h4>
-This is what people do to people who are not really their friends. Asking for a different standard of pricing, usually a lower than average one, for a service your freelancer friend offers. Or even a free service… This goes against the rule of reciprocity, which is what many friendships are based on.</p> 
+<h4 class="call-for-action">2. Ask for a 'friend discount' only to never be heard from again.</h4>
+<p>This is what people do to people who are not really their friends. Asking for a different standard of pricing, usually a lower than average one, for a service your freelancer friend offers. Or even a free service… This goes against the rule of reciprocity, which is what many friendships are based on.</p> 
 
-<p><h4 class="call-for-action">3. Treat them as your personal bank.</h4>
-Sometimes when you’re having an emergency, friends and family can be a source of financial help. But usually only very close friends. Your freelancer friend is not the bank of mom and dad. Don’t treat them as such, unless that is the type of freelance service they offer.</p>
+<h4 class="call-for-action">3. Treat them as your personal bank.</h4>
+<p>Sometimes when you’re having an emergency, friends and family can be a source of financial help. But usually only very close friends. Your freelancer friend is not the bank of mom and dad. Don’t treat them as such, unless that is the type of freelance service they offer.</p>
 
-<p><h4 class="call-for-action">4. Act differently towards them.</h4> 
-Making the life-changing decision of coming forward as a freelancer, where you are your own **boss**, is not easy. They could easily have used an alias and lead a double life. But the fact that they use the term “freelancer” to describe themselves is their decision not yours. You should not “punish” them for not being more like you.</p>
+<h4 class="call-for-action">4. Act differently towards them.</h4> 
+<p>Making the life-changing decision of coming forward as a freelancer, where you are your own **boss**, is not easy. They could easily have used an alias and lead a double life. But the fact that they use the term “freelancer” to describe themselves is their decision not yours. You should not “punish” them for not being more like you.</p>
 
-<p><h4 class="call-for-action">5. Assume the 'client from hell' persona.</h4>
-Don’t turn into an annoying client when you’re alone with your freelancer friend just because she is a freelancer. I know this sounds cliche, but.. just be yourself.</p>
+<h4 class="call-for-action">5. Assume the 'client from hell' persona.</h4>
+<p>Don’t turn into an annoying client when you’re alone with your freelancer friend just because she is a freelancer. I know this sounds cliche, but.. just be yourself.</p>
 
-<p><h4 class="call-for-action">6. Turn every chance into a job interview.</h4>
-Just because a friend is working remotely from home, does not mean that she wants a job interview practice session with you. You don’t have to ask her about her finances, her product offerings, or her services. You also don’t have to give her unsolicited career advice just because. A piece of unsolicited advice may cause stress and people easily take them as criticism instead of support.</p></div>
+<h4 class="call-for-action">6. Turn every chance into a job interview.</h4>
+<p>Just because a friend is working remotely from home, does not mean that she wants a job interview practice session with you. You don’t have to ask her about her finances, her product offerings, or her services. You also don’t have to give her unsolicited career advice just because. A piece of unsolicited advice may cause stress and people easily take them as criticism instead of support.</p></div>
 
 <div class="fix-7x-12 toCenter mb-5 w3-medium"><h2 class="font-weight-bold">The ‘don’t be a stranger’ rule</h2></div>
 
