@@ -71,7 +71,7 @@ featured-image-alt: S-S-S-SWAAAG!
 <p>2.	Register through the Hacktoberfest registration page.</p> 
 
 <p>3.	Make 5 PRs and follow the instructions to receive your dev swag.</p>
-</div>
+</div></div>
 
 <div class="fix-7x-12 toCenter mb-5 w3-medium">
 <p>But if you tried to contribute to these open source projects outside of Hacktoberfest it would have taken you some time, and probably more than 5 issues, before your contribution is considered "good enough." After my first contribution in 2018, I still return to the projects to see how else I can make myself useful. So here's some of my after thoughts:</p>
