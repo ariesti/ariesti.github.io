@@ -20,12 +20,13 @@ featured-image-alt: S-S-S-SWAAAG!
 <p>Hacktoberfest motivates newbies to contribute to <b>open source projects</b>. In case you need to know, last year was my first time participating fully, and I did not regret a minute of it. Although come to think of it now, there were a few things I could have done to maximize my participation.</p>
 <p>If you’ve been thinking about collaborating with others, open source is a great start. Every year since 2013, the community celebrates open source software by rewarding contributors during the month of October.</p>
 <p>Don’t worry so much about the coding bits, because the focus of Hacktoberfest is *to contribute to a software project*. It is first-timer friendly, and you are not limited to only your coding skill sets. Any area where you might be able to help is within your reach: social media marketing, copywriting, editing, design, testing, bug reporting, business, etc.</p>
-<p>Okay, maybe business is still a little way off, but here are some things you can do to get started (right away):<p>
+<p>Okay, maybe business is still a little way off, but here are some things you can do to get started (right away):<p></div>
+
 <div class="row py-0">
 <div class="fix-7x-12 toLeft mb-5 w3-medium">
-<p>1. <b><span class="grey">Check for broken and/or outdated links.</span></b> This is mostly what I did. I contributed to a WebDevStudio project creating WordPress starter themes, so there were plenty of links referencing WordPress’s Codex, which has moved to a different subdomain but still at Wordpress.org. Some of these links are not broken; they simply need to be updated to point to the most recent webpages.</p>
-<p>2. <b><span class="grey">Fix the typos.</span></b> Typos are bugs! And you need to fix them. Content can be buggy, too, especially if the website is localized into other languages. Go for the obvious grammar and misspelling ones, rather than the more subtle issues of style.</p>
-<p>3. <b><span class="grey">Make sure the viewport is for responsive pages.</span></b> Modern websites are built with mobile in mind, so they've got to be responsive and stay responsive. You should be able to go over the website code and check if the viewport meta tag is correctly set up.</p>
+<p><b>1. <span class="grey">Check for broken and/or outdated links.</span></b> This is mostly what I did. I contributed to a WebDevStudio project creating WordPress starter themes, so there were plenty of links referencing WordPress’s Codex, which has moved to a different subdomain but still at Wordpress.org. Some of these links are not broken; they simply need to be updated to point to the most recent webpages.</p>
+<p><b>2. <span class="grey">Fix the typos.</span></b> Typos are bugs! And you need to fix them. Content can be buggy, too, especially if the website is localized into other languages. Go for the obvious grammar and misspelling ones, rather than the more subtle issues of style.</p>
+<p><b>3. <span class="grey">Make sure the viewport is for responsive pages.</span></b> Modern websites are built with mobile in mind, so they've got to be responsive and stay responsive. You should be able to go over the website code and check if the viewport meta tag is correctly set up.</p>
 </div></div>
 
 <div class="fix-7x-12 toCenter mb-5 w3-medium">
@@ -48,16 +49,18 @@ featured-image-alt: S-S-S-SWAAAG!
 </div>
 
 <div class="row py-0">
-<div class="fix-7x-12 toLeft mb-5 w3-medium">
+<div class="col fix-7x-12 toLeft mb-5 w3-medium">
 <p>These are some other interesting first-timer guides to open source projects. Each includes links to where to find your first:</p>
-
+  </div>
+  
+<div class="col fix-7x-12 toRight mb-5 w3-medium">
 <p><a href="https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/" class="pinklink">A First Timer's Guide to an Open Source Project</a> from <code>AuthO</code></p>
-
 <p><a href="https://opensource.guide/" class="pinklink">Open Source Guide</a>and <a href="https://opensourcefriday.com/#participate" class="pinklink">Open Source Friday</a> from <code>GitHub</code> and friends</p>
+<p><a href="https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae" class="pinklink">Contributing to Your First Open Source Project: A Practical Approach</a><p>
+</div>
+</div>
 
-<p><a href="https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae" class="pinklink">Contributing to Your First Open Source Project: A Practical Approach</a><p></div></div>
-
-<div class="mt-4 mb-4"><h2><span class="grey">How to Participate</span></h2></div><
+<div class="fix-7x-12 toCenter mb-5 w3-medium"><h2 class="font-weight-bold">How to Participate</h2></div>
 
 <div class="row py-0">
 <div class="fix-7x-12 toRight mb-5 w3-medium">
@@ -68,7 +71,7 @@ featured-image-alt: S-S-S-SWAAAG!
 <p>2.	Register through the Hacktoberfest registration page.</p> 
 
 <p>3.	Make 5 PRs and follow the instructions to receive your dev swag.</p>
-</div></div>
+</div>
 
 <div class="fix-7x-12 toCenter mb-5 w3-medium">
 <p>But if you tried to contribute to these open source projects outside of Hacktoberfest it would have taken you some time, and probably more than 5 issues, before your contribution is considered "good enough." After my first contribution in 2018, I still return to the projects to see how else I can make myself useful. So here's some of my after thoughts:</p>
