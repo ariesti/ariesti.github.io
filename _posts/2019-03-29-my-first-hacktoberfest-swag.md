@@ -87,7 +87,7 @@ featured-image-alt: S-S-S-SWAAAG!
 <div class="container">
 <figure class="figure-img img-fluid rounded mt-4 mb-4">
   <img src="/assets/image/2-ftt.png" class="figure-img img-fluid rounded" alt="Finally got my swag in the mail">
-  <p class="alpha">My first dev swag</p>
+  <figcaption class="figure-caption">My first dev swag</figcaption>
 </figure>
 </div>
 
