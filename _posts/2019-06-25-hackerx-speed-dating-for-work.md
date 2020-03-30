@@ -37,7 +37,7 @@ featured-image-alt: Speed dating for work
 <div class="fix-7x-12 toLeft mb-5 w3-medium"><h2 class="font-weight-bold grey">What Did I Get From It?</h2></div>
 
 <div class="row">
-<div class="col fix-7x-12 toLeft mb-5 w3-medium">
+<div class="col fix-7x-12 toLeft mb-5 w3-large">
 <p>A recruitment speed dating. The idea of getting to know 20 people in one night is just up my sleeves. Here's what each event left me with:</p></div>
 
 <div class="col fix-7x-12 toRight mb-5 w3-medium">
@@ -72,10 +72,11 @@ featured-image-alt: Speed dating for work
 <p>I proceeded to invite every single person I talked to during that event to become a LinkedIn contact. A few human resources staff or employees from recruiting departments within the companies that took part reached out to me before the event. I received a couple of invites to do further testing, but that was it really.</p>
 </div>
 
+<div class="fix-7x-12 toCenter text-center mb-5 w3-medium">
 <figure class="figure-img img-fluid rounded mt-4 mb-4">
   <img src="/assets/image/hackerx-2018.png" class="figure-img img-fluid rounded" alt="My second hacker X event">
-  <p class="alpha">HackerX | July 19, 2018</p>
-</figure>
+  <p class="alpha text-left">HackerX | July 19, 2018</p>
+</figure></div>
 
 Both Hacker X events were centered around tech companies instead of the developers. On the first event in 2017, I felt like I had to win over the recruiting company by saying something interesting about myself. The companies didn’t really have to pitch anything in any way to attract these tech talents. 
 
