@@ -34,7 +34,7 @@ featured-image-alt: Speed dating for work
 <p>Participating companies were large and emerging start-ups who were probably used to long periods of international, domestic, and internal recruitments. I suspect these companies were also hiring all throughout the year.</p>
 </div>
 
-<div class="fix-7x-12 toLeft mb-5 w3-medium"><h2 class="font-weight-bold">What Did I Get From It?</h2></div>
+<div class="fix-7x-12 toLeft mb-0 w3-medium"><h2 class="font-weight-bold">What Did I Get From It?</h2></div>
 
 <div class="row">
 <div class="col fix-7x-12 toLeft mb-5 w3-large">
@@ -51,7 +51,7 @@ featured-image-alt: Speed dating for work
 
 <p><b><span class="grey">5 random minutes.</span></b> The event was supposedly geared towards developers, but the type of vacancy was pretty random. Only a few of the companies that actually emailed me before the event was getting somewhere. After the first few exchanges, it began to feel a bit stressful. The room a bit too big, the speakers a bit too loud, and the companies a bit too self-absorbant.</p>
 
-<p><b><span class="grey">Dinner.</span></b> Late in the night, the event organizers started handing out dinner. I probably wouldn’t have eaten anything if I hadn’t loitered to listen to Tokopedia staff talking about a regular networking event held at their new headquarters. The way the ```pizza``` boxes were lined up gave me the impression that the food was only for employees. An entire dinner pack had a recruiter’s name and company written on it, so…</p>
+<p><b><span class="grey">Dinner.</span></b> Late in the night, the event organizers started handing out dinner. I probably wouldn’t have eaten anything if I hadn’t loitered to listen to Tokopedia staff talking about a regular networking event held at their new headquarters. The way the <code>pizza</code> boxes were lined up gave me the impression that the food was only for employees. An entire dinner pack had a recruiter’s name and company written on it, so…</p>
 
 <p><b><span class="grey">Some swag.</span></b> Some of these companies were nice enough to give me a notebook or a mug or a tote bag. It’s a nice gesture, but I really wasn’t expecting anything other than a call or an email the next few days. It would probably just make more sense to hand out goodie bags at the end or the beginning to everyone who came, if you ask me.</p>
 
@@ -72,14 +72,13 @@ featured-image-alt: Speed dating for work
 <p>I proceeded to invite every single person I talked to during that event to become a LinkedIn contact. A few human resources staff or employees from recruiting departments within the companies that took part reached out to me before the event. I received a couple of invites to do further testing, but that was it really.</p>
 </div>
 
-<div class="container mb-5 w3-medium">
+<div class="container mb-5 w3-small">
 <figure class="figure-img img-fluid rounded mt-4 mb-4">
   <img src="/assets/image/hackerx-2018.png" class="figure-img img-fluid rounded" alt="My second hacker X event">
-  <p class="alpha text-left">HackerX | July 19, 2018</p>
+  <figcaption class="figure-caption text-left">HackerX | July 19, 2018</figcaption>
 </figure></div>
 
-Both Hacker X events were centered around tech companies instead of the developers. On the first event in 2017, I felt like I had to win over the recruiting company by saying something interesting about myself. The companies didn’t really have to pitch anything in any way to attract these tech talents. 
-
-The second time was a mixed bag, but still felt a bit like a waste of time. The stress was still there. Although the event was held at a smaller kind of co-working space, networking didn’t become any easier. 
-
-So if you’re thinking about <a href="https://hackerx.org/" class="pinklink">going to a Hacker X night out</a> in your city, whether as an attendee or a recruiter, and you’re okay with meeting random developers who might or might not know what they're doing there, then you would probably like it. As for me, I am not planning to go to a third one. 
+<div class="fix-7x-12 toCenter mb-5 w3-medium">
+<p>Both Hacker X events were centered around tech companies instead of the developers. On the first event in 2017, I felt like I had to win over the recruiting company by saying something interesting about myself. The companies didn’t really have to pitch anything in any way to attract these tech talents.</p>
+<p>The second time was a mixed bag, but still felt a bit like a waste of time. The stress was still there. Although the event was held at a smaller kind of co-working space, networking didn’t become any easier.</p>
+<p>So if you’re thinking about <a href="https://hackerx.org/" class="pinklink">going to a Hacker X night out</a> in your city, whether as an attendee or a recruiter, and you’re okay with meeting random developers who might or might not know what they're doing there, then you would probably like it. As for me, I am not planning to go to a third one.</p></div>
