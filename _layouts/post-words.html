@@ -7,9 +7,9 @@ layout: words
   
 <!-- Assign categories for post --> 
 {% if post %}
-    {% assign categories = post.categories %}
+    {% assign categories = post.main-categories %}
   {% else %}
-    {% assign categories = page.categories %}
+    {% assign categories = page.main-categories %}
   {% endif %}
   
 <!-- Title information area -->
