@@ -40,7 +40,7 @@ featured-image-alt: People facing home cinema screen
 <p>However similar, online and offline friendships are essentially two different things. They are not one and the same. Here's an illustration.</p></div>
 
 <div class="row py-0">
-<div class="fix-7x-12 toCenter mb-0 pb-3 w3-medium">
+<div class="fix-7x-12 toRight mb-0 pb-3 w3-xlarge">
 <p class="py-my-0"><em>Everybody talks.</em> But the way people talk to you when you’re out and about is different from the way you talk to someone you just met online. Due to the nature of their work, freelancers who work online might prefer one method of communication to another, e.g. email over phone. The old fashioned offline friendship relies heavily on phone conversations, text messages, and face-to-face chats. Meanwhile, an online friendship can still flourish even if you never meet each other in real life.</p></div></div>
 
 <div class="fix-7x-12 toCenter mb-5 w3-medium"><h2 class="font-weight-bold">Don't do these to your freelancer friends</h2></div>
