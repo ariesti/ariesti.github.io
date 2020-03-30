@@ -8,7 +8,7 @@ permalink: post-words-test-post
 date: 2020-03-25 00:38
 updated: 2020-03-25 09:36 PM
 updated-by: "Goddard Wilkes"
-categories: [guide]
+main-categories: [guide]
 tags: [mentoring, hack, do]
 lang: en
 featured-image: testpost-insta.png
