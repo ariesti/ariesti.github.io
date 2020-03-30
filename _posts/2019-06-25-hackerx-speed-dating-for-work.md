@@ -40,7 +40,7 @@ featured-image-alt: Speed dating for work
 <div class="fix-7x-12 toLeft mb-0 w3-large">
 <p>A recruitment speed dating. The idea of getting to know 20 people in one night is just up my sleeves. Here's what each event left me with:</p></div>
 
-<div class="fix-7x-12 toRight mb-5 w3-medium">
+<div class="fix-7x-12 toRight mb-0 pb-3 w3-medium">
 <p><b><span class="grey">Name tag.</span></b> As soon as I arrived, the Hacker X team assigned me a blank sticker for a name badge. Wrote my name on it with a marker.</p>
 
 <p><b><span class="grey">A list of attending organizations.</span></b> A piece of handout listing out all the recruiters coming that night and a brief description. The list is pretty useful, and I still keep it as a memento, because I love lists!</p>
