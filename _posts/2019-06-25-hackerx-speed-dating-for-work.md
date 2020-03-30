@@ -1,7 +1,7 @@
 ---
 layout: post-words
 title: "Hacker X Jakarta: My Speed Dating (for Work) Experience"
-description: That time I went to a recruitment speed dating
+description: As soon as I completed my Johns Hopkins data science specialization with Coursera <a href="https://www.coursera.org/specializations/jhu-data-science" class="blue">that one time</a>, offers began flooding in.
 permalink: hackerx-speed-dating-for-work
 date: 2019-06-25 10:16 PM
 updated: 2020-03-03 09:17 PM
@@ -14,9 +14,6 @@ featured-image: hackerx-2017.png
 featured-image-description: Recruitment speed dating might be worth it
 featured-image-alt: Speed dating for work
 ---
-
-<div class="fix-7x-12 toCenter mb-5 w3-large">As soon as I completed my Johns Hopkins data science specialization with Coursera <a href="https://www.coursera.org/specializations/jhu-data-science" class="blue">that one time</a>, offers began flooding in.</div>
-
 <div class="fix-7x-12 toCenter mb-5 w3-medium">
 <p>One particularly interesting offer to get social was an email invitation to a Hacker X (full-stack) recruitment event in Jakarta, just a little over a year ago. I personally have never attended or RSVP-ed for a speed dating event ever, but at the time the idea somewhat made sense.</p>
 <p>Each attendee gets to spend about 10 to 15 minutes talking to a potential recruiter before rushing on to the next table to talk to the next recruiter, and the next, and the next, and so on.</p>
