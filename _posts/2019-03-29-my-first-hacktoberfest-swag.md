@@ -49,15 +49,13 @@ featured-image-alt: S-S-S-SWAAAG!
 <p>Just need to do some digging to find those repos.</p>
 </div>
 
-<div class="row py-0">
-<div class="col fix-7x-12 toLeft mb-5 w3-large">
+<div class="col fix-7x-12 toCenter mb-5 w3-large">
 <p>These are some other interesting first-timer guides to open source projects. Each includes links to where to find your first:</p>
-</div>
   
-<div class="col fix-7x-12 toRight mb-0 w3-medium">
-<p></p><ul><li class="pb-3"><a href="https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/" class="pinklink">A First Timer's Guide to an Open Source Project</a> from <code>AuthO</code></li>
+<ul><li class="pb-3"><a href="https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/" class="pinklink">A First Timer's Guide to an Open Source Project</a> from <code>AuthO</code></li>
 <li class="pb-3"><a href="https://opensource.guide/" class="pinklink">Open Source Guide</a> and <a href="https://opensourcefriday.com/#participate" class="pinklink">Open Source Friday</a> from <code>GitHub</code> and friends</li>
-<li class="pb-3"><a href="https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae" class="pinklink">Contributing to Your First Open Source Project: A Practical Approach</a></li><p></p></ul><p></p></div></div>
+<li class="pb-3"><a href="https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae" class="pinklink">Contributing to Your First Open Source Project: A Practical Approach</a></li>
+</div>
 
 <div class="fix-7x-12 toCenter mb-5 w3-medium"><h2 class="font-weight-bold">How to Participate</h2></div>
 
