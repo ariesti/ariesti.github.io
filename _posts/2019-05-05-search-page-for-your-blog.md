@@ -21,12 +21,11 @@ featured-image-alt: Search page
 <p>The search page I had in mind is not just a blank box to fill with search phrases. No, no. I wanted visitors to be able to 1) search for anything they are looking for, and 2) be able to see the big picture at once—all the categories and tags that they might not know they were looking for. I got the idea for something like this from browsing through a list of available free themes from Jekyll. Instead of a blank search box floating on a blank page, <a href="http://projectpages.github.io" class="blue">the theme</a> displays a list of project names below the search box.</p>
 <p>Finger Tip-Top’s search page includes all the categories and tags and a Google search functionality. This is pretty easy to do with the free Google custom search, which requires only 3 simple steps to set up:</p></div>
 
-<div class="row py-0">
-<div class="fix-7x-12 toLeft mx-0 px-0 w3-medium">
+<div class="fix-7x-12 toCenter mx-0 px-0 w3-medium">
 <p>1.	Go to Google custom search’s website at <a href="https://cse.google.com" class="blue">cse.google.com</a>.</p>
 <p>2.	Create a new search engine. Let Google know the name of your site and the language of the posts.</p>
 <p>3.	Copy the script code and paste it into your page layout.</p>
-</div></div>
+</div>
 
 <div class="fix-7x-12 toCenter mb-5 w3-medium">
 <p>It’s super easy and quick. Later, you can tweak the advanced setting even further to include things like image search, safe search, and other tweaks, such as limiting the regions. Since Google is going to be serving the search results, searchers will also have the option to search the entire web.</p> 
