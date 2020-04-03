@@ -22,13 +22,11 @@ featured-image-alt: S-S-S-SWAAAG!
 <p>Don’t worry so much about the coding bits, because the focus of Hacktoberfest is *to contribute to a software project*. It is first-timer friendly, and you are not limited to only your coding skill sets. Any area where you might be able to help is within your reach: social media marketing, copywriting, editing, design, testing, bug reporting, business, etc.</p>
 <p>Okay, maybe business is still a little way off, but here are some things you can do to get started (right away):</p></div>
 
-<p></p>
-<div class="row py-0">
-<div class="fix-7x-12 toLeft mb-0 w3-medium">
+<div class="fix-7x-12 toCenter mb-0 w3-medium">
 <p><b>1. <span class="grey">Check for broken and/or outdated links.</span></b> This is mostly what I did. I contributed to a WebDevStudio project creating WordPress starter themes, so there were plenty of links referencing WordPress’s Codex, which has moved to a different subdomain but still at Wordpress.org. Some of these links are not broken; they simply need to be updated to point to the most recent webpages.</p>
 <p><b>2. <span class="grey">Fix the typos.</span></b> Typos are bugs! And you need to fix them. Content can be buggy, too, especially if the website is localized into other languages. Go for the obvious grammar and misspelling ones, rather than the more subtle issues of style.</p>
 <p><b>3. <span class="grey">Make sure the viewport is for responsive pages.</span></b> Modern websites are built with mobile in mind, so they've got to be responsive and stay responsive. You should be able to go over the website code and check if the viewport meta tag is correctly set up.</p>
-</div></div>
+</div>
 
 <div class="fix-7x-12 toCenter mb-5 w3-medium">
 <p>You can (and you should) copy your projects's URL and paste it on to any mobile SEO tool to check for things like the viewport tag, load time, image optimization, etc. is correctly used. If the viewport is not, for example, responsive, that could just be your very first <abbr title="Pull Request">PR</abbr>.</p>
@@ -68,14 +66,14 @@ featured-image-alt: S-S-S-SWAAAG!
 <p>But if you tried to contribute to these open source projects outside of Hacktoberfest it would have taken you some time, and probably more than 5 issues, before your contribution is considered "good enough." After my first contribution in 2018, I still return to the projects to see how else I can make myself useful. So here's some of my after thoughts:</p>
 </div>
 
-<div class="row py-0"><div class="row fix-7x-12 toLeft mb-0 w3-medium">
-<h4 class="font-weight-bold">It is not enough to just interact on GitHub.</h4><p>If your project has a mailing list, you should definitely join it. In theory, reading up on the project’s reporting guideline, Slack channel discussion, and developer forums would help you select a decent issue to work on. The project’s contributing guideline also would lay out the basics to help you prepare your PRs.</p></div></div>
+<div class="row fix-7x-12 toCenter mb-0 w3-medium">
+<h4 class="font-weight-bold">It is not enough to just interact on GitHub.</h4><p>If your project has a mailing list, you should definitely join it. In theory, reading up on the project’s reporting guideline, Slack channel discussion, and developer forums would help you select a decent issue to work on. The project’s contributing guideline also would lay out the basics to help you prepare your PRs.</p>
 
-<div class="row py-0"><div class="fix-7x-12 toCenter mb-0 w3-medium"><h4 class="font-weight-bold">Ask for help from other developers.</h4><p>This is hard. But it’s one of the main benefits of working on open source projects: you get to work with other developers. When you need (and you will need it) some help, you should ask for assistance from other developers and communicate. This ensures that you are able to work on the items you have set out to work on. They can point you to the right direction or advice you on where to look for stuff.</p></div></div>
+<h4 class="font-weight-bold">Ask for help from other developers.</h4><p>This is hard. But it’s one of the main benefits of working on open source projects: you get to work with other developers. When you need (and you will need it) some help, you should ask for assistance from other developers and communicate. This ensures that you are able to work on the items you have set out to work on. They can point you to the right direction or advice you on where to look for stuff.</p>
 
-<div class="row py-o"><div class="fix-7x-12 toRight mb-0 w3-medium"><h4 class="font-weight-bold">Get familiar with the community swag lists.</h4><p>Turns out that the open source community has a culture of rewarding contributors with swag! Each of the companies have their own requirement for the free gifts they give for your time and your help. Why not make the most of your contributing month? During Hacktoberfest, try to contribute to the companies that offer dev swags. They could also motivate you to continue contributing regularly to projects that match your schedule and qualifications.</p></div></div>
+<h4 class="font-weight-bold">Get familiar with the community swag lists.</h4><p>Turns out that the open source community has a culture of rewarding contributors with swag! Each of the companies have their own requirement for the free gifts they give for your time and your help. Why not make the most of your contributing month? During Hacktoberfest, try to contribute to the companies that offer dev swags. They could also motivate you to continue contributing regularly to projects that match your schedule and qualifications.</p>
 
-<div class="row pb-3"><div class="fix-7x-12 toLeft mb-0 w3-medium"><h4 class="font-weight-bold">Consider creating your own open source projects.</h4><p>If existing projects are no longer sufficient, you’d want to consider creating your own. With the right dev swags (and marketing mix) you might be able to attract rising talents that could lead to somewhere amazing.</p></div></div>
+<h4 class="font-weight-bold">Consider creating your own open source projects.</h4><p>If existing projects are no longer sufficient, you’d want to consider creating your own. With the right dev swags (and marketing mix) you might be able to attract rising talents that could lead to somewhere amazing.</p></div>
 
 <div class="fix-7x-12 toCenter mb-0 w3-medium"><h2 class="font-weight-bold">It's Not All About the Swag But When It Is, It's Lit . .</h2></div>
 
