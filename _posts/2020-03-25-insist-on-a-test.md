@@ -11,7 +11,7 @@ other-categories: [community, coding, project]
 tags: [visualization, data, social]
 lang: en
 featured-image: cats-in-covid-19-genome.png
-featured-image-description: Mama and papa cat observing image of a cat on a laptop from the comfort of a bed.
+featured-image-description: 1| Mama and papa cat observing image of a cat on a laptop from the comfort of their human bed.
 featured-image-alt: Mama, papa cat looking at image of a cat as if asking, "Son, is that you?"
 ---
 <div class="fix-7x-12 toCenter mb-5 w3-medium">
