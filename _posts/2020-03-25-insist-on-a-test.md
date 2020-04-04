@@ -10,9 +10,9 @@ main-categories: [inspiration]
 other-categories: [community, coding, project]
 tags: [visualization, data, social]
 lang: en
-featured-image: 
-featured-image-description: 
-featured-image-alt: 
+featured-image: cats-in-covid-19-genome.png
+featured-image-description: Mama and papa cat observing image of a cat on a laptop from the comfort of a bed.
+featured-image-alt: Mama, papa cat looking at image of a cat as if asking, "Son, is that you?"
 ---
 <div class="fix-7x-12 toCenter mb-5 w3-medium">
 >MN988713.1 Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-IL1/2020, complete genome</div>
