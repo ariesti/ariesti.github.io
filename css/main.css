@@ -554,6 +554,19 @@ a.white:hover {
 	border-bottom: 1px solid #ffffff;
 }
 
+a.black { /* For internal links on the release banner when text is black. */
+	text-decoration: none;
+	color: #212529;
+	margin-bottom: ($spacer * .5) !important;
+	border-bottom: .5px dotted #212529;
+}
+a.black:hover {
+	color: #212529; text
+	text-decoration: none; 
+	margin-bottom: ($spacer * .5) !important; none; 
+	border-bottom: 1px solid #212529;
+}
+
 a.pinklink { /* For external links that I strongly recommend. */
 	text-decoration: none; 
 	color: #333; 
