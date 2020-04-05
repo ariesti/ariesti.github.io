@@ -232,6 +232,10 @@ body {
 .breakWord { 
   word-break: break-word; 
 } 
+
+.example {
+  overflow-wrap: break-word;
+}
 	
 /* Half the page */
 
