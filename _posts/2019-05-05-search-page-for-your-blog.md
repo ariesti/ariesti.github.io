@@ -16,8 +16,6 @@ featured-image-description: A blog search page is not vital, but it's nice to ha
 featured-image-alt: Search page 
 ---
 <div class="container">
-    <h2 class="font-weight-light text-center text-lg-left mt-4 mb-0">Thumbnail Gallery</h2>
-    <hr class="mt-2 mb-5">
     <div class="row text-center text-lg-left">
     <div class="col-lg-3 col-md-4 col-6">
       <a href="#" class="d-block mb-4 h-100">
