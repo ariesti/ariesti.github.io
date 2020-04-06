@@ -17,12 +17,9 @@ featured-image-description: A blog search page is not vital, but it's nice to ha
 featured-image-alt: Search page 
 ---
 <div class="container">
-
     <h2 class="font-weight-light text-center text-lg-left mt-4 mb-0">Thumbnail Gallery</h2>
     <hr class="mt-2 mb-5">
-
     <div class="row text-center text-lg-left">
-
     <div class="col-lg-3 col-md-4 col-6">
       <a href="#" class="d-block mb-4 h-100">
             <img class="img-fluid img-thumbnail" src="https://source.unsplash.com/pWkk7iiCoDM/400x300" alt="">
@@ -83,9 +80,7 @@ featured-image-alt: Search page
             <img class="img-fluid img-thumbnail" src="https://source.unsplash.com/p2TQ-3Bh3Oo/400x300" alt="">
           </a>
     </div>
-    </div>
-	
-</div>
+    </div></div>
 
 <div class="fix-7x-12 toCenter mb-0 w3-medium">
 <p>A search page or search functionality for a blog is not vital, but I wanted to add a search page early on. Because it’s going to be difficult to find anything once the blog has hundreds of blog posts. A search functionality is a nice extra touch to help readers who are interested in a particular topic but people can still read blog posts without it.</p>
