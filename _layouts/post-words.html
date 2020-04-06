@@ -50,6 +50,12 @@ layout: words
   <p class="text-left">Updated by <a href="/categories/#" class="neutral"><span class="beta"><code class="highlighter-rouge"><nobr>{{ page.updated-by }}</nobr></code></span></a>
   <br><span class="alpha mt-3">{{ page.updated | date: '%B %-d, %Y — %H:%M' }}</span></p> 
   {% endfor %}</div> 
+  
+  <div class="col-6 text-left">
+  {% for date in page.date %}
+  <p class="text-left"><span class="alpha mt-3">{{ page.date | date: '%B %-d, %Y — %H:%M' }}</span></p>
+  </div>
+  
 <div class="col-6 text-right d-flex justify-content-end"><p class="pb-2 d-flex align-self-end"><iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="twitter-share-button twitter-share-button-rendered twitter-tweet-button" style="position: static; visibility: visible; width: 60px; height: 20px;" title="Twitter Tweet Button" src="https://platform.twitter.com/widgets/tweet_button.d0f13be8321eb432fba28cfc1c3351b1.en.html#dnt=false&amp;id=twitter-widget-0&amp;lang=en&amp;original_referer=https%3A%2F%2Ffingertip.top%2Fpost-words-test-post&amp;size=m&amp;text=Just%20an%20Idea%20I%20Had%20While%20Working%20on%20This%20Post&amp;time=1585150663431&amp;type=share&amp;url=https%3A%2F%2Ffingertip.top%2Fpost-words-test-post"></iframe><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p></div>
 </div>
   
