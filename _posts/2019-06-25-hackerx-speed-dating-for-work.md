@@ -11,8 +11,8 @@ main-categories: [community]
 other-categories: [reviews, events]
 tags: [social, data, advertising]
 lang: en
-featured-image: hackerx-2017.png
-featured-image-description: Recruitment speed dating might be worth it
+featured-image: camera-monitoring.png
+featured-image-description: Recruitment speed dating might be worth it...
 featured-image-alt: Speed dating for work
 ---
 <div class="fix-7x-12 toCenter mb-5 w3-medium">
