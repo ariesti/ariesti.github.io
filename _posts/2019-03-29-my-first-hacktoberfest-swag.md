@@ -12,7 +12,7 @@ main-categories: [community]
 other-categories: [events, tutorials]
 tags: [beginners, open-source, reviews]
 lang: en
-featured-image: 2-ftt.png
+featured-image: swags.png
 featured-image-description: S-S-S-SWAAAG!
 featured-image-alt: S-S-S-SWAAAG!
 ---
