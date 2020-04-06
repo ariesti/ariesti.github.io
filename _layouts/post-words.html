@@ -77,7 +77,7 @@ layout: words
   <p class="w3-small">Tagged as:
   {% for tag in page.tags %}
     {% capture tag_name %}#{{ tag | join:',' }}{% endcapture %}
-    <a href="/categories/{{ tag_name }}"><code><nobr>{{ tag_name }}</nobr></code></a>
+    <a href="/categories/{{ tag_name }}" class="foot mark bottom"><code><nobr>{{ tag_name }}</nobr></code></a>
   {% endfor %}</p>  
   </div>
   
