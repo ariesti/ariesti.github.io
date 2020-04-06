@@ -45,12 +45,17 @@ layout: words
 <!-- Meta author, meta date -->
 <div class="fix-7x-12 toCenter row">
   <div class="col-6 text-left">
-  {% if updated in page.updated %}
+  {% if page.updated %}
+    
+  {% for updated in page.updated %}
   {% capture updated_name %}{{ updated }}{% endcapture %}
   <p class="text-left">Updated by <a href="/categories/#" class="neutral"><span class="beta"><code class="highlighter-rouge"><nobr>{{ page.updated-by }}</nobr></code></span></a>
   <br><span class="alpha mt-3">{{ page.updated | date: '%B %-d, %Y — %H:%M' }}</span></p>
+  {% end for %}
+    
   {% else %}
-  <span class="alpha mt-3">{{ page.date | date: '%B %-d, %Y — %H:%M' }}</span></p>  
+  <span class="alpha mt-3">{{ page.date | date: '%B %-d, %Y — %H:%M' }}</span></p> 
+  
   {% else %}
   <span class="alpha mt-3">{{ page.published | date: '%B %-d, %Y — %H:%M' }}</span></p>
   {% end if %}</div> 
