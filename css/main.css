@@ -101,6 +101,11 @@ body {
 /* COLORS */
 /* Brand colors */
 
+.transparent {
+	color: transparent !important;
+	border-color: transparent !important;
+}
+
 .color-primary {
 	background-color: #ff017e;
 }
