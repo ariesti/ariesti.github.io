@@ -6,8 +6,6 @@ description: Finger Tip-Top now has a search page
 lead: There aren’t that many pages or posts yet on Finger Tip-Top. So a manual search should be enough to find what you’re looking for.
 permalink: search-page-for-Jekyll-blog
 date: 2019-05-05 05:01 PM
-updated: 2020-03-02 04:00 AM
-updated-by: "Abigale Mollica"
 main-categories: [web]
 other-categories: [admin, tutorials]
 tags: [beginners, ui, websites]
