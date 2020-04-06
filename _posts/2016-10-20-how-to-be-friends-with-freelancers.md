@@ -6,7 +6,7 @@ tagline: I don't have that many friends, which makes me the perfect person to wr
 description: How to interact with friends who freelance
 lead: In our lives, there are many types of friends. There’s the online friend, the offline friend, the Twitter friend, the Facebook friend, the blogging friend, the childhood friend, and nowadays, <b>the freelancer friend</b>.
 permalink: good-freelancer-friends-guide
-date: 2016-10-20 00:38
+published: 2016-10-20 00:38
 updated: 2020-03-04 01:14 AM
 updated-by: "Elliott Maoz"
 categories: [guide]
