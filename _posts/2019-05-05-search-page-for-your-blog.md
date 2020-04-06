@@ -12,7 +12,6 @@ main-categories: [web]
 other-categories: [admin, tutorials]
 tags: [beginners, ui, websites]
 lang: en
-featured-image: search-page.png
 featured-image-description: A blog search page is not vital, but it's nice to have.
 featured-image-alt: Search page 
 ---
