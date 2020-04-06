@@ -15,7 +15,7 @@ featured-image: cats-in-covid-19-genome.png
 featured-image-description: <span class="w3-small">1|</span> Mama and papa cat observing image of a cat on a laptop from the comfort of their human bed. <span class="w3-small">2|</span> Baby cat looking very much like mama cat on the screen.
 featured-image-alt: Mama, papa cat looking at image of a cat as if asking, "Son, is that you?"
 ---
-<div class="fix-7x-12 toCenter mb-5 w3-medium">
+<div class="fix-7x-12 toCenter my-5 w3-medium">
 >MN988713.1 Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-IL1/2020, complete genome</div>
 
 <div class="fix-5-12 toCenter mb-5 w3-small example">
