@@ -39,7 +39,7 @@ featured-image-alt: People facing home cinema screen
 <p><b>Supporting each other.</b> I don’t go to a friend’s music concert to provide moral support. I go to a concert to watch a musical performance. Friends can only give moral support if they care about something; it’s perfectly okay not to care openly about something. There’s always that “deep down inside” thing you have within you.</p> 
 <p>However similar, online and offline friendships are essentially two different things. They are not one and the same. Here's an illustration.</p></div>
 
-<div class="fix-7x-12 toCenter mb-0 pb-3 w3-xlarge">
+<div class="fix-8-12 toCenter mb-0 pb-3 w3-xlarge">
 <p class="py-my-0"><em>Everybody talks.</em> But the way people talk to you when you’re out and about is different from the way you talk to someone you just met online. Due to the nature of their work, freelancers who work online might prefer one method of communication to another, e.g. email over phone. The old fashioned offline friendship relies heavily on phone conversations, text messages, and face-to-face chats. Meanwhile, an online friendship can still flourish even if you never meet each other in real life.</p></div>
 
 <div class="fix-7x-12 toCenter mb-5 w3-medium"><h2 class="font-weight-bold">Don't do these to your freelancer friends</h2></div>
@@ -70,8 +70,10 @@ featured-image-alt: People facing home cinema screen
 
 <div class="fix-7x-12 toCenter mb-0 w3-medium">
 <p class="toLeft">Imagine visiting a small neighborhood café for the first time. Nobody there knows you and you don’t know anyone. In fact, you don’t even know what drink to order. When you approach the counter, you know for sure, and even expect, the waiter to greet you in such a manner that would not make you feel embarrassed or unwelcomed. Most waiters would offer a warm smile and a bit of advice on what to order to help you make up your mind. They are friendly but they are not your friends.</p></div>
-<div class="fix-7x-12 toLeft mb-0 w3-xlarge">
-<p>Most waiters won’t be a jerk to you, because if they do, they risk losing their job. You might not return to their coffee house. You might say something bad about their business online. You might sue them.</p></div> 
+
+<div class="fix-8-12 toCenter mb-0 w3-xlarge">
+<p>Most waiters won’t be a jerk to you, because if they do, they risk losing their job. You might not return to their coffee house. You might say something bad about their business online. You might sue them.</p></div>
+
 <div class="fix-7x-12 toCenter mb-0 w3-medium"><p>Likewise, the friendliness of a waiter at some café does not warrant a friendship. Neither the waiter nor you owe each other anything more than the common hospitality standards. You can be a good customer and provide helpful feedback or a tip you deem appropriate, but both of you are practically strangers beyond this point.</p>
 <p>The “don’t be a stranger” rule is common online agreement. But what we’re really saying is <em>don’t be a jerk</em> to the strangers you meet. This rule goes beyond the realm of the internet. And when it comes to your freelancing friend, don’t <em>become</em> the stranger.</p></div> 
 
