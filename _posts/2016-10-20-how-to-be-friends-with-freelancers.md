@@ -16,7 +16,7 @@ featured-image: my-cinema-quote.png
 featured-image-description: Are you a freelancer friend?
 featured-image-alt: People facing home cinema screen
 ---
-  <div class="fix-7x-12 toCenter mb-0 w3-medium">
+  <div class="fix-7x-12 toCenter mb-5 w3-medium">
   <p><b>If there’s not at least one freelancer friend in your life, chances are you are it.</b></p> 
   <p>Just kidding. (You could also be a <a href="https://01.media/11-weird-and-wonderful-new-merriam-webster-entries-from-tech" class="blue">ghosted</a> friend.)</p>
   <p>Can’t seem to find a freelancer friend? Try going to that cozy coffee shop around the corner and see if anybody there is sitting alone facing a laptop, while also taking pictures of the food. Try the cafes in the malls, the co-working spaces, the park benches… the beaches?!</p>
@@ -24,7 +24,7 @@ featured-image-alt: People facing home cinema screen
 
 <div class="fix-7x-12 toCenter mb-5 w3-medium"><h2 class="font-weight-bold">Online friendship is important</h2></div>
 
-<div class="fix-7x-12 toCenter mb-0 w3-medium">
+<div class="fix-7x-12 toCenter mb-5 w3-medium">
 <p>All friendships are important, ask any mum. But online friendship is a special kind of friendship. The nature of online friendship is already different from the rest.</p>
 <p>One of the mistakes many people make about online friendship is to make the premature assumption that online friendship is a means of developing a true offline friendship. This is so wrong in so many ways. One, it assumes that only offline friendships are real. And that, two, online friendships are probably fake.</p>
 <p>Nope. Both online and offline friendships have a relatively equal chance of being fake. I rarely vouch for anything (or anyone), but I can attest to this: <em>friendships are dynamic.</em></p>
@@ -39,12 +39,12 @@ featured-image-alt: People facing home cinema screen
 <p><b>Supporting each other.</b> I don’t go to a friend’s music concert to provide moral support. I go to a concert to watch a musical performance. Friends can only give moral support if they care about something; it’s perfectly okay not to care openly about something. There’s always that “deep down inside” thing you have within you.</p> 
 <p>However similar, online and offline friendships are essentially two different things. They are not one and the same. Here's an illustration.</p></div>
 
-<div class="fix-7x-12 toCenter mb-0 pb-3 w3-xlarge">
+<div class="fix-7x-12 toCenter mb-5 pb-3 w3-xlarge">
 <p class="py-my-0"><em>Everybody talks.</em> But the way people talk to you when you’re out and about is different from the way you talk to someone you just met online. Due to the nature of their work, freelancers who work online might prefer one method of communication to another, e.g. email over phone. The old fashioned offline friendship relies heavily on phone conversations, text messages, and face-to-face chats. Meanwhile, an online friendship can still flourish even if you never meet each other in real life.</p></div>
 
 <div class="fix-7x-12 toCenter mb-5 w3-medium"><h2 class="font-weight-bold">Don't do these to your freelancer friends</h2></div>
 
-<div class="fix-7x-12 toCenter mb-0 w3-medium">
+<div class="fix-7x-12 toCenter mb-5 w3-medium">
 
 <p>There are some things you probably shouldn't do to a freelancer friend:</p>
 
@@ -74,7 +74,7 @@ featured-image-alt: People facing home cinema screen
 <div class="fix-7x-12 toCenter mb-0 w3-xlarge">
 <p>Most waiters won’t be a jerk to you, because if they do, they risk losing their job. You might not return to their coffee house. You might say something bad about their business online. You might sue them.</p></div>
 
-<div class="fix-7x-12 toCenter mb-0 w3-medium"><p>Likewise, the friendliness of a waiter at some café does not warrant a friendship. Neither the waiter nor you owe each other anything more than the common hospitality standards. You can be a good customer and provide helpful feedback or a tip you deem appropriate, but both of you are practically strangers beyond this point.</p>
+<div class="fix-7x-12 toCenter mb-5 w3-medium"><p>Likewise, the friendliness of a waiter at some café does not warrant a friendship. Neither the waiter nor you owe each other anything more than the common hospitality standards. You can be a good customer and provide helpful feedback or a tip you deem appropriate, but both of you are practically strangers beyond this point.</p>
 <p>The “don’t be a stranger” rule is common online agreement. But what we’re really saying is <em>don’t be a jerk</em> to the strangers you meet. This rule goes beyond the realm of the internet. And when it comes to your freelancing friend, don’t <em>become</em> the stranger.</p></div> 
 
 
