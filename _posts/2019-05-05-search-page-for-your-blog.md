@@ -75,7 +75,9 @@ featured-image-alt: Search page
             <img class="img-fluid img-thumbnail" src="https://i2.pickpik.com/photos/456/773/111/cake-cheese-cheesecake-yellow-preview.jpg" alt="">
           </a>
     </div>
-    </div></div>
+    </div>
+<figcaption class="figure-caption">What about a visual search?</figcaption>
+</div>
 
 <div class="fix-7x-12 toCenter mb-0 w3-medium">
 <p>A search page or search functionality for a blog is not vital, but I wanted to add a search page early on. Because it’s going to be difficult to find anything once the blog has hundreds of blog posts. A search functionality is a nice extra touch to help readers who are interested in a particular topic but people can still read blog posts without it.</p>
