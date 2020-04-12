@@ -601,15 +601,15 @@ a.call-to-action:visited { color: #333; }
 a.words { /* For the article links. */
 	text-decoration: none;
 	color: #666; 
-	border-bottom: 1px solid #ececec;
+	border-bottom: 2px solid #ececec;
 }
 a.words:hover {
 	color: #333;
-	border-bottom: 1px solid #ffde03;
+	border-bottom: 2px solid #ffde03;
 }
 a.words:visited { 
 	color: #333;
-	border-bottom: 1px solid #ffde03
+	border-bottom: 2px solid #ffde03
 }
 
 a.bread, .bread {	/* Links for the breadcrumb area, hence bread... */
