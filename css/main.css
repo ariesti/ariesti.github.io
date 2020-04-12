@@ -598,6 +598,17 @@ a.call-to-action { /* For links to internal blog posts. */
 a.call-to-action:hover { color: #666; }
 a.call-to-action:visited { color: #333; }
 
+a.words { /* For the article links. */
+	text-decoration: none;
+	color: #666; 
+	border-bottom: 1px solid #ececec;
+}
+a.words:hover {
+	color: #ececec;
+	border-bottom: 1px solid #ffde03;
+}
+a.words:visited { color: #ececec;}
+
 a.bread, .bread {	/* Links for the breadcrumb area, hence bread... */
 	text-decoration: none; 
 	color: #6c757d; 
