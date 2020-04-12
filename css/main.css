@@ -604,10 +604,13 @@ a.words { /* For the article links. */
 	border-bottom: 1px solid #ececec;
 }
 a.words:hover {
-	color: #ececec;
+	color: #333;
 	border-bottom: 1px solid #ffde03;
 }
-a.words:visited { color: #ececec;}
+a.words:visited { 
+	color: #333;
+	border-bottom: 1px solid #ffde03
+}
 
 a.bread, .bread {	/* Links for the breadcrumb area, hence bread... */
 	text-decoration: none; 
