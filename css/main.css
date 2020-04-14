@@ -607,10 +607,6 @@ a.words:hover {
 	color: #333;
 	border-bottom: 2px solid #ffde03;
 }
-a.words:visited { 
-	color: #333;
-	border-bottom: 2px solid #ececec;
-}
 
 a.bread, .bread {	/* Links for the breadcrumb area, hence bread... */
 	text-decoration: none; 
