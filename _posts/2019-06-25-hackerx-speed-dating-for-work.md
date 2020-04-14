@@ -75,7 +75,7 @@ featured-image-alt: Speed dating for work
 <div class="container mb-5 w3-small">
 <figure class="figure-img img-fluid rounded mt-4 mb-4">
   <img src="/assets/image/hackerx-2018.png" class="figure-img img-fluid rounded" alt="My second hacker X event">
-  <figcaption class="figure-caption text-left">HackerX | July 19, 2018</figcaption>
+  <figcaption class="figure-caption">HackerX | July 19, 2018</figcaption>
 </figure></div>
 
 <div class="fix-7x-12 toCenter mb-5 w3-medium">
