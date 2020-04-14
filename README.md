@@ -17,7 +17,7 @@ The getting started with GitHub Pages and Jekyll is a personal project of mine. 
 - [ ] Code the dark mode for blog
 - [ ] Dark mode switch (the panic button)
 - [ ] Optimize content for night/dark mode
-- [ ] Create a style sheet
+- [x] Create a style sheet
 - [ ] Create at least one project to link
 - [ ] Fix the Stuff section
 - [ ] Add social media buttons at the bottom of the page and the About section
