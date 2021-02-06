@@ -344,6 +344,7 @@ div.links_item {
 	display: flex;
   	justify-content: center;
   	align-items: center;
+	vertical align: middle;
 }
 
 .center { text-align: center; }
