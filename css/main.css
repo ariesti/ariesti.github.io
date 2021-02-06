@@ -342,6 +342,11 @@ div.links_item {
 	background:#FF5DAD;
 }
 
+#pivotal {
+	display: flex;
+  	justify-content: center;
+  	align-items: center;
+}
 .center { text-align: center; }
 
 .nav-text {
