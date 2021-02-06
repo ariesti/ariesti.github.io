@@ -588,10 +588,10 @@ a.white { /* For internal links on the release banner. */
 	text-decoration: none;
 	color: #ffffff;
 	margin-bottom: ($spacer * .5) !important;
-	border-bottom: .5px dotted #ffffff
 }
+
 a.white:hover {
-	color: #fffff; text
+	color: #fffff;
 	text-decoration: none; 
 	margin-bottom: ($spacer * .5) !important; none; 
 }
