@@ -223,7 +223,7 @@ body {
 	background-color: #fff;
 }	
 
-#middle { padding-top: 30px; padding-bottom: 30px; background-color: #fff; }
+#middle { padding-top: 30px; padding-bottom: 30px; background-color: #fff;  }
 #wrapper { padding: 0 100px; background: #fff; }
 
 .normal {
@@ -326,6 +326,18 @@ div.banner {
   	background-size: cover;
   	position: relative;
 }
+
+/* Links Button */
+div.links_item {
+	display: block;
+	max-width: 750px;
+	margin: 0 auto 15px;
+	margin-bottom: 5px;
+	padding: 15px 20px;
+	transition: all 0.2s ease-in-out;
+	color: black;
+}
+
 
 .center { text-align: center; }
 
@@ -722,17 +734,6 @@ button:-moz-focusring,[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[
 .w3-bar{padding:8px 16px;float:left;width:auto;border:none;display:block;outline:0}
 .w3-bar{position:static;float:left}
 .w3-bar .w3-button{white-space:normal}
-
-/* Links Button */
-.links_item {
-	display: block;
-	max-width: 750px;
-	margin: 0 auto 15px;
-	margin-bottom: 5px;
-	padding: 15px 20px;
-	transition: all 0.2s ease-in-out;
-	color: black;
-}
 
 /* Tags and colors */
 .w3-tag{background-color:#000;color:#fff;display:inline-block;padding-left:8px;padding-right:8px;text-align:center}
