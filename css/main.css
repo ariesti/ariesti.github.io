@@ -594,7 +594,6 @@ a.white:hover {
 	color: #fffff; text
 	text-decoration: none; 
 	margin-bottom: ($spacer * .5) !important; none; 
-	border-bottom: 1px solid #ffffff;
 }
 
 a.black { /* For internal links on the release banner when text is black. */
