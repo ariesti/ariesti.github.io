@@ -727,10 +727,6 @@ button:-moz-focusring,[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[
 .links {
 	display: block;
 	max-width: 750px;
-	margin: 0 auto 15px;
-	margin-bottom: 5px;
-	padding: 15px 20px;
-	transition: all 0.2s ease-in-out;
 }
 
 /* Tags and colors */
