@@ -339,13 +339,6 @@ div.links_item {
 	line-height: 1.5;
 	align-items: center;
 }
-.links_item--ig {
-	background:#FF5DAD;
-}
-
-.links_item--linkdn {
-	background:#FFDE03;
-}
 
 #pivotal {
 	display: flex;
