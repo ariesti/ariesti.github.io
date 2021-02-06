@@ -328,24 +328,6 @@ div.banner {
 }
 
 /* Links Button */
-div.links_item {
-	display: block;
-	max-width: 750px;
-	margin: 0 auto 15px;
-	margin-bottom: 5px;
-	padding: 15px 20px;
-	transition: all 0.2s ease-in-out;
-	font-size: 0.95rem;
-	line-height: 1.5;
-	align-items: center;
-}
-
-#pivotal {
-	display: flex;
-  	justify-content: center;
-  	align-items: center;
-	vertical align: middle;
-}
 
 .center { text-align: center; }
 
