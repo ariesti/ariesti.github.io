@@ -336,7 +336,7 @@ div.links_item {
 	padding: 15px 20px;
 	transition: all 0.2s ease-in-out;
 	font-size: 0.95rem;
-	align-items: center;
+	line-height: 1.5;
 }
 .links_item--ig {
 	background:#FF5DAD;
@@ -347,6 +347,7 @@ div.links_item {
   	justify-content: center;
   	align-items: center;
 }
+
 .center { text-align: center; }
 
 .nav-text {
@@ -481,6 +482,14 @@ h1, h2, h3, h4, h5, h6 {
 	letter-spacing: -0.1em;
 	text-transform: uppercase; 
 	color: #6c757d;
+	font-weight: 100;
+}
+
+.links_item_click {
+	font-family: Montserrat, sans-serif;
+	letter-spacing: 1em;
+	text-transform: uppercase;
+	color: #ffffff;
 	font-weight: 100;
 }
 
