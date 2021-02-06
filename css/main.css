@@ -335,9 +335,11 @@ div.links_item {
 	margin-bottom: 5px;
 	padding: 15px 20px;
 	transition: all 0.2s ease-in-out;
-	color: black;
+	font-size: 0.95rem;
 }
-
+.links_item--ig {
+	background:#FF5DAD;
+}
 
 .center { text-align: center; }
 
