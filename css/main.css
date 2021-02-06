@@ -724,7 +724,7 @@ button:-moz-focusring,[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[
 .w3-bar .w3-button{white-space:normal}
 
 /* Links Button */
-.w3-block {
+.w3-links {
 	display: block;
 	max-width: 750px;
 	margin: 0 auto 15px;
