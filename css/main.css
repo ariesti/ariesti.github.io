@@ -496,6 +496,21 @@ a.links_item_click:hover {
 	text-decoration: none; 
 	margin-bottom: ($spacer * .5) !important; none; 	
 }
+
+a.new_item_click {
+	font-family: Montserrat, sans-serif;
+	letter-spacing: 0.45em;
+	text-transform: uppercase;
+	color: #5c5c5c;
+	font-weight: 100;
+}
+
+a.new_item_click:hover {
+	color: #5c5c5c;
+	text-decoration: none; 
+	margin-bottom: ($spacer * .5) !important; none; 	
+}
+
 /* Header */
 
 header, .foot, .index { 
