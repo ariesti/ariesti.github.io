@@ -343,6 +343,10 @@ div.links_item {
 	background:#FF5DAD;
 }
 
+.links_item--linkdn {
+	background:#FFDE03;
+}
+
 #pivotal {
 	display: flex;
   	justify-content: center;
