@@ -724,9 +724,14 @@ button:-moz-focusring,[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[
 .w3-bar .w3-button{white-space:normal}
 
 /* Links Button */
-.links {
+.links_item {
 	display: block;
 	max-width: 750px;
+	margin: 0 auto 15px;
+	margin-bottom: 5px;
+	padding: 15px 20px;
+	transition: all 0.2s ease-in-out;
+	color: black;
 }
 
 /* Tags and colors */
