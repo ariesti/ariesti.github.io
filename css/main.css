@@ -336,6 +336,7 @@ div.links_item {
 	padding: 15px 20px;
 	transition: all 0.2s ease-in-out;
 	font-size: 0.95rem;
+	align-items: center;
 }
 .links_item--ig {
 	background:#FF5DAD;
