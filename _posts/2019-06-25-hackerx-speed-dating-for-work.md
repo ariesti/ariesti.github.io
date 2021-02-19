@@ -3,7 +3,7 @@ layout: post-words
 title: "Hacker X Jakarta: My Speed Dating (for Work) Experience"
 description: That one time I went to a recruitment speed dating
 lead: As soon as I completed my Johns Hopkins data science specialization with Coursera <a href="https://www.coursera.org/specializations/jhu-data-science" class="blue">that one time</a>, offers began flooding in.
-permalink: hackerx-speed-dating-for-work
+permalink: blog/hackerx-speed-dating-for-work
 published: 2019-06-25 10:16 PM
 updated: 2020-03-03 09:17 PM
 updated-by: "Sikh Canon"
