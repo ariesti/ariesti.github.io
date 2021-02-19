@@ -4,7 +4,7 @@ author: Lovelli Fuad
 title: "A Super Simple Search Page for Finger Tip-Top"
 description: Finger Tip-Top now has a search page
 lead: There aren’t that many pages or posts yet on Finger Tip-Top. So a manual search should be enough to find what you’re looking for.
-permalink: search-page-for-Jekyll-blog
+permalink: blog/search-page-for-Jekyll-blog
 date: 2019-05-05 05:01 PM
 main-categories: [web]
 other-categories: [admin, tutorials]
