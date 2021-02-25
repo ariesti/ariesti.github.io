@@ -34,7 +34,11 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
 <div class="fix-7x-12 toCenter mb-0 w3-medium" markdown="1">
 ### A bit of HTML
 
-'<div class="something" markdown="1">'        
+'''ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+'''
 
 </div>
 
