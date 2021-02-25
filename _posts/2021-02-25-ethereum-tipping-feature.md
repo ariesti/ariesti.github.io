@@ -32,15 +32,30 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
 </div>
 <div class="fix-7x-12 toCenter mb-5 w3-medium"><h3 class="font-weight-bold">A bit of HTML</h3></div>
 <div class="fix-7x-12 toCenter mb-0 w3-medium" markdown="1">
-### A bit of HTML
-
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
+```html
+<div class="tip-button" align="center"></div>
+<!-- Metamask Script -->
+<div class="message"></div>
 ```
-
 </div>
+<div class="fix-7x-12 toCenter mb-5 w3-medium"><h3 class="font-weight-bold">A bit of CSS: insert button</h3></div>
+<div class="fix-7x-12 toCenter mb-0 w3-medium" markdown="1">
+```css
+.tip-button {
+  width: 250px;
+  height: 40px;
+  margin: 10px;
+  background-size: 100%;
+  background-image: url('https://raw.githubusercontent.com/MetaMask/TipButton/master/images/3_pay_mm_off.png');
+  cursor: pointer;
+}
 
+.tip-button:hover {
+  background-image: url('https://raw.githubusercontent.com/MetaMask/TipButton/master/images/3_pay_mm_over.png');
+}
 
-
+.tip-button:active {
+  background-image: url('https://raw.githubusercontent.com/MetaMask/TipButton/master/images/3_pay_mm_off.png');
+}
+```
+</div>
