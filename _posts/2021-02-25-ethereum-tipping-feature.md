@@ -32,7 +32,7 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
 <style>
 .tip-button {
   width: 304px;
-  height: 89px;
+  height: 50px;
   background-size: 100%;
   background-image: url('/assets/image/3_pay_mm_off.png');
   cursor: pointer;
@@ -46,7 +46,7 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
   background-image: url('/assets/image/3_pay_mm_off.png');
 }
 </style>
-<div class="tip-button"></div>
+<div class="tip-button toCenter"></div>
 <!-- Metamask Script -->
 <script>
 var my_address = '0x9f5F4Cf8ed30F04f772B63d02CDB8a9D5732e8BC'
