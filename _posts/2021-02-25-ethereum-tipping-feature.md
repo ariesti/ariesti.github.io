@@ -16,7 +16,7 @@ featured-image-description: This guide will help you make a simple ETH tipping b
 featured-image-alt: The most popular vending machine snacks lining up inside a vending machine. 
 ---
 <div class="fix-7x-12 toCenter mb-0 w3-medium">
-  <p>People have been using this altcoin as an alternative to fiat money and to Bitcoin in online transactions. Ethereum (ETH) is an awesome currency. Many tokens are built on top the Ethereum blockchain. It’s well and alive.</p>
+  <p>People are using this altcoin as an alternative to fiat money and to Bitcoin in online transactions. Ethereum (ETH) is an awesome currency. Many tokens are built on top the Ethereum blockchain. It’s well and alive.</p>
 </div>
 <div class="fix-7x-12 toCenter mb-5 w3-medium"><h2 class="font-weight-bold">Tipping is All the Rage These Days</h2></div>
 <div class="fix-7x-12 toCenter mb-0 w3-medium">
