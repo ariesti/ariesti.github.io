@@ -90,7 +90,7 @@ function renderMessage (message) {
 
 <div class="fix-7x-12 toCenter mb-0 w3-medium">
   <p>Try and click it. See what message it gives you.</p>
-  <p>If it says “you need to install MetaMask to use this” you can try installing MetaMask on your browser following <a href="https://metamask.io/download.html">this guide</a>, if you want. </p>
+  <p>If it says “you need to install MetaMask to use this” you can try installing MetaMask on your browser following <a href="https://metamask.io/download.html">this guide</a>, if you want.</p>
 </div>
 <div class="fix-7x-12 toCenter mb-5 w3-medium"><h3 class="font-weight-bold">A bit of HTML</h3></div>
 <div class="fix-7x-12 toCenter mb-5 w3-medium" markdown="1">
@@ -120,7 +120,7 @@ function renderMessage (message) {
   background-image: url('assets/image/3_pay_mm_off.png');
 }
 ```
-</div></div>
+</div>
 
 <div class="fix-7x-12 toCenter mb-0 w3-medium">
   <p>On an HTML page, the above code goes between the style tags. Change the URL for the button image to point to the image you want to use. (I don’t see why you would though, since these MetaMask approved images are already looking very good.)</p>
