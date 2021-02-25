@@ -12,7 +12,7 @@ other-categories: [guide, code snippets]
 tags: [ux, make, website]
 lang: en
 featured-image: snacks-in-vending-machine.png
-featured-image-description: A guide to coding your own simple ETH tipping button you can complete in a quick snacking portion. 
+featured-image-description: This guide will help you make a simple ETH tipping button you can complete in a quick snacking portion. 
 featured-image-alt: The most popular vending machine snacks lining up inside a vending machine. 
 ---
 <div class="fix-7x-12 toCenter mb-0 w3-medium">
@@ -26,4 +26,15 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
 <div class="fix-7x-12 toCenter mb-5 w3-medium"><h3 class="font-weight-bold">The button</h3></div>
 <div class="fix-7x-12 toCenter mb-0 w3-medium">
   <p>You can create your own button. The button style that I used is directly from the MetaMask Github repo, and they’ve got plenty to choose from:</p>
+  <p>[live demo]</p>
+  <p>Try and click it. See what message it gives you.</p>
+  <p>If it says “you need to install MetaMask to use this” you can try installing MetaMask on your browser following <a href="https://metamask.io/download.html">this guide</a>, if you want. </p>
+</div>
+<div class="fix-7x-12 toCenter mb-5 w3-medium"><h3 class="font-weight-bold">A bit of HTML</h3></div>
+<div class="fix-7x-12 toCenter mb-0 w3-medium">
+  <code>
+    <div class="tip-button" align="center"></div>
+    <!-- Metamask Script -->
+    <div class="message"></div>
+  </code>
 </div>
