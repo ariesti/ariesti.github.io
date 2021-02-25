@@ -123,7 +123,7 @@ function renderMessage (message) {
 </div>
 
 <div class="fix-7x-12 toCenter mb-0 w3-medium">
-  <p>On an HTML page, the above code goes between the style tags. Change the URL for the button image to point to the image you want to use. (I don’t see why you would though, since these MetaMask approved images are already looking very good.)</p>
+  <p>On an HTML page, the above code goes between the style tags. I advise you to adjust the width and height, depending on the image you're using. Change the URL for the button image to point to the image you want to use.</p>
 </div>
 <div class="fix-7x-12 toCenter mb-5 w3-medium"><h3 class="font-weight-bold">A bit of JavaScript</h3></div>
 <div class="fix-7x-12 toCenter mb-5 w3-medium" markdown="1">
