@@ -36,19 +36,19 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
   margin: 10px;
   background-size: 100%;
   display:inline-block
-  background-image: url('https://github.com/MetaMask/TipButton/raw/master/images/6_pay_mm_off.png');
   cursor: pointer;
 }
 
 .tip-button:hover {
-  background-image: url('https://github.com/MetaMask/TipButton/raw/master/images/6_pay_mm_over.png');
+  position: relative;
+  left: 3px;
 }
 
 .tip-button:active {
-  background-image: url('https://github.com/MetaMask/TipButton/raw/master/images/6_pay_mm_off.png');
+  color:gold;
 }
 </style>
- <div class="tip-button fix-7x-12 toCenter mb-0 w3-medium"></div>
+ <p align="center"><img class="tip-button" search="https://github.com/MetaMask/TipButton/raw/master/images/6_pay_mm_over.png"></p>
 <!-- Metamask Script -->
 <script>
 var my_address = '0x9f5F4Cf8ed30F04f772B63d02CDB8a9D5732e8BC'
