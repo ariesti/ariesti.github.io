@@ -32,5 +32,8 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
 </div>
 <div class="fix-7x-12 toCenter mb-5 w3-medium"><h3 class="font-weight-bold">A bit of HTML</h3></div>
 <div class="fix-7x-12 toCenter mb-0 w3-medium">
-  <code><div class="tip-button" align="center"></div><!-- Metamask Script --><div class="message"></div></code>
+  ```<div class="tip-button" align="center">
+     </div><!-- Metamask Script -->
+     <div class="message"></div>
+  ```
 </div>
