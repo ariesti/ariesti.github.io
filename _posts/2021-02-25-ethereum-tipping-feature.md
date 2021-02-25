@@ -63,7 +63,7 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
   <p>On an HTML page, the above code goes between the style tags. Change the URL for the button image to point to the image you want to use. (I don’t see why you would though, since these MetaMask approved images are already looking very good.)</p>
 </div>
 <div class="fix-7x-12 toCenter mb-5 w3-medium"><h3 class="font-weight-bold">A bit of JavaScript</h3></div>
-<div class="fix-7x-12 toCenter mb-0 w3-medium" markdown="1">
+<div class="fix-7x-12 toCenter mb-5 w3-medium" markdown="1">
 ```javascript
 <!-- Metamask Script -->
 <script type='text/javascript'>
@@ -123,4 +123,13 @@ The term **gas money** does not actually refer to the units of gas for a vehicle
 In our code, we’ve specified 50000 as the gas limit, or the maximum of gas money you are willing to spend for the transaction. A standard transaction in ETH will require 21000, so by if it succeeds the remaining (50000 – 21000) will be returned to your wallet. 
 
 The calculation is different when you’re sending tokens, and the gas money can go anywhere between 50000 to 100000. 
+</div>
+<div class="fix-7x-12 toCenter mb-5 w3-medium"><h2 class="font-weight-bold">MetaMask on GitHub</h2></div>
+<div class="fix-7x-12 toCenter mb-0 w3-medium" markdown="1">
+
+This entire code has been made available on GitHub, so be sure to check out the repo at [https://github.com/MetaMask/TipButton](https://github.com/MetaMask/TipButton). Kudos to MetaMask for making this available for us. 
+
+Of course there are ways we can make this code better, but that requires a bit of payment testing to get right. 
+
+So, what do you say? Ready to collect Ether? 
 </div>
