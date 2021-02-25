@@ -23,3 +23,21 @@
 .toCenter,.toRight{margin-left:auto!important}
 .toRight{margin-right:0!important;float:right}
 .toCenter{margin-right:auto!important}
+
+/* MetaMask tipping */
+.tip-button {
+  width: 250px;
+  height: 40px;
+  margin: 10px;
+  background-size: 100%;
+  background-image: url('assets/images/3_pay_mm_off.png');
+  cursor: pointer;
+}
+
+.tip-button:hover {
+  background-image: url('assets/image/3_pay_mm_over.png');
+}
+
+.tip-button:active {
+  background-image: url('assets/image/3_pay_mm_off.png');
+}
