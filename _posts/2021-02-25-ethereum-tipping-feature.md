@@ -26,7 +26,48 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
 <div class="fix-7x-12 toCenter mb-5 w3-medium"><h3 class="font-weight-bold">The button</h3></div>
 <div class="fix-7x-12 toCenter mb-0 w3-medium">
   <p>You can create your own button. The button style that I used is directly from the MetaMask Github repo, and they’ve got plenty to choose from:</p>
-  <p>[live demo]</p>
+ </div>
+<div class="tip-button" align="center"></div>
+<!-- Metamask Script -->
+<script type='text/javascript'>
+//<![CDATA[
+var my_address = '0x9f5F4Cf8ed30F04f772B63d02CDB8a9D5732e8BC'
+var tipButton = document.querySelector('.tip-button')
+
+tipButton.addEventListener('click', function() {
+
+  if (typeof web3 === 'undefined') {
+    return renderMessage('<div align="center">You need to install <a href="https://metamask.io/"><u>MetaMask</u></a> to use this.</a></div>')
+  }
+
+  else if (typeof typeof web3 !== 'undefined') {
+    // Request account access if needed
+    ethereum.enable().then(function () {
+      // Acccounts now exposed
+      web3.eth.sendTransaction({
+        to: my_address,
+        from: web3.eth.accounts[0],
+        value: web3.toWei('0.01', 'ether'), 
+        gas: 50000,
+      }, function (err, transactionHash) {
+        if (err) return renderMessage('There was a problem!: ' + err.message)
+
+        // If you get a transactionHash, you can assume it was sent,
+        // or if you want to guarantee it was received, you can poll
+        // for that transaction to be mined first.
+        renderMessage('Thanks for the generosity!!')
+      })
+    });
+  }
+
+})
+
+function renderMessage (message) {
+  var messageEl = document.querySelector('.message')
+  messageEl.innerHTML = message
+}
+//]]></script><div class="message"></div>
+<div class="fix-7x-12 toCenter mb-0 w3-medium">
   <p>Try and click it. See what message it gives you.</p>
   <p>If it says “you need to install MetaMask to use this” you can try installing MetaMask on your browser following <a href="https://metamask.io/download.html">this guide</a>, if you want. </p>
 </div>
