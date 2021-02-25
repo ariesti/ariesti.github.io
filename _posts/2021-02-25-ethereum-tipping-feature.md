@@ -48,7 +48,7 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
   background-image: url('https://github.com/MetaMask/TipButton/raw/master/images/3_pay_mm_off.png');
 }
 </style>
- <img class="tip-button" search="/assets/image/3_pay_mm_off.png" alt="Metamask tip button;">
+ <div class="tip-button">
 <!-- Metamask Script -->
 <script>
 var my_address = '0x9f5F4Cf8ed30F04f772B63d02CDB8a9D5732e8BC'
@@ -122,7 +122,7 @@ function renderMessage (message) {
   background-image: url('assets/image/3_pay_mm_off.png');
 }
 ```
-</div>
+</div></div>
 
 <div class="fix-7x-12 toCenter mb-0 w3-medium">
   <p>On an HTML page, the above code goes between the style tags. Change the URL for the button image to point to the image you want to use. (I don’t see why you would though, since these MetaMask approved images are already looking very good.)</p>
