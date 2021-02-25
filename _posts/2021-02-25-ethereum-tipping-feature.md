@@ -28,6 +28,7 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
   <p>You can create your own button. The button style that I used is directly from the MetaMask Github repo, and they’ve got plenty to choose from:</p>
 </div>
 
+<div class="fix-7x-12 toCenter mb-0 w3-medium">
 <style>
   .tip-button {
   width: 250px;
@@ -87,6 +88,7 @@ function renderMessage (message) {
 }
 </script>
 <div class="message"></div>
+</div>
 
 <div class="fix-7x-12 toCenter mb-0 w3-medium">
   <p>Try and click it. See what message it gives you.</p>
