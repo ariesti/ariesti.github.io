@@ -31,7 +31,7 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
   <p>If it says “you need to install MetaMask to use this” you can try installing MetaMask on your browser following <a href="https://metamask.io/download.html">this guide</a>, if you want. </p>
 </div>
 <div class="fix-7x-12 toCenter mb-5 w3-medium"><h3 class="font-weight-bold">A bit of HTML</h3></div>
-'''
+'''html
         <div class="tip-button" align="center">
         </div><!-- Metamask Script -->
         <div class="message"></div>
