@@ -31,7 +31,7 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
   <p>If it says “you need to install MetaMask to use this” you can try installing MetaMask on your browser following <a href="https://metamask.io/download.html">this guide</a>, if you want. </p>
 </div>
 <div class="fix-7x-12 toCenter mb-5 w3-medium"><h3 class="font-weight-bold">A bit of HTML</h3></div>
-<div class="fix-7x-12 toCenter mb-3 w3-medium" markdown="1">
+<div class="fix-7x-12 toCenter mb-5 w3-medium" markdown="1">
 ```html
 <div class="tip-button" align="center"></div>
 <!-- Metamask Script -->
@@ -105,4 +105,22 @@ function renderMessage (message) {
 }
 //]]></script>
 ```
+</div>
+<div class="fix-7x-12 toCenter mb-5 w3-medium"><h2 class="font-weight-bold">Using It on Blogger Sites</h2></div>
+<div class="fix-7x-12 toCenter mb-0 w3-medium" markdown="1">
+I’ve put one button on a widget on one of my blogger site. All the CSS goes into the theme’s Edit HTML, while the HTML and JavaScript goes into the HTML/CSS widget area. In order for this to work though you need to have:
+
+- A MetaMask wallet
+- MetaMask extension on your browser
+- A blog/site your audience can visit
+
+Sometimes you'll also get an error message that says "Not enough ETH to send", it is because your account doesn’t have enough ETH to cover the cost of gas. If the gas money > amount of tip, the transaction will be reverted.  
+
+The term **gas money** does not actually refer to the units of gas for a vehicle. It’s an amount you need to pay for the computation. The price of gas (in *gwei*) fluctuates daily, but all unused gas is going to be refunded at the end of a transaction. But if the transaction fails, you’ll use up all your gas money and receive nothing back. 
+
+**Total cost of transaction or TX = Gas Limit * Gas Price**
+
+In our code, we’ve specified 50000 as the gas limit, or the maximum of gas money you are willing to spend for the transaction. A standard transaction in ETH will require 21000, so by if it succeeds the remaining (50000 – 21000) will be returned to your wallet. 
+
+The calculation is different when you’re sending tokens, and the gas money can go anywhere between 50000 to 100000. 
 </div>
