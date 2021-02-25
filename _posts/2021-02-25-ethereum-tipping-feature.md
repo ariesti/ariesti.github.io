@@ -129,8 +129,7 @@ function renderMessage (message) {
 <div class="fix-7x-12 toCenter mb-5 w3-medium" markdown="1">
 ```javascript
 <!-- Metamask Script -->
-<script type='text/javascript'>
-//<![CDATA[
+<script>
 var my_address = '0x9f5F4Cf8ed30F04f772B63d02CDB8a9D5732e8BC'
 var tipButton = document.querySelector('.tip-button')
 
@@ -166,7 +165,7 @@ function renderMessage (message) {
   var messageEl = document.querySelector('.message')
   messageEl.innerHTML = message
 }
-//]]></script>
+</script>
 ```
 </div>
 <div class="fix-7x-12 toCenter mb-5 w3-medium"><h2 class="font-weight-bold">Using It on Blogger Sites</h2></div>
