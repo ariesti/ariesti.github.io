@@ -48,7 +48,7 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
   background-image: url('https://github.com/MetaMask/TipButton/raw/master/images/3_pay_mm_off.png');
 }
 </style>
- <img class="tip-button" alt="Metamask tip button;">
+ <img class="tip-button" search="/assets/image/3_pay_mm_off.png" alt="Metamask tip button;">
 <!-- Metamask Script -->
 <script>
 var my_address = '0x9f5F4Cf8ed30F04f772B63d02CDB8a9D5732e8BC'
