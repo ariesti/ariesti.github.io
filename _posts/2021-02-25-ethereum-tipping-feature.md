@@ -30,7 +30,7 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
 
 <div class="tip-button" align="center"></div>
 <!-- Metamask Script -->
-<script type='text/javascript'>
+<script>
 var my_address = '0x9f5F4Cf8ed30F04f772B63d02CDB8a9D5732e8BC'
 var tipButton = document.querySelector('.tip-button')
 
