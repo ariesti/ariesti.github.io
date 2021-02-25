@@ -28,6 +28,7 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
   <p>You can create your own button. The button style that I used is directly from the MetaMask Github repo, and they’ve got plenty to choose from:</p>
 </div>
 
+<div class="fix-7x-12 toCenter mb-0 w3-medium">
 <style>
   .tip-button {
   width: 250px;
@@ -46,7 +47,7 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
   background-image: url('/assets/image/3_pay_mm_off.png');
 }
 </style>
-<div class="tip-button" align="center"></div>
+<div class="tip-button"></div>
 <!-- Metamask Script -->
 <script>
 var my_address = '0x9f5F4Cf8ed30F04f772B63d02CDB8a9D5732e8BC'
@@ -119,6 +120,7 @@ function renderMessage (message) {
   background-image: url('assets/image/3_pay_mm_off.png');
 }
 ```
+</div>
 </div>
 <div class="fix-7x-12 toCenter mb-0 w3-medium">
   <p>On an HTML page, the above code goes between the style tags. Change the URL for the button image to point to the image you want to use. (I don’t see why you would though, since these MetaMask approved images are already looking very good.)</p>
