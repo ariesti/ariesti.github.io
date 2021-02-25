@@ -34,7 +34,6 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
   width: 250px;
   height: 40px;
   margin: 10px;
-  background-size: 100%;
   display:inline-block
   cursor: pointer;
 }
