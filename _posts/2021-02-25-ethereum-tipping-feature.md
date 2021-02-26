@@ -12,7 +12,6 @@ other-categories: [guide, code snippets]
 tags: [ux, make, website]
 lang: en
 featured-image: snacks-in-vending-machine.png
-featured-image-description: This guide will help you make a simple ETH tipping button you can complete in a quick snacking portion. 
 featured-image-alt: The most popular vending machine snacks lining up inside a vending machine. 
 ---
 <div class="fix-7x-12 toCenter mb-0 w3-medium">
@@ -172,13 +171,15 @@ function renderMessage (message) {
 </div>
 <div class="fix-7x-12 toCenter mb-5 w3-medium"><h2 class="font-weight-bold">Using It on Blogger Sites</h2></div>
 <div class="fix-7x-12 toCenter mb-0 w3-medium" markdown="1">
-I’ve put one button on a widget on one of my blogger site. All the CSS goes into the theme’s Edit HTML, while the HTML and JavaScript goes into the HTML/CSS widget area. In order for this to work though you need to have:
+I’ve put one button on a widget for one of my blogger sites. All the CSS goes into the theme’s Edit HTML, while the HTML and JavaScript goes into the HTML/CSS widget area. 
+
+In order for this to work though you need to have:
 
 - A MetaMask wallet
 - MetaMask extension on your browser
 - A blog/site your audience can visit
 
-Sometimes you'll also get an error message that says "Not enough ETH to send", it is because your account doesn’t have enough ETH to cover the cost of gas. If the gas money > amount of tip, the transaction will be reverted.  
+Sometimes you'll also get an error message that says "Not enough ETH to send", it is because your account doesn’t have enough ETH to cover the cost of gas. If the gas money > amount of tip, the transaction will also be reverted.  
 
 The term **gas money** doesn't actually refer to the units of gas for a vehicle. It specifies an amount you need to pay for the *computation*. The price of gas (in *gwei*) fluctuates daily, but all unused gas money is going to be refunded at the end of a transaction. If the transaction fails, however, you’ll use up all your gas money and receive <u>nothing</u> back.
 
@@ -190,7 +191,7 @@ The term **gas money** doesn't actually refer to the units of gas for a vehicle.
 
 In our code, we’ve specified 50000 as the gas limit (written as just 'gas'). It's the maximum amount of gas money you are willing to spend for the transaction. A standard transaction in ETH will require 21000, so by Ethereum's standard, if the transfer goes through the remaining (50000 – 21000) will be returned to your wallet. 
 
-Our calculation is different when you’re sending <b>tokens</b>, and the gas money can go anywhere between 50000 to 100000. 
+Our calculation is different when you’re sending <b>tokens</b>. The gas money can go anywhere between 50000 to 100000. 
 </div>
 <div class="fix-7x-12 toCenter mb-5 w3-medium"><h2 class="font-weight-bold">MetaMask on GitHub</h2></div>
 <div class="fix-7x-12 toCenter mb-0 w3-medium" markdown="1">
