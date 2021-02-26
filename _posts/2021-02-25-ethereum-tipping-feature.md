@@ -16,16 +16,16 @@ featured-image-description: This guide will help you make a simple ETH tipping b
 featured-image-alt: The most popular vending machine snacks lining up inside a vending machine. 
 ---
 <div class="fix-7x-12 toCenter mb-0 w3-medium">
-  <p>People are using this Ethereum (ETH) as an alternative to fiat money and to Bitcoin in online transactions. It's an awesome currency. It's well and live. Many tokens are built on top the Ethereum blockchain.</p>
+  <p>People are using this altcoin called Ethereum (ETH) as an alternative to fiat money and to Bitcoin in online transactions. It <b>is</b> an awesome currency. It's well and live. And as you will later see, many tokens are built on top the Ethereum blockchain.</p>
 </div>
 <div class="fix-7x-12 toCenter mb-5 w3-medium"><h2 class="font-weight-bold">Tipping is All the Rage These Days</h2></div>
 <div class="fix-7x-12 toCenter mb-0 w3-medium">
-  <p>By adding a code snippet, you can receive ETH as a tip. Anyone with a MetaMask wallet can send it to you in just one click. When your audience clicks the button, MetaMask will open and confirm the amount to be sent to the specified wallet address.</p>
-  <p>For this example, we’ve set the amount to be 0.01 ETH and the gas fee to be 50.000 (total TX of 0.001 ETH). The standard is a limit of 21000 and a gas price of 0.00000002 ETH = total of 0.00042 ETH. (It’s not a random number.) </p></div>
+  <p>By adding a code snippet, you can receive Ether as a tip. Anyone with a MetaMask wallet can send it to you in just 'one click'. When your audience clicks the button, MetaMask will open and confirm the amount to be sent to the specified wallet address.</p>
+  <p>For our example, this time we’ve set the amount to be 0.01 ETH and the <b>gas fee</b> to be 50.000 (total TX of 0.001 ETH). The standard is a limit of 21000 and a gas price of 0.00000002 ETH = total of 0.00042 ETH. (It’s not a random number.) </p></div>
 <div class="fix-7x-12 toCenter mb-5 w3-medium"><h2 class="font-weight-bold">How Does It All Work?</h2></div>
 <div class="fix-7x-12 toCenter mb-5 w3-medium"><h3 class="font-weight-bold">The Ether tipping button</h3></div>
 <div class="fix-7x-12 toCenter mb-0 w3-medium">
-  <p>You can create your own button, but the button style that I used is directly from the MetaMask Github repo:</p>
+  <p>You can create your own button, but the button style that I use below is directly from the MetaMask Github repo:</p>
 </div>
 
 <div class="fix-7x-12 toCenter mb-0 w3-medium">
@@ -90,7 +90,8 @@ function renderMessage (message) {
 
 <div class="fix-7x-12 toCenter mb-0 w3-medium">
   <p>Try and click it. See what message it gives you.</p>
-  <p>If it says “you need to install MetaMask to use this” you can try installing MetaMask on your browser following <a href="https://metamask.io/download.html">this guide</a>, if you want.</p>
+  <p>If it says “you need to install MetaMask to use this” you can try installing MetaMask on your browser following <a href="https://metamask.io/download.html"><b>this guide</b></a>, if you want.</p>
+  <p>I'll break down the code used to get a button like that. Please keep in mind that you're free to use the code, as it doesn't belong to me. You don't need my permission to use it, but it'd be really nice if you could link to this post. So, what's in the code?</p>
 </div>
 <div class="fix-7x-12 toCenter mb-5 w3-medium"><h3 class="font-weight-bold">A bit of HTML</h3></div>
 <div class="fix-7x-12 toCenter mb-5 w3-medium" markdown="1">
