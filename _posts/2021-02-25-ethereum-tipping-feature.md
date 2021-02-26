@@ -197,7 +197,7 @@ Our calculation is different when you’re sending <b>tokens</b>. The gas money 
 <div class="fix-7x-12 toCenter mb-5 w3-medium"><h2 class="font-weight-bold">MetaMask on GitHub</h2></div>
 <div class="fix-7x-12 toCenter mb-0 w3-medium" markdown="1">
 
-This entire code has been made available on GitHub, so be sure to check out the repo at <a href="https://github.com/MetaMask/TipButton" class="pinklink">https://github.com/MetaMask/TipButton</a>. Kudos to MetaMask. 
+This entire code has been made available on GitHub, so be sure to check out the repo at <a href="https://github.com/MetaMask/TipButton" class="pinklink">MetaMask/TipButton</a>. Kudos to MetaMask. 
 
 Of course there are ways we can make this code better, but that requires a bit of payment testing to get right. 
 
