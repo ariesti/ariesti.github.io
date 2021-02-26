@@ -91,7 +91,8 @@ function renderMessage (message) {
 <div class="fix-7x-12 toCenter mb-0 w3-medium">
   <p>Try and click it. See what message it gives you.</p>
   <p>If it says “you need to install MetaMask to use this” you can try installing MetaMask on your browser following <a href="https://metamask.io/download.html"><b>this guide</b></a>, if you want.</p>
-  <p>I'll break down the code used to get a button like that. Please keep in mind that you're free to use the code, as it doesn't belong to me. You don't need my permission to use it, but it'd be really nice if you could link to this post. So, what's in the code?</p>
+  <p>I'll break down the code used to get a button like that. Please keep in mind that you're free to use the code, as it doesn't belong to me. You don't need my permission to use it, but it'd be really nice if you could link to this post.</p>
+  <p>So, what's in the code?</p>
 </div>
 <div class="fix-7x-12 toCenter mb-5 w3-medium"><h3 class="font-weight-bold">A bit of HTML</h3></div>
 <div class="fix-7x-12 toCenter mb-5 w3-medium" markdown="1">
@@ -124,7 +125,7 @@ function renderMessage (message) {
 </div>
 
 <div class="fix-7x-12 toCenter mb-0 w3-medium">
-  <p>On an HTML page, the above code goes between the style tags. I advise you to adjust the width and height, depending on the image you're using. Change the URL for the button image to point to the image you want to use.</p>
+  <p>On an HTML page, the above code goes between the style tags. I advise you to adjust the width and height, depending on the image you're using. Change the URL address for the button image to point to the image you want to use.</p>
 </div>
 <div class="fix-7x-12 toCenter mb-5 w3-medium"><h3 class="font-weight-bold">A bit of JavaScript</h3></div>
 <div class="fix-7x-12 toCenter mb-5 w3-medium" markdown="1">
@@ -179,18 +180,18 @@ I’ve put one button on a widget on one of my blogger site. All the CSS goes in
 
 Sometimes you'll also get an error message that says "Not enough ETH to send", it is because your account doesn’t have enough ETH to cover the cost of gas. If the gas money > amount of tip, the transaction will be reverted.  
 
-The term **gas money** does not actually refer to the units of gas for a vehicle. It’s an amount you need to pay for the computation. The price of gas (in *gwei*) fluctuates daily, but all unused gas is going to be refunded at the end of a transaction. But if the transaction fails, you’ll use up all your gas money and receive nothing back. 
+The term **gas money** does not actually refer to the units of gas for a vehicle. It’s an amount you need to pay for the *computation*. The price of gas (in *gwei*) fluctuates daily, but all unused gas is going to be refunded at the end of a transaction. If the transaction fails, however, you’ll use up all your gas money and receive _**nothing**_ back. 
 
 **Total cost of transaction or TX = Gas Limit * Gas Price**
 
-In our code, we’ve specified 50000 as the gas limit, or the maximum of gas money you are willing to spend for the transaction. A standard transaction in ETH will require 21000, so by if it succeeds the remaining (50000 – 21000) will be returned to your wallet. 
+In our code, we’ve specified 50000 as the gas limit (written as just 'gas'). It's the maximum amount of gas money you are willing to spend for the transaction. A standard transaction in ETH will require 21000, so by Ethereum's standard, if the transfer goes through the remaining (50000 – 21000) will be returned to your wallet. 
 
-The calculation is different when you’re sending tokens, and the gas money can go anywhere between 50000 to 100000. 
+Our calculation is different when you’re sending <b>tokens</b>, and the gas money can go anywhere between 50000 to 100000. 
 </div>
 <div class="fix-7x-12 toCenter mb-5 w3-medium"><h2 class="font-weight-bold">MetaMask on GitHub</h2></div>
 <div class="fix-7x-12 toCenter mb-0 w3-medium" markdown="1">
 
-This entire code has been made available on GitHub, so be sure to check out the repo at [https://github.com/MetaMask/TipButton](https://github.com/MetaMask/TipButton). Kudos to MetaMask for making this available for us. 
+This entire code has been made available on GitHub, so be sure to check out the repo at [https://github.com/MetaMask/TipButton](https://github.com/MetaMask/TipButton). Kudos to MetaMask. 
 
 Of course there are ways we can make this code better, but that requires a bit of payment testing to get right. 
 
