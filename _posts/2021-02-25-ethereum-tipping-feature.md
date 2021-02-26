@@ -55,7 +55,7 @@ var tipButton = document.querySelector('.tip-button')
 tipButton.addEventListener('click', function() {
 
   if (typeof web3 === 'undefined') {
-    return renderMessage('<div align="center">You need to install <a href="https://metamask.io/"><u>MetaMask</u></a> to use this.</a></div>')
+    return renderMessage('<div align="center">You need to install <a class="blue" href="https://metamask.io/"><u>MetaMask</u></a> to use this.</a></div>')
   }
 
   else if (typeof typeof web3 !== 'undefined') {
@@ -90,7 +90,7 @@ function renderMessage (message) {
 
 <div class="fix-7x-12 toCenter mb-0 w3-medium">
   <p>Try and click it. See what message it gives you.</p>
-  <p>If it says “you need to install MetaMask to use this” you can try installing MetaMask on your browser following <a href="https://metamask.io/download.html"><b>this guide</b></a>, if you want.</p>
+  <p>If it says “you need to install MetaMask to use this” you can try installing MetaMask on your browser following <a class="blue" href="https://metamask.io/download.html"><b>this guide</b></a>, if you want.</p>
   <p>I'll break down the code used to get a button like that. Please keep in mind that you're free to use the code, as it doesn't belong to me. You don't need my permission to use it, but it'd be really nice if you could link to this post.</p>
   <p>So, what's in the code?</p>
 </div>
@@ -191,7 +191,7 @@ Our calculation is different when you’re sending <b>tokens</b>, and the gas mo
 <div class="fix-7x-12 toCenter mb-5 w3-medium"><h2 class="font-weight-bold">MetaMask on GitHub</h2></div>
 <div class="fix-7x-12 toCenter mb-0 w3-medium" markdown="1">
 
-This entire code has been made available on GitHub, so be sure to check out the repo at [https://github.com/MetaMask/TipButton](https://github.com/MetaMask/TipButton). Kudos to MetaMask. 
+This entire code has been made available on GitHub, so be sure to check out the repo at <a href="https://github.com/MetaMask/TipButton" class="pinklink">https://github.com/MetaMask/TipButton</a>. Kudos to MetaMask. 
 
 Of course there are ways we can make this code better, but that requires a bit of payment testing to get right. 
 
