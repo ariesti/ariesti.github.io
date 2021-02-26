@@ -180,7 +180,11 @@ I’ve put one button on a widget on one of my blogger site. All the CSS goes in
 
 Sometimes you'll also get an error message that says "Not enough ETH to send", it is because your account doesn’t have enough ETH to cover the cost of gas. If the gas money > amount of tip, the transaction will be reverted.  
 
-The term **gas money** doesn't actually refer to the units of gas for a vehicle. It specifies an amount you need to pay for the *computation*. The price of gas (in *gwei*) fluctuates daily, but all unused gas money is going to be refunded at the end of a transaction. If the transaction fails, however, you’ll use up all your gas money and receive <u>nothing</u> back. 
+The term **gas money** doesn't actually refer to the units of gas for a vehicle. It specifies an amount you need to pay for the *computation*. The price of gas (in *gwei*) fluctuates daily, but all unused gas money is going to be refunded at the end of a transaction. If the transaction fails, however, you’ll use up all your gas money and receive <u>nothing</u> back.
+
+<blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://t.co/wrPLEI6lcd">pic.twitter.com/wrPLEI6lcd</a></p>&mdash; Lovelli Fuad (@lovellifuad) <a href="https://twitter.com/lovellifuad/status/1364992555616636932?ref_src=twsrc%5Etfw">February 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<code>A moment of horror...</code>
 
 **Total cost of transaction or TX = Gas Limit * Gas Price**
 
