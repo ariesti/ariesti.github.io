@@ -184,7 +184,7 @@ The term **gas money** doesn't actually refer to the units of gas for a vehicle.
 
 <blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://t.co/wrPLEI6lcd">pic.twitter.com/wrPLEI6lcd</a></p>&mdash; Lovelli Fuad (@lovellifuad) <a href="https://twitter.com/lovellifuad/status/1364992555616636932?ref_src=twsrc%5Etfw">February 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<code>A moment of horror...</code>
+<code>A brief moment of horror.</code>
 
 **Total cost of transaction or TX = Gas Limit * Gas Price**
 
