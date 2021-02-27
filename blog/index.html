@@ -34,6 +34,15 @@ permalink: /blog
 				<br>
 	  		{% endfor %}
 			</ul>
+		<h2 class="font-weight-light text-center text-lg-left mt-4 mb-0">Test Page</h2>
+		<hr class="mt-2 mb-5">
+			<ul class="posts">
+
+	  		{% for werdz in site.werdz %}
+	    			<li><span class="beta">{{ werdz.date | date_to_string }}</span> » <a href="{{ werdz.url }}" title="{{ werdz.title }}" class="words">{{ werdz.title }}</a></li>
+				<br>
+	  		{% endfor %}
+			</ul>
 		</div>
 	</section>
 </main>
