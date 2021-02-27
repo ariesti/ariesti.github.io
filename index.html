@@ -56,7 +56,7 @@ description: Towards digital humanities
 
 	  		{% for post in site.posts %}
 	    			<li><span class="beta">{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}" class="words">{{ post.title }}</a></li>
-		 		<p>{{ post.lead }}</p>
+		 		<small class="muted">{{ post.lead }}</small>
 		 		<br>
 	  		{% endfor %}
 			</ul>
