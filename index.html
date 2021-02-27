@@ -51,21 +51,21 @@ description: Towards digital humanities
 	    	       
 	</div>
 	     
-	 <h2 class="mt-0 mb-3 breakWord center">Links</h2>
-	 <div class="col-lg-8 w3-medium">
-		{% for werdz in site.werdz %}
-  		<h2>{{ werdz.title }}</h2>
- 		<p>{{ werdz.description }}</p>
-  		<p><a href="{{ werdz.url }}">{{ werdz.title }}</a></p>
-		{% endfor %}   
-	    </div>
+	 <h2 class="mt-0 mb-3 breakWord center">Recent Posts</h2>
+	 <ul class="posts">
+
+	  		{% for post in site.posts %}
+	    			<li><span class="beta">{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}" class="words">{{ post.title }}</a></li>
+				<br>
+	  		{% endfor %}
+			</ul>
 	    
-	 <div class="d-flex justify-content-center mb-0 mt-3 flex-column">
+	 <!--div class="d-flex justify-content-center mb-0 mt-3 flex-column">
 		<div class="d-flex p-2 mb-1 justify-content-center color-zambezi"><a href="https://www.instagram.com/lovellifuad/" class="links_item_click">Instagram</a></div>
 		<div class="d-flex p-2 mb-1 justify-content-center color-secondary"><a href="https://ko-fi.com/lovellifuad" class="new_item_click">Buy Me Ko-fi</a></div>
 		<div class="d-flex p-2 mb-1 justify-content-center color-zambezi"><a href="https://id.quora.com/q/ruanguji" class="links_item_click">q/ruanguji</a></div>
 		<div class="d-flex p-2 mb-1 justify-content-center color-zambezi"><a href="https://fingertip.top/stuff/blog/words/" class="links_item_click">New Blog Post</a></div>
-	    </div -->
+	    </div-->
      	    
    	</div>
     </div>  
