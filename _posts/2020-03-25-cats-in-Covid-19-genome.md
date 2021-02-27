@@ -4,7 +4,7 @@ author: Lovelli Fuad
 title: "How Many Cats Are in this Covid-19 Genome Sequence?"
 tagline: How many cats can you find?
 lead: "Exactly how many times does the word CAT appear in this Covid-19 genome sequence from the Wuhan seafood market pneumonica virus isolate? Warning: don't keep the key in the safe itself."
-description: A look at the Wuhan coronavirus disease virus genome sequence. 
+description: A thorough look at the Wuhan coronavirus disease virus genome sequence, in case you were wondering. Just a bunch of cats, if you ask me. 
 permalink: blog/cats-in-Covid-19-genome
 date: 2020-04-04 18:33
 main-categories: [inspiration]
