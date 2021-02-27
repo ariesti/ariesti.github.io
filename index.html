@@ -54,10 +54,10 @@ description: Towards digital humanities
 	 <h2 class="mt-0 mb-5 breakWord center">Recent Posts</h2>
 	 <ul class="posts">
 
-	  		{% for post in site.posts limit:5 %}
+	  		{% for post in site.posts limit:3 %}
 	    			<li><a href="{{ post.url }}" title="{{ post.title }}" class="words"><h5>{{ post.title }}</h5></a></li>
-		 		<span class="alpha colorful1 pt-2">{{ post.date | date_to_string }}</span>
-		 		<h6 class="text-muted pt-3">{{ post.description }}</h6>
+		 		<span class="alpha colorful1">{{ post.date | date_to_string }}</span>
+		 		<h6 class="text-muted pt-2">{{ post.description }}</h6>
 		 		<br>
 	  		{% endfor %}
 			</ul>
