@@ -1,0 +1,40 @@
+---
+layout: carou
+sitemap:
+    priority: 0.6
+    changefreq: 'monthly'
+    lastmod: 2019-04-22T11:50:00+07:00
+title: Lovelli Fuad's Words
+tagline: What can be learned?
+description: Important things I have noted
+permalink: /blog
+---
+<main>
+<section class="py-0">
+<div class="container">
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb alpha">
+    <li class="breadcrumb-item"><a href="/" class="bread">Home</a></li>
+    <li class="breadcrumb-item active" aria-current="page"><a href="/blog" class="bread">Blog</a></li>
+  </ol>
+</nav>
+</div>
+</section>
+
+<section class="pb-5 pt-0">
+		<div class="container">	
+		<h2 class="font-weight-light text-center text-lg-left mt-4 mb-0">Words</h2>
+		<hr class="mt-2 mb-5">
+		<p class="text-muted">I try to update this blog regularly with important things going on with the website and my most recent freelancing moves, 
+		 but are you missing anything particular? You can let me know what you want to read about or tweet me <a href="https://www.twitter.com/lovellifuad" class="pinklink">@lovellifuad</a>.</p>
+			<ul class="posts">
+
+	  		{% for post in site.posts %}
+	    			<li><span class="beta">{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}" class="words">{{ post.title }}</a></li>
+				<br>
+	  		{% endfor %}
+			</ul>
+		</div>
+	</section>
+</main>
+
