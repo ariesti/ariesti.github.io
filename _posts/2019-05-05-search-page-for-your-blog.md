@@ -2,7 +2,7 @@
 layout: post-words
 author: Lovelli Fuad
 title: "A Super Simple Search Page for Finger Tip-Top"
-description: Finger Tip-Top now has a search page
+description: With some help from Google CSE (Custom Search Engine), we now have a manual search page. You can get one too. 
 lead: There aren’t that many pages or posts yet on Finger Tip-Top. So a manual search should be enough to find what you’re looking for.
 permalink: blog/search-page-for-Jekyll-blog
 date: 2019-05-05 05:01 PM
