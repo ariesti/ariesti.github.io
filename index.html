@@ -55,7 +55,7 @@ description: Towards digital humanities
 	 <ul class="posts">
 
 	  		{% for post in site.posts limit:5 %}
-	    			<li><span class="alpha colorful1">{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}" class="words">{{ post.title }}</a></li>
+	    			<li><span class="alpha colorful1">{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}" class="words"><h5>{{ post.title }}</h5></a></li>
 		 		<h6 class="text-muted pt-3">{{ post.description }}</h6>
 		 		<br>
 	  		{% endfor %}
@@ -69,7 +69,7 @@ description: Towards digital humanities
 	    </div-->
      	    
    	</div>
-	<div class="row px-3 mb-0">
+	<div class="row px-5 mb-0">
 		<h2><u>Image result for character count for description</u>: 
 	       At the beginning of May, the length of the meta description on Google has been shortened after the last update in December 2017, when the length reached limits up to 290 characters. 
 	       Now, Google is coming back to previous limits. Best practice in 2019, is the same as in 2018 – keep it from 120 to 158 characters. (Spotibo)</h2>	
