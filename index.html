@@ -27,7 +27,7 @@ description: Towards digital humanities
 	    <div class="card" style="width: 300;">
   		<a href="https://lovellifuad.com"><img class="card-img-top" src="https://i.postimg.cc/nh3GZQNC/lvllfd-2.png" alt="LVLLFD"></a>
   		<div class="card-body">
-    		<p class="card-text center">A design-oriented tech hub.</p>
+    		<p class="card-text center text-muted">A design-oriented tech hub.</p>
             </div>
 		<!-- ul class="list-group list-group-flush">
 			<li class="list-group-item nav-text"><b><a href="https://www.lovellifuad.com" class="words">Visit hub</a></b></li>
@@ -40,7 +40,7 @@ description: Towards digital humanities
 	    <div class="card" style="max-width: 300;">
   		<a href="https://www.intibinti.com/"><img class="card-img-top" src="https://i.postimg.cc/FRZQrvXr/intibinti.png" alt="INTI BINTI"></a>
   		<div class="card-body">
-    		<p class="card-text center">A lifestyle blog built to stay at home.</p>
+    		<p class="card-text center text-muted">A lifestyle blog built to stay at home.</p>
             </div>
 		<!-- ul class="list-group list-group-flush">
 		   <li class="list-group-item"><b><a href="https://www.intibinti.com" class="words">Visit blog</a></b></li>
@@ -54,7 +54,7 @@ description: Towards digital humanities
 	 <h2 class="mt-0 mb-5 breakWord center">Recent Posts</h2>
 	 <ul class="posts">
 
-	  		{% for post in site.posts limit:3 %}
+	  		{% for post in site.posts limit:4 %}
 	    			<li><a href="{{ post.url }}" title="{{ post.title }}" class="words"><h5>{{ post.title }}</h5></a></li>
 		 		<span class="alpha colorful1">{{ post.date | date_to_string }}</span>
 		 		<h6 class="text-muted pt-2">{{ post.description }}</h6>
