@@ -61,7 +61,11 @@ description: Towards digital humanities
      	    
    	</div>
     </div>  
-	  
+	{% for werdz in site.werdz %}
+  	<h2>{{ werdz.title }}</h2>
+ 	<p>{{ werdz.description }}</p>
+  	<p><a href="{{ werdz.url }}">{{ werdz.title }}</a></p>
+	{% endfor %}  
   </div>
 </section>
 			
