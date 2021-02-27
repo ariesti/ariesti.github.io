@@ -4,7 +4,7 @@ author: Lovelli Fuad
 title: "Create a MetaMask Tipping Button and Start Collecting Ether"
 tagline: Are you ready to tip in Ether?
 lead: "Yet another way to make it easier for the audience to support you as their favourite content creator."
-description: A mini guide to coding your own ETH tipping button. So simple it will only take you one bag of chips to complete. 
+description: A mini guide to coding your own ETH tipping button. So simple it will only take you a bag of chips to complete. 
 permalink: blog/ethereum-tipping-feature
 date: 2021-02-25 19:00
 main-categories: [tips]
