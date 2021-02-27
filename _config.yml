@@ -8,3 +8,6 @@ url: "http://fingertip.top"
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+collections:
+  werdz:
+    output: true
