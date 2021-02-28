@@ -775,17 +775,7 @@ a.tag-cloud:visited { color: #333; }
 	color: #B3C08F;
 }
 
-/* ol {
-    font-size: 1em; 
-    line-height: 1.4em; 
-    color: #333;	
-    display: block;
-    padding-left: 40px;
-    margin: 0;
-    border: 0;
-} */
-
-/* frontpage images */
+/* Frontpage Images */
 .row::after { /* clears fix */
   content: "";
   clear: both;
@@ -797,6 +787,18 @@ a.tag-cloud:visited { color: #333; }
   width: 33.33%;
   padding: 5px;
 }
+
+/* Lists */
+
+/* ol {
+    font-size: 1em; 
+    line-height: 1.4em; 
+    color: #333;	
+    display: block;
+    padding-left: 40px;
+    margin: 0;
+    border: 0;
+} */
 
 ul { font-size: 1em; line-height: 1.4em; color: #333; }
 header ul { text-decoration: none; font-size: 1.1em; padding: 0px; list-style-type: none; font-weight: bold; } 
