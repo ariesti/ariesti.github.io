@@ -1015,12 +1015,37 @@ div.whole-banner {
     box-sizing: border-box;
 }
 
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
+@-webkit-keyframes typing {
+    from { 
+        width: 0% 
+    }
+    to { 
+        width: 100% 
+    }
+}
+
 @keyframes typing {
     from { 
         width: 0% 
     }
     to { 
         width: 100% 
+    }
+}
+
+@-webkit-keyframes blink {
+    from, to { 
+        border-color: transparent 
+    }
+    50% { 
+        border-color: orange; 
     }
 }
 
