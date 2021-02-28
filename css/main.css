@@ -204,6 +204,10 @@ body {
 	background-color: #ffde03;
 }
 
+.pink:hover {
+	background-color: #FF017E;
+}
+
 /* OPACITY */
 
 .opa-3 { opacity:0.3; }
