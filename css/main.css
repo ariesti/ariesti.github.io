@@ -204,15 +204,7 @@ body {
 	background-color: #ffde03;
 }
 
-.yellow:active {
-	background-color: #ffde03;
-}
-
-.pink:hover, .pink:focus, {
-	background-color: #FF017E;
-}
-
-.pink:active {
+.pink:hover {
 	background-color: #FF017E;
 }
 
