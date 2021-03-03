@@ -208,6 +208,10 @@ body {
 	background-color: #FF017E;
 }
 
+.larioja:hover {
+	background-color: #C7AD00;
+}
+
 /* OPACITY */
 
 .opa-3 { opacity:0.3; }
