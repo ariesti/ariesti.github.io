@@ -91,7 +91,7 @@ function renderMessage (message) {
   <p>Try and click it.</p>
   <p>See what message it gives you.</p>
   <p>If it says “you need to install MetaMask to use this” you can try installing MetaMask on your browser following <a class="blue" href="https://metamask.io/download.html"><b>this guide</b></a>, if you want.</p>
-  <p>I'll break down the code used to get a button like that. Please keep in mind that you're free to use the code, as it doesn't belong to me. You don't need my permission to use it, but it'd be really nice if you could link to this post.</p>
+  <p>I'll break down the code used to get a button like that. Please keep in mind that you're free to use the code, as it doesn't belong to me. You don't need my permission to do so, but it'd be really nice if you could link to this post.</p>
   <p>So, what's in the code?</p>
 </div>
 <div class="fix-7x-12 toCenter mb-5 w3-medium"><h3 class="font-weight-bold">A bit of HTML</h3></div>
@@ -125,7 +125,7 @@ function renderMessage (message) {
 </div>
 
 <div class="fix-7x-12 toCenter mb-0 w3-medium">
-  <p>On an HTML page, the above code goes between the style tags. I advise you to adjust the width and height, depending on the image you're using. Change the URL address for the button image to point to the image you want to use.</p>
+  <p>On an HTML page, the above code goes between the style tags. Just adjust the width and height, depending on the image you're using, or else the image might now show up fully. Change the URL address for the button image to point to the image you want to use.</p>
 </div>
 <div class="fix-7x-12 toCenter mb-5 w3-medium"><h3 class="font-weight-bold">A bit of JavaScript</h3></div>
 <div class="fix-7x-12 toCenter mb-5 w3-medium" markdown="1">
@@ -190,16 +190,16 @@ The term **gas money** doesn't actually refer to the units of gas for a vehicle.
 
 **Total cost of transaction or TX = Gas Limit * Gas Price**
 
-In our code, we’ve specified 50000 as the gas limit (written as just 'gas'). It's the maximum amount of gas money you are willing to spend for the transaction. A standard transaction in ETH will require 21000, so by Ethereum's standard, if the transfer goes through the remaining (50000 – 21000) will be returned to your wallet. 
+In our code, we’ve specified 50000 as the gas limit (written as just 'gas'). It's the maximum amount of gas money you are willing to spend for the transaction. A standard transaction in ETH will require 21000. So by Ethereum's standard, if the transfer goes through the remaining fund (50000 – 21000) will be returned to your wallet. 
 
 Our calculation is different when you’re sending <b>tokens</b>. The gas money can go anywhere between 50000 to 100000. 
 </div>
 <div class="fix-7x-12 toCenter mb-5 w3-medium"><h2 class="font-weight-bold">MetaMask on GitHub</h2></div>
 <div class="fix-7x-12 toCenter mb-0 w3-medium" markdown="1">
 
-This entire code has been made available on GitHub, so be sure to check out the repo at <a href="https://github.com/MetaMask/TipButton" class="pinklink">MetaMask/TipButton</a>. Kudos to MetaMask. 
+This entire code has been made available on GitHub, so be sure to check out the repo at <a href="https://github.com/MetaMask/TipButton" class="pinklink">MetaMask/TipButton</a>, kudos to MetaMask. 
 
 Of course there are ways we can make this code better, but that requires a bit of payment testing to get right. 
 
-So, what do you say? Ready to collect Ether? 
+Now, what do you say? Ready to collect Ether? 
 </div>
