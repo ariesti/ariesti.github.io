@@ -7,7 +7,6 @@ sitemap:
 title: Terms & Policies
 tagline: Understanding privacy in public spaces
 description: Finger Tip-Top's terms and privacy policy
-permalink: /terms
 ---
 ## Privacy Policy 
 
