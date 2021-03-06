@@ -229,13 +229,7 @@ body {
 	border: 0;
 }
 
-/* Test content wrapper - no longer used */
-
-.content { 
-	padding-top: 50px; 
-	padding-bottom: 50px; 
-	background-color: #fff;
-}	
+/* Test content wrapper - no longer used */	
 
 #middle { padding-top: 30px; padding-bottom: 30px; background-color: #fff;  }
 #wrapper { padding: 0 100px; background: #fff; }
@@ -866,6 +860,29 @@ ul.posts {
 ul.posts li { list-style: none; }
 
 li.posts {list-style: none;}
+
+/* Content */
+ul.content {	
+	font-size: 1rem;
+    	line-height: 1.6;
+   	margin-bottom: 1.25rem;
+    	list-style-position: outside;
+    	font-family: inherit;
+	display: block;
+    	list-style-type: disc;
+    	margin-block-start: 1em;
+    	margin-block-end: 1em;
+    	margin-inline-start: 0px;
+    	margin-inline-end: 0px;
+    	padding-inline-start: 40px;
+}
+	
+li.content {
+	font-size: 1.25rem;
+    	line-height: 2.1875rem;
+	display: list-item;
+    	text-align: -webkit-match-parent;
+}
 
 /* CV */
 
