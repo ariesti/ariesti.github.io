@@ -863,9 +863,9 @@ li.posts {list-style: none;}
 
 /* Content */
 ul.content {	
-	font-size: 1rem;
-    	line-height: 1.6;
-   	margin-bottom: 1.25rem;
+	font-size: 1.1em; ;
+    	line-height: 1.6em;
+   	margin-bottom: 1.5em;
     	list-style-position: outside;
     	font-family: inherit;
 	display: block;
@@ -878,8 +878,9 @@ ul.content {
 }
 	
 li.content {
-	font-size: 1.25rem;
-    	line-height: 2.1875rem;
+	font-size: 1.1em;
+    	line-height: 1.6em;
+	font-weight: 300
 	display: list-item;
     	text-align: -webkit-match-parent;
 }
