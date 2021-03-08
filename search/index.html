@@ -13,7 +13,7 @@ permalink: /search/
       </div>
       <div class="column color-dim-gray mr-2" style="height:250px;">
       </div>
-      <div class="column.color-grey-300" style="height:250px;">
+      <div class="column color-grey-300" style="height:250px;">
       </div>
    </div> 
   </div>
@@ -46,7 +46,7 @@ permalink: /search/
               <p>
               {% for tag in site.tags %}
               <a href="#{{ tag[0]}}"
-                style="font-size: {{ tag[1] | size | times: 39 | divided_by: site.tags.size | plus: 21 }}px" class="tag-cloud">
+                style="font-size: {{ tag[1] | size | times: 35 | divided_by: site.tags.size | plus: 21 }}px" class="tag-cloud">
                 {{ tag[0] }} |
               </a>
                 {% endfor %}
