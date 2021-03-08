@@ -42,11 +42,11 @@ permalink: /search/
     <div class="row">
        <div class="col-sm-1"></div>
 	  <div class="col-sm-10">
-           <h2 class="font-weight-light text-center text-lg-left mt-4 mb-0">Tag Clouds</h1>
-              <p>
+           <h2 class="font-weight-light text-center text-lg-left mt-4 mb-0"><span id="manualTitle">Tag Clouds</span></h1>
+              <p style="font-family:consolas;">
               {% for tag in site.tags %}
               <a href="#{{ tag[0]}}"
-                style="font-size: {{ tag[1] | size | times: 35 | divided_by: site.tags.size | plus: 21 }}px" class="tag-cloud">
+                style="font-size: {{ tag[1] | size | times: 35 | divided_by: site.tags.size | plus: 10 }}px" class="tag-cloud">
                 {{ tag[0] }} |
               </a>
                 {% endfor %}
@@ -60,7 +60,7 @@ permalink: /search/
     <div class="row">
        <div class="col-sm-1"></div>
 	  <div class="col-sm-10">
-	    <h2 class="font-weight-light text-center text-lg-left mt-4 mb-0">Categories</h1>
+	    <h2 class="font-weight-light text-center text-lg-left mt-4 mb-0"><span id="manualTitle">Categories</span></h1>
   
 		<div id="archives">
 		  {% for category in site.categories %}
@@ -92,7 +92,7 @@ permalink: /search/
     <div class="row">
        <div class="col-sm-1"></div>
 	  <div class="col-sm-10">
-       	    <h2 class="font-weight-light text-center text-lg-left mt-4 mb-0">Tags</h1>
+       	    <h2 class="font-weight-light text-center text-lg-left mt-4 mb-0"><span id="manualTitle">Tags</span></h1>
 
 		<div id="archives">
 		  {% for tag in site.tags %}
