@@ -70,11 +70,11 @@ permalink: /search/
     
     		<p>
     		<ul>
-    		<h6 style="font-family:consolas" class="category-head">{{ category_name }}</h6>
+    		<h5 style="font-family:consolas" class="category-head">{{ category_name }}</h5>
     		<a name="{{ category_name | slugize }}"></a>
     		{% for post in site.categories[category_name] %}
     		<article class="archive-item">
-      		<li class="ml-5 blue"><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></li>
+      		<li class="ml-5"><a class="blue" href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></li>
     		</article>
     		{% endfor %}
     		</ul>
@@ -102,11 +102,11 @@ permalink: /search/
     
     		<p>
     		<ul>
-    		<h6 style="font-family:consolas" class="tag-head">{{ tag_name }}</h6>
+    		<h5 style="font-family:consolas" class="tag-head">{{ tag_name }}</h5>
     		<a name="{{ tag_name | slugize }}"></a>
     		{% for post in site.tags[tag_name] %}
     		<article class="archive-item">
-      		<li class="ml-5 blue"><a href="{{ post.url | prepend: site.url }}">{{post.title}}</a></li>
+      		<li class="ml-5"><a class="blue" href="{{ post.url | prepend: site.url }}">{{post.title}}</a></li>
     		</article>
     		{% endfor %}
     		</p>
