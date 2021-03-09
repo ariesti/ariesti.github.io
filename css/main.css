@@ -868,7 +868,7 @@ ul.content {
    	margin-bottom: 1.5em;
     	list-style-position: outside;
     	font-family: inherit;
-	font-weight: 300;
+	font-weight: 400;
 	display: block;
     	list-style-type: disc;
     	margin-block-start: 1em;
@@ -881,7 +881,7 @@ ul.content {
 li.content {
 	font-size: 1.1em;
     	line-height: 1.6em;
-	font-weight: 300;
+	font-weight: 400;
 	display: list-item;
     	text-align: -webkit-match-parent;
 }
