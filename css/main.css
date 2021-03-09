@@ -364,13 +364,13 @@ p { 	/* Normal paragraph */
 	color: #212529;
 	margin-top: 1.5em;
 	margin-bottom: 1.5em;
-	font-weight: 300;
+	font-weight: 400;
 }
 
 p.tight {	/* Spacing closer together */
 	font-size: 1.1em;
 	line-height:1.6em;
-	color:#333
+	color:#333;
 	margin-top: 0;
   	margin-bottom: 1rem;
 }
@@ -394,7 +394,7 @@ p.story-1 { /* For stories in the home page and elsewhere not on the blog. */
 
 h1, h2, h3, h4, h5, h6 { 
 	font-family: Montserrat, sans-serif;
-	font-weight: 500 !important;
+	font-weight: 700 !important;
 	color: #333
 }
 
