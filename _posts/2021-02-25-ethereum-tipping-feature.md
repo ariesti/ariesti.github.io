@@ -176,9 +176,11 @@ I’ve put one button on a widget for one of my blogger sites. All the CSS goes 
 
 In order for this to work though you need to have:
 
-- A MetaMask wallet
-- MetaMask extension on your browser
-- A blog/site your audience can visit
+<ul class="content">
+<li class="pb-3">A MetaMask wallet</li>
+<li class="pb-3">MetaMask extension on your browser</li>
+<li class="pb-3">A blog/site your audience can visit</li>
+</ul>
 
 Sometimes you'll also get an error message that says "Not enough ETH to send", it is because your account doesn’t have enough ETH to cover the cost of gas. If the gas money > amount of tip, the transaction will also be reverted.  
 
