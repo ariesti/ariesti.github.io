@@ -43,7 +43,7 @@ permalink: /blog
 	  	{% for post in site.posts %}
 	    	<div class="mx-0 px-0">
 			<p class="mb-0 w3-large" style="font-weight:500;"><a class="call-to-action" href="{{ post.url }}" title="{{ post.title }}" class="words">{{ post.title }}</a></p>
-			<p class="mt-0 text-muted w3-medium"><span class="alpha">{{ post.date | date_to_string }}</span> » {{ post.lead }}</p>
+			<p class="mt-2 text-muted w3-medium"><span class="alpha">{{ post.date | date_to_string }}</span> » {{ post.lead }}</p>
 		 </p>
 		 </div>
 	  	{% endfor %}
