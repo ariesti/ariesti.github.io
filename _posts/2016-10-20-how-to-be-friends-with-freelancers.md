@@ -14,8 +14,12 @@ featured-image: my-cinema-quote.png
 featured-image-description: Are you a freelancer friend?
 featured-image-alt: People facing home cinema screen
 ---
+  <div class="fix-7x-12 toCenter mb-5 w3-xlarge">
+  <p>In our lives, there are many types of friends. There’s the online friend, the offline friend, the Twitter friend, the Facebook friend, the blogging friend, the childhood   
+    friend, and nowadays, the freelancer friend.</p>
+  </div>
   <div class="fix-7x-12 toCenter mb-5 w3-medium">
-  <p><b>If there’s not at least one freelancer friend in your life, chances are you are it.</b></p> 
+  <p><If there’s not at least one freelancer friend in your life, chances are you're it.</p> 
   <p>Just kidding. (You could also be a <a href="https://01.media/11-weird-and-wonderful-new-merriam-webster-entries-from-tech" class="blue">ghosted</a> friend.)</p>
   <p>Can’t seem to find a freelancer friend? Try going to that cozy coffee shop around the corner and see if anybody there is sitting alone facing a laptop, while also taking pictures of the food. Try the cafes in the malls, the co-working spaces, the park benches… the beaches?!</p>
   <p>Better yet, try the online forums.</p></div>
@@ -56,7 +60,7 @@ featured-image-alt: People facing home cinema screen
 <p>Sometimes when you’re having an emergency, friends and family can be a source of financial help. But usually only very close friends. Your freelancer friend is not the bank of mom and dad. Don’t treat them as such, unless that is the type of freelance service they offer.</p>
 
 <h4 class="call-to-action">4. Act differently towards them.</h4> 
-<p>Making the life-changing decision of coming forward as a freelancer, where you are your own <b>boss</b>, is not easy. They could easily have used an alias and lead a double life. But the fact that they use the term “freelancer” to describe themselves is their decision not yours. You should not “punish” them for not being more like you.</p>
+<p>Making the life-changing decision of coming forward as a freelancer, where you are your own <b><span class="grey">boss</span></b>, is not easy. They could easily have used an alias and lead a double life. But the fact that they use the term “freelancer” to describe themselves is their decision not yours. You should not “punish” them for not being more like you.</p>
 
 <h4 class="call-to-action">5. Assume the 'client from hell' persona.</h4>
 <p>Don’t turn into an annoying client when you’re alone with your freelancer friend just because she is a freelancer. I know this sounds cliche, but.. just be yourself.</p>
