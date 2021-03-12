@@ -24,4 +24,9 @@
 .toRight{margin-right:0!important;float:right}
 .toCenter{margin-right:auto!important}
 
+@media (max-width: 600px) {
+    page.featured-image-description {
+        display:none;}
+}
+
 
