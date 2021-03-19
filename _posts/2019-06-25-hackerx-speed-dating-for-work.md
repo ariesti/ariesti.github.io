@@ -12,16 +12,16 @@ lang: en
 featured-image: camera-monitoring.png
 featured-image-alt: Speed dating for work
 ---
-<div class="fix-7x-12 toCenter mb-5 w3-medium">
+<div class="fix-7x-12 toCenter pb-2 w3-medium">
 <p>One particularly interesting offer to get social was an email invitation to a Hacker X (full-stack) recruitment event in Jakarta, just a little over a year ago. I personally have never attended or RSVP-ed for a speed dating event ever, but at the time the idea somewhat made sense.</p>
 <p>Each attendee gets to spend about 10 to 15 minutes talking to a potential recruiter before rushing on to the next table to talk to the next recruiter, and the next, and the next, and so on.</p>
 <p>Having worked in Jakarta for a couple of years, I had very low expectation of what to expect.</p>
 <p>I learned that what people tell each other in “networking events”, especially over cocktail or after hours, are not to be taken too seriously. Plus, the workforce management in Jakarta is not really known for delivering on their promises. So I went and was ready to be disappointed.</p>
 </div>
 
-<div class="fix-7x-12 toCenter mb-5 w3-medium"><h2 class="font-weight-bold">How to Arrange for a Recruitment Speed Dating</h2></div>
+<div class="fix-7x-12 toCenter w3-medium"><h2 class="font-weight-bold">How to Arrange for a Recruitment Speed Dating</h2></div>
 
-<div class="fix-7x-12 toCenter mb-5 w3-medium">
+<div class="fix-7x-12 toCenter pb-2 w3-medium">
 <p>First, the event organizer sent me a personalized invitation. I expressed my interest in attending and filled in some sort of online form. Then my e-ticket was emailed to me with a confirmation of the event. A few days before and on D-day, reminders were sent with a few pointers.</p>
 <p>Supposedly, a few hours before event start time recruiters would send out introductory emails to the participants. Only a few did. And on the night of the event, August 22, 2017, a few tables remained empty.</p>
 <p>The event organizer wanted to make sure that each attendee was given a fair chance to get to know the recruiters. Perhaps they wanted us to talk to all attending companies? I can’t quite explain how it was done, but after a couple of minutes someone would just be running around telling attendees where to stand or where to sit.</p> 
@@ -54,9 +54,9 @@ featured-image-alt: Speed dating for work
 <p><b><span class="grey">A call.</span></b> Some time after date night, some recruiters would do a follow-up. A few calls from unfamiliar numbers not listed in my phonebook were a bit disturbing, but some recruiters were kind enough to send me an introductory email before making a call or scheduling for a meetup.</p>
 </div>
 
-<div class="fix-7x-12 toCenter mb-5 w3-medium"><h2 class="font-weight-bold">Is This for You?</h2></div>
+<div class="fix-7x-12 toCenter w3-medium"><h2 class="font-weight-bold">Is This for You?</h2></div>
 
-<div class="fix-7x-12 toCenter mb-5 w3-medium">
+<div class="fix-7x-12 toCenter pb-2 w3-medium">
 <p>I was a bit bummed at how uncomfortable the first one went. I decided to go again the following year just to see how I felt about this one. Instead of printing my resume and handing out name cards, I decided to hand out links to my online cv to these recruiters.</p> 
 
 <p>The second time I went, it was a lot better organized. But after talking to fellow developers, it was apparent that they were still quite clueless of what the event was and what to expect.</p>
@@ -74,7 +74,7 @@ featured-image-alt: Speed dating for work
   <figcaption class="figure-caption">HackerX | July 19, 2018</figcaption>
 </figure></div>
 
-<div class="fix-7x-12 toCenter mb-5 w3-medium">
+<div class="fix-7x-12 toCenter pb-2 w3-medium">
 <p>Both Hacker X events were centered around tech companies instead of the developers. On the first event in 2017, I felt like I had to win over the recruiting company by saying something interesting about myself. The companies didn’t really have to pitch anything in any way to attract these tech talents.</p>
 <p>The second time was a mixed bag, but still felt a bit like a waste of time. The stress was still there. Although the event was held at a smaller kind of co-working space, networking didn’t become any easier.</p>
-<p>So if you’re thinking about <a href="https://hackerx.org/" class="pinklink">going to a Hacker X night out</a> in your city, whether as an attendee or a recruiter, and you’re okay with meeting random developers who might or might not know what they're doing there, then you would probably like it. As for me, I am not planning to go to a third one.</p></div>
+<p>So if you’re thinking about <a href="https://hackerx.org/" class="pinklink" rel="nofollow">going to a Hacker X night out</a> in your city, whether as an attendee or a recruiter, and you’re okay with meeting random developers who might or might not know what they're doing there, then you would probably like it. As for me, I am not planning to go to a third one.</p></div>
