@@ -91,7 +91,7 @@ function renderMessage (message) {
   <p>See what message it gives you.</p>
   <p>If it says “you need to install MetaMask to use this” you can try installing MetaMask on your browser following <a class="blue" href="https://metamask.io/download.html"><b>this guide</b></a>, if you want.</p>
   <p>I'll break down the code used to get a button like that. Please keep in mind that you're free to use the code, as it doesn't belong to me. You don't need my permission to do so, but it'd be really nice if you could link to this post.</p>
-  <p><b>So, what's in the code?</b></p>
+  <p><b class="grey">So, what's in the code?</b></p>
 </div>
 <div class="fix-7x-12 toCenter mb-0 w3-medium"><p>A bit of HTML</p></div>
 <div class="fix-7x-12 toCenter mb-0 w3-medium" markdown="1">
@@ -183,17 +183,17 @@ In order for this to work though you need to have:
 
 Sometimes you'll also get an error message that says "Not enough ETH to send", it is because your account doesn’t have enough ETH to cover the cost of gas. If the gas money > amount of tip, the transaction will also be reverted.  
 
-The term **gas money** doesn't actually refer to the units of gas for a vehicle. It specifies an amount you need to pay for the *computation*. The price of gas (in *gwei*) fluctuates daily, but all unused gas money is going to be refunded at the end of a transaction. If the transaction fails, however, you’ll use up all your gas money and receive <u>nothing</u> back.
+The term <b class="grey">gas money</b> doesn't actually refer to the units of gas for a vehicle. It specifies an amount you need to pay for the *computation*. The price of gas (in *gwei*) fluctuates daily, but all unused gas money is going to be refunded at the end of a transaction. If the transaction fails, however, you’ll use up all your gas money and receive <u>nothing</u> back.
 
 <blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://t.co/wrPLEI6lcd">pic.twitter.com/wrPLEI6lcd</a></p>&mdash; Lovelli Fuad (@lovellifuad) <a href="https://twitter.com/lovellifuad/status/1364992555616636932?ref_src=twsrc%5Etfw">February 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <code>A brief moment of horror.</code>
 
-**Total cost of transaction or TX = Gas Limit * Gas Price**
+<b class="grey">Total cost of transaction or TX = Gas Limit * Gas Price</b>
 
-In our code, we’ve specified 50000 as the gas limit (written as just 'gas'). It's the maximum amount of gas money you are willing to spend for the transaction. A standard transaction in ETH will require 21000. So by Ethereum's standard, if the transfer goes through the remaining fund (50000 – 21000) will be returned to your wallet. 
+In our code, we’ve specified 50000 as the gas limit (written as just 'gas'). It's the maximum amount of gas money you are willing to spend for the transaction. A standard transaction in ETH will require 21000. So by Ethereum's standard, if the transfer goes through, the remaining fund (50000 – 21000) will be returned to your wallet. 
 
-Our calculation is different when you’re sending <b>tokens</b>. The gas money can go anywhere between 50000 to 100000. 
+Our calculation is different when you’re sending <b class="grey">tokens</b>. The gas money can go anywhere between 50000 to 100000. 
 </div>
 <div class="fix-7x-12 toCenter w3-medium"><h2 class="font-weight-bold">MetaMask on GitHub</h2></div>
 <div class="fix-7x-12 toCenter mb-0 w3-medium" markdown="1">
