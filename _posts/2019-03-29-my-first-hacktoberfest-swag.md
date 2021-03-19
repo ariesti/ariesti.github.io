@@ -16,7 +16,7 @@ featured-image-description: S-S-S-SWAAAG!
 featured-image-alt: S-S-S-SWAAAG!
 ---
 <div class="fix-7x-12 toCenter mb-0 w3-medium">
-<p>Hacktoberfest motivates newbies to contribute to <b>open source projects</b>. In case you need to know, last year was my first time participating fully, and I did not regret a minute of it. Although come to think of it now, there were a few things I could have done to maximize my participation.</p>
+<p>Hacktoberfest motivates newbies to contribute to <b class="grey">open source projects</b>. In case you need to know, last year was my first time participating fully, and I did not regret a minute of it. Although come to think of it now, there were a few things I could have done to maximize my participation.</p>
 <p>If you’ve been thinking about collaborating with others, open source is a great start. Every year since 2013, the community celebrates open source software by rewarding contributors during the month of October.</p>
 <p>Don’t worry so much about the coding bits, because the focus of Hacktoberfest is *to contribute to a software project*. It is first-timer friendly, and you are not limited to only your coding skill sets. Any area where you might be able to help is within your reach: social media marketing, copywriting, editing, design, testing, bug reporting, business, etc.</p>
 <p>Okay, maybe business is still a little way off, but here are some things you can do to get started (right away):</p></div>
@@ -40,23 +40,23 @@ featured-image-alt: S-S-S-SWAAAG!
 
 <div class="fix-7x-12 toCenter mb-0 w3-medium">
 <p>Luckily, I have read about how to make a Pull Request/PR years back when I first learned to use Git and GitHub. So I wasn’t all that unfamiliar with the way open source projects work, but like I said, it was years ago. To make your first real PR, you need to learn to create a PR on GitHub. And you need to practice.</p>
-<p>There’s a bunch of very neat tutorials from Hacktoberfest’s host, Digital Ocean. I encourage you to go to their website and read their <a href="https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source" class="pinklink">Introduction to Open Source</a> thoroughly before installing Git on your computer. Follow the Git installation guide <a href="https://www.digitalocean.com/community/tutorials/how-to-contribute-to-open-source-getting-started-with-git#contributing-to-open-source-projects" class="blue" rel="nofollow">there</a>, too.</p>
-<p>But if installing Git looks like a lot of extra work, you can definitely skip it. There are open source projects, such as the freeCodeCamp repository, that will let you help improve articles by editing <a href="https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b" class="blue"><b>directly from your browser</b></a>.</p> 
+<p>There’s a bunch of very neat tutorials from Hacktoberfest’s host, Digital Ocean. I encourage you to go to their website and read their <a href="https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source" class="pinklink" rel="nofollow">Introduction to Open Source</a> thoroughly before installing Git on your computer. Follow the Git installation guide <a href="https://www.digitalocean.com/community/tutorials/how-to-contribute-to-open-source-getting-started-with-git#contributing-to-open-source-projects" class="blue" rel="nofollow">there</a>, too.</p>
+<p>But if installing Git looks like a lot of extra work, you can definitely skip it. There are open source projects, such as the freeCodeCamp repository, that will let you help improve articles by editing <a href="https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b" class="blue" rel="nofollow"><b>directly from your browser</b></a>.</p> 
 <p>Learning about open source projects and how to contribute is only the beginning. You still need to find projects you can actually contribute to. Many are reserved for first-timers to take part in during the Hacktoberfest community event. And if you do a bit of internet search, you will find many such project lists.</p>
 <p>Just need to do some digging to find those repos.</p>
 </div>
 
 <div class="fix-7x-12 toCenter pb-2 w3-medium">
-<p>These are some other interesting first-timer guides to open source projects. Each includes links to where to find your first:</p><ul class="content"><li class="pb-3"><a href="https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/" class="pinklink">A First Timer's Guide to an Open Source Project</a> from <code>AuthO</code></li>
-<li class="pb-3"><a href="https://opensource.guide/" class="pinklink">Open Source Guide</a> and <a href="https://opensourcefriday.com/#participate" class="pinklink">Open Source Friday</a> from <code>GitHub</code> and friends</li>
-<li class="pb-3"><a href="https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae" class="pinklink">Contributing to Your First Open Source Project: A Practical Approach</a></li></ul></div>
+<p>These are some other interesting first-timer guides to open source projects. Each includes links to where to find your first:</p><ul class="content"><li class="pb-3"><a href="https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/" class="pinklink" rel="nofollow">A First Timer's Guide to an Open Source Project</a> from <code>AuthO</code></li>
+<li class="pb-3"><a href="https://opensource.guide/" class="pinklink" rel="nofollow">Open Source Guide</a> and <a href="https://opensourcefriday.com/#participate" class="pinklink" rel="nofollow">Open Source Friday</a> from <code>GitHub</code> and friends</li>
+<li class="pb-3"><a href="https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae" class="pinklink" rel="nofollow">Contributing to Your First Open Source Project: A Practical Approach</a></li></ul></div>
 
 <div class="fix-7x-12 toCenter w3-medium"><h2 class="font-weight-bold">How to Participate</h2></div>
 
 <div class="fix-7x-12 toCenter pb-2 w3-medium">
 <p>As you can probably imagine, getting started is easy as 1-2-3:</p>
 
-<p>1.	Before registering for Hacktoberfest, you need to setup a GitHub account that you’ll use during the community event. You can do that from GitHub: <a href="https://github.com/join" class="blue">github.com/join</a>.</p>
+<p>1.	Before registering for Hacktoberfest, you need to setup a GitHub account that you’ll use during the community event. You can do that from GitHub: <a href="https://github.com/join" class="blue" rel="nofollow">github.com/join</a>.</p>
 
 <p>2.	Register through the Hacktoberfest registration page.</p> 
 
