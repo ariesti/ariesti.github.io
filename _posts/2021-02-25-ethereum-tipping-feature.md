@@ -14,14 +14,14 @@ lang: en
 featured-image: snacks-in-vending-machine.png
 featured-image-alt: The most popular vending machine snacks lining up inside a vending machine. 
 ---
-<div class="fix-7x-12 toCenter mb-0 w3-medium">
+<div class="fix-7x-12 toCenter pb-3 w3-medium">
   <p>People are using this altcoin called Ethereum (ETH) as an alternative to fiat money and to Bitcoin in online transactions. It is an awesome currency. It's well and live. And as you will later see, many tokens are built on top the Ethereum blockchain.</p>
 </div>
-<div class="fix-7x-12 toCenter mb-5 w3-medium"><h2 class="font-weight-bold">Tipping is All the Rage These Days</h2></div>
+<div class="fix-7x-12 toCenter w3-medium"><h2 class="font-weight-bold">Tipping is All the Rage These Days</h2></div>
 <div class="fix-7x-12 toCenter mb-0 w3-medium">
   <p>By adding a code snippet, you can receive Ether as a tip. Anyone with a MetaMask wallet can send it to you in just 'one click'. When your audience clicks the button, MetaMask will open and confirm the amount to be sent to the specified wallet address.</p>
-  <p>For our example, this time we’ve set the amount to be 0.01 ETH and the <b>gas fee</b> to be 50.000 (total TX of 0.001 ETH). The standard is a limit of 21000 and a gas price of 0.00000002 ETH = total of 0.00042 ETH. (It’s not a random number.) </p></div>
-<div class="fix-7x-12 toCenter mb-5 w3-medium"><h2 class="font-weight-bold">The Ether tipping button</h2></div>
+  <p>For our example, this time we’ve set the amount to be 0.01 ETH and the <b class="grey">gas fee</b> to be 50.000 (total TX of 0.001 ETH). The standard is a limit of 21000 and a gas price of 0.00000002 ETH = total of 0.00042 ETH. (It’s not a random number.) </p></div>
+<div class="fix-7x-12 toCenter w3-medium"><h2 class="font-weight-bold">The Ether tipping button</h2></div>
 <div class="fix-7x-12 toCenter mb-0 w3-medium">
   <p>You can create your own button, but the button style that I use below is directly from the MetaMask Github repo:</p>
 </div>
@@ -93,15 +93,15 @@ function renderMessage (message) {
   <p>I'll break down the code used to get a button like that. Please keep in mind that you're free to use the code, as it doesn't belong to me. You don't need my permission to do so, but it'd be really nice if you could link to this post.</p>
   <p><b>So, what's in the code?</b></p>
 </div>
-<div class="fix-7x-12 toCenter mb-5 w3-medium"><p>A bit of HTML</p></div>
-<div class="fix-7x-12 toCenter mb-5 w3-medium" markdown="1">
+<div class="fix-7x-12 toCenter mb-0 w3-medium"><p>A bit of HTML</p></div>
+<div class="fix-7x-12 toCenter mb-0 w3-medium" markdown="1">
 ```html
 <div class="tip-button" align="center"></div>
 <!-- Metamask Script -->
 <div class="message"></div>
 ```
 </div>
-<div class="fix-7x-12 toCenter mb-5 w3-medium"><p>A bit of CSS: insert button</p></div>
+<div class="fix-7x-12 toCenter mb-0 w3-medium"><p>A bit of CSS: insert button</p></div>
 <div class="fix-7x-12 toCenter mb-0 w3-medium" markdown="1">
 ```css
 .tip-button {
@@ -126,7 +126,7 @@ function renderMessage (message) {
 <div class="fix-7x-12 toCenter mb-0 w3-medium">
   <p>On an HTML page, the above code goes between the style tags. Just adjust the width and height, depending on the image you're using, or else the image might now show up fully. Change the URL address for the button image to point to the image you want to use.</p>
 </div>
-<div class="fix-7x-12 toCenter mb-5 w3-medium"><p>A bit of JavaScript</p></div>
+<div class="fix-7x-12 toCenter mb-0 w3-medium"><p>A bit of JavaScript</p></div>
 <div class="fix-7x-12 toCenter mb-5 w3-medium" markdown="1">
 ```javascript
 <!-- Metamask Script -->
@@ -169,8 +169,8 @@ function renderMessage (message) {
 </script>
 ```
 </div>
-<div class="fix-7x-12 toCenter mb-5 w3-medium"><h2 class="font-weight-bold">How Does It All Work?</h2></div>
-<div class="fix-7x-12 toCenter mb-0 w3-medium" markdown="1">
+<div class="fix-7x-12 toCenter mb-0 w3-medium"><h2 class="font-weight-bold">How Does It All Work?</h2></div>
+<div class="fix-7x-12 toCenter pb-2 w3-medium" markdown="1">
 I’ve put one button on a widget for one of my blogger sites. All the CSS goes into the theme’s Edit HTML, while the HTML and JavaScript goes into the HTML/CSS widget area. 
 
 In order for this to work though you need to have:
@@ -195,7 +195,7 @@ In our code, we’ve specified 50000 as the gas limit (written as just 'gas'). I
 
 Our calculation is different when you’re sending <b>tokens</b>. The gas money can go anywhere between 50000 to 100000. 
 </div>
-<div class="fix-7x-12 toCenter mb-5 w3-medium"><h2 class="font-weight-bold">MetaMask on GitHub</h2></div>
+<div class="fix-7x-12 toCenter w3-medium"><h2 class="font-weight-bold">MetaMask on GitHub</h2></div>
 <div class="fix-7x-12 toCenter mb-0 w3-medium" markdown="1">
 
 This entire code has been made available on GitHub, so be sure to check out the repo at <a href="https://github.com/MetaMask/TipButton" class="pinklink">MetaMask/TipButton</a>, kudos to MetaMask. 
