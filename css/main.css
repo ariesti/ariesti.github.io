@@ -394,6 +394,7 @@ p.aside {
   width: 160px;
   line-height: 1.25;
   padding-left: 15px;
+  font-size: 1.25em;
   margin-left: 15px;
   position: absolute;
   right: 20%;
@@ -923,6 +924,7 @@ div.whole-banner, figcaption, p.aside {
 @media (max-width: 992px) {
 	p.aside {
 	all:unset;
+	font-size: 1.1em;
 	}
 }
 
