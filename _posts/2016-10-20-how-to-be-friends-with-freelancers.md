@@ -20,7 +20,7 @@ featured-image-alt: People facing home cinema screen
   </div>
   <div class="fix-7x-12 toCenter pb-2 w3-medium">
   <p>If there’s not at least one freelancer friend in your life, chances are you're it.</p> 
-  <p>Just kidding. (You could also be a <a href="https://01.media/11-weird-and-wonderful-new-merriam-webster-entries-from-tech" class="blue" rel="nofollow">ghosted</a> friend.)</p>
+  <p class="aside">Just kidding. (You could also be a <a href="https://01.media/11-weird-and-wonderful-new-merriam-webster-entries-from-tech" class="blue" rel="nofollow">ghosted</a> friend.)</p>
   <p>Can’t seem to find a freelancer friend? Try going to that cozy coffee shop around the corner and see if anybody there is sitting alone facing a laptop, while also taking pictures of the food. Try the cafes in the malls, the co-working spaces, the park benches… the beaches?!</p>
   <p>Better yet, try the online forums.</p></div>
 
