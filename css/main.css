@@ -917,11 +917,11 @@ li.content {
 .w3-btn, .w3-button {
 	max-width:200px;	
 }
-div.whole-banner, figcaption {
+div.whole-banner, figcaption, p.aside {
 	display:none;
 }}
 
-@media (max-width: 800px) {
+@media (max-width: 992px) {
 	p.aside {
 	line-height: 1.6em;
 	color: #212529;
