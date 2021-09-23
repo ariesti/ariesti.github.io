@@ -917,9 +917,21 @@ li.content {
 .w3-btn, .w3-button {
 	max-width:200px;	
 }
-div.whole-banner, p.aside, figcaption {
+div.whole-banner, figcaption {
 	display:none;
 }}
+
+@media (max-width: 800px) {
+	p.aside {
+	line-height: 1.6em;
+	color: #212529;
+	margin-top: 1.5em;
+	margin-bottom: 1.5em;
+	font-weight: 400;
+	margin-top: 0;
+	margin-bottom: 1rem;
+	}
+}
 
 /* Small devices (landscape phones, 576px and up) 
 @media (min-width: 576px) and (max-width: 767.98px) { ... } */
