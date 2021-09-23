@@ -29,8 +29,4 @@
         display:none;}  
     }
 
-@media (max-wdith: 992px) {
-    figcaption, p.aside {
-        display:none;
-    }
 
