@@ -396,11 +396,11 @@ p.aside {
   font-size: 1.25rem;
   padding-left: 15px;
   margin-left: 15px;
-  float: right;
+  position: absolute;
+  right: 5%;
   --tw-text-opacity: 0.77;
     color: rgba(75,85,99,var(--tw-text-opacity));
   font-style: italic;
-  background-color: none;
   margin-bottom:1.75rem;
 }
 
