@@ -18,23 +18,23 @@ featured-image-alt: People facing home cinema screen
   <p>In our lives, there are many types of friends. There’s the online friend, the offline friend, the Twitter friend, the Facebook friend, the blogging friend, the childhood   
     friend, and nowadays, the freelancer friend.</p>
   </div>
-  <div class="fix-7x-12 toCenter pb-2 w3-medium">
+  <div class="fix-7x-12 toCenter pb-2">
   <p>If there’s not at least one freelancer friend in your life, chances are you're it.</p> 
   <p class="aside">Just kidding. (You could also be a <a href="https://01.media/11-weird-and-wonderful-new-merriam-webster-entries-from-tech" class="blue" rel="nofollow">ghosted</a> friend.)</p>
   <p>Can’t seem to find a freelancer friend? Try going to that cozy coffee shop around the corner and see if anybody there is sitting alone facing a laptop, while also taking pictures of the food. Try the cafes in the malls, the co-working spaces, the park benches… the beaches?!</p>
   <p>Better yet, try the online forums.</p></div>
 
-<div class="fix-7x-12 toCenter w3-medium"><h2 class="font-weight-bold">Online friendship is important</h2></div>
+<div class="fix-7x-12 toCenter"><h2 class="font-weight-bold">Online friendship is important</h2></div>
 
-<div class="fix-7x-12 toCenter pb-2 w3-medium">
+<div class="fix-7x-12 toCenter pb-2">
 <p>All friendships are important, ask any mum. But online friendship is a special kind of friendship. The nature of online friendship is already different from the rest.</p>
 <p>One of the mistakes many people make about online friendship is to make the premature assumption that online friendship is a means of developing a true offline friendship. This is so wrong in so many ways. One, it assumes that only offline friendships are real. And that, two, online friendships are probably fake.</p>
 <p>Nope. Both online and offline friendships have a relatively equal chance of being fake. I rarely vouch for anything (or anyone), but I can attest to this: <em>friendships are dynamic.</em></p>
 <p>They are not a one-way street. They evolve and grow over time. Genuine interactions can easily turn to fake, and then genuine again, and then less fake. Especially when what both friends have in common is a lack of interest in keeping the friendship alive.</p></div>
 
-<div class="fix-7x-12 toCenter w3-medium"><h2 class="font-weight-bold">Online vs. offline relationship</h2></div>
+<div class="fix-7x-12 toCenter"><h2 class="font-weight-bold">Online vs. offline relationship</h2></div>
 
-<div class="fix-7x-12 toCenter mb-0 w3-medium">
+<div class="fix-7x-12 toCenter mb-0">
 <p>Online and offline friendships don't differ that much to me:</p>
 <p><span class="grey"><b>Spending time together.</b></span> This does not happen often with my offline friends. This also does not happen often with Facebook or Twitter friends. Seriously, nobody I know uses the “watch videos together” feature on Facebook. Most of my offline friendship initiated because we were spending some time together offline (at school or social clubs) or online (at an online forum or a freelance website). But after taking home the “friend” badge, e.g. invited on Facebook or mentioned on Twitter, usually nothing much gets shared but micro posts and/or app invites.</p> 
 <p><span class="grey"><b>Compliments.</b></span> I usually wouldn’t know when someone is complimenting me behind my back. I don’t think there is an app for that yet. I’m not a fan of talking about others, but isn’t that what we do all the time? Nobody waits for the other person’s approval before saying that she or he has a friend that is “a great cook” or “a great wingman.”</p>  
@@ -44,9 +44,9 @@ featured-image-alt: People facing home cinema screen
 <div class="fix-7x-12 toCenter mb-0 pb-0 w3-xlarge">
 <p class="py-my-0"><em>Everybody talks.</em> But the way people talk to you when you’re out and about is different from the way you talk to someone you just met online. Due to the nature of their work, freelancers who work online might prefer one method of communication to another, e.g. email over phone. The old fashioned offline friendship relies heavily on phone conversations, text messages, and face-to-face chats. Meanwhile, an online friendship can still flourish even if you never meet each other in real life.</p></div>
 
-<div class="fix-7x-12 toCenter w3-medium"><h2 class="font-weight-bold">Don't do these to your freelancer friends</h2></div>
+<div class="fix-7x-12 toCenter"><h2 class="font-weight-bold">Don't do these to your freelancer friends</h2></div>
 
-<div class="fix-7x-12 toCenter pb-2 w3-medium">
+<div class="fix-7x-12 toCenter pb-2">
 
 <p>There are some things you probably shouldn't do to a freelancer friend:</p>
 
@@ -68,20 +68,20 @@ featured-image-alt: People facing home cinema screen
 <h4 class="call-to-action">6. Turn every chance into a job interview.</h4>
 <p>Just because a friend is working remotely from home, does not mean that she wants a job interview practice session with you. You don’t have to ask her about her finances, her product offerings, or her services. You also don’t have to give her unsolicited career advice just because. A piece of unsolicited advice may cause stress and people easily take them as criticism instead of support.</p></div>
 
-<div class="fix-7x-12 toCenter w3-medium"><h2 class="font-weight-bold">The ‘don’t be a stranger’ rule</h2></div>
+<div class="fix-7x-12 toCenter"><h2 class="font-weight-bold">The ‘don’t be a stranger’ rule</h2></div>
 
-<div class="fix-7x-12 toCenter mb-0 w3-medium">
+<div class="fix-7x-12 toCenter mb-0">
 <p class="toLeft">Imagine visiting a small neighborhood café for the first time. Nobody there knows you and you don’t know anyone. In fact, you don’t even know what drink to order. When you approach the counter, you know for sure, and even expect, the waiter to greet you in such a manner that would not make you feel embarrassed or unwelcomed. Most waiters would offer a warm smile and a bit of advice on what to order to help you make up your mind. They are friendly but they are not your friends.</p></div>
 
 <div class="fix-7x-12 toCenter mb-0 w3-xlarge">
 <p>Most waiters won’t be a jerk to you, because if they do, they risk losing their job. You might not return to their coffee house. You might say something bad about their business online. You might sue them.</p></div>
 
-<div class="fix-7x-12 toCenter pb-2 w3-medium"><p>Likewise, the friendliness of a waiter at some café does not warrant a friendship. Neither the waiter nor you owe each other anything more than the common hospitality standards. You can be a good customer and provide helpful feedback or a tip you deem appropriate, but both of you are practically strangers beyond this point.</p>
+<div class="fix-7x-12 toCenter pb-2"><p>Likewise, the friendliness of a waiter at some café does not warrant a friendship. Neither the waiter nor you owe each other anything more than the common hospitality standards. You can be a good customer and provide helpful feedback or a tip you deem appropriate, but both of you are practically strangers beyond this point.</p>
 <p>The “don’t be a stranger” rule is common online agreement. But what we’re really saying is <em>don’t be a jerk</em> to the strangers you meet. This rule goes beyond the realm of the internet. And when it comes to your freelancing friend, don’t <em>become</em> the stranger.</p></div> 
 
 
-<div class="fix-7x-12 toCenter w3-medium"><h2 class="font-weight-bold">Friendship has tiers and levels</h2></div>
+<div class="fix-7x-12 toCenter"><h2 class="font-weight-bold">Friendship has tiers and levels</h2></div>
 
-<div class="fix-7x-12 toCenter mb-0 w3-medium">
+<div class="fix-7x-12 toCenter mb-0">
 <p>Just because someone you used to know is now a freelancer that does not make her “your ex-friend.” It does not imply that if you would like to chat with her you would need to pay for her time. It also does not mean that she is using the term “freelancer” to stop the friendship from growing.</p> 
 <p>Along the lines of relationships we have, friendship comes last. There’s family, sisters, brothers, parents, cousins, children, in-laws, pets, extended families, family friends. Married couples are usually very quick in cutting off ties with their single friends, and single people are not going to waste their time with couples they don’t like.</p></div>
