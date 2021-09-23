@@ -390,6 +390,20 @@ p.story-1 { /* For stories in the home page and elsewhere not on the blog. */
 	font-weight: 700;
 }
 
+p.aside {
+  width: 160px;
+  line-height: 1.25;
+  font-size: 1.25rem;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  --tw-text-opacity: 0.77;
+    color: rgba(75,85,99,var(--tw-text-opacity));
+  font-style: italic;
+  background-color: none;
+  margin-bottom:1.75rem;
+}
+
 /* Handling the typography */
 
 h1, h2, h3, h4, h5, h6 { 
@@ -903,7 +917,7 @@ li.content {
 .w3-btn, .w3-button {
 	max-width:200px;	
 }
-div.whole-banner {
+div.whole-banner p.aside{
 	display:none;
 }}
 
