@@ -397,7 +397,7 @@ p.aside {
   padding-left: 15px;
   margin-left: 15px;
   position: absolute;
-  right: 5%;
+  right: 20%;
   --tw-text-opacity: 0.77;
     color: rgba(75,85,99,var(--tw-text-opacity));
   font-style: italic;
@@ -920,6 +920,12 @@ li.content {
 div.whole-banner {
 	display:none;
 }}
+
+@media (max-width: 992px) {
+	p.aside, figcaption {
+		display:none;
+	}
+}
 
 /* Small devices (landscape phones, 576px and up) 
 @media (min-width: 576px) and (max-width: 767.98px) { ... } */
