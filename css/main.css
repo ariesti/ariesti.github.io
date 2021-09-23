@@ -923,13 +923,7 @@ div.whole-banner, figcaption, p.aside {
 
 @media (max-width: 992px) {
 	p.aside {
-	line-height: 1.6em;
-	color: #212529;
-	margin-top: 1.5em;
-	margin-bottom: 1.5em;
-	font-weight: 400;
-	margin-top: 0;
-	margin-bottom: 1rem;
+	all:unset;
 	}
 }
 
