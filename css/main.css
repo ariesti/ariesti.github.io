@@ -393,7 +393,6 @@ p.story-1 { /* For stories in the home page and elsewhere not on the blog. */
 p.aside {
   width: 160px;
   line-height: 1.25;
-  font-size: 1.25rem;
   padding-left: 15px;
   margin-left: 15px;
   position: absolute;
