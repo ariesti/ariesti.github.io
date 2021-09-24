@@ -390,7 +390,7 @@ p.story-1 { /* For stories in the home page and elsewhere not on the blog. */
 	font-weight: 700;
 }
 
-p.aside {
+.aside {
   width: 160px;
   line-height: 1.25;
   padding-left: 15px;
@@ -917,19 +917,19 @@ li.content {
 .w3-btn, .w3-button {
 	max-width:200px;	
 }
-div.whole-banner, figcaption, p.aside {
+div.whole-banner, figcaption, .aside {
 	display:none;
 }}
 
-/* @media (max-width: 1024px) {
-	p.aside {
+@media (max-width: 960px) {
+	.aside {
 	all:unset;
 	font-size: 1.1em;
 	}
-} */
+}
 
-@media (max-width: 960px) {
-	p.aside {
+/* @media (max-width: 960px) {
+	.aside {
 		border-bottom-width: 1px;
 		border-top-width: 1px;
 		--tw-bg-opacity: 1;
@@ -943,7 +943,7 @@ div.whole-banner, figcaption, p.aside {
 		right: 0;
 		position: relative;
 	}
-}
+} */
 
 
 /* Small devices (landscape phones, 576px and up) 
