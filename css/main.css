@@ -234,6 +234,13 @@ body {
 #middle { padding-top: 30px; padding-bottom: 30px; background-color: #fff;  }
 #wrapper { padding: 0 100px; background: #fff; }
 
+.text-container {
+    display: inline-block;
+    float: right;
+    position: relative;
+    width: 45%;
+}
+
 .normal {
   word-break: normal;
 }
