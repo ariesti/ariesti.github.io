@@ -51,6 +51,7 @@ layout: words
 </section>
   
 <!-- Meta author, meta date -->
+<section>
 <div class="fix-7x-12 toCenter row">
  <div class="col-6 text-left"> 
   {% for updated in page.updated %}
@@ -58,7 +59,8 @@ layout: words
   <p class="text-left">Updated by <a href="/categories/#" class="neutral"><span class="beta"><code class="highlighter-rouge"><nobr>{{ page.updated-by }}</nobr></code></span></a>	  
   <br><span class="alpha mt-3">{{ page.updated | date: '%B %-d, %Y — %H:%M' }}</span></p> 	  
   {% endfor %}</div> 
-</div>
+ </div>
+</section>
   
 <section class="pb-5"><div class="container font-weight-medium">
   {{ content }}
@@ -76,7 +78,8 @@ layout: words
   {% unless forloop.last %}&nbsp;{% endunless %}
     {% endfor %}</p></span>
 </div -->
-  
+
+<section>
   <div class="fix-7x-12 toCenter row">
   <hr>
   <p class="w3-small">Tagged as:
@@ -98,6 +101,7 @@ layout: words
     <a class="next pink" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
     {% endif %}</div>
   </div></div></div>
+ </section>
   
 <!-- <div class="relatedPosts">
 <h4>You May Also Enjoy</h4>
