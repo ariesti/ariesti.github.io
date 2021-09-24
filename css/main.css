@@ -921,7 +921,7 @@ div.whole-banner, figcaption, p.aside {
 	display:none;
 }}
 
-@media (max-width: 992px) {
+@media (max-width: 1024px) {
 	p.aside {
 	all:unset;
 	font-size: 1.1em;
