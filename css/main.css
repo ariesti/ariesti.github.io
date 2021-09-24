@@ -97,6 +97,12 @@ body {
 
 .container > hr { clear: both; margin: 30px 0; }
 .container > hr.footer { clear: both; margin-bottom: 15px; }
+.sidebar {
+	float: right; 
+	display: block;
+	border: 2px black solid;
+	padding: 200px 50px 100%;
+}
 
 /* COLORS */
 /* Brand colors */
