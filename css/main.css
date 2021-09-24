@@ -921,12 +921,30 @@ div.whole-banner, figcaption, p.aside {
 	display:none;
 }}
 
-@media (max-width: 1024px) {
+/* @media (max-width: 1024px) {
 	p.aside {
 	all:unset;
 	font-size: 1.1em;
 	}
+} */
+
+@media (max-width: 960px) {
+	p.aside {
+		border-bottom-width: 1px;
+		border-top-width: 1px;
+		--tw-bg-opacity: 1;
+    		background-color: rgba(243,244,246,var(--tw-bg-opacity));
+		--tw-text-opacity: 1;
+    		color: rgba(31,41,55,var(--tw-text-opacity));
+		width: 100%;
+		padding: .75rem;
+		margin-bottom: 1.75rem;
+		margin-top: .75rem;
+		right: 0;
+		position: relative;
+	}
 }
+
 
 /* Small devices (landscape phones, 576px and up) 
 @media (min-width: 576px) and (max-width: 767.98px) { ... } */
