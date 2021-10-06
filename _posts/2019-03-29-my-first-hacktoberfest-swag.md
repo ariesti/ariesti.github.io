@@ -16,7 +16,7 @@ featured-image-description: S-S-S-SWAAAG!
 featured-image-alt: S-S-S-SWAAAG!
 ---
 <div class="fix-7x-12 toCenter mb-0 w3-medium">
-<p>Hacktoberfest motivates newbies to contribute to <b class="grey">open source projects</b>. In case you need to know, last year was my first time participating fully, and I did not regret a minute of it. Although come to think of it now, there were a few things I could have done to maximize my participation.</p>
+    <p>Hacktoberfest motivates newbies to contribute to <b class="alpha mark">open source</b> projects. In case you need to know, last year was my first time participating fully, and I did not regret a minute of it. Although come to think of it now, there were a few things I could have done to maximize my participation.</p>
 <p>If you’ve been thinking about collaborating with others, open source is a great start. Every year since 2013, the community celebrates open source software by rewarding contributors during the month of October.</p>
 <p>Don’t worry so much about the coding bits, because the focus of Hacktoberfest is *to contribute to a software project*. It is first-timer friendly, and you are not limited to only your coding skill sets. Any area where you might be able to help is within your reach: social media marketing, copywriting, editing, design, testing, bug reporting, business, etc.</p>
 <p>Okay, maybe business is still a little way off, but here are some things you can do to get started (right away):</p></div>
