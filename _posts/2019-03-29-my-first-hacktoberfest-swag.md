@@ -3,7 +3,7 @@ layout: post-words
 author: Lovelli Fuad
 title: "Got My Very First Dev Swag in the Mail. It's Hacktoberfest No. 5!"
 description: I joined Hacktoberfest last year and got my first dev swag this year. You too can take part in this community event this October.
-lead: <b>Disclaimer:</b> The community event ended two years ago in October, but my first dev swag was just delivered to me a few <b>business days</b> ago.
+lead: <code>Disclaimer:</code> The community event ended two years ago in October, but my first dev swag was just delivered to me a few <b class="alpha mark">business days</b> ago.
 permalink: blog/hacktoberfest-dev-swag
 updated: 2020-03-04 05:34 PM
 updated-by: "Bob Bock"
