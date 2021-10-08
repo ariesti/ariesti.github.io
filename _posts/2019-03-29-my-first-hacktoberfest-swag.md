@@ -79,7 +79,7 @@ featured-image-alt: S-S-S-SWAAAG!
 <div class="container mb-5">
 <figure class="figure-img img-fluid rounded mt-4 mb-4">
   <img src="/assets/image/2-ftt.png" class="figure-img img-fluid rounded" alt="Finally got my swag in the mail">
-  <figcaption class="figure-caption">My first dev swag bundle consists of a maroon t-shirt, an Octocat sticker, a shark sticker, a sticker with four dots, and a coaster for my mug.</figcaption>
+  <figcaption class="figure-caption">My first dev swag bundle. A maroon t-shirt, an Octocat sticker, a shark sticker, a sticker of four dots, a coaster.</figcaption>
 </figure>
 </div>
 
