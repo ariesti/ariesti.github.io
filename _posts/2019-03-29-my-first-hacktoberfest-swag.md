@@ -79,11 +79,11 @@ featured-image-alt: S-S-S-SWAAAG!
 <div class="fix-7x-12 toCenter mb-5">
 <figure class="figure-img img-fluid rounded mt-4 mb-4">
   <img src="/assets/image/2-ftt.png" class="figure-img img-fluid rounded" alt="Finally got my swag in the mail">
-  <figcaption class="figure-caption">My first dev swag bundle. A maroon t-shirt, an Octocat sticker, a shark sticker, a sticker of four dots, a coaster.</figcaption>
+  <figcaption class="figure-caption">A maroon t-shirt, an Octocat sticker, a shark sticker, a sticker of four dots, a coaster.</figcaption>
 </figure>
 </div>
 
 <div class="fix-7x-12 toCenter pb-2 w3-medium">
 <p>This issue has come up in online forum discussions. After some time, the package tracking for Hacktoberfest swag became unavailable.. so people weren't able to find out where their package was or where the rewards got stuck. I was told that my package was already dispatched in time but was rejected due to conflict of address. The design team had to resend my package, and luckily the second time was a charm.</p>
-<p>Indonesian customs fee for imported goods does not charge any item that is less than $100 in value, but somehow my dev swag was held in customs, as proven by the customs tariff receipt handed to me. I had to pay about $1.5 for customs, which is hilarious! The package itself is not even a taxable item. It took my swag about one month to make it to the post office.</p>
+<p>Indonesian customs fee for imported goods does not charge any item that is less than $100 in value, but somehow my dev swag was held in customs, as shown by the customs tariff receipt handed to me. I had to pay about $1.5 for customs, which is hilarious! The package itself is not even a taxable item. It took my swag about one month to make it to the post office.</p>
 </div>
