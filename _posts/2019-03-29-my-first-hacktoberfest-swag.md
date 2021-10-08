@@ -76,7 +76,7 @@ featured-image-alt: S-S-S-SWAAAG!
 
 <div class="fix-7x-12 toCenter w3-medium"><h2 class="font-weight-bold">It's Not All About the Swag But When It Is, It's Lit . .</h2></div>
 
-<div class="container mb-5">
+<div class="fix-7x-12 toCenter mb-5">
 <figure class="figure-img img-fluid rounded mt-4 mb-4">
   <img src="/assets/image/2-ftt.png" class="figure-img img-fluid rounded" alt="Finally got my swag in the mail">
   <figcaption class="figure-caption">My first dev swag bundle. A maroon t-shirt, an Octocat sticker, a shark sticker, a sticker of four dots, a coaster.</figcaption>
