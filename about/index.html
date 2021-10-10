@@ -10,7 +10,9 @@ tagline: Coding is a way to get what I want
 categories: [introduction]
 tags: [programming, do, learn]
 permalink: /about/
----		
+---
+<style>#more {display: none;}
+</style>
 <main>
 
 <section class="pb-5 pt-0">
@@ -40,7 +42,8 @@ permalink: /about/
 	 <div class="col-sm-10">
   <p>Hi there, I'm <a href="/about" class="pinklink">Lovelli Fuad</a>, a full-stack freelancer. 
      I like to have things in threes, and I'm good with my hands. Some of my favourite tools are post-its, pens, pencils, thick lined journals, iPads, desktops, and headphones. I like to have things in threes, and I’m good with my hands.
-     Let's <a href="https://fingertip.top/about/work-with-me/" class="blue">build something</a> great together! Or, you can read more about my life.</p>
+     Let's <a href="https://fingertip.top/about/work-with-me/" class="blue">build something</a> great together! Or, you can read more about my life.<span id="dots">..</span></p>
+	<p onclick="myFunction()" id="myBtn"><span id="manualTitle text-container" class="beta font-weight-bold">More +</span></p>		
   <p>I currently work, study, and play online. So technically, I could say I'm all over the web. But it wasn't always like that.</p>
   <p>I was born in Riau, a province in the eastern coast of Sumatra, Indonesia. 
 	 I lived in a secluded city, where there was only one theater for an entire neighborhood!
@@ -72,7 +75,23 @@ permalink: /about/
       </div>
     </div>
   </div>
-  
+<script>
+function myFunction() {
+  var dots = document.getElementById("dots");
+  var moreText = document.getElementById("more");
+  var btnText = document.getElementById("myBtn");
+
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Read more"; 
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.innerHTML = "Read less"; 
+    moreText.style.display = "inline";
+  }
+}
+</script> 
 </section>		
 
 </main>
