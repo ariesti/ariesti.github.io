@@ -14,7 +14,7 @@ featured-image: my-cinema-quote.png
 featured-image-description: Are you a freelancer friend?
 featured-image-alt: People facing home cinema screen
 ---
-  <div class="fix-7x-12 toCenter mb-5 w3-xlarge">
+  <div class="fix-7x-12 toCenter mb-5">
   <p>In our lives, there are many types of friends. There’s the online friend, the offline friend, the Twitter friend, the Facebook friend, the blogging friend, the childhood   
     friend, and nowadays, the freelancer friend.</p>
   </div>
@@ -41,7 +41,7 @@ featured-image-alt: People facing home cinema screen
 <p><span class="grey"><b>Supporting each other.</b></span> I don’t go to a friend’s music concert to provide moral support. I go to a concert to watch a musical performance. Friends can only give moral support if they care about something; it’s perfectly okay not to care openly about something. There’s always that “deep down inside” thing you have within you.</p> 
 <p>However similar, online and offline friendships are essentially two different things. They are not one and the same. Here's an illustration.</p></div>
 
-<div class="fix-7x-12 toCenter mb-0 pb-0 w3-xlarge">
+<div class="fix-7x-12 toCenter mb-0 pb-0">
 <p class="py-my-0"><em>Everybody talks.</em> But the way people talk to you when you’re out and about is different from the way you talk to someone you just met online. Due to the nature of their work, freelancers who work online might prefer one method of communication to another, e.g. email over phone. The old fashioned offline friendship relies heavily on phone conversations, text messages, and face-to-face chats. Meanwhile, an online friendship can still flourish even if you never meet each other in real life.</p></div>
 
 <div class="fix-7x-12 toCenter"><h2 class="font-weight-bold">Don't do these to your freelancer friends</h2></div>
