@@ -104,13 +104,15 @@ layout: words
   <div class="PageNavigation neutral">    
     <div class="row">
       <div class="col-5 text-left">
+        <span class="alpha">previous</span><br>
         {% if page.previous.url %}
-          <a class="prev pink" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+          <a class="prev pink" href="{{page.previous.url}}">{{page.previous.title}}</a>
         {% endif %}</div>
       <div class="col-2"></div>
       <div class="col-5 text-right">
+        <span class="alpha">next</span><br>
         {% if page.next.url %}
-          <a class="next pink" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+          <a class="next pink" href="{{page.next.url}}">{{page.next.title}}</a>
         {% endif %}
       </div>
   </div></div></div>
