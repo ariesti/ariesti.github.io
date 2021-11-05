@@ -102,14 +102,14 @@ layout: words
 <div class="container mb-5">
 <div class="PageNavigation neutral">
 <div class="row">
-  <div class="col-5 text-left">
+  <div class="col-5 text-right">
   {% if page.previous.url %}
-    <a class="prev pink" href="{{page.previous.url}}">&laquo; {{page.previous.title | truncatewords:5}}</a>
+    <a class="prev pink" href="{{page.previous.url}}">&laquo; {{page.previous.title | truncatewords:8}}</a>
   {% endif %}</div>
   <div class="col-2"></div>
-  <div class="col-5 text-right">
+  <div class="col-5 text-left">
   {% if page.next.url %}
-    <a class="next pink" href="{{page.next.url}}">{{page.next.title | truncatewords:5}} &raquo;</a>
+    <a class="next pink" href="{{page.next.url}}">{{page.next.title | truncatewords:8}} &raquo;</a>
     {% endif %}</div>
   </div></div></div>
  </section>
