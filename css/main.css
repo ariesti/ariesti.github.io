@@ -12,7 +12,7 @@ version history: v.1.0
 /* Main.css Doc - follow Normalize.css v8.0.0
 
 	1. Correct the line height in all browsers. 
-	2. Prevent adjustments of font size after orientation changes in iOS */
+	2. Prevent adjustments of font size foafter orientation changes in iOS */
 
 html {
   line-height: 1.15; /* 1 */
@@ -103,6 +103,12 @@ body {
 	border: 2px black solid;
 	padding: 200px 50px 100%;
 }
+.post-footer {
+	padding-bottom: 7.5px;
+    	margin-bottom: 30px;
+}
+
+
 
 /* COLORS */
 /* Brand colors */
