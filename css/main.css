@@ -112,7 +112,14 @@ body {
     justify-content: space-between;
     flex-wrap: wrap;
 }
-
+.post-nav p:last-child {
+	padding-left:7.5px;
+	text-align:right;
+}
+.post-nav p {
+	flex: 1 1 0;
+	width: 45%;
+}
 
 /* COLORS */
 /* Brand colors */
