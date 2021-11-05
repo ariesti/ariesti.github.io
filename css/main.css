@@ -107,7 +107,11 @@ body {
 	padding-bottom: 7.5px;
     	margin-bottom: 30px;
 }
-
+.post-nav {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
 
 
 /* COLORS */
