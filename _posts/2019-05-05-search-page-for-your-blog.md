@@ -76,7 +76,7 @@ featured-image-alt: Search page
           </a>
     </div>
     </div>
-<figcaption class="figure-caption">What about a visual search?</figcaption>
+<figcaption class="figure-caption alpha">What about a visual search?</figcaption>
 </div>
 
 <div class="fix-7x-12 toCenter mb-0 w3-medium">
