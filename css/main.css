@@ -852,7 +852,7 @@ a.tag-cloud:visited { color: #333; }
     border: 0;
 } */
 
-ul { font-size: 1em; line-height: 1.4em; color: #333; }
+ul { font-size: 0.9125em; line-height: 1.4em; color: #333; }
 header ul { text-decoration: none; font-size: 1.1em; padding: 0px; list-style-type: none; font-weight: bold; } 
 header ul li { display: inline; margin-right: 20px; } 
         
@@ -906,7 +906,7 @@ li.posts {list-style: none; font-weight: 400;}
 
 /* Content */
 ul.content {	
-	font-size: 1.1em; ;
+	font-size: 0.9125em; ;
     	line-height: 1.6em;
    	margin-bottom: 1.5em;
     	list-style-position: outside;
@@ -922,7 +922,7 @@ ul.content {
 }
 	
 li.content {
-	font-size: 1.1em;
+	font-size: 0.9125em;
     	line-height: 1.6em;
 	font-weight: 400!important;
 	display: list-item;
