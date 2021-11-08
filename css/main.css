@@ -4,7 +4,7 @@ Finger Tip-Top Screen Stylesheet
 version: 1.0
 date: I don't have a date for this!
 author: Lovelli Fuad
-email: editor@fingertip.top
+email: editor@fingertip.topco
 website: www.fingertip.top
 version history: v.1.0
 */
@@ -199,7 +199,7 @@ body {
 
 /* Supporting Elements */
 .color-star-dust {
-	background-color: #999999;
+	color: #999999 !important;
 }
 
 /* Background variations */
