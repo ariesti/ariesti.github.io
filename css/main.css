@@ -552,6 +552,13 @@ a.new_item_click:hover {
 	margin-bottom: ($spacer * .5) !important; none; 	
 }
 
+/* Bold */
+
+b {
+	font-family: 'Roboto Mono Bold', monospace;
+	font-size: larger;
+}
+
 /* Header */
 
 header, .foot, .index { 
