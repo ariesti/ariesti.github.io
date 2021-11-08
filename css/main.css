@@ -10,7 +10,7 @@ version history: v.1.0
 */
 
 /* Main.css Doc - follow Normalize.css v8.0.0
-
+font
 	1. Correct the line height in all browsers. 
 	2. Prevent adjustments of font size foafter orientation changes in iOS */
 
@@ -88,7 +88,7 @@ pre {
 /* Set the document up */
 
 body { 
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Roboto Mono', monospace;
 	font-size: 1.1em; 
     	color: #212529;
 } 
@@ -406,12 +406,12 @@ p.tight {	/* Spacing closer together */
 }
 
 .lead {		/* For lead paragraph in pages, not in blog posts */
-	font-family: 'Lora', serif;
+	font-family: 'Roboto Mono', monospace;
 }
 
 .text-fine {	/* Not sure how to use this yet, back on it later. */
 	text-transform: none;
-	font-family: 'Work Sans', sans-serif;
+	font-family: 'Lora', serif;
 	font-weight: 100;
 }
 
