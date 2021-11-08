@@ -378,7 +378,10 @@ div.banner {
 	vertical align: middle;
 }
 
-.navbar-brand {font-weight:700!important;}
+.navbar-brand {
+	font-weight:700 !important;
+	font-size:2.5em !important;
+}
 
 .footer {
 	bottom: 0;
