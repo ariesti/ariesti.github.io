@@ -389,7 +389,7 @@ div.banner {
 
 /* Paragraphs */
 p { 	/* Normal paragraph */
-	font-size: 0.9125; 
+	font-size: 0.9125em; 
 	line-height: 1.6em; 
 	color: #212529;
 	margin-top: 1.5em;
@@ -398,7 +398,7 @@ p { 	/* Normal paragraph */
 }
 
 p.tight {	/* Spacing closer together */
-	font-size: 0.9;
+	font-size: 0.9em;
 	line-height:1.6em;
 	color:#333;
 	margin-top: 0;
