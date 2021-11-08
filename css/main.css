@@ -12,7 +12,7 @@ version history: v.1.0
 /* Main.css Doc - follow Normalize.css v8.0.0
 font
 	1. Correct the line height in all browsers. 
-	2. Prevent adjustments of font size foaftcoloer orientation changes in iOS */
+	2. Prevent adjustments of font size orientation changes in iOS */
 
 html {
   line-height: 1.15; /* 1 */
@@ -417,8 +417,8 @@ p.tight {	/* Spacing closer together */
 
 .text-fine {	/* Not sure how to use this yet, back on it later. */
 	text-transform: none;
-	font-family: 'Lora', serif;
-	font-weight: 100;
+	font-family: 'Roboto Mono', monospace;
+	font-weight: lighter;
 }
 
 p.story-1 { /* For stories in the home page and elsewhere not on the blog. */
