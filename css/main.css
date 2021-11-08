@@ -970,7 +970,7 @@ div.whole-banner, figcaption, .aside {
 @media (max-width: 960px) {
 	.aside {
 	all:unset;
-	font-size: 1.1em;
+	font-size: 0.9125em;
 	}
 }
 
