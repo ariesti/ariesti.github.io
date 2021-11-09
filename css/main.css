@@ -558,8 +558,6 @@ a.new_item_click:hover {
 /* Bold */
 
 b {
-	font-family: 'Roboto Mono Bold', monospace;
-	font-size: larger;
 	font-weight: bold;
 }
 
