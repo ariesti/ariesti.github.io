@@ -555,11 +555,16 @@ a.new_item_click:hover {
 	margin-bottom: ($spacer * .5) !important; none; 	
 }
 
-/* Bold */
+/* Other styles */
 
 b {
 	font-weight: bold;
 }
+
+code {
+	font-size: 90% !important;
+}
+
 
 /* Header */
 
