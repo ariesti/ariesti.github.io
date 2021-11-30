@@ -187,7 +187,7 @@ The term <b class="grey">gas money</b> doesn't actually refer to the units of ga
 
 <blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://t.co/wrPLEI6lcd">pic.twitter.com/wrPLEI6lcd</a></p>&mdash; Lovelli Fuad (@lovellifuad) <a href="https://twitter.com/lovellifuad/status/1364992555616636932?ref_src=twsrc%5Etfw">February 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<code>A brief moment of horror.</code>
+<p class="aside">A brief moment of horror.</p>
 
 <b class="grey">Total cost of transaction or TX = Gas Limit * Gas Price</b>
 
