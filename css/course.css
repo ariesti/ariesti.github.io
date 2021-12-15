@@ -1,4 +1,4 @@
-body,p {font-family:'Roboto Mono', monospace; letter-spacing:-0.03em}
+body, p {font-family:'Roboto Mono', monospace;letter-spacing:-0.03em;font-weight:600;}
 .fs-1{letter-spacing:-0.03em}
 .fs-2{letter-spacing:-0.03em}
 .fs-3{letter-spacing:-0.03em}
