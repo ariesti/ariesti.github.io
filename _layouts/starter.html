@@ -2,10 +2,10 @@
 <html>
   <head>
     <!-- Basic Meta Information -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="msvalidate.01" content="4DA12F9AE94F96D1C66B5EF1AC9C0254" />
-	<meta name="yandex-verification" content="fcb97232824ea615" />
+    	<meta charset="utf-8">
+    	<meta name="viewport" content="width=device-width, initial-scale=1">
+    	<meta name="msvalidate.01" content="4DA12F9AE94F96D1C66B5EF1AC9C0254" />
+	meta name="yandex-verification" content="fcb97232824ea615" />
 	<meta name="monetization" content="$ilp.uphold.com/7zr6GNXAMeke">	
 	<meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
     
@@ -20,7 +20,7 @@
 	<meta property="article:published_time" content="{{ page.date }}" />
 	<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
       
-    <!-- Twitter Cards -->
+    	<!-- Twitter Cards -->
 	<meta name="twitter:card" content="summary_large_image"/>
 	<meta name="twitter:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 	<meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
@@ -36,10 +36,10 @@
 	<link rel="manifest" href="/assets/favicon/site.webmanifest">
       
     <!-- Font Styles -->     
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+    	<link rel="preconnect" href="https://fonts.googleapis.com">
+    	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+    	<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
     
     <!-- Page Title Information -->  
 	<title>
@@ -55,6 +55,11 @@
     <link rel="stylesheet" type="text/css" href="css/aos.css">
 
     <!-- Scripts for Theme -->
+	{% include analytics.html %}
+			
+	{% include adsense.html %}
+		
+	{% include cookie-consent.html %} 
       
     <!-- Starter JS -->
     <script src="js/starter.js"></script>   
@@ -288,9 +293,9 @@
 		</div>
 	</nav>
 <!-- End of first navigation -->
-    <!-- div>
+    <div>
         {{content}}
-    </div -->
+    </div>
 <!-- Large header -->
 <!-- section class="py-20 bg-bg-3">
 			<div class="container">
