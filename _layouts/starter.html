@@ -38,7 +38,12 @@
 	<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
 	<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
 	<link rel="manifest" href="/assets/favicon/site.webmanifest">
-	
+
+	<! -- AMP Page -->
+	<link rel="preload" as="script" href="https://cdn.ampproject.org/v0.js">
+	<script async src="https://cdn.ampproject.org/v0.js"></script>
+	<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
 	<!-- Font Styles -->
 	<link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Roboto+Mono:400,500,700&display=swap" rel="stylesheet">	
@@ -64,10 +69,7 @@
 </head>
 <!-- Start of the body elements -->
 <body>
-	<amp-auto-ads type="adsense"
-        data-ad-client="ca-pub-2694585881388947">
-	</amp-auto-ads>	
-	<!-- Navigation -->
+<!-- Navigation -->
     	<nav class="bg-bg-3 py-4 py-lg-7 sticky-top">
 		<div class="d-block d-lg-none">
 			<div class="container">
@@ -353,15 +355,9 @@
 	<!-- {% include scripts.html %} -->
 	<!-- Scripts to Include -->
 	<!-- Adsense script -->
-  	<script async custom-element="amp-auto-ads"src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js"></script>						   
+  	<script async custom-element="amp-auto-ads"src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js"></script>								   
 	<!-- GitHub Buttons -->
 	<script async src="https://buttons.github.io/buttons.js"></script>
-	<script async src="https://cdn.ampproject.org/v0.js"></script>
-	<script>
-    				$(document).ready(function(){
-        				$(".dropdown-toggle").dropdown();
-    					});  
-	</script>
 	<!-- Bootstrap JS to include -->
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/js/bootstrap.bundle.min.js" data-integrity="38d870e9c3c4e532551b530706abb811"></script>
 	<!-- Starter JS -->
