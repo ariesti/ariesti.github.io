@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+	<html lang="en">
+		<head>
+			<!-- Meta Information -->
+			
+			<meta charset="utf-8">			
+			<meta http-equiv="X-UA-Compatible" content="IE=edge">
+			<meta name="author" content="Lovelli Fuad">
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+			<meta name="msvalidate.01" content="4DA12F9AE94F96D1C66B5EF1AC9C0254" />
+			<meta name="yandex-verification" content="fcb97232824ea615" />
+			<meta name="monetization" content="$ilp.uphold.com/7zr6GNXAMeke">
+			
+			<meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
+	
+			<!-- Open Graph for Facebook -->
+	
+			<meta property="og:locale" content="en_US">
+			<meta property="og:type" content="article">
+			<meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+			<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+			<meta property="og:image" content="{{ site.url }}/assets/image/{{ page.featured-image }}" />
+			<meta property="og:site_name" content="Finger Tip-top">
+			<meta property="article:publisher" content="http://www.facebook.com/lovelli.fuad" />
+			<meta property="article:author" content="https://www.facebook.com/lovelli.fuad" />
+			<meta property="article:published_time" content="{{ page.date }}" />
+			<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+	
+			<!-- Twitter Cards -->
+	
+			<meta name="twitter:card" content="summary_large_image"/>
+			<meta name="twitter:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+			<meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+			<meta name="twitter:site" content="@lovellifuad" />
+			<meta name="twitter:creator" content="@lovellifuad">
+			<meta name="twitter:card" content="summary">		
+			
+			<!-- Favicon -->
+			
+			<link rel="canonical" href="{{ page.url | prepend: site.url }}">
+			<link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
+			<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
+			<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
+			<link rel="manifest" href="/assets/favicon/site.webmanifest">
+			
+			<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet">
+			<link href="https://fonts.googleapis.com/css?family=Roboto+Mono:400;500;600;700;800;900&display=swap" rel="stylesheet">
+	
+			<title>
+				{%if page.title %}
+       					{{ page.title }}
+   				{% else %}
+       					{{ site.title }}
+   				{% endif %}
+			</title>
+			
+			<!-- CSS & JavaScript for Template -->
+			<!-- CSS goes here -->
+			
+			<link rel="stylesheet" href="/css/course.css">
+			<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css">
+			
+			{% include analytics.html %}
+			
+			{% include adsense.html %}
+			
+			<!-- JavaScript goes here -->
+			<script async src="https://buttons.github.io/buttons.js"></script>
+			<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+			<script async src="https://cdn.ampproject.org/v0.js"></script>
+			<script>
+    				$(document).ready(function(){
+        				$(".dropdown-toggle").dropdown();
+    					});  
+			</script>
+			<!-- Starter JS -->
+    			<script src="/assets/js/starter.js"></script>  
+			<!-- AOS 3.0.0-beta.6 plugin CSS (Animations) -->
+			<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+			<!-- Adsense script -->
+  			<script async custom-element="amp-auto-ads"src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js"></script>
+  			<!-- Bootstrap JS -->
+  			<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/js/bootstrap.bundle.min.js" data-integrity="38d870e9c3c4e532551b530706abb811"></script> 
+			
+			{% include cookie-consent.html %}
+		
+		</head>
+		<body>
+			<main>
+			
+			{{ content }}
+		
+			</main> 	
+			
+			<!-- Additional scripts can go here -->
+			<script>
+  			AOS.init();
+			</script>
+			
+		</body>
+		
+		<amp-auto-ads type="adsense"
+        		data-ad-client="ca-pub-2694585881388947">
+		</amp-auto-ads>
+	</html>
