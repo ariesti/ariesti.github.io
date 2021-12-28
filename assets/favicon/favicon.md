@@ -1,8 +1,11 @@
 # How to Use the Favicon Folder
 
 1. Create a favicon to be used in your project. 
-
-Doesn't need to be complicated, if you have no time a simple circle with your prominent color will do. 
-Use Google Draw to create 512 x 512 px circle on a transparent background and download it as .png. 
-
 2. Go to favicon.io and upload the favicon, and then download the complete zipped favicon optimized for different devices. 
+3. Next, place the files in the root directory of your website.
+4. Finally, copy the following code and place it in the 'head' directory directory:
+
+'<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">'
