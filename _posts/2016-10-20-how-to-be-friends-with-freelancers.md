@@ -9,7 +9,8 @@ permalink: blog/good-freelancer-friends-guide
 published: 2016-10-20 00:38
 main-categories: [guide]
 other-categories: 
-categories: [guide]
+categories: 
+  - "guide"
 tags: [mentoring, hack, do]
 lang: en
 featured-image: my-cinema-quote.png
