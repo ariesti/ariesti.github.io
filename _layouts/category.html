@@ -3,9 +3,9 @@ layout: course
 ---
 
 <div class="blog list">
-    <h1>Filed Under <small>#{{ page.tag }}</small></h1>
+    <h1>Filed Under <small>#{{ post.tag }}</small></h1>
 
-    {% for post in site.categories[page.tag] %}
+    {% for post in site.categories[post.tag] %}
         {% include post_preview.html %}
     {% endfor %}
 </div>
