@@ -1,5 +1,6 @@
-title: "Lovelli Fuad"
+title: "Fingertip-Top - Content Design with Data and Code"
 markdown: kramdown
+tagline: "Put a finger on it"
 description: "After I discovered coding, by Lovelli Fuad"
 permalink: /blog/:year/:month/:day/:title
 google_analytics: UA-82882327-1
@@ -11,3 +12,13 @@ plugins:
 collections:
   werdz:
     output: true
+  category:
+    output: true
+defaults:
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: "category"
+  
