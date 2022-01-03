@@ -45,12 +45,12 @@ tag_name: beginners
 </section>	
 <!-- Posts with the tag 2 -->
 <section class="py-10 py-lg-20 bg-bg-3">
-<ul class="posts ms-0 ps-0">
 	<div class="row justify-content-center">
+		<ul class="posts ms-0 ps-0">
 		{% for post in site.tags[page.tag_name] %}
-		<div class="col-lg-10 col-xl-8 col-xxl-7 pb-8 justify-content-center d-flex w-25" style="float;left;">
+		<div class="col-lg-10 col-xl-8 col-xxl-7 pb-8 justify-content-center d-flex w-50" style="float;left;">
 		<div>
-		    <img src="https://i.postimg.cc/7ZNT4mxy/dna-1.png" alt="" class="img-fluid w-100 mb-8" data-aos="fade-down" data-aos-delay="0">
+		    <img src="https://i.postimg.cc/7ZNT4mxy/dna-1.png" alt="" class="img-fluid mb-8" data-aos="fade-down" data-aos-delay="0">
                     <p>{{ post.main-categories }}</p>
                     <h4 class="mb-2">{{ post.title }}</h4>
                     <p>{{ post.date | date_to_string }}</p>
