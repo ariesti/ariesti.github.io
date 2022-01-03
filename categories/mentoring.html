@@ -6,6 +6,7 @@ tagline: Some mentoring
 permalink: /categories/mentoring
 tag_name: mentoring
 ---
+<!-- Categories page meta -->
 <section class="py-10 py-lg-20 bg-bg-3">
 	<div class="container">
         <div class="row justify-content-center">
@@ -24,76 +25,17 @@ tag_name: mentoring
 	<div>
 	</div>
 </section>
-		
+<!-- 	Tag clouds -->	
 <section class="py-10 py-lg-20 bg-bg-3">
-<div class="container"> 
-<h2 class="font-weight-light text-center text-lg-left mt-4 mb-0">Tag Clouds</h1>
-
-<p>
-  {% for tag in site.tags %}
-  <a href="#{{ tag[0]}}"
-    style="font-size: {{ tag[1] | size | times: 39 | divided_by: site.tags.size | plus: 21 }}px" class="tag-cloud">
-    {{ tag[0] }} |
-  </a>
-  {% endfor %}
-  </p>
-
-</div>  
-
-<div class="container">
-<h2 class="font-weight-light text-center text-lg-left mt-4 mb-0">Categories</h2>
-<div id="archives">
-{% for category in site.categories %}
-  <div class="archive-group">
-    {% capture category_name %}{{ category | first }}{% endcapture %}
-    <div id="#{{ category_name | slugize }}"></div>
-    
-    <p>
-    <ul>
-    <h4 class="category-head">{{ category_name }}</h4>
-    <a name="{{ category_name | slugize }}"></a>
-    {% for post in site.categories[category_name] %}
-    <article class="archive-item">
-      <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></li>
-    </article>
-    {% endfor %}
-    </ul>
-    </p>
-  
-  </div>
-{% endfor %}
-</div>      
-</div>
-    
-<div class="container">
-<h2 class="font-weight-light text-center text-lg-left mt-4 mb-0">{{page.tag_name}}</h2>        
-
-<div id="archives">
-{% for tag in site.tags[page.tag_name] %}
-  <div class="archive-group">
-    {% capture tag_name %}{{ tag | first }}{% endcapture %}
-    <div id="#{{ tag_name | slugize }}"></div>
- 
-    <p>
-    <ul>
-    <h4 class="tag-head">{{ page.tag_name }}</h4>
-    <a name="{{ tag_name | slugize }}"></a>
-    {% for post in site.tags[page.tag_name] %}
-    <article class="archive-item">
-	<li>
-	<a href="{{ post.url | prepend: site.url }}">{{post.title}}</a>
-	<p class="mt-2 text-muted"><span class="alpha color-star-dust">{{ post.date | date_to_string }}</span> » {{ post.lead }}</p>	 
-	</li>
-    </article>
-    {% endfor %}
-    </p>
-  </ul>
-  </div>
-  
-{% endfor %}
-</div>
-  
-  
-</div>
-</section>        
-
+	<div class="container">
+		<h2 class="text-center text-dark-1">Tag Clouds</h2>	
+		<p>
+  		{% for tag in site.tags %}
+ 			<a href="#{{ tag[0]}}"
+    			style="font-size: {{ tag[1] | size | times: 39 | divided_by: site.tags.size | plus: 21 }}px" class="text-action-4 tag-cloud">
+    			{{ tag[0] }} |
+  			</a>
+  		{% endfor %}
+  		</p>
+	</div>
+</section>
