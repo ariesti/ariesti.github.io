@@ -29,7 +29,7 @@ tag_name: mentoring
 <section class="py-10 py-lg-20 bg-bg-3">
 	<div class="container">
 	<div class="row justify-content-center">
-	{% for post in site.categories[page.tag_name] %}
+	{% for post in site.tags[page.tag_name] %}
 		<div class="mb-10 mb-md-15 mb-lg-20 col-sm-8 col-md-6 col-lg-4 d-flex flex-column justify-content-between" data-aos="fade-down" data-aos-delay="0">
 			<div>
 				<a href="{{ post.url }}" class="mb-4 d-block"><img src="i/blog-3-1.jpg" srcset="i/blog-3-1@2x.jpg 2x" alt="" class="img-fluid"></a>
