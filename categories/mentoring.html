@@ -34,6 +34,7 @@ tag_name: mentoring
 	  	{% for post in site.categories[page.tag_name] %}
 	    	<div class="d-flex pb-8 gap-2">
 			<h4 class="font-heading"><a class="text-dark-1" href="{{ post.url }}" title="{{ post.title }}"><b>{{ post.title }}</b></a></h4>
+			<p class="text-action-4">{{ post.main-categories }}</p>
 			<p class=""><span class="initialism">{{ post.date | date_to_string }}</span> » {{ post.lead }}</p>
 		 </div>
 	  	{% endfor %}
