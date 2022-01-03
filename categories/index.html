@@ -1,11 +1,29 @@
 ---
 layout: carou
-title: Categories & Tags
-description: All the categories and tags used in the blog.
-tagline: Let's see what else we've got on that..
+title: Categories
+description: The hopefully complete list of all the categories and tags for Fingertip-Top.
+tagline: Where there's a category there's a list
 permalink: /categories/
 ---
-<main>
+<!-- Categories index page meta -->
+<section class="py-10 py-lg-20 bg-bg-3">
+	<div class="container">
+        <div class="row justify-content-center">
+		<div class="col-md-9 col-lg-7 col-xl-6 mb-8 mb-md-15 text-center">
+                <!-- Name of category -->
+		<p class="fs-1 mb-5 aos-init aos-animate">
+			{{ page.title }}
+		</p>
+		<h2 class="display-5 mb-6" data-aos="fade-down" data-aos-delay="250">
+			{{ page.tagline }}
+		</h2>
+		<p class="fs-2 text-start" data-aos="fade-down" data-aos-delay="500">
+			{{ page.description}}
+		</p>
+		</div>
+	<div>
+	</div>
+</section>
   
 <div class="container mt-mb-5">
     <div class="row">
@@ -114,4 +132,4 @@ permalink: /categories/
   
 </div>
 </section>        
-    </main>
+
