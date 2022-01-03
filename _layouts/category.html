@@ -1,9 +1,21 @@
 ---
 layout: course
 ---
-<span class="bg-bg-3 py-20">
-<div class="container">
-    <!-- Name of the category -->
-    <h1>Topic: #{{ page.tag }}/</h1>
+<section class="py-10 py-lg-20 bg-bg-3">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-9 col-lg-7 col-xl-6 mb-8 mb-md-15 text-center">
+                <!-- Name of category -->
+				<p class="fs-1 mb-5 aos-init aos-animate">
+					{{ page.tag }}
+				</p>
+				<h2 class="display-5 mb-6" data-aos="fade-down" data-aos-delay="250">
+					{{ page.tagline }}
+				</h2>
+				<p class="fs-2 remove-br aos-init aos-animate" data-aos="fade-down" data-aos-delay="500">
+					{{ page.description}}
+				</p>
+			</div>
+    <div>
 </div>
 </div>
