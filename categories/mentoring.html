@@ -29,18 +29,16 @@ tag_name: beginners
 <section class="py-10 py-lg-20 bg-bg-3">
      	<div class="row justify-content-center pb-15">
         <div class="col-lg-10 col-xl-8 col-xxl-7 justify-content-center d-flex">
-	{% for post in site.tags[page.tag_name] %}
-            <ul class="posts ms-0 ps-0">
-                <li class="mb-8 px-4">
+	<ul class="posts ms-0 ps-0">
+	{% for post in site.tags[page.tag_name] %}      
 		<img src="https://i.postimg.cc/7ZNT4mxy/dna-1.png" alt="" class="img-fluid w-100 mb-8" data-aos="fade-down" data-aos-delay="0">
 		<p>{{ post.main-categories }}</p>
 		<h3 class="font-heading mb-4">{{ post.title }}</h3>
 		<p>{{ post.date | date_to_string }}</p>	
 		<p class="text-dark-1">{{ post.lead }}</p>
-                </li>
-	    </ul>
+	</ul>
 	{% endfor %}
-            </div>
+        </div>
         </div>
 </section>	
 <!-- Posts with the tag 2 -->
