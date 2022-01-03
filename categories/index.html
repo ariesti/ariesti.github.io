@@ -33,7 +33,7 @@ permalink: /categories/
 	 <h2 class="text-center">Recent Posts</h2>
 	 <ul class="mt-5 posts">
 	  	{% for post in site.posts %}
-	    	<div class="d-flex flex-column">
+	    	<div class="d-flex pb-8 gap-2">
 			<h4 class="font-heading"><a class="text-dark-1" href="{{ post.url }}" title="{{ post.title }}"><b>{{ post.title }}</b></a></h4>
 			<p class=""><span class="initialism">{{ post.date | date_to_string }}</span> » {{ post.lead }}</p>
 		 </div>
