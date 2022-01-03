@@ -33,11 +33,13 @@ tag_name: mentoring
 		<div class="mb-10 mb-md-15 mb-lg-20 col-sm-8 col-md-6 col-lg-4 d-flex flex-column justify-content-between" data-aos="fade-down" data-aos-delay="0">
 			<div>
 				<a href="{{ post.url }}" class="mb-4 d-block"><img src="i/blog-3-1.jpg" srcset="i/blog-3-1@2x.jpg 2x" alt="" class="img-fluid"></a>
-				<p class="mb-2">{{ post.date | date_to_string }}</p>
-				<a href="{{ post.url }}" title="{{ post.title }}" class="mb-4 mb-xl-10 font-heading text-dark-1 fs-3">{{ post.title }}</a>
+				<p>{{ post.main-categories }}
+				<h4 class="mb-2"><a href="{{ post.url }}" title="{{ post.title }}" class="mb-4 mb-xl-10 font-heading text-dark-1 fs-3">{{ post.title }}</a></h4>
 			</div>
 			<div>
-				<p class="mb-8 fs-3">{{ post.lead }}</p>
+				<p>{{ post.date | date_to_string }}</p>
+				<p class="d-none d-lg-block">{{ post.lead }}</p>
+				<p><a class="text-action-4" href="{{ post.url }}">Read more</p>
 				<div class="border-bottom border-dark-1 opacity-20"></div>
 			</div>
 		</div>
