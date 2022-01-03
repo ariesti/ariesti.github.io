@@ -28,8 +28,8 @@ tag_name: beginners
 <!-- Posts with the tag -->
 <section class="py-10 py-lg-20 bg-bg-3">
      	<div class="row justify-content-center pb-15">
-	{% for post in site.tags[page.tag_name] %}
         <div class="col-lg-10 col-xl-8 col-xxl-7 justify-content-center d-flex">
+	{% for post in site.tags[page.tag_name] %}
             <ul class="posts ms-0 ps-0 " style="columns:2;">
                 <li>
 		<img src="https://i.postimg.cc/7ZNT4mxy/dna-1.png" srcset="https://i.postimg.cc/YSqLCY9L/dna-2.png 2x" alt="" class="img-fluid w-50 mb-8" data-aos="fade-down" data-aos-delay="0">
@@ -37,9 +37,9 @@ tag_name: beginners
 		<p>{{ post.date | date_to_string }}</p>	
 		<p class="fs-3 text-dark-3">{{ post.lead }}</p>
                 </li>
-            </ul>
-            </div>
+	    </ul>
 	{% endfor %}
+            </div>
         </div>
 </section>	
 <!-- 	Tag clouds -->	
