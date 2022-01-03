@@ -1,0 +1,52 @@
+---
+layout: course
+title: Filed under guide
+description: Guides are compiled standards and guidance to help reach the goals you've set. They can provide information, advice or instruction to help complete a complex task, but can also be very simple.
+tagline: Don't get lost
+permalink: /categories/guide
+tag_name: guide
+---
+<!-- Categories page meta -->
+<section class="py-10 py-lg-20 bg-bg-3">
+	<div class="container">
+        <div class="row justify-content-center">
+		<div class="col-md-9 col-lg-7 col-xl-6 mb-8 mb-md-15 text-center">
+                <!-- Name of category -->
+		<p class="fs-1 mb-5 aos-init aos-animate">
+			{{ page.tag_name }}
+		</p>
+		<h2 class="display-5 mb-6" data-aos="fade-down" data-aos-delay="250">
+			{{ page.tagline }}
+		</h2>
+		<p class="fs-2 text-start" data-aos="fade-down" data-aos-delay="500">
+			{{ page.description}}
+		</p>
+		</div>
+	<div>
+	</div>
+</section>
+<!-- Bare minimum showcasing post with tag -->
+<section class="py-10 py-lg-20 bg-bg-3">
+	<div class="container">
+	<div class="row justify-content-center">
+	{% for post in site.tags[page.tag_name] %}
+		<div class="mb-10 mb-md-15 mb-lg-20 col-sm-8 col-md-6 col-lg-4 d-flex flex-column justify-content-between" data-aos="fade-down" data-aos-delay="0">
+			<div>
+				<a href="{{ post.url }}" class="mb-4 d-block"><img src="i/blog-3-1.jpg" srcset="i/blog-3-1@2x.jpg 2x" alt="" class="img-fluid"></a>
+				<p>{{ post.main-categories }}
+				<h3><a href="{{ post.url }}" title="{{ post.title }}" class="mb-4 font-heading text-dark-1 fs-3">{{ post.title }}</a></h3>
+			</div>
+			<div>
+				<p>{{ post.date | date_to_string }}</p>
+				<p class="d-none d-lg-block">{{ post.lead }}</p>
+				<p><a class="text-action-4" href="{{ post.url }}">Read more</p>
+				<div class="border-bottom border-dark-1 opacity-20"></div>
+			</div>
+		</div>
+	</div>
+	{% endfor %}
+	</div>
+</section>
+
+
+
