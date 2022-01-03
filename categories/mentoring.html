@@ -1,7 +1,7 @@
 ---
 layout: course
 title: Filed under mentoring
-description: Everything about mentoring
+description: Everything about mentoring, like what it's about, what's involved, why it's a good idea and when mentoring isn't needed. Just everything about mentoring, really. 
 tagline: Some mentoring 
 permalink: /categories/mentoring
 tag_name: mentoring
@@ -24,6 +24,7 @@ tag_name: mentoring
 	<div>
 	</div>
 </section>
+		
 <section class="py-10 py-lg-20 bg-bg-3">
 <div class="container"> 
 <h2 class="font-weight-light text-center text-lg-left mt-4 mb-0">Tag Clouds</h1>
@@ -37,12 +38,10 @@ tag_name: mentoring
   {% endfor %}
   </p>
 
-    </div>  
+</div>  
 
 <div class="container">
-  
-<h2 class="font-weight-light text-center text-lg-left mt-4 mb-0">Categories</h1>
-  
+<h2 class="font-weight-light text-center text-lg-left mt-4 mb-0">Categories</h2>
 <div id="archives">
 {% for category in site.categories %}
   <div class="archive-group">
@@ -63,28 +62,28 @@ tag_name: mentoring
   
   </div>
 {% endfor %}
-</div>
-        
+</div>      
 </div>
     
 <div class="container">
-  
 <h2 class="font-weight-light text-center text-lg-left mt-4 mb-0">{{page.tag_name}}</h2>        
 
 <div id="archives">
-{% for tag in site.tags %}
+{% for tag in site.tags[page.tag_name] %}
   <div class="archive-group">
     {% capture tag_name %}{{ tag | first }}{% endcapture %}
     <div id="#{{ tag_name | slugize }}"></div>
-    
-    
+ 
     <p>
     <ul>
     <h4 class="tag-head">{{ page.tag_name }}</h4>
     <a name="{{ tag_name | slugize }}"></a>
     {% for post in site.tags[page.tag_name] %}
     <article class="archive-item">
-      <li><a href="{{ post.url | prepend: site.url }}">{{post.title}}</a></li>
+	<li>
+	<a href="{{ post.url | prepend: site.url }}">{{post.title}}</a>
+	<p class="mt-2 text-muted"><span class="alpha color-star-dust">{{ post.date | date_to_string }}</span> » {{ post.lead }}</p>	 
+	</li>
     </article>
     {% endfor %}
     </p>
