@@ -25,5 +25,22 @@ tag_name: mentoring
 	<div>
 	</div>
 </section>
+<!-- Bare minimum showcasing post with tag -->
+<section class="py-10 py-lg-20 bg-bg-3">  
+<div class="container">
+    <div class="row justify-content-center">
+	 <div class="col-lg-10 col-xl-8 col-xxl-7">	
+	 <ul class="posts">
+	  	{% for post in site.categories[page.tag_name] %}
+	    	<div class="d-flex pb-8 gap-2">
+			<h4 class="font-heading"><a class="text-dark-1" href="{{ post.url }}" title="{{ post.title }}"><b>{{ post.title }}</b></a></h4>
+			<p class=""><span class="initialism">{{ post.date | date_to_string }}</span> » {{ post.lead }}</p>
+		 </div>
+	  	{% endfor %}
+	  </ul>	 
+	    </div>
+    </div>
+</div>  
+</section> 
 
 
