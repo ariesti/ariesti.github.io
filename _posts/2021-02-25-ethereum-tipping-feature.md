@@ -9,7 +9,7 @@ permalink: blog/ethereum-tipping-feature
 date: 2021-02-25 19:00
 main-categories: [tips]
 other-categories: [guide, code snippets]
-tags: [ux, make, website]
+tags: [beginners, make, ux]
 lang: en
 featured-image: snacks-in-vending-machine.png
 featured-image-alt: The most popular vending machine snacks lining up inside a vending machine. 
