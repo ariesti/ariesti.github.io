@@ -38,4 +38,18 @@ tag_name: mentoring
   		{% endfor %}
   		</p>
 	</div>
+	
+	<div class="container">
+	<h2 class="font-weight-light text-center text-lg-left mt-4 mb-0">{{page.tag_name}}</h2> 
+	<ul>
+    	{% for post in site.tags[page.tag_name] %}
+   	<div>
+		<li>
+		<a href="{{ post.url | prepend: site.url }}">{{post.title}}</a>
+		<p class="mt-2 text-muted"><span class="alpha color-star-dust">{{ post.date | date_to_string }}</span> » {{ post.lead }}</p>	 
+		</li>
+    	</div>
+	{% endfor %}
+	</ul> 
+	</div>
 </section>
