@@ -6,46 +6,27 @@ tagline: Some mentoring
 permalink: /categories/mentoring
 tag_name: mentoring
 ---
-
-<main>
-  
-<div class="container mt-mb-5">
-    <div class="row">
-       <div class="col-sm-1"></div>
-	 <div class="col-sm-10">	
-	 <p class="text-muted mb-5">I try to update this blog regularly with important things going on with the website and my most recent freelancing moves, 
-		 but are you missing anything particular? You can let me know what you want to read about or tweet me <a href="https://www.twitter.com/lovellifuad" class="pinklink">@lovellifuad</a>.</p>
-	 <h2 class="mt-3">Recent Posts</h2>
-	 <ul class="mt-5 posts">
-	  	{% for post in site.posts %}
-	    	<div class="mx-0 px-0">
-			<p class="mb-0 w3-large" style="font-weight:500;"><a class="call-to-action" href="{{ post.url }}" title="{{ post.title }}" class="words"><b>{{ post.title }}</b></a></p>
-			<p class="mt-2 text-muted"><span class="alpha color-star-dust">{{ post.date | date_to_string }}</span> » {{ post.lead }}</p>
-		 </p>
-		 </div>
-	  	{% endfor %}
-	  </ul>	 
-	    </div>
-	<div class="col-sm-1"></div>
-    </div>
-</div>  
-  
-  
-<section class="py-0">      
-<div class="container">
-  
+<section class="py-10 py-lg-20 bg-bg-3">
+	<div class="container">
+        <div class="row justify-content-center">
+		<div class="col-md-9 col-lg-7 col-xl-6 mb-8 mb-md-15 text-center">
+                <!-- Name of category -->
+		<p class="fs-1 mb-5 aos-init aos-animate">
+			{{ page.tag_name }}
+		</p>
+		<h2 class="display-5 mb-6" data-aos="fade-down" data-aos-delay="250">
+			{{ page.tagline }}
+		</h2>
+		<p class="fs-2 text-start" data-aos="fade-down" data-aos-delay="500">
+			{{ page.description}}
+		</p>
+		</div>
+	<div>
+	</div>
+</section>
+<section class="py-10 py-lg-20 bg-bg-3">
+<div class="container"> 
 <h2 class="font-weight-light text-center text-lg-left mt-4 mb-0">Tag Clouds</h1>
-  
-<!-- Not used, good.
-<ul class="tag-cloud">
-{% for tag in site.tags %}
-  <li style="font-size: {{ tag | last | size | times: 100 | divided_by: site.tags.size | plus: 70  }}%">
-    <a href="#{{ tag | first | slugize }}">
-      {{ tag | first }}
-    </a>
-  </li>
-{% endfor %}
-</ul> --> 
 
 <p>
   {% for tag in site.tags %}
@@ -116,4 +97,4 @@ tag_name: mentoring
   
 </div>
 </section>        
-    </main>
+
