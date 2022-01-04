@@ -16,19 +16,19 @@ permalink: /terms/
 			<div class="row justify-content-between">
 				<div class="col-auto" data-aos="fade-down" data-aos-delay="0">
 					<a href="https://fingertip.top" class="text-dark-1">
-						Workspace 
-				    </a>
-				    <span class="text-dark-1">
-						/ 
-				    </span>
-				    <span class="text-dark-1">
-						Terms
-				    </span>
+					Workspace 
+				    	</a>
+				    	<span class="text-dark-1">
+					/ 
+				    	</span>
+				    	<span class="text-dark-1">
+					Terms
+				    	</span>
 				</div>
 			</div>
+        	</div>
         </div>
-        </div>
-    </div>
+    	</div>
 </section>
 <section class="bg-bg-3 pb-8">
 	<div class="container">
@@ -41,23 +41,43 @@ permalink: /terms/
 	</div>
 	</div>
 </section>
-## Privacy Policy 
-
-Your privacy is important to us. It is Finger Tip-Top's policy to respect your privacy regarding any information we may collect from you across our website, [http://fingertip.top](http://fingertip.top), and other sites we own and operate.
-
-We only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent. We also let you know why we’re collecting it and how it will be used.
-
-We only retain collected information for as long as necessary to provide you with your requested service. What data we store, we’ll protect within commercially acceptable means to prevent loss and theft, as well as unauthorised access, disclosure, copying, use or modification.
-
-We don’t share any personally identifying information publicly or with third-parties, except when required to by law.
-
-Our website may link to external sites that are not operated by us. Please be aware that we have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.
-
-You are free to refuse our request for your personal information, with the understanding that we may be unable to provide you with some of your desired services.
-
-Your continued use of our website will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to contact us.
-
-This policy is effective as of 5 November 2018.
+<section class="bg-bg-3 pb-8">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-10 col-xl-10 col-xxl-10 col-md-12 col-sm-12 col-xs-12">
+                <h3 class="mb-4 mb-md-8 aos-init aos-animate" data-aos="fade-down" data-aos-delay="0">
+		Privacy Policy
+		</h3>
+                <p class="pb-8 text-dark-1 fs-2 aos-init aos-animate" data-aos="fade-down" data-aos-delay="150">
+		Your privacy is important to us. It is Finger Tip-Top's policy to respect your privacy regarding any information we may collect from you across our website,
+		<a href="https://fingertip.top">fingertip.top</a>, and other sites we own and operate.
+		</p>
+                <p class="pb-8 text-dark-1 fs-2 aos-init aos-animate" data-aos="fade-down" data-aos-delay="150">
+		We only ask for personal information when we truly need it to provide a service to you. 
+		We collect it by fair and lawful means, with your knowledge and consent. We also let you know why we’re collecting it and how it will be used.
+		</p>
+                <p class="pb-8 fs-2 text-dark-1 aos-init aos-animate" data-aos="fade-down" data-aos-delay="150">
+                We only retain collected information for as long as necessary to provide you with your requested service. What data we store, we’ll protect within commercially acceptable means to prevent loss and theft, as well as unauthorised access, disclosure, copying, use or modification.
+                </p>
+                <p class="pb-8 fs-2 text-dark-1 aos-init aos-animate" data-aos="fade-down" data-aos-delay="150">
+                We don’t share any personally identifying information publicly or with third-parties, except when required to by law.
+                </p>
+                <p class="pb-8 fs-2 text-dark-1 aos-init aos-animate" data-aos="fade-down" data-aos-delay="150">
+                Our website may link to external sites that are not operated by us. Please be aware that we have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.
+                </p>
+                <p class="pb-8 fs-2 text-dark-1 aos-init aos-animate" data-aos="fade-down" data-aos-delay="150">
+                You are free to refuse our request for your personal information, with the understanding that we may be unable to provide you with some of your desired services.
+                </p>
+                <p class="pb-8 fs-2 text-dark-1 aos-init aos-animate" data-aos="fade-down" data-aos-delay="150">
+                Your continued use of our website will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to contact us.
+                </p>
+                <p class="pb-8 fs-2 text-dark-1 opacity-60 aos-init aos-animate" data-aos="fade-down" data-aos-delay="150">
+                This policy is effective as of 5 November 2018.
+                </p>
+            </div>
+            </div>
+        </div>
+</section>
 
 ## Finger Tip-Top Terms of Service
 <hr class="mt-2 mb-5">   
