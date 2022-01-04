@@ -106,10 +106,10 @@ permalink: /terms/
                 <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="150">
                 Further, Fingertip-Top does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site.
                 </p>
-                <li class="fw-bold"><h4 class="mb-4 mb-md-8" data-aos="fade-down" data-aos-delay="0"></h4>Limitations</li>
+                <li class="fw-bold"><h4 class="mb-4 mb-md-8" data-aos="fade-down" data-aos-delay="0">Limitations</h4></li>
                 <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="150">
                 In no event shall Finger Tip-Top or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on Finger Tip-Top's website, even if Finger Tip-Top or a Finger Tip-Top authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.</p>
-                <li class="fw-bold"><h4 class="mb-4 mb-md-8" data-aos="fade-down" data-aos-delay="0"></h4>Accuracy of materials</li>
+                <li class="fw-bold"><h4 class="mb-4 mb-md-8" data-aos="fade-down" data-aos-delay="0">Accuracy of materials</h4></li>
                 <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="150">
                 The materials appearing on Finger Tip-Top's website could include technical, typographical, or photographic errors. Finger Tip-Top does not warrant that any of the materials on its website are accurate, complete or current. Fingertip-Top may make changes to the materials contained on its website at any time without notice. However Finger Tip-Top does not make any commitment to update the materials.</p>
                 <li class="fw-bold"><h4 class="mb-4 mb-md-8" data-aos="fade-down" data-aos-delay="0">Links</h4></li>
