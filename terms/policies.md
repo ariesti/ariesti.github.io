@@ -30,6 +30,17 @@ permalink: /terms/
         </div>
     </div>
 </section>
+<section class="bg-bg-3 pb-8">
+	<div class="container">
+	<div class="row justify-content-center">
+		<div class="col-lg-10 col-xl-8 col-xxl-7">
+			<h2 class="display-3 mb-6 mb-md-15" data-aos="fade-down" data-aos-delay="500">
+        			Fingertip-Top's Terms of Service
+			</h2>
+		</div>
+	</div>
+	</div>
+</section>
 ## Privacy Policy 
 
 Your privacy is important to us. It is Finger Tip-Top's policy to respect your privacy regarding any information we may collect from you across our website, [http://fingertip.top](http://fingertip.top), and other sites we own and operate.
