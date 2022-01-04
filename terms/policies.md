@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: blog
 sitemap:
     priority: 0.7
     changefreq: 'monthly'
