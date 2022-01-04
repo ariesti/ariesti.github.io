@@ -3,10 +3,10 @@ layout: page
 sitemap:
     priority: 0.7
     changefreq: 'monthly'
-    lastmod: 2018-11-08T22:40:00+07:00
+    lastmod: 2022-01-04T22:40:00+07:00
 title: Terms & Policies
 tagline: Understanding privacy in public spaces
-description: Finger Tip-Top's terms and privacy policy
+description: Fingertip-Top's terms and privacy policy
 permalink: /terms/
 ---
 ## Privacy Policy 
