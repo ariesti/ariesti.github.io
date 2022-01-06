@@ -10,14 +10,14 @@ layout: course
 <!-- Article -->
 <article class="pb-8">
 <!-- Title information and post meta -->
-<section class="container cart-background mt-10 mb-8" style="background-color:aquamarine;">
+<section class="container mt-10 mb-8" style="background-color:aquamarine;">
     <div class="mb-10 mb-lg-20 py-20 align-items-end d-flex container" style="min-height: 50vh; background-image: url(&quot;&quot;);">
         <div class="container">
             <div class="row align-items-baseline mb-5 ps-xl-4 ps-lg-4 ps-md-4">
             <!-- Display the category -->
                 <div class="col-auto">
                     {% for category in categories %}
-				    <p class="fw-bold fs-4 mb-0 text-dark-1" data-aos="fade-down" data-aos-delay="0">{{ category }}</p>
+				    <p class="fs-4 mb-0 text-dark-1" data-aos="fade-down" data-aos-delay="0">{{ category }}</p>
                     {% endfor %}
 				</div>
             </div>
@@ -26,22 +26,22 @@ layout: course
 				    <h2 class="display-3 ps-xl-16 px-lg-12 px-md-8 pt-8" data-aos="fade-down" data-aos-delay="75">{{ page.title }}</h2>
 				</div>
             </div>
-            <div class="fw-bold justify-content-center col-lg-8 row col-md-8 col-sm-auto col-auto" data-aos="fade-down" data-aos-delay="75">
+            <div class="justify-content-center col-lg-8 row col-md-8 col-sm-auto col-auto" data-aos="fade-down" data-aos-delay="75">
 				<div class="col-auto">
-				    <p class="mb-0 text-dark-2" data-aos="fade-down" data-aos-delay="0">{{ page.date | date: '%B %-d, %Y' }}</p>
+				    <p class="mb-0 text-dark-2 opacity-60" data-aos="fade-down" data-aos-delay="0">{{ page.date | date: '%B %-d, %Y' }}</p>
 				</div>
 				<div class="col-auto">
-				    <p class="text-dark-1 col-auto" data-aos="fade-down" data-aos-delay="0">
+				    <p class="text-dark-2 col-auto opacity-60" data-aos="fade-down" data-aos-delay="0">
 				        /
 				    </p>
 				</div>
 				<div class="col-auto">
 				    <div class="col-auto">
-					    <p class="text-dark-2 col-auto" data-aos="fade-down" data-aos-delay="0">
+					    <p class="col-auto" data-aos="fade-down" data-aos-delay="0">
 						    <span>
 							{% for tag in page.tags %}
                             				   {% capture tag_name %}#{{ tag | join:',' }}{% endcapture %}
-							    <a href="/categories/{{ tag_name }}">{{ tag_name}}</a>
+							    <a href="/categories/{{ tag_name }}" class="text-dark-2 opacity-60">{{ tag_name}}</a>
 							{% endfor %}
 						    </span>
 					    </p>
