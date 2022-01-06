@@ -1,5 +1,5 @@
 ---
-layout: post-words
+layout: post-basic
 author: Lovelli Fuad
 title: "A Super Simple Search Page for Finger Tip-Top"
 description: With some help from Google CSE (Custom Search Engine), we now have a manual search page. You can get one too. 
