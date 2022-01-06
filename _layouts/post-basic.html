@@ -37,10 +37,14 @@ layout: course
 				</div>
 				<div class="col-auto">
 				    <div class="col-auto">
-                        {% for tag in page.tags %}
-                            {% capture tag_name %}#{{ tag | join:',' }}{% endcapture %}
-                            <p class="text-dark-2 col-auto" data-aos="fade-down" data-aos-delay="0">{{ tag_name }}</p>
-                        {% endfor %}
+					    <p class="text-dark-2 col-auto" data-aos="fade-down" data-aos-delay="0">
+						    <span>
+							{% for tag in page.tags %}
+                            				   {% capture tag_name %}#{{ tag | join:',' }}{% endcapture %}
+							    <a href="/categories/{{ tag_name }}">{{ tag_name}}</a>
+							{% endfor %}
+						    </span>
+					    </p>
 				    </div>
 				</div>
             </div>
