@@ -89,16 +89,17 @@ featured-image-alt: Search page
     <figure-caption>What about a visual search?</figure-caption>
 </section>
 <section class="col-lg-10 col-xl-8 col-xxl-7">
-    <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+    <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
     Finger Tip-Top’s search page includes all the categories and tags and a Google search functionality. This is pretty easy to do with the free Google custom search, which requires only 3 simple steps to set up:</p>
 <ol class="pb-8 fs-2 text-dark-1" data-aos="fade-down" data-aos-delay="250">
     <li>Go to Google custom search’s website at <a href="https://cse.google.com" class="text-action-4" rel="nofollow">cse.google.com</a>.</li>
     <li>Create a new search engine. Let Google know the name of your site and the language of the posts.</li>
     <li>Copy the script code and paste it into your page layout.</li>
 </ol>
-<p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+<p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
     It’s super easy and quick. Later, you can tweak the advanced setting even further to include things like image search, safe search, and other tweaks, such as limiting the regions. 
     Since Google is going to be serving the search results, searchers will also have the option to search the entire web.</p> 
-<p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">Jekyll actually allows for a simple <a href="https://blog.webjeda.com/instant-jekyll-search/" class="text-action-4" rel="nofollow">instant search</a> that displays the search result “live” as the search phrase is being typed. 
+<p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
+    Jekyll actually allows for a simple <a href="https://blog.webjeda.com/instant-jekyll-search/" class="text-action-4" rel="nofollow">instant search</a> that displays the search result “live” as the search phrase is being typed. 
     It is pretty neat and easy to make, without the need for JQuery or plug-ins. I might create one in the near future, but for now I think the search page will have to do.</p>
 </section>
