@@ -91,7 +91,7 @@ featured-image-alt: Search page
 <section class="col-lg-10 col-xl-8 col-xxl-7">
     <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
     Finger Tip-Top’s search page includes all the categories and tags and a Google search functionality. This is pretty easy to do with the free Google custom search, which requires only 3 simple steps to set up:</p>
-<ol class="pb-8 fs-1 text-dark-1 aos-init aos-animate" data-aos="fade-down" data-aos-delay="250">
+<ol class="pb-8 fs-2 text-dark-1" data-aos="fade-down" data-aos-delay="250">
     <li>Go to Google custom search’s website at <a href="https://cse.google.com" class="text-action-4" rel="nofollow">cse.google.com</a>.</li>
     <li>Create a new search engine. Let Google know the name of your site and the language of the posts.</li>
     <li>Copy the script code and paste it into your page layout.</li>
