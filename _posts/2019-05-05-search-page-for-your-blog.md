@@ -30,7 +30,7 @@ featured-image-alt: Search page
     </p>
     <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
         I got an idea for something like this from browing through a list of available free Jekyll themes. 
-        Instead of a blank search box floating on a blank page, this theme displays a list of project names below the search box. 
+        Instead of a blank search box floating on a blank page, this <a href="https://projectpages.github.io/" class="text-action-4" rel="nofollow">theme</a> displays a list of project names below the search box. 
         An all-categories page with a box on top. And make it interesting.
     </p>
 </section>
@@ -134,7 +134,7 @@ featured-image-alt: Search page
         Fingertip-Top's search page initially included all the categories and tags, along with a free Google search functionality, or a programmable search engine. Adding a custom search engine was pretty easy to do. 
         <ol class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
             <li>
-                Go to Google's custom search engine at programmablesearchengine.google.com or cse.google.com.
+                Go to Google's custom search engine at <a href="programmablesearchengine.google.com/cse/" class="text-action-4" rel="nofollow">programmablesearchengine.google.com/cse</a> or <a href="https://cse.google.com/" class="text-action-4" rel="nofollow">cse.google.com</a>.
             </li>
             <li>
                 Add a search engine by creating one. Let Google know the name of your site and the language of the posts. 
