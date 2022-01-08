@@ -134,20 +134,19 @@ featured-image-alt: Search page
     <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
         Fingertip-Top's search page initially included all the categories and tags, along with a free Google search functionality, or a programmable search engine. Adding a custom search engine was pretty easy to do. 
         <ol class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
-            <li>
+            <li class="pb-5">
                 Go to Google's custom search engine at <a href="programmablesearchengine.google.com/cse/" class="text-action-4" rel="nofollow">programmablesearchengine.google.com/cse</a> or <a href="https://cse.google.com/" class="text-action-4" rel="nofollow">cse.google.com</a>.
             </li>
-            <li>
+            <li class="pb-5">
                 Add a search engine by creating one. Let Google know the name of your site and the language of the posts. 
             </li>
-	    <li>
+	    <li class="pb-5">
                 Modify the look and feel of the search box and the result page to your liking.
             </li>
             <li>
                 Copy the code and paste it into the page layout. 
             </li>
         </ol>
-    </p>
     <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
         I previously skipped step 3 but have made amends. Notice that the search box is now in a bright color :)) 
         I’ve also added an image search feature to the current page, which means I’d have to do twice as much work with my images——add meta tags and alt descriptions, probably also titles, and I might need to include searchable phrases in the images’ document names.
@@ -171,7 +170,7 @@ featured-image-alt: Search page
             site:fingertip.top best articles
         </code>
     </p>
-[//]: # "For some reason the paragraph containing the code doesn't really apply both top and bottom padding with py-8, so I had to add a top padding to the following paragraph."
+<!-- For some reason the paragraph containing the code doesn't really apply both top and bottom padding with py-8, so I had to add a top padding to the following paragraph. -->
     <p class="py-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
         We can do this for every site imaginable to search for anything we need to find. 
         This works for any type of site, from extremely popular social media sites where all people do is search all day long, like Facebook, Twitter, whateverer, to regular blogs by regular people with no visible search box. 
