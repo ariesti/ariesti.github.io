@@ -3,7 +3,7 @@ layout: post-basic
 author: Lovelli Fuad
 title: "A Super Simple Search Page for Finger Tip-Top"
 description: With some help from Google CSE (Custom Search Engine), we now have a manual search page. You can get one too. 
-lead: There aren’t that many pages or posts yet on Finger Tip-Top. So a manual search should be enough to find what you’re looking for.
+lead: There aren’t that many pages or posts yet on Fingertip-Top. So a manual search should be enough to find what you’re looking for.
 permalink: blog/search-page-for-Jekyll-blog
 date: 2019-05-05 05:01 PM
 main-categories: [web]
@@ -14,14 +14,25 @@ featured-image-description: A blog search page is not vital, but it's nice to ha
 featured-image-alt: Search page 
 ---
 <section class="col-lg-10 col-xl-8 col-xxl-7">
-<p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
-    A search page or search functionality for a blog isn't vital, but I wanted to add a search page early on, because it’s going to be difficult to find anything once the blog has hundreds of blog posts. A search functionality is a nice extra touch to help readers who are interested in a particular topic, but people can still read blog posts just fine without it.</p>
-<p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
-    The search page I had in mind is not just a blank box to fill with search phrases. 
-    No, no. 
-    I wanted visitors to be able to 1) search for anything they are looking for, and 2) be able to see the big picture at once—all the categories and tags that they might not know they were looking for. 
-    I got the idea for something like this from browsing through a list of available free themes from Jekyll. 
-    Instead of a blank search box floating on a blank page, <a href="http://projectpages.github.io" class="text-action-4" rel="nofollow">the theme</a> displays a list of project names below the search box.</p>
+    <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+        Search functionality for a static blog like Fingertip-Top isn't vital, but I wanted to have it early on.
+        Once we have hundreds of blog posts and articles, it's gonna be difficult to find anything without a search console. 
+        I still think of the search box as a nice extra touch to help readers who are interested in a particular topic, but people read blog posts just fine without it.
+    </p>
+    <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+        It's a different story for larger, more developed sites. 
+        With these types of sites, search is the standard. Site visitors use search boxes to find things as specific as product name and number, and expect to be served related content. 
+    </p>
+    <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+        The search page I had in mind for Fingertip-Top wouldn't just be a blank box to fill with search phrases. 
+        No, no. 
+        I wanted the visitors to be able to 1) search for anything they might be looking for, and 2) be able to see the bigger picture at once. 
+    </p>
+    <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+        I got an idea for something like this from browing through a list of available free Jekyll themes. 
+        Instead of a blank search box floating on a blank page, this theme displays a list of project names below the search box. 
+        An all-categories page with a box on top. And make it interesting.
+    </p>
 </section>
 <section class="container-fluid pb-8">
     <div class="row text-center text-lg-left">
@@ -89,17 +100,101 @@ featured-image-alt: Search page
     <figure-caption>What about a visual search?</figure-caption>
 </section>
 <section class="col-lg-10 col-xl-8 col-xxl-7">
+    <h2 class="mb-4 mb-md-8" data-aos="fade-down" data-aos-delay="0">
+        Search for Jekyll: what's different?
+	</h2>
     <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
-    Finger Tip-Top’s search page includes all the categories and tags and a Google search functionality. This is pretty easy to do with the free Google custom search, which requires only 3 simple steps to set up:</p>
-<ol class="pb-8 fs-2 text-dark-1" data-aos="fade-down" data-aos-delay="250">
-    <li>Go to Google custom search’s website at <a href="https://cse.google.com" class="text-action-4" rel="nofollow">cse.google.com</a>.</li>
-    <li>Create a new search engine. Let Google know the name of your site and the language of the posts.</li>
-    <li>Copy the script code and paste it into your page layout.</li>
-</ol>
-<p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
-    It’s super easy and quick. Later, you can tweak the advanced setting even further to include things like image search, safe search, and other tweaks, such as limiting the regions. 
-    Since Google is going to be serving the search results, searchers will also have the option to search the entire web.</p> 
-<p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
-    Jekyll actually allows for a simple <a href="https://blog.webjeda.com/instant-jekyll-search/" class="text-action-4" rel="nofollow">instant search</a> that displays the search result “live” as the search phrase is being typed. 
-    It is pretty neat and easy to make, without the need for JQuery or plug-ins. I might create one in the near future, but for now I think the search page will have to do.</p>
+        I checked out dozens of blogs hosted on GitHub to learn more about search for Jekyll.
+        Jekyll blogs aren't really known for their advanced search feature?
+        A few that does have it will have a single search page instead of a navigation bar box on every page.
+    </p>
+    <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
+        But I also found out that I could create an instant search for Jekyll that displays the results "live" as the phrases are being typed. 
+        Since Fingertip-Top is essentially a Jekyll blog, it would make sense to implement this instant search.
+        I've already found a few helpful tutorials to guide with this process.
+    </p>
+    <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
+        The only down side is I'd have to create a search script from scratch and populate a JSON file consisting of my blog's front matters and even bigger things, like content and descriptions for multiple tags and categories. 
+        The search box will call our large script each time the page loads, adding complexity, which is bad for load time. 
+        That's probably why instead of a search box on each and every page it makes more sense to have a simple search page for Jekyll. 
+    </p>
+    <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
+        It all sounded laborious and time-consuming, so I started to look for common tools I could use to help me with the installation. 
+        There's lunar.js script that requires compiling our own JSON still. 
+        Another option is to use a hosted search platform such as Algolia. 
+        This requires modifying a Gemfile, the one thing that my blog doesn't have.
+    </p>
+    <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
+        And then I found the third and final option: Google's free custom search. 
+        Two lines of codes. 
+        One line for the search box, another for the results. 
+        This is what I've installed on Fingertip-Top. It's working quite well so far, except for the size of the search icon button, which shrinks a bit too much on the small screens of actual mobile phones. 
+    </p>
+    <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
+        Fingertip-Top's search page initially included all the categories and tags, along with a free Google search functionality, or a programmable search engine. Adding a custom search engine was pretty easy to do. 
+        <ol class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
+            <li>
+                Go to Google's custom search engine at programmablesearchengine.google.com or cse.google.com.
+            </li>
+            <li>
+                Add a search engine by creating one. Let Google know the name of your site and the language of the posts. 
+            </li>
+                Modify the look and feel of the search box and the result page to your liking.
+            <li>
+            </li>
+                Copy the code and paste it into the page layout. 
+            <li>
+            </li>
+        </ol>
+    </p>
+    <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
+        I previously skipped step 3 but have made amends. Notice that the search box is now in a bright color :)) 
+        I’ve also added an image search feature to the current page, which means I’d have to do twice as much work with my images——add meta tags and alt descriptions, probably also titles, and I might need to include searchable phrases in the images’ document names.
+        Maybe even meddle with property values.
+    </p>
+    <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
+        I’ve removed the categories and tags list which I’m currently re-re-re-organizing. 
+        Added a search box to the navigation bar for ease of access, and linked the engine to my Blogger site. 
+        Now when we use Fingertip-Top’s search box, Google will automatically try to display the results from my other site as well. 
+    </p>
+    <h2 class="mb-4 mb-md-8" data-aos="fade-down" data-aos-delay="0">
+        Search outside the box
+	</h2>
+    <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
+        I can’t remember when I figured out that we don’t necessarily need a box to start a search, but it was quite recent. 
+        By typing certain words on the URL box, we can already get the search engine working. 
+        For example, to search for best articles on Fingertip-top, what you need to do is type this into the URL bar:
+    </p>
+    <p class="pb-8 bg-bg-1 text-center opacity-80 fs-4" data-aos="fade-down" data-aos-delay="250">
+        <code class="text-light-1">
+            site:fingertip.top best articles
+        </code>
+    </p>
+    <p class="pb-8 bg-bg-1 text-center opacity-80 fs-4" data-aos="fade-down" data-aos-delay="250">
+        We can do this for every site imaginable to search for anything we need to find. 
+        This works for any type of site, from extremely popular social media sites where all people do is search all day long, like Facebook, Twitter, whateverer, to regular blogs by regular people with no visible search box. 
+    </p>
+    <p class="pb-8 bg-bg-1 text-center opacity-80 fs-4" data-aos="fade-down" data-aos-delay="250">
+        That’s why I didn’t feel like I needed a search box to begin with. 
+        We can function just fine without it. 
+        But a that type of external search factors in other sites as well. 
+        So it might show other sites on top of the internal blog posts that we actually are looking for. 
+    </p>
+    <h2 class="mb-4 mb-md-8" data-aos="fade-down" data-aos-delay="0">
+        Search, and you will find
+	</h2>
+    <p class="pb-8 bg-bg-1 text-center opacity-80 fs-4" data-aos="fade-down" data-aos-delay="250">
+        I don’t think we can survive the open web without knowing a bit of how a search engine works. 
+        After all, what is a web browser if not a massive search box? 
+        When a phrase is entered—be it a website title, book title, name or person, details of a product—the engine takes that phrase into its database and tries to come up with the most relevant results. 
+    </p>
+    <p class="pb-8 bg-bg-1 text-center opacity-80 fs-4" data-aos="fade-down" data-aos-delay="250">
+        So search, and we will find something. 
+        But what if we don't like the result?
+    </p>
+    <p class="pb-8 bg-bg-1 text-center opacity-80 fs-4" data-aos="fade-down" data-aos-delay="250">
+        A search box for a website limits the database to only the content of a site, but this can also be modified. 
+        I linked another one of my sites to the search database on Fingertip-Top for the search engine to go through. 
+        Some other things we can do is refine the results, filter according to categories, enable autocomplete, expand results by using synonyms, sort results by specified meta information, and assign other advanced restrictions to the settings.
+    </p>
 </section>
