@@ -191,7 +191,7 @@ featured-image-alt: Search page
     <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
         I don’t think we can survive the open web without knowing a bit of how a search engine works. 
         After all, what is a web browser if not a massive search box? 
-        When a phrase is entered——be it a website title, book title, name or person, details of a product—the engine takes that phrase into its database and tries to come up with the most relevant results. 
+        When a phrase is entered——be it a website title, book title, name or person, details of a product——the engine takes that phrase into its database and tries to come up with the most relevant results. 
     </p>
     <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
         A search box for a website limits the database to only the content of a site, but this can also be modified. 
