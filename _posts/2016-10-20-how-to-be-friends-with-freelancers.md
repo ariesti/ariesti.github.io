@@ -10,7 +10,7 @@ published: 2016-10-20 00:38
 main-categories: [freelancing]
 other-categories: 
 categories: [freelancing]
-tags: [mentor, guide]
+tags: [mentoring, guide]
 lang: en
 featured-image: my-cinema-quote.png
 featured-image-description: Are you a freelancer friend?
