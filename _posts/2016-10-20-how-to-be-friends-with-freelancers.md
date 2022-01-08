@@ -32,7 +32,7 @@ featured-image-alt: People facing home cinema screen
 		</div>
 			<p class="fs-5 text-xl-center text-xxl-center text-lg-center ps-md-8">
 				<span class="text-dark-1" data-aos="fade-down" data-aos-delay="250">20 Oct, 2022</span> /
-				<a href="/categories/mentor" class="text-dark-1" data-aos="fade-down" data-aos-delay="250">#mentor</a> <a href="/categories/guide" class="text-dark-1" data-aos="fade-down" data-aos-delay="250">#guide</a>
+				<a href="/categories/mentoring" class="text-dark-1" data-aos="fade-down" data-aos-delay="250">#mentoring</a> <a href="/categories/guide" class="text-dark-1" data-aos="fade-down" data-aos-delay="250">#guide</a>
 			</p>
             </div>
         </div>
