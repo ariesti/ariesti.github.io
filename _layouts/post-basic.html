@@ -23,13 +23,13 @@ layout: course
             </div>
             <div class="row">
 		<div class="col-12 mb-5 col-md-10 col-lg-9">
-			<h2 class="display-3 ps-xl-16 px-lg-12 px-md-8 pt-8" data-aos="fade-down" data-aos-delay="75">{{ page.title }}</h2>
+			<h2 class="display-3 ps-xl-16 px-lg-12 px-md-8 pt-8" data-aos="fade-down" data-aos-delay="0">{{ page.title }}</h2>
 		</div>
 			<p class="fs-5 text-xl-center text-xxl-center text-lg-center ps-md-8">
-				<span class="text-dark-1" data-aos="fade-down" data-aos-delay="150">{{ page.date | date: '%B %-d, %Y' }}</span> /
+				<span class="text-dark-1" data-aos="fade-down" data-aos-delay="250">{{ page.date | date: '%B %-d, %Y' }}</span> /
 			             {% for tag in page.tags %}
 				            {% capture tag_name %}{{ tag }}{% endcapture %}
-				<a href="/categories/{{ tag_name }}" class="text-dark-1" data-aos="fade-down" data-aos-delay="400">#{{ tag_name }}</a>
+				<a href="/categories/{{ tag_name }}" class="text-dark-1" data-aos="fade-down" data-aos-delay="250">#{{ tag_name }}</a>
 				     {% endfor %}
 			</p>
             </div>
