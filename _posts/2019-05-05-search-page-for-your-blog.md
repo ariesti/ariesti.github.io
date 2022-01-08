@@ -31,7 +31,7 @@ featured-image-alt: Search page
     <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
         I got an idea for something like this from browing through a list of available free Jekyll themes. 
         Instead of a blank search box floating on a blank page, this <a href="https://projectpages.github.io/" class="text-action-4" rel="nofollow">theme</a> displays a list of project names below the search box. 
-        An all-categories page with a box on top. And make it interesting.
+        (So, an all-categories page with a box on top. And make it interesting.)
     </p>
 </section>
 <section class="container-fluid pb-8">
@@ -128,7 +128,8 @@ featured-image-alt: Search page
         And then I found the third and final option: Google's free custom search. 
         Two lines of codes. 
         One line for the search box, another for the results. 
-        This is what I've installed on Fingertip-Top. It's working quite well so far, except for the size of the search icon button, which shrinks a bit too much on the small screens of actual mobile phones. 
+        This is what I've installed on Fingertip-Top. 
+	It's working quite well so far, except for the size of the search icon button, which shrinks a bit too much on the small screens of actual mobile phones. 
     </p>
     <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
         Fingertip-Top's search page initially included all the categories and tags, along with a free Google search functionality, or a programmable search engine. Adding a custom search engine was pretty easy to do. 
