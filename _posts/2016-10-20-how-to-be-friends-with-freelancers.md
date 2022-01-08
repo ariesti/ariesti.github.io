@@ -22,7 +22,7 @@ featured-image-alt: People facing home cinema screen
             <div class="row align-items-baseline mb-5 ps-xl-4 ps-lg-4 ps-md-4">
             <!-- Display the category -->
                 <div class="col-auto">
-                  <p class="fs-4 mb-0 text-dark-1 text-capitalize" data-aos="fade-down" data-aos-delay="0">Guide</p>
+                  <p class="fs-4 mb-0 text-dark-1 text-capitalize" data-aos="fade-down" data-aos-delay="0">Freelancing</p>
                 </div>
             </div>
             <div class="row">
