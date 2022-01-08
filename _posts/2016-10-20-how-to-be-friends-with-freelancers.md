@@ -28,7 +28,7 @@ featured-image-alt: People facing home cinema screen
             <div class="row">
 		<div class="col-12 mb-5 col-md-10 col-lg-9">
 			<h2 class="display-3 ps-xl-16 px-lg-12 px-md-8 pt-8" data-aos="flip-left" data-aos-easing="ease-out-cubic"
-     data-aos-duration="2000">A Friendly Guide to Being Good Friends with a Freelancer, Even If You’re Not One</h2>
+     data-aos-duration="250">A Friendly Guide to Being Good Friends with a Freelancer, Even If You’re Not One</h2>
 		</div>
 			<p class="fs-5 text-xl-center text-xxl-center text-lg-center ps-md-8">
 				<span class="text-dark-1" data-aos="fade-down" data-aos-delay="250">20 Oct, 2022</span> /
