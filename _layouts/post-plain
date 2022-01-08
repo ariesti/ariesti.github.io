@@ -1,0 +1,17 @@
+---
+layout: course
+---
+<!-- For this plain layout, we need to assign the categories by ourselves. 
+Rule of thumb is main-categories = categories, and use the first two tags for display. -->
+
+<!-- Article -->
+<article class="pb-8">
+<!-- Content display -->
+<section class="bg-bg-3 pb-8">
+    <div class="container">
+        <div class="row justify-content-center">
+            {{ content }}
+        </div>
+    </div>
+</section>
+</article>
