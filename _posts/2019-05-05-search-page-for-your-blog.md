@@ -32,8 +32,7 @@ featured-image-alt: Search page
         I got an idea for something like this from browing through a list of available free Jekyll themes. 
         Instead of a blank search box floating on a blank page, this <a href="https://projectpages.github.io/" class="text-action-4" rel="nofollow">theme</a> displays a list of project names below the search box. 
         (So, an all-categories page with a box on top. And make it interesting.)
-    </p>
-</section>
+    </p></section>
 <section class="container-fluid pb-8">
     <div class="row text-center text-lg-left">
     <div class="col-lg-3 col-md-4 col-6">
@@ -97,8 +96,7 @@ featured-image-alt: Search page
           </a>
     </div>
     </div>
-    <figure-caption>What about a visual search?</figure-caption>
-</section>
+    <figure-caption>What about a visual search?</figure-caption></section>
 <section class="col-lg-10 col-xl-8 col-xxl-7">
     <h2 class="mb-4 mb-md-8" data-aos="fade-down" data-aos-delay="0">
         Search for Jekyll: what's different?
@@ -197,5 +195,4 @@ featured-image-alt: Search page
         A search box for a website limits the database to only the content of a site, but this can also be modified. 
         I linked another one of my sites to the search database on Fingertip-Top for the search engine to go through. 
         Some other things we can do is refine the results, filter according to categories, enable autocomplete, expand results by using synonyms, sort results by specified meta information, and assign other advanced restrictions to the settings.
-    </p>
-</section>
+    </p></section>
