@@ -17,36 +17,37 @@ layout: course
             <!-- Display the category -->
                 <div class="col-auto">
                     {% for category in categories %}
-				    <p class="fs-4 mb-0 text-dark-1 text-capitalize" data-aos="fade-down" data-aos-delay="0">{{ category }}</p>
+			<p class="fs-4 mb-0 text-dark-1 text-capitalize" data-aos="fade-down" data-aos-delay="0">{{ category }}</p>
                     {% endfor %}
-				</div>
+		</div>
             </div>
             <div class="row">
-				<div class="col-12 mb-5 col-md-10 col-lg-9">
-				    <h2 class="display-3 ps-xl-16 px-lg-12 px-md-8 pt-8" data-aos="fade-down" data-aos-delay="75">{{ page.title }}</h2>
-				</div>
+		<div class="col-12 mb-5 col-md-10 col-lg-9">
+			<h2 class="display-3 ps-xl-16 px-lg-12 px-md-8 pt-8" data-aos="fade-down" data-aos-delay="75">{{ page.title }}</h2>
+		</div>
             </div>
-            <div class="justify-content-center col-lg-8 row col-md-8 col-sm-auto col-auto" data-aos="fade-down" data-aos-delay="75">
-				<div class="col-auto">
-				    <p class="mb-0 text-dark-2 opacity-60" data-aos="fade-down" data-aos-delay="0">{{ page.date | date: '%B %-d, %Y' }}</p>
-				</div>
-				<div class="col-auto">
-				    <p class="text-dark-2 col-auto opacity-60" data-aos="fade-down" data-aos-delay="0">
-				        /
-				    </p>
-				</div>
-				<div class="col-auto">
-				    <div class="col-auto">
-					    <p class="col-auto" data-aos="fade-down" data-aos-delay="0">
-						    <span>
-							{% for tag in page.tags %}
-                            				   {% capture tag_name %}{{ tag }}{% endcapture %}
-							    <a href="/categories/{{ tag_name }}" class="text-dark-2 opacity-60">#{{ tag_name}}</a>
-							{% endfor %}
-						    </span>
-					    </p>
-				    </div>
-				</div>
+	    <div class="container">
+                <div class="row align-items-start justify-content-between container" bis_skin_checked="1">
+                	<div class="col-6">
+			     <p class="fs-5 text-xl-center text-xxl-center text-lg-center ps-md-8">
+				<span class="text-dark-1" data-aos="fade-down" data-aos-delay="150">{{ page.date | date: '%B %-d, %Y' }}</span> /
+				{% for tag in page.tags %}
+				     {% capture tag_name %}{{ tag }}{% endcapture %}
+				<a href="/categories/{{ tag_name }}" class="text-dark-1" data-aos="fade-down" data-aos-delay="400">#{{ tag_name }}</a>
+				{% endfor %}
+			     </p>
+                	</div>
+                	<!-- div class="col-auto">
+                    	     <p class="fs-5 text-xl-center text-xxl-center text-lg-center ps-md-8">
+                        	<a href="#" class="text-dark-1" data-aos="fade-down" data-aos-delay="150">Collection</a>
+			     </p>
+                	</div>
+                	<div class="col-auto">
+                    	     <p class="fs-5 text-xl-center text-xxl-center text-lg-center ps-md-8">
+                        <a href="#" class="text-dark-1" data-aos="fade-down" data-aos-delay="500">1 min read</a>
+                    </p>
+                	</div -->
+		 </div>
             </div>
         </div>
     </div>
