@@ -144,7 +144,6 @@ featured-image-alt: Search page
             </li>
                 Copy the code and paste it into the page layout. 
             <li>
-            </li>
         </ol>
     </p>
     <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
@@ -170,11 +169,11 @@ featured-image-alt: Search page
             site:fingertip.top best articles
         </code>
     </p>
-    <p class="pb-8 bg-bg-1 text-center opacity-80 fs-4" data-aos="fade-down" data-aos-delay="250">
+    <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
         We can do this for every site imaginable to search for anything we need to find. 
         This works for any type of site, from extremely popular social media sites where all people do is search all day long, like Facebook, Twitter, whateverer, to regular blogs by regular people with no visible search box. 
     </p>
-    <p class="pb-8 bg-bg-1 text-center opacity-80 fs-4" data-aos="fade-down" data-aos-delay="250">
+    <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
         That’s why I didn’t feel like I needed a search box to begin with. 
         We can function just fine without it. 
         But a that type of external search factors in other sites as well. 
@@ -183,16 +182,16 @@ featured-image-alt: Search page
     <h2 class="mb-4 mb-md-8" data-aos="fade-down" data-aos-delay="0">
         Search, and you will find
 	</h2>
-    <p class="pb-8 bg-bg-1 text-center opacity-80 fs-4" data-aos="fade-down" data-aos-delay="250">
+    <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
         I don’t think we can survive the open web without knowing a bit of how a search engine works. 
         After all, what is a web browser if not a massive search box? 
         When a phrase is entered—be it a website title, book title, name or person, details of a product—the engine takes that phrase into its database and tries to come up with the most relevant results. 
     </p>
-    <p class="pb-8 bg-bg-1 text-center opacity-80 fs-4" data-aos="fade-down" data-aos-delay="250">
+    <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
         So search, and we will find something. 
         But what if we don't like the result?
     </p>
-    <p class="pb-8 bg-bg-1 text-center opacity-80 fs-4" data-aos="fade-down" data-aos-delay="250">
+    <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
         A search box for a website limits the database to only the content of a site, but this can also be modified. 
         I linked another one of my sites to the search database on Fingertip-Top for the search engine to go through. 
         Some other things we can do is refine the results, filter according to categories, enable autocomplete, expand results by using synonyms, sort results by specified meta information, and assign other advanced restrictions to the settings.
