@@ -150,8 +150,8 @@ featured-image-alt: Search page
     </p>
     <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
         I previously skipped step 3 but have made amends. Notice that the search box is now in a bright color :)) 
-        I’ve also added an image search feature to the current page, which means I’d have to do twice as much work with my images——add meta tags and alt descriptions, probably also titles, and I might need to include searchable phrases in the images’ document names.
-        Maybe even meddle with property values.
+	I’ve also added an image search feature to the current <a href="https://fingertip.top/search">search page</a>, which means I’d have to do twice as much work with my images——add meta tags and alt descriptions, probably also titles, and I might need to include searchable phrases in the images’ document names.
+        Maybe even meddle with property values. 
     </p>
     <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
         I’ve removed the categories and tags list which I’m currently re-re-re-organizing. 
