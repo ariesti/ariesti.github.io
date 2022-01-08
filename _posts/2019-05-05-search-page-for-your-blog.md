@@ -140,7 +140,7 @@ featured-image-alt: Search page
             <li class="pb-5">
                 Add a search engine by creating one. Let Google know the name of your site and the language of the posts. 
             </li>
-	    <li class="pb-5">
+	        <li class="pb-5">
                 Modify the look and feel of the search box and the result page to your liking.
             </li>
             <li>
@@ -170,7 +170,7 @@ featured-image-alt: Search page
             site:fingertip.top best articles
         </code>
     </p>
-<!-- For some reason the paragraph containing the code doesn't really apply both top and bottom padding with py-8, so I had to add a top padding to the following paragraph. -->
+    <!-- For some reason the paragraph containing the code doesn't really apply both top and bottom padding with py-8, so I had to add a top padding to the following paragraph. -->
     <p class="py-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
         We can do this for every site imaginable to search for anything we need to find. 
         This works for any type of site, from extremely popular social media sites where all people do is search all day long, like Facebook, Twitter, whateverer, to regular blogs by regular people with no visible search box. 
