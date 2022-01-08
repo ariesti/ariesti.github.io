@@ -16,7 +16,7 @@ featured-image: my-cinema-quote.png
 featured-image-description: Are you a freelancer friend?
 featured-image-alt: People facing home cinema screen
 ---
-<section class="container mt-10 mb-8" style="background-color:aquamarine;">
+<section class="container mt-10 mb-8" style="background-color:lightgoldenrodyellow;">
     <div class="mb-10 mb-lg-20 py-20 align-items-end d-flex container" style="min-height: 50vh; background-image: url(&quot;&quot;);">
         <div class="container">
             <div class="row align-items-baseline mb-5 ps-xl-4 ps-lg-4 ps-md-4">
