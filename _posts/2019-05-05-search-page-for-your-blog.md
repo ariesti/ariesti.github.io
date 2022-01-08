@@ -139,11 +139,12 @@ featured-image-alt: Search page
             <li>
                 Add a search engine by creating one. Let Google know the name of your site and the language of the posts. 
             </li>
+	    <li>
                 Modify the look and feel of the search box and the result page to your liking.
-            <li>
             </li>
-                Copy the code and paste it into the page layout. 
             <li>
+                Copy the code and paste it into the page layout. 
+            </li>
         </ol>
     </p>
     <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
@@ -164,12 +165,13 @@ featured-image-alt: Search page
         By typing certain words on the URL box, we can already get the search engine working. 
         For example, to search for best articles on Fingertip-top, what you need to do is type this into the URL bar:
     </p>
-    <p class="pb-8 bg-bg-1 text-center opacity-80 fs-4" data-aos="fade-down" data-aos-delay="250">
+    <p class="py-8 bg-bg-1 text-center opacity-80 fs-4" data-aos="fade-down" data-aos-delay="250">
         <code class="text-light-1">
             site:fingertip.top best articles
         </code>
     </p>
-    <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
+[//]: # "For some reason the paragraph containing the code doesn't really apply both top and bottom padding with py-8, so I had to add a top padding to the following paragraph."
+    <p class="py-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
         We can do this for every site imaginable to search for anything we need to find. 
         This works for any type of site, from extremely popular social media sites where all people do is search all day long, like Facebook, Twitter, whateverer, to regular blogs by regular people with no visible search box. 
     </p>
