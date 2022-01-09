@@ -112,7 +112,7 @@ featured-image-alt: People facing home cinema screen
 		    Don't do these to your freelancing friends
 		</h3>
                 <ol class="pb-8 text-dark-1 fs-2">
-                    <li class="pb-8">
+                    <li class="pb-8 fw-bold">
                         <h4 class="mb-4 mb-md-8" data-aos="fade-down" data-aos-delay="0">
                             Poke fun at their offerings.
                         </h4>
