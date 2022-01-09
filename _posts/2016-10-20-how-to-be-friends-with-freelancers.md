@@ -111,12 +111,12 @@ featured-image-alt: People facing home cinema screen
                 <h3 class="mb-4 mb-md-8" data-aos="fade-down" data-aos-delay="0">
 		    Don't do these to your freelancing friends
 		</h3>
-                <ol class="pb-8 text-dark-1 fs-2">
+                <ol class="pb-8 text-dark-1 fs-2 fw-bold">
                     <li class="pb-8 fw-bold">
                         <h4 class="mb-4 mb-md-8" data-aos="fade-down" data-aos-delay="0">
                             Poke fun at their offerings.
                         </h4>
-                        <p>
+                        <p class="fw-normal" data-aos="fade-down" data-aos-delay="50">
                             Yes, friends do silly things and make fun of each other. But they do this together! Making fun of your freelancer friend’s online offering will not turn you into their BFF. In fact, if you, for example, order a service from your friend and then bail out, and turn a perfectly reasonable offer into a non-paying gig, your chances of remaining friends will decrease dramatically. Poking fun at someone’s way of making a living is not the best way to make friends, both online or offline.
                         </p>
                     </li>
