@@ -168,7 +168,7 @@ featured-image-alt: People facing home cinema screen
                 <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
                     Just because someone you used to know is now a freelancer that does not make her “your ex-friend.” It does not imply that if you would like to chat with her you would need to pay for her time. It also does not mean that she is using the term “freelancer” to stop the friendship from growing.
                 </p>
-                <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+                <p class="text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
                     Along the lines of relationships we have, friendship comes last. There’s family, sisters, brothers, parents, cousins, children, in-laws, pets, extended families, family friends. Married couples are usually very quick in cutting off ties with their single friends, and single people are not going to waste their time with couples they don’t like.
                 </p>
             </div>
