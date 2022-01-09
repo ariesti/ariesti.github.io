@@ -83,8 +83,8 @@ featured-image-alt: People facing home cinema screen
                     Especially when what both friends have in common is a lack of interest in keeping the friendship alive.
                 </p>
                 <h3 class="mb-4 mb-md-8" data-aos="fade-down" data-aos-delay="0">
-				    Online vs. offline relationship
-				</h3>
+		    Online vs. offline relationship
+		</h3>
                 <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
                     Online and offline friendships don't differ that much to me:
                 </p>
@@ -97,7 +97,7 @@ featured-image-alt: People facing home cinema screen
                         <p data-aos="fade-down" data-aos-delay="50"><b>Compliments.</b></p>
                         <p data-aos="fade-down" data-aos-delay="50">I usually wouldn’t know when someone is complimenting me behind my back. I don’t think there is an app for that yet. I’m not a fan of talking about others, but isn’t that what we do all the time? Nobody waits for the other person’s approval before saying that she or he has a friend that is "a great cook" or "a great wingman."</p>  
                     </li> 
-                    <li class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">   
+                    <li class="text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">   
                         <p data-aos="fade-down" data-aos-delay="50"><b>Supporting each other.</b></p> 
                         <p data-aos="fade-down" data-aos-delay="50">I don’t go to a friend’s music concert to provide moral support. I go to a concert to watch a musical performance. Friends can only give moral support if they care about something; it’s perfectly okay not to care openly about something. There’s always that “deep down inside” thing you have within you.</p> 
                     </li> 
