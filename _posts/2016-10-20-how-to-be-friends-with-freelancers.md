@@ -88,7 +88,7 @@ featured-image-alt: People facing home cinema screen
                 <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
                     Online and offline friendships don't differ that much to me:
                 </p>
-                <ul class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+                <ul class="pb-8 text-dark-1 ps-0 fs-2" data-aos="fade-down" data-aos-delay="50">
                     <li class="pb-8">
                         <p data-aos="fade-down" data-aos-delay="50"><b>Spending time together.</b></p> 
                         <p data-aos="fade-down" data-aos-delay="50">This does not happen often with my offline friends. This also does not happen often with Facebook or Twitter friends. Seriously, nobody I know uses the “watch videos together” feature on Facebook. Most of my offline friendship initiated because we were spending some time together offline (at school or social clubs) or online (at an online forum or a freelance website). But after taking home the “friend” badge, e.g. invited on Facebook or mentioned on Twitter, usually nothing much gets shared but micro posts and/or app invites.</p>     
