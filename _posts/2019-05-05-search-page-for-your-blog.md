@@ -29,7 +29,7 @@ featured-image-alt: Search page
         I wanted the visitors to be able to 1) search for anything they might be looking for, and 2) be able to see the bigger picture at once. 
     </p>
     <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
-        I got an idea for something like this from browing through a list of available free Jekyll themes. 
+        I got an idea for something like this from browsing through a list of available free Jekyll themes. 
         Instead of a blank search box floating on a blank page, this <a href="https://projectpages.github.io/" class="text-action-4" rel="nofollow">theme</a> displays a list of project names below the search box. 
         (So, an all-categories page with a box on top. And make it interesting.)
     </p>
