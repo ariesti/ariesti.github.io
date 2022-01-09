@@ -50,7 +50,7 @@ featured-image-alt: People facing home cinema screen
                 <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
                     If there’s not at least one freelancer friend in your life, chances are you're it.</p>
                 <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
-                    Just kidding. (You could also be a <a href="https://01.media/11-weird-and-wonderful-new-merriam-webster-entries-from-tech" class="blue" rel="nofollow">ghosted</a> friend.)
+                    Just kidding. (You could also be a <a href="https://01.media/11-weird-and-wonderful-new-merriam-webster-entries-from-tech" class="text-action-5" rel="nofollow">ghosted</a> friend.)
                 </p>
                 <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
                     Can’t seem to find a freelancer friend? 
