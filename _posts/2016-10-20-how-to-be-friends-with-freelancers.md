@@ -16,6 +16,7 @@ featured-image: my-cinema-quote.png
 featured-image-description: Are you a freelancer friend?
 featured-image-alt: People facing home cinema screen
 ---
+<!-- Banner coded manually -->
 <section class="container mt-10 mb-8" style="background-color:lightgoldenrodyellow;">
     <div class="mb-10 mb-lg-20 py-20 align-items-end d-flex container" style="min-height: 50vh; background-image: url(&quot;&quot;);">
         <div class="container">
@@ -37,27 +38,7 @@ featured-image-alt: People facing home cinema screen
         </div>
     </div>
 </section>
-<section class="container mt-10 mb-8" style="background-color:lightgoldenrodyellow;">
-    <div class="mb-10 mb-lg-20 py-20 align-items-end d-flex container" style="min-height: 50vh; background-image: url(&quot;&quot;);">
-        <div class="container">
-            <div class="row align-items-baseline mb-5 ps-xl-4 ps-lg-4 ps-md-4">
-            <!-- Display the category -->
-                <div class="col-auto">
-                  <p class="fs-4 mb-0 text-dark-1 text-capitalize" data-aos="fade-down" data-aos-delay="0">Freelancing</p>
-                </div>
-            </div>
-            <div class="row">
-		<div class="col-12 mb-5 col-md-10 col-lg-9">
-			<h2 class="display-3 ps-xl-16 px-lg-12 px-md-8 pt-8" data-aos="flip-left" data-aos-delay="250">A Friendly Guide to Being Good Friends with a Freelancer, Even If You’re Not One</h2>
-		</div>
-			<p class="fs-5 text-xl-center text-xxl-center text-lg-center ps-md-8">
-				<span class="text-dark-1" data-aos="fade-down" data-aos-delay="250">20 Oct, 2022</span> /
-				<a href="/categories/mentoring" class="text-dark-1" data-aos="fade-down" data-aos-delay="250">#mentoring</a> <a href="/categories/guide" class="text-dark-1" data-aos="fade-down" data-aos-delay="250">#guide</a>
-			</p>
-            </div>
-        </div>
-    </div>
-</section>
+<!-- Content section -->
 <section class="bg-bg-3 pb-8">
     <div class="container">
         <div class="row justify-content-center">
@@ -102,15 +83,15 @@ featured-image-alt: People facing home cinema screen
                     Especially when what both friends have in common is a lack of interest in keeping the friendship alive.
                 </p>
                 <h2 class="mb-4 mb-md-8" data-aos="fade-down" data-aos-delay="0">
-				    Online vs. offline relationship
-				</h2>
+		    Online vs. offline relationship
+		</h2>
                 <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
                     Online and offline friendships don't differ that much to me:
                 </p>
                 <ul class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
                 <li class="pb-8">
-                <p>
-		    <b>Spending time together.</b> This does not happen often with my offline friends. This also does not happen often with Facebook or Twitter friends. 
+		    <p><b>Spending time together.</b></p>
+		    <p>This does not happen often with my offline friends. This also does not happen often with Facebook or Twitter friends. 
 		    Seriously, nobody I know uses the “watch videos together” feature on Facebook. Most of my offline friendship initiated because we were spending some time together offline (at school or social clubs) or online (at an online forum or a freelance website). But after taking home the “friend” badge, e.g. invited on Facebook or mentioned on Twitter, usually nothing much gets shared but micro posts and/or app invites.</p>     
                 </li>
                 </ul>
