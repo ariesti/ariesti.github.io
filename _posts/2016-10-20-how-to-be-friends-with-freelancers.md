@@ -117,7 +117,6 @@ featured-image-alt: People facing home cinema screen
 		    <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
                         Yes, friends do silly things and make fun of each other. But they do this together! Making fun of your freelancer friend’s online offering will not turn you into their BFF. In fact, if you, for example, order a service from your friend and then bail out, and turn a perfectly reasonable offer into a non-paying gig, your chances of remaining friends will decrease dramatically. Poking fun at someone’s way of making a living is not the best way to make friends, both online or offline.
                    </p>
-                </ol>
             </div>
         </div>
     </div>
