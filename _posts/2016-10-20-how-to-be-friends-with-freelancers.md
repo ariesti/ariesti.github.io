@@ -90,16 +90,16 @@ featured-image-alt: People facing home cinema screen
                 </p>
                 <ul class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
                     <li class="pb-8">
-                        <p><b>Spending time together.</b></p> 
-                        <p>This does not happen often with my offline friends. This also does not happen often with Facebook or Twitter friends. Seriously, nobody I know uses the “watch videos together” feature on Facebook. Most of my offline friendship initiated because we were spending some time together offline (at school or social clubs) or online (at an online forum or a freelance website). But after taking home the “friend” badge, e.g. invited on Facebook or mentioned on Twitter, usually nothing much gets shared but micro posts and/or app invites.</p>     
+                        <p data-aos="fade-down" data-aos-delay="50"><b>Spending time together.</b></p> 
+                        <p data-aos="fade-down" data-aos-delay="50">This does not happen often with my offline friends. This also does not happen often with Facebook or Twitter friends. Seriously, nobody I know uses the “watch videos together” feature on Facebook. Most of my offline friendship initiated because we were spending some time together offline (at school or social clubs) or online (at an online forum or a freelance website). But after taking home the “friend” badge, e.g. invited on Facebook or mentioned on Twitter, usually nothing much gets shared but micro posts and/or app invites.</p>     
                     </li>
                     <li class="pb-8">   
-                        <p><b>Compliments.</b></p>
-                        <p>I usually wouldn’t know when someone is complimenting me behind my back. I don’t think there is an app for that yet. I’m not a fan of talking about others, but isn’t that what we do all the time? Nobody waits for the other person’s approval before saying that she or he has a friend that is "a great cook" or "a great wingman."</p>  
+                        <p data-aos="fade-down" data-aos-delay="50"><b>Compliments.</b></p>
+                        <p data-aos="fade-down" data-aos-delay="50">I usually wouldn’t know when someone is complimenting me behind my back. I don’t think there is an app for that yet. I’m not a fan of talking about others, but isn’t that what we do all the time? Nobody waits for the other person’s approval before saying that she or he has a friend that is "a great cook" or "a great wingman."</p>  
                     </li> 
-                    <li class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">   
-                        <p><b>Supporting each other.</b></p> 
-                        <p>I don’t go to a friend’s music concert to provide moral support. I go to a concert to watch a musical performance. Friends can only give moral support if they care about something; it’s perfectly okay not to care openly about something. There’s always that “deep down inside” thing you have within you.</p> 
+                    <li class="text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">   
+                        <p data-aos="fade-down" data-aos-delay="50"><b>Supporting each other.</b></p> 
+                        <p data-aos="fade-down" data-aos-delay="50">I don’t go to a friend’s music concert to provide moral support. I go to a concert to watch a musical performance. Friends can only give moral support if they care about something; it’s perfectly okay not to care openly about something. There’s always that “deep down inside” thing you have within you.</p> 
                     </li> 
                 </ul>
                 <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
@@ -109,8 +109,8 @@ featured-image-alt: People facing home cinema screen
                     <em>Everybody talks.</em> But the way people talk to you when you’re out and about is different from the way you talk to someone you just met online. Due to the nature of their work, freelancers who work online might prefer one method of communication to another, e.g. email over phone. The old fashioned offline friendship relies heavily on phone conversations, text messages, and face-to-face chats. Meanwhile, an online friendship can still flourish even if you never meet each other in real life.
                 </p>
                 <h3 class="mb-4 mb-md-8" data-aos="fade-down" data-aos-delay="0">
-				    Don't do these to your freelancing friends
-				</h3>
+		    Don't do these to your freelancing friends
+		</h3>
                 <ol class="pb-8 text-dark-1 fs-2">
                     <li class="pb-8">
                         <h4 class="mb-4 mb-md-8" data-aos="fade-down" data-aos-delay="0">
