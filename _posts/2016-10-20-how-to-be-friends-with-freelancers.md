@@ -57,9 +57,9 @@ featured-image-alt: People facing home cinema screen
                     Try going to that cozy coffee shop around the corner and see if anybody there is sitting alone facing a laptop, while also taking pictures of the food. 
                     Try the cafes in the malls, the co-working spaces, the park benches... the beaches?!
                 </p>
-                <h2 class="mb-4 mb-md-8" data-aos="fade-down" data-aos-delay="0">
+                <h3 class="mb-4 mb-md-8" data-aos="fade-down" data-aos-delay="0">
 				    Online friendship is important
-				</h2>
+				</h3>
                 <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
                     All friendships are important, ask any mum. 
                     But online friendship is a special kind of friendship. 
@@ -82,19 +82,45 @@ featured-image-alt: People facing home cinema screen
                     Genuine interactions can easily turn to fake, and then genuine again, and then less fake. 
                     Especially when what both friends have in common is a lack of interest in keeping the friendship alive.
                 </p>
-                <h2 class="mb-4 mb-md-8" data-aos="fade-down" data-aos-delay="0">
-		    Online vs. offline relationship
-		</h2>
+                <h3 class="mb-4 mb-md-8" data-aos="fade-down" data-aos-delay="0">
+				    Online vs. offline relationship
+				</h3>
                 <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
                     Online and offline friendships don't differ that much to me:
                 </p>
                 <ul class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
-                <li class="pb-8">
-		    <p><b>Spending time together.</b></p>
-		    <p>This does not happen often with my offline friends. This also does not happen often with Facebook or Twitter friends. 
-		    Seriously, nobody I know uses the “watch videos together” feature on Facebook. Most of my offline friendship initiated because we were spending some time together offline (at school or social clubs) or online (at an online forum or a freelance website). But after taking home the “friend” badge, e.g. invited on Facebook or mentioned on Twitter, usually nothing much gets shared but micro posts and/or app invites.</p>     
-                </li>
+                    <li class="pb-8">
+                        <p><b>Spending time together.</b></p> 
+                        <p>This does not happen often with my offline friends. This also does not happen often with Facebook or Twitter friends. Seriously, nobody I know uses the “watch videos together” feature on Facebook. Most of my offline friendship initiated because we were spending some time together offline (at school or social clubs) or online (at an online forum or a freelance website). But after taking home the “friend” badge, e.g. invited on Facebook or mentioned on Twitter, usually nothing much gets shared but micro posts and/or app invites.</p>     
+                    </li>
+                    <li class="pb-8">   
+                        <p><b>Compliments.</b></p>
+                        <p>I usually wouldn’t know when someone is complimenting me behind my back. I don’t think there is an app for that yet. I’m not a fan of talking about others, but isn’t that what we do all the time? Nobody waits for the other person’s approval before saying that she or he has a friend that is "a great cook" or "a great wingman."</p>  
+                    </li> 
+                    <li class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">   
+                        <p><b>Supporting each other.</b></p> 
+                        <p>I don’t go to a friend’s music concert to provide moral support. I go to a concert to watch a musical performance. Friends can only give moral support if they care about something; it’s perfectly okay not to care openly about something. There’s always that “deep down inside” thing you have within you.</p> 
+                    </li> 
                 </ul>
+                <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+                    However similar, online and offline friendships are essentially two different things. They are not one and the same. Here's an illustration.
+                </p>
+                <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+                    <em>Everybody talks.</em> But the way people talk to you when you’re out and about is different from the way you talk to someone you just met online. Due to the nature of their work, freelancers who work online might prefer one method of communication to another, e.g. email over phone. The old fashioned offline friendship relies heavily on phone conversations, text messages, and face-to-face chats. Meanwhile, an online friendship can still flourish even if you never meet each other in real life.
+                </p>
+                <h3 class="mb-4 mb-md-8" data-aos="fade-down" data-aos-delay="0">
+				    Don't do these to your freelancing friends
+				</h3>
+                <ol class="pb-8 text-dark-1 fs-2">
+                    <li class="pb-8">
+                        <h4 class="mb-4 mb-md-8" data-aos="fade-down" data-aos-delay="0">
+                            Poke fun at their offerings.
+                        </h4>
+                        <p>
+                            Yes, friends do silly things and make fun of each other. But they do this together! Making fun of your freelancer friend’s online offering will not turn you into their BFF. In fact, if you, for example, order a service from your friend and then bail out, and turn a perfectly reasonable offer into a non-paying gig, your chances of remaining friends will decrease dramatically. Poking fun at someone’s way of making a living is not the best way to make friends, both online or offline.
+                        </p>
+                    </li>
+                </ol>
             </div>
         </div>
     </div>
