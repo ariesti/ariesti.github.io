@@ -178,7 +178,7 @@ featured-image-alt: Search page
     <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
         That’s why I didn’t feel like I needed a search box to begin with. 
         We can function just fine without it. 
-        But a that type of external search factors in other sites as well. 
+        But that type of external search factors in other sites as well. 
         So it might show other sites on top of the internal blog posts that we actually are looking for. 
     </p>
     <h2 class="mb-4 mb-md-8" data-aos="fade-down" data-aos-delay="0">
