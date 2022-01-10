@@ -188,9 +188,9 @@ featured-image-alt: Search page
     </p>
     <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
         That’s why I didn’t feel like I needed a search box to begin with. 
-        We can function just fine without it. 
-        But that type of external search factors in other sites as well. 
-        So it might show other people's blogs, even though we have specifically told Google to only search inside Fingertip-Top. 
+        We can function just fine without it, as long as we know how to do internal searches. 
+	When we do a search without specifying the site name like we did above, Google's search engine will factor in other sites as well. 
+	Other people's blogs might show up on the top of the search results.  
     </p>
     <h2 class="mb-4 mb-md-8" data-aos="fade-down" data-aos-delay="0">
         Search, and you will find
