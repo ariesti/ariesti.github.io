@@ -171,6 +171,17 @@ featured-image-alt: Search page
             site:fingertip.top best articles
         </code>
     </p>
+    <p class="py-8 bg-bg-1 text-center opacity-80 fs-4" data-aos="fade-down" data-aos-delay="250">
+	What this does is it tells the engine to go through the site named fingertip.top and look for items matching the phrase 'best articles'. 
+	The search will result in something like:
+    </p>
+    <div class="container pb-8">
+	<div class="row justify-content-center">
+		<div class="col-6 vh-center">
+            	<img src="https://i.postimg.cc/T3wxS3XV/search.png" alt="The result for our search in Fingertip-Top" class="img-fluid aos-init aos-animate" data-aos="fade-down" data-aos-delay="0">
+                </div>
+        </div>
+    </div>
     <p class="py-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
         We can do this for every site imaginable to search for anything we need to find. 
         This works for any type of site, from extremely popular social media sites where all people do is search all day long, like Facebook, Twitter, whateverer, to regular blogs by regular people with no visible search box. 
