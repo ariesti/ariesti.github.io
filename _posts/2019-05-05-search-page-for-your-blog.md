@@ -171,7 +171,7 @@ featured-image-alt: Search page
             site:fingertip.top best articles
         </code>
     </p>
-    <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
+    <p class="py-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
 	What this does is it tells the engine to go through the site named fingertip.top and look for items matching the phrase 'best articles'. 
 	The search will result in something like:
     </p>
