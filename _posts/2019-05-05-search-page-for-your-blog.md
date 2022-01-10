@@ -164,7 +164,7 @@ featured-image-alt: Search page
     <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
         I can’t remember when I figured out that we don’t necessarily need a box to start a search, but it was quite recent. 
         By typing certain words on the URL box, we can already get the search engine working. 
-        For example, to search for best articles on Fingertip-top, what you need to do is type this into the URL bar:
+        For example, to search for best articles on Fingertip-Top, what you need to do is type this into the URL bar:
     </p>
     <p class="py-8 bg-bg-1 text-center opacity-80 fs-4" data-aos="fade-down" data-aos-delay="250">
         <code class="text-light-1">
@@ -195,7 +195,7 @@ featured-image-alt: Search page
     </p>
     <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
         A search box for a website limits the database to only the content of a site, but this can also be modified. 
-        I linked another one of my sites to the search database on Fingertip-Top for the search engine to go through. 
+        I linked another one of my sites to Fingertip-Top's search database for the search engine to go through. 
         Some other things we can do is refine the results, filter according to categories, enable autocomplete, expand results by using synonyms, sort results by specified meta information, and assign other advanced restrictions to the settings.
     </p>
 </section>
