@@ -163,7 +163,7 @@ featured-image-alt: Search page
     </h2>
     <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
         I can’t remember when I figured out that we don’t necessarily need a box to start a search, but it was quite recent. 
-        By typing certain words on the URL box, we can already get the search engine working. 
+        By typing certain words on the URL bar, we can already get the search engine working. 
         For example, to search for best articles on Fingertip-Top, what you need to do is type this into the URL bar:
     </p>
     <p class="py-8 bg-bg-1 text-center opacity-80 fs-4" data-aos="fade-down" data-aos-delay="250">
