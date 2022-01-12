@@ -23,7 +23,9 @@ featured-image-alt: Search page
         It's a different story for larger, more developed sites. 
         With these types of sites, search is the standard. Site visitors use search boxes to find things as specific as product name and number, and expect to be served related content. 
     </p>
+    <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
 	{% include inarticle.html %}
+    </p>
     <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
         The search page I had in mind for Fingertip-Top wouldn't just be a blank box to fill with search phrases. 
         No, no. 
