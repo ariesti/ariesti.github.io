@@ -52,6 +52,9 @@ featured-image-alt: People facing home cinema screen
                 <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
                     Just kidding. (You could also be a <a href="https://01.media/11-weird-and-wonderful-new-merriam-webster-entries-from-tech" class="text-action-5" rel="nofollow">ghosted</a> friend.)
                 </p>
+		<p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+			{% include inarticle.html %}
+    		</p>
                 <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
                     Can’t seem to find a freelancer friend? 
                     Try going to that cozy coffee shop around the corner and see if anybody there is sitting alone facing a laptop, while also taking pictures of the food. 
