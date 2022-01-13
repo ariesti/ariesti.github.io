@@ -126,9 +126,13 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
                 <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
                     A bit of HTML
                 </p>
-<pre class="html4strict pb-8 fs-4" style="font-family:monospace;"><span style="color: #009900;">&lt;<span style="color: #000000; font-weight: bold;">div</span> <span style="color: #000066;">class</span><span style="color: #66cc66;">=</span><span style="color: #ff0000;">&quot;tip-button&quot;</span> <span style="color: #000066;">align</span><span style="color: #66cc66;">=</span><span style="color: #ff0000;">&quot;center&quot;</span>&gt;&lt;<span style="color: #66cc66;">/</span><span style="color: #000000; font-weight: bold;">div</span>&gt;</span>
+		<pre class="html4strict bg-bg-2 fs-4" style="font-family:monospace;">
+		<p class="ms-8 pb-4">
+<span style="color: #009900;">&lt;<span style="color: #000000; font-weight: bold;">div</span> <span style="color: #000066;">class</span><span style="color: #66cc66;">=</span><span style="color: #ff0000;">&quot;tip-button&quot;</span> <span style="color: #000066;">align</span><span style="color: #66cc66;">=</span><span style="color: #ff0000;">&quot;center&quot;</span>&gt;&lt;<span style="color: #66cc66;">/</span><span style="color: #000000; font-weight: bold;">div</span>&gt;</span>
 <span style="color: #808080; font-style: italic;">&lt;!-- Metamask Script --&gt;</span>
-<span style="color: #009900;">&lt;<span style="color: #000000; font-weight: bold;">div</span> <span style="color: #000066;">class</span><span style="color: #66cc66;">=</span><span style="color: #ff0000;">&quot;message&quot;</span>&gt;&lt;<span style="color: #66cc66;">/</span><span style="color: #000000; font-weight: bold;">div</span>&gt;</span></pre>
+<span style="color: #009900;">&lt;<span style="color: #000000; font-weight: bold;">div</span> <span style="color: #000066;">class</span><span style="color: #66cc66;">=</span><span style="color: #ff0000;">&quot;message&quot;</span>&gt;&lt;<span style="color: #66cc66;">/</span><span style="color: #000000; font-weight: bold;">div</span>&gt;</span>
+		</p>
+		</pre>
             </div>
         </div>
     </div>
