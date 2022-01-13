@@ -25,6 +25,8 @@ tag_name: beginners
 	<div>
 	</div>
 </section>
+<!-- Original blog layout -->
+
 <!-- Bare minimum showcasing post with tag -->
 <section class="bg-bg-3 py-10">
 	<div class="container">
@@ -36,7 +38,7 @@ tag_name: beginners
 				<a href="{{ post.url }}" title="{{ post.title }}" class="font-heading fs-3 text-dark-1 mb-2">{{ post.title }}</a>
 				<p>{{ post.date | date_to_string }}</p>
 				<p class="fs-3">{{ post.lead }}</p>
-				<p><a class="text-action-8" href="{{ post.url }}">Read more</p>
+				<p><a class="text-action-8" href="{{ post.url }}">Read more</a></p>
 		</div>
 		{% endfor %}
 	</div>
