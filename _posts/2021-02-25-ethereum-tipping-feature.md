@@ -75,7 +75,7 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
                     tipButton.addEventListener('click', function() {
 
                     if (typeof web3 === 'undefined') {
-                        return renderMessage('<div align="center">You need to install <a class="blue" href="https://metamask.io/"><u>MetaMask</u></a> to use this.</a></div>')
+                        return renderMessage('<div class="text-start">You need to install <a class="text-action-4" href="https://metamask.io/"><u>MetaMask</u></a> to use this.</a></div>')
                     }
 
                     else if (typeof typeof web3 !== 'undefined') {
