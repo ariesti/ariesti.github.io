@@ -60,7 +60,7 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
                     You can create your own button, but the button style that I use below is directly from the MetaMask Github repo:
                 </p>
             </div>
-            <div class="col-lg-10 col-xl-8 col-xxl-7">
+            <div class="col-lg-10 col-xl-8 col-xxl-7 pb-8">
                 <style>
                     .tip-button{width: 304px;height: 50px;background-size: 100%;background-image: url('/assets/image/3_pay_mm_off.png');cursor: pointer;}
                     .tip-button:hover{background-image:url('/assets/image/3_pay_mm_over.png');}
@@ -105,7 +105,7 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
                         messageEl.innerHTML = message
                     }
                     </script>
-                    <div class="message"></div>
+                    <div class="message mt-8"></div>
             </div>
             <div class="col-lg-10 col-xl-8 col-xxl-7">
                 <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
