@@ -1,5 +1,5 @@
 ---
-layout: post-words
+layout: post-plain
 author: Lovelli Fuad
 title: "Create a MetaMask Tipping Button and Start Collecting Ether"
 tagline: Are you ready to tip in Ether?
@@ -9,11 +9,34 @@ permalink: blog/ethereum-tipping-feature
 date: 2021-02-25 19:00
 main-categories: [tips]
 other-categories: [guide, code snippets]
-tags: [beginners, make, ux]
+tags: [beginners, make]
 lang: en
 featured-image: snacks-in-vending-machine.png
 featured-image-alt: The most popular vending machine snacks lining up inside a vending machine. 
 ---
+<!-- Banner coded manually -->
+<section class="container mt-10 mb-8">
+    <div class="py-20 bg-bg-1 bg-size-cover bg-position-bottom-center d-flex align-items-end container-fluid" data-bg-src="https://fingertip.top/assets/image/snacks-in-vending-machine.png" style="min-height: 50vh; background-image: url(&quot;https://fingertip.top/assets/image/snacks-in-vending-machine.png&quot;);">
+        <div class="container">
+            <div class="row align-items-baseline mb-5 ps-xl-4 ps-lg-4 ps-md-4">
+            <!-- Display the category -->
+                <div class="col-auto">
+                  <p class="fs-4 mb-0 text-light-1 text-capitalize" data-aos="fade-down" data-aos-delay="0"><a href="">Tips</a></p>
+                </div>
+            </div>
+            <div class="row">
+		<div class="col-12 mb-5 col-md-10 col-lg-9">
+			<h2 class="display-3 text-light-1 ps-xl-16 px-lg-12 px-md-8 pt-8" style="-webkit-text-fill-color:orange;-webkit-text-stroke-width: 1px;-webkit-text-stroke-color: white;" data-aos="flip-left" data-aos-delay="250">Create a MetaMask Tipping Button and Start Collecting Ether</h2>
+		</div>
+			<p class="fs-5 text-light-1 text-xl-center text-xxl-center text-lg-center ps-md-8" data-aos="fade-down" data-aos-delay="250">
+				<span class="text-light-1" data-aos="fade-down" data-aos-delay="250">20 Feb, 2021</span> /
+				<a href="/categories/beginners" class="text-light-1" data-aos="fade-down" data-aos-delay="250">#beginners</a> <a href="/categories/make" class="text-light-1" data-aos="fade-down" data-aos-delay="250">#make</a>
+			</p>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Content section -->
 <div class="fix-7x-12 toCenter pb-3 w3-medium">
   <p>People are using this altcoin called Ethereum (ETH) as an alternative to fiat money and to Bitcoin in online transactions. It is an awesome currency. It's well and live. And as you will later see, many tokens are built on top the Ethereum blockchain.</p>
 </div>
