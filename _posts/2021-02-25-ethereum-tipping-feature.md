@@ -16,7 +16,7 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
 ---
 <!-- Banner coded manually -->
 <section class="container mt-10 mb-8">
-    <div class="py-20 bg-bg-1 bg-size-cover bg-position-bottom-center d-flex align-items-end container-fluid" data-bg-src="https://fingertip.top/assets/image/snacks-in-vending-machine.png" style="min-height: 50vh; background-image: url(&quot;https://fingertip.top/assets/image/snacks-in-vending-machine.png&quot;);">
+    <div class="py-20 bg-size-cover bg-position-bottom-center d-flex align-items-end container-fluid" data-bg-src="https://fingertip.top/assets/image/snacks-in-vending-machine.png" style="min-height: 50vh; background-image: url(&quot;https://fingertip.top/assets/image/snacks-in-vending-machine.png&quot;);">
         <div class="container">
             <div class="row align-items-baseline mb-5 ps-xl-4 ps-lg-4 ps-md-4">
             <!-- Display the category -->
