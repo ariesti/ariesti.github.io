@@ -127,11 +127,11 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
                     A bit of HTML
                 </p>
 		<p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
-```html
-<div class="tip-button" align="center"></div>
-<!-- Metamask Script -->
-<div class="message"></div>
-```
+		<code>
+		    <div class="tip-button" align="center"></div>
+		    <!-- Metamask Script -->
+		    <div class="message"></div>
+		</code>
                 </p>
             </div>
         </div>
