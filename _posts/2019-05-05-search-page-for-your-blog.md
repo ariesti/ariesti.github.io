@@ -8,7 +8,7 @@ permalink: blog/search-page-for-Jekyll-blog
 date: 2022-01-08 08:04 PM
 main-categories: [web]
 other-categories: [admin, tutorials]
-tags: [meta, search]
+tags: [guide, search]
 lang: en
 featured-image-description: A blog search page is not vital, but it's nice to have.
 featured-image-alt: Search page 
