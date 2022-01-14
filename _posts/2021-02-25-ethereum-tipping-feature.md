@@ -137,8 +137,8 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
                 <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
                     A bit of CSS: insert button.
                 </p>
-                <pre class="actionscript mb-0 fs-4" style="font-family:monospace;">
-                <p class="ps-8 bg-bg-2 mb-0">
+                    <pre class="actionscript mb-0 fs-4" style="font-family:monospace;">
+                    <p class="ps-8 bg-bg-2 mb-0">
 .<span style="color: #006600;">tip</span>-<span style="color: #0066CC;">button</span> <span style="color: #66cc66;">&#123;</span>
   <span style="color: #0066CC;">width</span>: 250px;
   <span style="color: #0066CC;">height</span>: 40px;
@@ -155,16 +155,16 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
 .<span style="color: #006600;">tip</span>-<span style="color: #0066CC;">button</span>:active <span style="color: #66cc66;">&#123;</span>
   background-image: <span style="color: #0066CC;">url</span><span style="color: #66cc66;">&#40;</span><span style="color: #ff0000;">'assets/image/3_pay_mm_off.png'</span><span style="color: #66cc66;">&#41;</span>;
 <span style="color: #66cc66;">&#125;</span>
-            </p>
-            </pre>
+                </p>
+                </pre>
 	    <p class="py-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
                 On an HTML page, the above code goes between the style tags. Just adjust the width and height, depending on the image you're using, or else the image might now show up fully. Change the URL address for the button image to point to the image you want to use.
             </p>
             <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
                 And then finally, a bit of JavaScript.
             </p>
-	    <pre class="javascript mb-0 fs-4" style="font-family:monospace;">
-            <p class="ps-8 bg-bg-2 mb-0">
+	        <pre class="javascript mb-0 fs-4" style="font-family:monospace;">
+                <p class="ps-8 bg-bg-2 mb-0">
 <span style="color: #339933;">&lt;!--</span> Metamask Script <span style="color: #339933;">--&gt;</span>
 <span style="color: #339933;">&lt;</span>script<span style="color: #339933;">&gt;</span>
 <span style="color: #000066; font-weight: bold;">var</span> my_address <span style="color: #339933;">=</span> <span style="color: #3366CC;">'0x9f5F4Cf8ed30F04f772B63d02CDB8a9D5732e8BC'</span>
@@ -203,8 +203,8 @@ tipButton.<span style="color: #660066;">addEventListener</span><span style="colo
   messageEl.<span style="color: #660066;">innerHTML</span> <span style="color: #339933;">=</span> message
 <span style="color: #009900;">&#125;</span>
 <span style="color: #339933;">&lt;/</span>script<span style="color: #339933;">&gt;</span>
-            </p>
-            </pre>
+                </p>
+                </pre>
             </div>
         </div>
     </div>
