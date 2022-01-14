@@ -103,7 +103,7 @@ featured-image-alt: S-S-S-SWAAAG!
                         <a href="https://opensource.guide/" class="text-action-4" rel="nofollow">Open Source Guide</a> and <a href="https://opensourcefriday.com/#participate" class="text-action-4" rel="nofollow">Open Source Friday</a> from GitHub and friends
                     </li>
                     <li class="mb-5">
-                        <a href="https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae" class="text-action-4" rel="nofollow">Contributing to Your First Open Source Project: A Practical Approach</a>
+			DevCenter's <a href="https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae" class="text-action-4" rel="nofollow">Contributing to Your First Open Source Project: A Practical Approach</a>
                     </li>
                 </ul>
                 <h3 class="mb-4 mb-md-8" data-aos="fade-down" data-aos-delay="0">
