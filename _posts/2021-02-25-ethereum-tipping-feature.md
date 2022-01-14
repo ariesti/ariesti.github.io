@@ -21,7 +21,7 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
             <div class="row align-items-baseline mb-5 ps-xl-4 ps-lg-4 ps-md-4">
             <!-- Display the category -->
                 <div class="col-auto">
-                  <p class="fs-4 mb-0 text-capitalize" data-aos="fade-down" data-aos-delay="0"><a href="bg-bg-1 p-1" class="text-light-1">Tips + Tricks</a></p>
+                  <p class="fs-4 mb-0 text-capitalize bg-bg-1 p-1" data-aos="fade-down" data-aos-delay="0"><a href="" class="text-light-1">Tips + Tricks</a></p>
                 </div>
             </div>
             <div class="row">
