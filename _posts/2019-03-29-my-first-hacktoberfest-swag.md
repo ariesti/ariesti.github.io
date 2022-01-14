@@ -5,7 +5,7 @@ title: "Got My Very First Dev Swag in the Mail. It's Hacktoberfest No. 5!"
 description: I joined Hacktoberfest last year and got my first dev swag this year. You too can take part in this community event this October.
 lead: <span class="initialism">Dsclmr:</span> The community event ended two years ago in October, but my first dev swag was just delivered to me a few business days ago.
 permalink: blog/hacktoberfest-dev-swag
-updated: 2020-03-04 05:34 PM
+updated: 2022-01-14 05:34 PM
 updated-by: "Bob Bock"
 main-categories: [community] 
 other-categories: [events, tutorials]
@@ -42,7 +42,7 @@ featured-image-alt: S-S-S-SWAAAG!
         <div class="row justify-content-center">
             <div class="col-lg-10 col-xl-8 col-xxl-7">
                 <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
-                    Hacktoberfest motivates newbies to contribute to <b>open-source</b> projects. In case you were wondering, 2019 was my first time participating fully, and I did not regret a minute of it. Although come to think of it now, there were probably a few things I could have done to maximize my participation.
+                    Hacktoberfest motivates newbies to contribute to <b>open-source</b> projects. In case you were wondering, 2018 was my first time participating fully, and I did not regret a minute of it. Although come to think of it now, there were probably a few things I could have done to maximize my participation.
                 </p>
                 <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
                     If you’ve been thinking about collaborating with others, open source is a great start. Every year since 2013, the community celebrates open source software by rewarding contributors during the month of October.
