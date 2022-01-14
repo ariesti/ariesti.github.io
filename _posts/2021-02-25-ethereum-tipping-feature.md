@@ -124,7 +124,7 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
                 <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
                     <b>So, what's in the code?</b>
                 </p>
-                <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+                <p class="pb-5 mb-0 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
                     A bit of HTML
                 </p>
 		    <pre style="font-family:monospace;" class="html4strict mb-0 fs-4">		
@@ -137,7 +137,7 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
                 <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
                     A bit of CSS: insert button.
                 </p>
-                <pre class="actionscript pb-8 fs-4" style="font-family:monospace;">
+                <pre class="actionscript mb-0 fs-4" style="font-family:monospace;">
                 <p class="ps-8 bg-bg-2 mb-0">
 .<span style="color: #006600;">tip</span>-<span style="color: #0066CC;">button</span> <span style="color: #66cc66;">&#123;</span>
   <span style="color: #0066CC;">width</span>: 250px;
