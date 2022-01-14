@@ -51,7 +51,7 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
                     By adding a code snippet, you can receive Ether as a tip. Anyone with a MetaMask wallet can send it to you in just 'one click'. When your audience clicks the button, MetaMask will open and confirm the amount to be sent to the specified wallet address.
                 </p>
                 <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
-                    For our example, this time we’ve set the amount to be 0.01 ETH and the <b>gas fee</b> to be 50.000 (total TX of 0.001 ETH). The standard is a limit of 21000 and a gas price of 0.00000002 ETH = total of 0.00042 ETH. (It’s not a random number.)
+                    For our example, this time we’ve set the amount to be 0.01 ETH and the <b>gas fee</b> to be 50,000 (total TX of 0.001 ETH). The standard is a limit of 21000 and a gas price of 0.00000002 ETH = total of 0.00042 ETH. (It’s not a random number.)
                 </p>
 		<p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
 		    {% include inarticle.html %}
@@ -218,6 +218,12 @@ tipButton.<span style="color: #660066;">addEventListener</span><span style="colo
                 <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
                     I’ve put a MetaMask pay button on a widget for one of my blogger sites. All the CSS goes into the theme's Edit HTML, while the HTML and JavaScript goes into the HTML/CSS widget area. 
                 </p>
+	    </div>
+	    <div class="col-6 text-center">
+            <img src="https://i.postimg.cc/RVH0kcLZ/tipping-jar-on-my-blogger-site.png" alt="MetaMask button for the tipping jar" class="img-fluid aos-init aos-animate" data-aos="fade-down" data-aos-delay="0">
+		<figcaption class="mt-5">Use it for the tipping jar</figcaption>
+            </div>
+	    <div class="col-lg-10 col-xl-8 col-xxl-7">
                 <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
                     In order for this to work though you need to have:
                 </p>
@@ -235,7 +241,7 @@ tipButton.<span style="color: #660066;">addEventListener</span><span style="colo
                 <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
                     <b>Total cost of transaction or TX = Gas Limit * Gas Price</b>
                 </p>
-		                <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+		<p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
                     In our code, we’ve specified 50,000 as the gas limit (written as just 'gas'). It's the maximum amount of gas money you are willing to spend for the transaction. A standard transaction in ETH will require 21,000. So by Ethereum's standard, if the transfer goes through, the remaining fund (50,000 – 21,000) will be returned to your wallet. 
                 </p>
                 <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
