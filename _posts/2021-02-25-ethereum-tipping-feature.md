@@ -116,7 +116,7 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
                     See what message it gives you.
                 </p>
                 <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
-                    If it says “you need to install MetaMask to use this” you can try installing MetaMask on your browser following <a href="https://metamask.io/download.html" class="text-action-4">this guide</a>, if you want.
+                    If it says "you need to install MetaMask to use this" you can try installing MetaMask on your browser following <a href="https://metamask.io/download.html" class="text-action-4">this guide</a>, if you want.
                 </p>
                 <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
                     I'll break down the code used to get a button like that. Please keep in mind that you're free to use the code, as it doesn't belong to me. You don't need my permission to do so, but it'd be really nice if you could link to this post.
@@ -173,7 +173,9 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
 tipButton.<span style="color: #660066;">addEventListener</span><span style="color: #009900;">&#40;</span><span style="color: #3366CC;">'click'</span><span style="color: #339933;">,</span> <span style="color: #000066; font-weight: bold;">function</span><span style="color: #009900;">&#40;</span><span style="color: #009900;">&#41;</span> <span style="color: #009900;">&#123;</span>
 &nbsp;
   <span style="color: #000066; font-weight: bold;">if</span> <span style="color: #009900;">&#40;</span><span style="color: #000066; font-weight: bold;">typeof</span> web3 <span style="color: #339933;">===</span> <span style="color: #3366CC;">'undefined'</span><span style="color: #009900;">&#41;</span> <span style="color: #009900;">&#123;</span>
-    <span style="color: #000066; font-weight: bold;">return</span> renderMessage<span style="color: #009900;">&#40;</span><span style="color: #3366CC;">'&lt;div align=&quot;center&quot;&gt;You need to install &lt;a href=&quot;https://metamask.io/&quot;&gt;&lt;u&gt;MetaMask&lt;/u&gt;&lt;/a&gt; to use this.&lt;/a&gt;&lt;/div&gt;'</span><span style="color: #009900;">&#41;</span>
+    <span style="color: #000066; font-weight: bold;">return</span> renderMessage<span style="color: #009900;">&#40;</span><span style="color: #3366CC;">'&lt;div align=&quot;center&quot;&gt;You need to install 
+    &lt;a href=&quot;https://metamask.io/&quot;&gt;&lt;u&gt;MetaMask&lt;/u&gt;&lt;/a&gt; 
+    to use this.&lt;/a&gt;&lt;/div&gt;'</span><span style="color: #009900;">&#41;</span>
   <span style="color: #009900;">&#125;</span>
 &nbsp;
   <span style="color: #000066; font-weight: bold;">else</span> <span style="color: #000066; font-weight: bold;">if</span> <span style="color: #009900;">&#40;</span><span style="color: #000066; font-weight: bold;">typeof</span> <span style="color: #000066; font-weight: bold;">typeof</span> web3 <span style="color: #339933;">!==</span> <span style="color: #3366CC;">'undefined'</span><span style="color: #009900;">&#41;</span> <span style="color: #009900;">&#123;</span>
@@ -186,7 +188,7 @@ tipButton.<span style="color: #660066;">addEventListener</span><span style="colo
         value<span style="color: #339933;">:</span> web3.<span style="color: #660066;">toWei</span><span style="color: #009900;">&#40;</span><span style="color: #3366CC;">'0.01'</span><span style="color: #339933;">,</span> <span style="color: #3366CC;">'ether'</span><span style="color: #009900;">&#41;</span><span style="color: #339933;">,</span> 
         gas<span style="color: #339933;">:</span> <span style="color: #CC0000;">50000</span><span style="color: #339933;">,</span>
       <span style="color: #009900;">&#125;</span><span style="color: #339933;">,</span> <span style="color: #000066; font-weight: bold;">function</span> <span style="color: #009900;">&#40;</span>err<span style="color: #339933;">,</span> transactionHash<span style="color: #009900;">&#41;</span> <span style="color: #009900;">&#123;</span>
-<span style="color: #000066; font-weight: bold;">if</span> <span style="color: #009900;">&#40;</span>err<span style="color: #009900;">&#41;</span> <span style="color: #000066; font-weight: bold;">return</span> renderMessage<span style="color: #009900;">&#40;</span><span style="color: #3366CC;">'There was a problem!: '</span> <span style="color: #339933;">+</span> err.<span style="color: #660066;">message</span><span style="color: #009900;">&#41;</span>
+   <span style="color: #000066; font-weight: bold;">if</span> <span style="color: #009900;">&#40;</span>err<span style="color: #009900;">&#41;</span> <span style="color: #000066; font-weight: bold;">return</span> renderMessage<span style="color: #009900;">&#40;</span><span style="color: #3366CC;">'There was a problem!: '</span> <span style="color: #339933;">+</span> err.<span style="color: #660066;">message</span><span style="color: #009900;">&#41;</span>
 &nbsp;
         <span style="color: #006600; font-style: italic;">// If you get a transaction hash, you can assume it was sent,</span>
         <span style="color: #006600; font-style: italic;">// or if you want to guarantee it was received, you can poll</span>
