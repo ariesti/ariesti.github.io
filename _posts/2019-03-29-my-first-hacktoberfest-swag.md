@@ -112,14 +112,14 @@ featured-image-alt: S-S-S-SWAAAG!
                 <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
                     Getting started is as easy as 1-2-3:
                 </p>
-                <ol class="pb-8 text-dark-1 fs-2">
-                    <li class="mb-5">
+                <ol class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+                    <li class="mb-5" data-aos="fade-down" data-aos-delay="50">
                         Before registering for Hacktoberfest, you need to setup a GitHub account that you’ll use during the community event. You can do that from GitHub: <a href="https://github.com/join" class="text-action-4" rel="nofollow">github.com/join</a>.
                     </li>
-                    <li class="mb-5">
+                    <li class="mb-5" data-aos="fade-down" data-aos-delay="50">
                         Register through the Hacktoberfest registration page.
                     </li>
-                    <li class="mb-5">
+                    <li class="mb-5" data-aos="fade-down" data-aos-delay="50">
                         Make 5 PRs and follow the instructions to receive your dev swag.
                     </li>
                 </ol>
