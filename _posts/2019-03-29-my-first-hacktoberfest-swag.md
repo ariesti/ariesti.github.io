@@ -123,6 +123,48 @@ featured-image-alt: S-S-S-SWAAAG!
                         Make 5 PRs and follow the instructions to receive your dev swag.
                     </li>
                 </ol>
+		<p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+                    But if you tried to contribute to these open source projects outside of Hacktoberfest it would have taken you some time, and probably more than 5 issues, before your contribution is considered "good enough." After my first contribution in 2018, I still return to the projects to see how else I can make myself useful. So here's some of my after thoughts:
+                </p>
+                <h4 class="mb-4 mb-md-8" data-aos="fade-down" data-aos-delay="0">
+                    It is not enough to just interact on GitHub.
+                </h4>
+                <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+                    If your project has a mailing list, you should definitely join it. In theory, reading up on the project’s reporting guideline, Slack channel discussion, and developer forums would help you select a decent issue to work on. The project’s contributing guideline also would lay out the basics to help you prepare your PRs.
+                </p>
+                <h4 class="mb-4 mb-md-8" data-aos="fade-down" data-aos-delay="0">
+                    Ask for help from other developers.
+                </h4>
+                <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+                    This is hard. But it’s one of the main benefits of working on open source projects: you get to work with other developers. When you need (and you will need it) some help, you should ask for assistance from other developers and communicate. This ensures that you are able to work on the items you have set out to work on. They can point you to the right direction or advice you on where to look for stuff.
+                </p>
+                <h4 class="mb-4 mb-md-8" data-aos="fade-down" data-aos-delay="0">
+                    Get familiar with the community swag lists.
+                </h4>
+                <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+                    Turns out that the open source community has a culture of rewarding contributors with swag! Each of the companies have their own requirement for the free gifts they give for your time and your help. Why not make the most of your contributing month? During Hacktoberfest, try to contribute to the companies that offer dev swags. They could also motivate you to continue contributing regularly to projects that match your schedule and qualifications.
+                </p>
+                <h4 class="mb-4 mb-md-8" data-aos="fade-down" data-aos-delay="0">
+                    Consider creating your own open source projects.
+                </h4>
+                <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+                    If existing projects are no longer sufficient, you’d want to consider creating your own. With the right dev swags (and marketing mix) you might be able to attract rising talents that could lead to somewhere amazing.
+                </p>
+                <h3 class="mb-4 mb-md-8" data-aos="fade-down" data-aos-delay="0">
+                    It's Not All About the Swag But When It Is, It's Lit . .
+                </h3>
+            </div>
+            <div class="col-auto pb-8 text-center">
+                <img src="/assets/image/2-ftt.png" alt="" class="img-fluid" data-aos="fade-down" data-aos-delay="0">
+                <figcaption class="mt-5">A maroon t-shirt, an Octocat sticker, a shark sticker, a sticker of four dots, a coaster.</figcaption>
+            </div>
+            <div class="col-lg-10 col-xl-8 col-xxl-7">
+                <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+                    This issue has come up in online forum discussions. After some time, the package tracking for Hacktoberfest swag became unavailable.. so people weren't able to find out where their package was or where the rewards got stuck. I was told that my package was already dispatched in time but was rejected due to conflict of address. The design team had to resend my package, and luckily the second time was a charm.
+                </p>
+                <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+                    Indonesian customs fee for imported goods does not charge any item that is less than $100 in value, but somehow my dev swag was held in customs, as shown by the customs tariff receipt handed to me. I had to pay about $1.5 for customs, which is hilarious! The package itself is not even a taxable item. It took my swag about one month to make it to the post office.
+                </p>
             </div>         
         </div>
     </div>
