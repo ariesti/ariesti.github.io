@@ -36,3 +36,45 @@ featured-image-alt: S-S-S-SWAAAG!
         </div>
     </div>
 </section>
+<!-- Content section -->
+<section class="bg-bg-3 pb-8">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-10 col-xl-8 col-xxl-7">
+                <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+                    Hacktoberfest motivates newbies to contribute to <b>open-source</b> projects. In case you were wondering, 2019 was my first time participating fully, and I did not regret a minute of it. Although come to think of it now, there were probably a few things I could have done to maximize my participation.
+                </p>
+                <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+                    If you’ve been thinking about collaborating with others, open source is a great start. Every year since 2013, the community celebrates open source software by rewarding contributors during the month of October.
+                </p>
+                <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+                    Don’t worry so much about the coding bits, because the focus of Hacktoberfest is to <b>contribute</b> to a software project. It is first-timer friendly, and you are not limited to only your coding skill sets. Any area where you might be able to help is within your reach: social media marketing, copywriting, editing, design, testing, bug reporting, business, etc.
+                </p>
+                <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+                    Okay, maybe business is still a little way off, but here are some things you can do to get started (right away):
+                </p>
+                <h4 class="mb-4 mb-md-8" data-aos="fade-down" data-aos-delay="0">
+                    1. Check for broken and/or outdated links. 
+                </h4>
+                <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+                    This is mostly what I did. I contributed to a WebDevStudio project creating WordPress starter themes, so there were plenty of links referencing WordPress’s Codex, which has moved to a different subdomain but still at Wordpress.org. Some of these links weren't broken; they simply need to be updated to point to the most recent webpages.
+                </p>
+                <h4 class="mb-4 mb-md-8" data-aos="fade-down" data-aos-delay="0">
+                    2. Fix the typos.
+                </h4>
+                <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+                    Typos are bugs! And you need to fix them. Content can be buggy, too, especially if the website is localized into other languages. Go for the obvious grammar and misspelling ones, rather than the more subtle issues of style.
+                </p>
+                <h4 class="mb-4 mb-md-8" data-aos="fade-down" data-aos-delay="0">
+                    3. Make sure the viewport is for responsive pages.
+                </h4>
+                <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+                    Modern websites are built with mobile in mind, so they've got to be responsive and stay responsive. You should be able to go over the website code and check if the viewport meta tag is correctly set up.
+                </p>
+                <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+                    You should be able to copy your projects's URL and paste it on to any mobile SEO tool to check for things like the viewport tag, load time, image optimization, etc. is correctly used. If the viewport is not, for example, responsive, that could just be your very first <abbr title="Pull Request">PR</abbr>.
+                </p>
+            </div>         
+        </div>
+    </div>
+</section>
