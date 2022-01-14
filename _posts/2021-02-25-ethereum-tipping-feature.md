@@ -26,7 +26,7 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
             </div>
             <div class="row">
 		<div class="col-12 mb-5 col-md-10 col-lg-9">
-			<h2 class="display-3 text-light-1 ps-xl-16 px-lg-12 px-md-8 pt-8" style="-webkit-text-fill-color:orange;-webkit-text-stroke-width: 1px;-webkit-text-stroke-color: white;" data-aos="flip-left" data-aos-delay="250">Create a MetaMask Tipping Button and Start Collecting Ether</h2>
+			<h2 class="display-3 text-light-1 ps-xl-16 px-lg-12 px-md-8 pt-8" style="-webkit-text-fill-color:orange;-webkit-text-stroke-width: 1px;-webkit-text-stroke-color: white;">Create a MetaMask Tipping Button and Start Collecting Ether</h2>
 		</div>
 			<p class="fs-5 text-light-1 text-xl-center text-xxl-center text-lg-center ps-md-8" data-aos="fade-down" data-aos-delay="250">
 				<span class="text-light-1" data-aos="fade-down" data-aos-delay="250">20 Feb, 2021</span> /
