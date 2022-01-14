@@ -138,7 +138,7 @@ featured-image-alt: Search page
         Fingertip-Top's search page initially included all the categories and tags, along with a free Google search functionality, or a programmable search engine. Adding a custom search engine was pretty easy to do. 
         <ol class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="250">
             <li class="pb-5">
-                Go to Google's custom search engine at <a href="programmablesearchengine.google.com/cse/" class="text-action-4" rel="nofollow">programmablesearchengine.google.com/cse</a> or <a href="https://cse.google.com/" class="text-action-4" rel="nofollow">cse.google.com</a>.
+                Go to Google's custom search engine at <a href="https://programmablesearchengine.google.com/cse/" class="text-action-4" rel="nofollow">programmablesearchengine.google.com/cse</a> or <a href="https://cse.google.com/" class="text-action-4" rel="nofollow">cse.google.com</a>.
             </li>
             <li class="pb-5">
                 Add a search engine by creating one. Let Google know the name of your site and the language of the posts. 
