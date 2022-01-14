@@ -125,7 +125,7 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
                     <b>So, what's in the code?</b>
                 </p>
                 <p class="pb-5 mb-0 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
-                    A bit of HTML
+                    A bit of HTML.
                 </p>
 		    <pre style="font-family:monospace;" class="html4strict mb-0 fs-4">		
                     <p class="ps-8 bg-bg-2 mb-0">
@@ -157,8 +157,55 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
 <span style="color: #66cc66;">&#125;</span>
             </p>
             </pre>
+	    <p class="py-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+                On an HTML page, the above code goes between the style tags. Just adjust the width and height, depending on the image you're using, or else the image might now show up fully. Change the URL address for the button image to point to the image you want to use.
+            </p>
+            <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+                And then finally, a bit of JavaScript.
+            </p>
+	    <pre class="javascript mb-0 fs-4" style="font-family:monospace;">
+            <p class="ps-8 bg-bg-2 mb-0">
+<span style="color: #339933;">&lt;!--</span> Metamask Script <span style="color: #339933;">--&gt;</span>
+<span style="color: #339933;">&lt;</span>script<span style="color: #339933;">&gt;</span>
+<span style="color: #000066; font-weight: bold;">var</span> my_address <span style="color: #339933;">=</span> <span style="color: #3366CC;">'0x9f5F4Cf8ed30F04f772B63d02CDB8a9D5732e8BC'</span>
+<span style="color: #000066; font-weight: bold;">var</span> tipButton <span style="color: #339933;">=</span> document.<span style="color: #660066;">querySelector</span><span style="color: #009900;">&#40;</span><span style="color: #3366CC;">'.tip-button'</span><span style="color: #009900;">&#41;</span>
+&nbsp;
+tipButton.<span style="color: #660066;">addEventListener</span><span style="color: #009900;">&#40;</span><span style="color: #3366CC;">'click'</span><span style="color: #339933;">,</span> <span style="color: #000066; font-weight: bold;">function</span><span style="color: #009900;">&#40;</span><span style="color: #009900;">&#41;</span> <span style="color: #009900;">&#123;</span>
+&nbsp;
+  <span style="color: #000066; font-weight: bold;">if</span> <span style="color: #009900;">&#40;</span><span style="color: #000066; font-weight: bold;">typeof</span> web3 <span style="color: #339933;">===</span> <span style="color: #3366CC;">'undefined'</span><span style="color: #009900;">&#41;</span> <span style="color: #009900;">&#123;</span>
+    <span style="color: #000066; font-weight: bold;">return</span> renderMessage<span style="color: #009900;">&#40;</span><span style="color: #3366CC;">'&lt;div align=&quot;center&quot;&gt;You need to install &lt;a href=&quot;https://metamask.io/&quot;&gt;&lt;u&gt;MetaMask&lt;/u&gt;&lt;/a&gt; to use this.&lt;/a&gt;&lt;/div&gt;'</span><span style="color: #009900;">&#41;</span>
+  <span style="color: #009900;">&#125;</span>
+&nbsp;
+  <span style="color: #000066; font-weight: bold;">else</span> <span style="color: #000066; font-weight: bold;">if</span> <span style="color: #009900;">&#40;</span><span style="color: #000066; font-weight: bold;">typeof</span> <span style="color: #000066; font-weight: bold;">typeof</span> web3 <span style="color: #339933;">!==</span> <span style="color: #3366CC;">'undefined'</span><span style="color: #009900;">&#41;</span> <span style="color: #009900;">&#123;</span>
+    <span style="color: #006600; font-style: italic;">// Request account access if needed</span>
+    ethereum.<span style="color: #660066;">enable</span><span style="color: #009900;">&#40;</span><span style="color: #009900;">&#41;</span>.<span style="color: #660066;">then</span><span style="color: #009900;">&#40;</span><span style="color: #000066; font-weight: bold;">function</span> <span style="color: #009900;">&#40;</span><span style="color: #009900;">&#41;</span> <span style="color: #009900;">&#123;</span>
+      <span style="color: #006600; font-style: italic;">// Acccounts now exposed</span>
+      web3.<span style="color: #660066;">eth</span>.<span style="color: #660066;">sendTransaction</span><span style="color: #009900;">&#40;</span><span style="color: #009900;">&#123;</span>
+        to<span style="color: #339933;">:</span> my_address<span style="color: #339933;">,</span>
+        from<span style="color: #339933;">:</span> web3.<span style="color: #660066;">eth</span>.<span style="color: #660066;">accounts</span><span style="color: #009900;">&#91;</span><span style="color: #CC0000;">0</span><span style="color: #009900;">&#93;</span><span style="color: #339933;">,</span>
+        value<span style="color: #339933;">:</span> web3.<span style="color: #660066;">toWei</span><span style="color: #009900;">&#40;</span><span style="color: #3366CC;">'0.01'</span><span style="color: #339933;">,</span> <span style="color: #3366CC;">'ether'</span><span style="color: #009900;">&#41;</span><span style="color: #339933;">,</span> 
+        gas<span style="color: #339933;">:</span> <span style="color: #CC0000;">50000</span><span style="color: #339933;">,</span>
+      <span style="color: #009900;">&#125;</span><span style="color: #339933;">,</span> <span style="color: #000066; font-weight: bold;">function</span> <span style="color: #009900;">&#40;</span>err<span style="color: #339933;">,</span> transactionHash<span style="color: #009900;">&#41;</span> <span style="color: #009900;">&#123;</span>
+        <span style="color: #000066; font-weight: bold;">if</span> <span style="color: #009900;">&#40;</span>err<span style="color: #009900;">&#41;</span> <span style="color: #000066; font-weight: bold;">return</span> renderMessage<span style="color: #009900;">&#40;</span><span style="color: #3366CC;">'There was a problem!: '</span> <span style="color: #339933;">+</span> err.<span style="color: #660066;">message</span><span style="color: #009900;">&#41;</span>
+&nbsp;
+        <span style="color: #006600; font-style: italic;">// If you get a transaction hash, you can assume it was sent,</span>
+        <span style="color: #006600; font-style: italic;">// or if you want to guarantee it was received, you can poll</span>
+        <span style="color: #006600; font-style: italic;">// for that transaction to be mined first.</span>
+        renderMessage<span style="color: #009900;">&#40;</span><span style="color: #3366CC;">'Thanks for the generosity!!'</span><span style="color: #009900;">&#41;</span>
+      <span style="color: #009900;">&#125;</span><span style="color: #009900;">&#41;</span>
+    <span style="color: #009900;">&#125;</span><span style="color: #009900;">&#41;</span><span style="color: #339933;">;</span>
+  <span style="color: #009900;">&#125;</span>
+&nbsp;
+<span style="color: #009900;">&#125;</span><span style="color: #009900;">&#41;</span>
+&nbsp;
+<span style="color: #000066; font-weight: bold;">function</span> renderMessage <span style="color: #009900;">&#40;</span>message<span style="color: #009900;">&#41;</span> <span style="color: #009900;">&#123;</span>
+  <span style="color: #000066; font-weight: bold;">var</span> messageEl <span style="color: #339933;">=</span> document.<span style="color: #660066;">querySelector</span><span style="color: #009900;">&#40;</span><span style="color: #3366CC;">'.message'</span><span style="color: #009900;">&#41;</span>
+  messageEl.<span style="color: #660066;">innerHTML</span> <span style="color: #339933;">=</span> message
+<span style="color: #009900;">&#125;</span>
+<span style="color: #339933;">&lt;/</span>script<span style="color: #339933;">&gt;</span>
+            </p>
+            </pre>
             </div>
         </div>
     </div>
 </section>
-
