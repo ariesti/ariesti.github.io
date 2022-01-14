@@ -18,7 +18,7 @@ featured-image-alt: Speed dating for work
             <div class="row align-items-baseline mb-5 ps-xl-4 ps-lg-4 ps-md-4">
             <!-- Display the category -->
                 <div class="col-auto">
-                  <p class="fs-4 mb-0 text-capitalize" data-aos="fade-down" data-aos-delay="0"><a href="" class="text-dark-1">community</a></p>
+                  <p class="fs-4 mb-0 text-capitalize" data-aos="fade-down" data-aos-delay="0"><a href="" class="text-light-1">community</a></p>
                 </div>
             </div>
             <div class="row">
