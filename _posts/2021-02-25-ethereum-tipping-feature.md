@@ -220,7 +220,7 @@ tipButton.<span style="color: #660066;">addEventListener</span><span style="colo
                 </p>
 	    </div>
 	    <div class="col-6 pb-8 text-center">
-            <a href="https://lovellifuad.com"><img src="https://i.postimg.cc/RVH0kcLZ/tipping-jar-on-my-blogger-site.png" alt="MetaMask button for the tipping jar" class="border border-action-4 img-fluid aos-init aos-animate" data-aos="fade-down" data-aos-delay="0"></a>
+            <a href="https://lovellifuad.com"><img src="https://i.postimg.cc/RVH0kcLZ/tipping-jar-on-my-blogger-site.png" alt="MetaMask button for the tipping jar" class="border border-action-4 img-fluid" data-aos="fade-down" data-aos-delay="0"></a>
 		<figcaption class="mt-5">Use it for the tipping jar</figcaption>
             </div>
 	    <div class="col-lg-10 col-xl-8 col-xxl-7">
