@@ -26,7 +26,7 @@ featured-image-alt: Speed dating for work
 			<h2 class="display-3 text-light-1 ps-xl-16 px-lg-12 px-md-8 pt-8" data-aos="fade-down" data-aos-delay="250">Hacker X Jakarta: My Speed Dating (for Work) Experience</h2>
 		</div>
 			<p class="fs-5 text-light-1 text-xl-center text-xxl-center text-lg-center ps-md-8" data-aos="fade-down" data-aos-delay="250">
-				<span class="text-light-1" data-aos="fade-down" data-aos-delay="250">Updated: June 25, 2019</span> /
+				<span class="text-light-1" data-aos="fade-down" data-aos-delay="250">25.06.2019</span> /
 				<a href="/categories/event" class="text-light-1" data-aos="fade-down" data-aos-delay="250">#event</a> <a href="/categories/review" class="text-light-1" data-aos="fade-down" data-aos-delay="250">#review</a>
 			</p>
             </div>
