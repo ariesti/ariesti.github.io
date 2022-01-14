@@ -66,7 +66,7 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
                     .tip-button:hover{background-image:url('/assets/image/3_pay_mm_over.png');}
                     .tip-button:active{background-image:url('/assets/image/3_pay_mm_off.png');}
                 </style>
-                <div class="tip-button vh-center"></div>
+                <div class="tip-button vh-center" data-aos="fade-right" data-aos-delay="50"></div>
                 <!-- Metamask Script -->
                 <script>
                     var my_address = '0x9f5F4Cf8ed30F04f772B63d02CDB8a9D5732e8BC'
@@ -127,8 +127,8 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
                 <p class="pb-5 mb-0 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
                     A bit of HTML.
                 </p>
-		    <pre style="font-family:monospace;" class="html4strict mb-0 fs-4" data-aos="fade-right">		
-                    <p class="ps-8 bg-bg-2 mb-0" data-aos="fade-right">
+		    <pre style="font-family:monospace;" class="html4strict mb-0 fs-4" data-aos="fade-right" data-aos-delay="50">		
+                    <p class="ps-8 bg-bg-2 mb-0" data-aos="fade-right" data-aos-delay="50">
 <span style="color: #009900;">&lt;<span style="color: #000000; font-weight: bold;">div</span> <span style="color: #000066;">class</span><span style="color: #66cc66;">=</span><span style="color: #ff0000;">"tip-button"</span> <span style="color: #000066;">align</span><span style="color: #66cc66;">=</span><span style="color: #ff0000;">"center"</span>&gt;&lt;<span style="color: #66cc66;">/</span><span style="color: #000000; font-weight: bold;">div</span>&gt;</span>
 <span style="color: #808080; font-style: italic;">&lt;!-- Metamask Script --&gt;</span>
 <span style="color: #009900;">&lt;<span style="color: #000000; font-weight: bold;">div</span> <span style="color: #000066;">class</span><span style="color: #66cc66;">=</span><span style="color: #ff0000;">"message"</span>&gt;&lt;<span style="color: #66cc66;">/</span><span style="color: #000000; font-weight: bold;">div</span>&gt;</span>
@@ -137,8 +137,8 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
                 <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
                     A bit of CSS: insert button.
                 </p>
-                    <pre class="actionscript mb-0 fs-4" style="font-family:monospace" data-aos="fade-right">
-                    <p class="ps-8 bg-bg-2 mb-0" data-aos="fade-right">
+                    <pre class="actionscript mb-0 fs-4" style="font-family:monospace" data-aos="fade-right" data-aos-delay="50">
+                    <p class="ps-8 bg-bg-2 mb-0" data-aos="fade-right" data-aos-delay="50">
 .<span style="color: #006600;">tip</span>-<span style="color: #0066CC;">button</span> <span style="color: #66cc66;">&#123;</span>
   <span style="color: #0066CC;">width</span>: 250px;
   <span style="color: #0066CC;">height</span>: 40px;
