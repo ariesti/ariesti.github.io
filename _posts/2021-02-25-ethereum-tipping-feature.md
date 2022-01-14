@@ -53,6 +53,9 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
                 <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
                     For our example, this time we’ve set the amount to be 0.01 ETH and the <b>gas fee</b> to be 50.000 (total TX of 0.001 ETH). The standard is a limit of 21000 and a gas price of 0.00000002 ETH = total of 0.00042 ETH. (It’s not a random number.)
                 </p>
+		<p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+		    {% include inarticle.html %}
+		</p>
                 <h3 class="mb-4 mb-md-8" data-aos="fade-down" data-aos-delay="0">
                     The Ether tipping button
                 </h3>
