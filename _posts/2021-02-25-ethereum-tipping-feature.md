@@ -205,9 +205,34 @@ tipButton.<span style="color: #660066;">addEventListener</span><span style="colo
   messageEl.<span style="color: #660066;">innerHTML</span> <span style="color: #339933;">=</span> message
 <span style="color: #009900;">&#125;</span>
 <span style="color: #339933;">&lt;/</span>script<span style="color: #339933;">&gt;</span>
+                    </p>
+                    </pre>
+	    </div>
+	    <div class="col-lg-10 col-xl-8 col-xxl-7">
+                <h3 class="mb-4 mb-md-8" data-aos="fade-down" data-aos-delay="0">
+                    How Does It All Work?
+                </h3>
+                <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+                    I’ve put a MetaMask pay button on a widget for one of my blogger sites. All the CSS goes into the theme's Edit HTML, while the HTML and JavaScript goes into the HTML/CSS widget area. 
                 </p>
-                </pre>
-            </div>
+                <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+                    In order for this to work though you need to have:
+                </p>
+                <ul class="pb-8 text-dark-1 fs-2">
+                    <li class="pb-5">A MetaMask wallet</li>
+                    <li class="pb-5">MetaMask extension on your browser</li>
+                    <li class="pb-0">A blog/site your audience can visit</li>
+                </ul>
+                <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+                    Sometimes you'll also get an error message that says "Not enough ETH to send". It's because your account doesn’t have enough ETH to cover the cost of gas. If the gas money > amount of tip, the transaction will also be reverted. 
+                </p>
+                <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+                    The term <b>gas money</b> doesn't actually refer to the units of gas for a vehicle. It specifies an amount you need to pay for the <b>computation</b>. The price of gas (in <b>gwei</b>) fluctuates daily, but all unused gas money is going to be refunded at the end of a transaction. If the transaction fails, however, you’ll use up all your gas money and receive <u>nothing</u> back.
+                </p>
+                <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+                    <b>Total cost of transaction or TX = Gas Limit * Gas Price</b>
+                </p>
+            </div>	
         </div>
     </div>
 </section>
