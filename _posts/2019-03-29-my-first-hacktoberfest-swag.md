@@ -2,8 +2,8 @@
 layout: post-plain
 author: Lovelli Fuad
 title: "Got My Very First Dev Swag in the Mail. It's Hacktoberfest No. 5!"
-description: I joined Hacktoberfest last year and got my first dev swag this year. You too can take part in this community event this October.
-lead: <span class="initialism">Dsclmr:</span> The community event ended two years ago in October, but my first dev swag was just delivered to me a few business days ago.
+description: I joined Hacktoberfest in 2018 and got my first set of dev swag. You too can take part in this community event this October.
+lead: <span class="initialism">Dsclmr:</span> The community event ended in October, 2018, and the swag took a whole year to get delivered. 
 permalink: blog/hacktoberfest-dev-swag
 updated: 2022-01-14 05:34 PM
 updated-by: "Bob Bock"
