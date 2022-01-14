@@ -29,7 +29,7 @@ featured-image-alt: S-S-S-SWAAAG!
 			<h2 class="display-3 text-dark-1 ps-xl-16 px-lg-12 px-md-8 pt-8" data-aos="fade-down" data-aos-delay="250">Got My Very First Dev Swag in the Mail. It's Hacktoberfest No. 5!</h2>
 		</div>
 			<p class="fs-5 text-dark-1 text-xl-center text-xxl-center text-lg-center ps-md-8" data-aos="fade-down" data-aos-delay="250">
-				<span class="text-dark-1" data-aos="fade-down" data-aos-delay="250">4 Mar, 2021</span> /
+				<span class="text-dark-1" data-aos="fade-down" data-aos-delay="250">Updated: 14 Jan, 2022</span> /
 				<a href="/categories/beginners" class="text-dark-1" data-aos="fade-down" data-aos-delay="250">#beginners</a> <a href="/categories/open-source" class="text-dark-1" data-aos="fade-down" data-aos-delay="250">#opensource</a>
 			</p>
             </div>
