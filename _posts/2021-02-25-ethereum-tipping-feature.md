@@ -232,6 +232,21 @@ tipButton.<span style="color: #660066;">addEventListener</span><span style="colo
                 <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
                     <b>Total cost of transaction or TX = Gas Limit * Gas Price</b>
                 </p>
+		                <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+                    In our code, we’ve specified 50,000 as the gas limit (written as just 'gas'). It's the maximum amount of gas money you are willing to spend for the transaction. A standard transaction in ETH will require 21,000. So by Ethereum's standard, if the transfer goes through, the remaining fund (50,000 – 21,000) will be returned to your wallet. 
+                </p>
+                <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+                    The calculation is different when you're sending <b>tokens</b>, which are smart contracts built using the Ethereum blockchain. There are currently more than 400,000 tokens working their way on the Ethereum main network. The gas money for them can go anywhere between 50,000 to 100,000.   
+                </p>
+                <h3 class="mb-4 mb-md-8" data-aos="fade-down" data-aos-delay="0">
+                    MetaMask on GitHub
+                </h3>
+                <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+                    This entire code has been made available on GitHub, so be sure to check out the repo at <a href="https://github.com/MetaMask/TipButton" class="text-action-4">MetaMask/TipButton</a>, where you can choose from more button variations. 
+                </p>
+                <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+                    Now, what do you say? Ready to collect Ether?
+                </p>
             </div>	
         </div>
     </div>
