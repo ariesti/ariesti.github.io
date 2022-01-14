@@ -74,6 +74,55 @@ featured-image-alt: S-S-S-SWAAAG!
                 <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
                     You should be able to copy your projects's URL and paste it on to any mobile SEO tool to check for things like the viewport tag, load time, image optimization, etc. is correctly used. If the viewport is not, for example, responsive, that could just be your very first <abbr title="Pull Request">PR</abbr>.
                 </p>
+		<h3 class="mb-4 mb-md-8" data-aos="fade-down" data-aos-delay="0">
+                    Making Your First Ever 'Pull Request'
+                </h3>
+                <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+                    Luckily, I have read about how to make a Pull Request/PR years back when I first learned to way of Git and GitHub. So I wasn’t all that unfamiliar with the way open source projects work, but like I said, it was years ago. To make your first real PR, you need to learn to create a PR on GitHub. And you need to practice.
+                </p>
+                <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+                    There’s a bunch of very neat tutorials from Hacktoberfest’s host, Digital Ocean. I encourage you to go to their website and read their <a href="https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source" class="text-action-4" rel="nofollow">Introduction to Open Source</a> thoroughly before installing Git on your computer. Follow the Git installation guide <a href="https://www.digitalocean.com/community/tutorials/how-to-contribute-to-open-source-getting-started-with-git#contributing-to-open-source-projects" class="text-action-4" rel="nofollow">there</a>, too.
+                </p>
+                <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+                    But if installing Git looks like a lot of extra work, you can definitely skip it. There are open source projects, such as the freeCodeCamp repository, that will let you help improve articles by editing <a href="https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b" class="text-action-4" rel="nofollow">directly from your browser</a>.
+                </p>
+                <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+                    Learning about open source projects and how to contribute is only the beginning. You still need to find projects you can actually contribute to. Many are reserved for first-timers to take part in during the Hacktoberfest community event. And if you do a bit of internet search, you will find many such project lists.
+                </p>
+                <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+                    Just need to do some digging to find those repos.
+                </p>
+                <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+                    These are some other interesting first-timer guides to open source projects. Each includes links to where to find your first:
+                </p>
+                <ul class="pb-8 text-dark-1 fs-2">
+                    <li class="mb-5">
+                        <a href="https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/" class="text-action-4" rel="nofollow">A First Timer's Guide to an Open Source Project</a> from AuthO
+                    </li>
+                    <li class="mb-5">
+                        <a href="https://opensource.guide/" class="text-action-4" rel="nofollow">Open Source Guide</a> and <a href="https://opensourcefriday.com/#participate" class="text-action-4" rel="nofollow">Open Source Friday</a> from GitHub and friends
+                    </li>
+                    <li class="mb-5">
+                        <a href="https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae" class="text-action-4" rel="nofollow">Contributing to Your First Open Source Project: A Practical Approach</a>
+                    </li>
+                </ul>
+                <h3 class="mb-4 mb-md-8" data-aos="fade-down" data-aos-delay="0">
+                    How to Participate
+                </h3>
+                <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+                    Getting started is as easy as 1-2-3:
+                </p>
+                <ol class="pb-8 text-dark-1 fs-2">
+                    <li class="mb-5">
+                        Before registering for Hacktoberfest, you need to setup a GitHub account that you’ll use during the community event. You can do that from GitHub: <a href="https://github.com/join" class="text-action-4" rel="nofollow">github.com/join</a>.
+                    </li>
+                    <li class="mb-5">
+                        Register through the Hacktoberfest registration page.
+                    </li>
+                    <li class="mb-5">
+                        Make 5 PRs and follow the instructions to receive your dev swag.
+                    </li>
+                </ol>
             </div>         
         </div>
     </div>
