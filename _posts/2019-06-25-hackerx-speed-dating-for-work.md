@@ -158,7 +158,7 @@ featured-image-alt: Speed dating for work
             </div>
             <div class="col-auto pb-8 text-center">
                 <img src="/assets/image/hackerx-2018.png" alt="Snippets from my second Hacker X Jakarta meet-up" class="img-fluid" data-aos="fade-down" data-aos-delay="0">
-                <figcaption class="mt-5">Snippets from Hacker X Jakarta on July 19, 2018.</figcaption>
+                <figcaption class="mt-5 text-start">Snippets from Hacker X Jakarta on July 19, 2018.</figcaption>
             </div>
             <div class="col-lg-10 col-xl-8 col-xxl-7">
                 <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
