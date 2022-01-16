@@ -37,7 +37,7 @@ featured-image-alt: Search page
         (So, an all-categories page with a box on top. And make it interesting.)
     </p>
 </section>
-<section class="container-fluid pb-8">
+<section class="container-fluid">
     <div class="row text-center text-lg-left">
     <div class="col-lg-3 col-md-4 col-6">
       <a href="#" class="d-block mb-4 h-100">
