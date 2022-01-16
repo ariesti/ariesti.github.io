@@ -43,7 +43,7 @@ featured-image-alt: People facing home cinema screen
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-10 col-xl-8 col-xxl-7">
-                <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+                <p class="pb-8 pt-20 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
                     In our lives, there are many types of friends. 
                     There’s the online friend, the offline friend, the Twitter friend, the Facebook friend, the blogging friend, the childhood friend, and nowadays, the freelancer friend.
                 </p>
