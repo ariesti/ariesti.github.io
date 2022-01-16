@@ -35,7 +35,7 @@ featured-image-alt: Speed dating for work
     </div>
 </section>
 <!-- Content sections -->
-<section class="bg-bg-3">
+<section class="bg-bg-3 pt-20">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-10 col-xl-8 col-xxl-7">
