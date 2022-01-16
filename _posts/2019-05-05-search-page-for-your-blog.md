@@ -13,7 +13,7 @@ lang: en
 featured-image-description: A blog search page is not vital, but it's nice to have.
 featured-image-alt: Search page 
 ---
-<section class="col-lg-10 col-xl-8 col-xxl-7">
+<section class="col-lg-10 col-xl-8 col-xxl-7 pt-20">
     <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
         Search functionality for a static blog like Fingertip-Top isn't vital, but I wanted to have it early on.
         Once we have hundreds of blog posts and articles, it's gonna be difficult to find anything without a search console. 
