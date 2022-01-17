@@ -8,7 +8,8 @@ permalink: blog/hacktoberfest-dev-swag
 updated: 2022-01-14 05:34 PM
 updated-by: "Bob Bock"
 main-categories: [community] 
-other-categories: [events, tutorials]
+other-categories: [event, tutorials]
+categories: [community, event, tutorials]
 tags: [beginners, open-source, reviews]
 lang: en
 featured-image: swags.png
