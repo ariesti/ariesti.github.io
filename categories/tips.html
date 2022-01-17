@@ -44,7 +44,8 @@ tag_name: tips
 			</div>
 		</div>
 		{% endfor %}
-	{% for werd in site.werdz[page.tag_name] %}
+	{% for werd in site.werdz %}
+		{for werd.categories[page.tag_name] %}
 		<div class="border border-2 border-action-1 mx-4 py-0 px-8 mb-10 mb-md-15 mb-lg-20 col-sm-8 col-md-6 col-lg-4 justify-content-between" data-aos="fade-down" data-aos-delay="0">
 			<div>
 				<a href="{{ post.url }}" class="mb-4 d-block"><img src="i/blog-3-1.jpg" srcset="i/blog-3-1@2x.jpg 2x" alt="" class="img-fluid"></a>
@@ -59,6 +60,7 @@ tag_name: tips
 			</div>
 		</div>
 		{% endfor %}
+	{% endfor %}
 	</div>
 	</div>
 </section>
