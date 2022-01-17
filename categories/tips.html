@@ -50,21 +50,10 @@ tag_name: tips
 <section class="py-10 py-lg-20 bg-bg-3">
 	<div class="container">
 	<div class="row justify-content-center">
-	{% for post in site.werdz[page.tag_name] %}
-		<div class="border border-2 border-action-1 mx-4 py-0 px-8 mb-10 mb-md-15 mb-lg-20 col-sm-8 col-md-6 col-lg-4 justify-content-between" data-aos="fade-down" data-aos-delay="0">
-			<div>
-				<a href="{{ post.url }}" class="mb-4 d-block"><img src="i/blog-3-1.jpg" srcset="i/blog-3-1@2x.jpg 2x" alt="" class="img-fluid"></a>
-				<p class="text-capitalize">{{ post.main-categories }}</p>
-				<h3><a href="{{ post.url }}" title="{{ post.title }}" class="mb-4 font-heading text-dark-1 fs-3">{{ post.title }}</a></h3>
-			</div>
-			<div>
-				<p>{{ post.date | date_to_string }}</p>
-				<p class="d-none d-lg-block">{{ post.lead }}</p>
-				<p><a class="text-action-1 text-decoration-underline" href="{{ post.url }}">Read more</a></p>
-				<div class="border-bottom border-dark-1 opacity-20"></div>
-			</div>
+{% for werd in site.werdz %}
+  <h2>{{ werd.title }} - {{ werd.author }}</h2>
+  <a>{{ werd.url }}</a>
+{% endfor %}
 		</div>
-		{% endfor %}
-	</div>
-	</div>
+		</div>
 </section>
