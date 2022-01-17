@@ -130,13 +130,13 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
                 <p class="pb-5 mb-0 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
                     A bit of HTML.
                 </p>
-		<p class="pb-5 mb-0 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+		<div class="fs-2" data-aos="fade-down" data-aos-delay="50">
 {% highlight html %}
 <div class="tip-button" align="center"></div>
 <!-- Metamask Script -->
 <div class="message"></div>
 {% endhighlight %}
-		</p>
+		</div>
 		    <pre style="font-family:monospace;" class="html4strict mb-0 fs-4" data-aos="fade-right" data-aos-delay="50">		
                     <p class="ps-8 bg-bg-2 mb-0" data-aos="fade-right" data-aos-delay="50">
 <span style="color: #009900;">&lt;<span style="color: #000000; font-weight: bold;">div</span> <span style="color: #000066;">class</span><span style="color: #66cc66;">=</span><span style="color: #ff0000;">"tip-button"</span> <span style="color: #000066;">align</span><span style="color: #66cc66;">=</span><span style="color: #ff0000;">"center"</span>&gt;&lt;<span style="color: #66cc66;">/</span><span style="color: #000000; font-weight: bold;">div</span>&gt;</span>
