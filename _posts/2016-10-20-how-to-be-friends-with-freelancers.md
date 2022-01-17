@@ -8,8 +8,8 @@ lead: In our lives, there are many types of friends. There’s the online friend
 permalink: blog/good-freelancer-friends-guide
 published: 2016-10-20 00:38
 main-categories: [freelancing]
-other-categories: 
-categories: [freelancing]
+other-categories: [tutorial]
+categories: [freelancing, tutorial]
 tags: [mentoring, guide]
 lang: en
 featured-image: my-cinema-quote.png
