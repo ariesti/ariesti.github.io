@@ -160,6 +160,9 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
 }
 {% endhighlight %}			
 		</div>
+		<p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+                    And finally, some JavaScript. 
+                </p>
 		<div class="fs-2 pb-8" data-aos="fade-right" data-aos-delay="50">
 {% highlight javascript %}
 <!-- Metamask Script -->
@@ -213,7 +216,7 @@ function renderMessage (message) {
                     I’ve put a MetaMask pay button on a widget for one of my blogger sites. All the CSS goes into the theme's Edit HTML, while the HTML and JavaScript goes into the HTML/CSS widget area. 
                 </p>
 	    </div>
-	    <div class="col-6 pb-8 text-center">
+	    <div class="col-xxl-6 col-xl-7 col-lg-8 col-md-10 col-sm-12 pb-8 text-center">
             <a href="https://lovellifuad.com"><img src="https://i.postimg.cc/RVH0kcLZ/tipping-jar-on-my-blogger-site.png" alt="MetaMask button for the tipping jar" class="border border-action-4 img-fluid" data-aos="fade-down" data-aos-delay="0"></a>
 		<figcaption class="mt-5">Use it for the tipping jar</figcaption>
             </div>
