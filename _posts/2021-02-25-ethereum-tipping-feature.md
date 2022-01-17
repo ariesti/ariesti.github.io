@@ -9,6 +9,7 @@ permalink: blog/ethereum-tipping-feature
 date: 2021-02-25 19:00
 main-categories: [tips]
 other-categories: [guide, code snippets]
+categories: [tips, guide, code snippet]
 tags: [beginners, make]
 lang: en
 featured-image: snacks-in-vending-machine.png
