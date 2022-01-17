@@ -7,6 +7,7 @@ permalink: blog/hackerx-speed-dating-for-work
 published: 2019-06-25 10:16 PM
 main-categories: [community]
 other-categories: [freelancing, job search]
+categories: [community, freelancing, job search]
 tags: [event, review]
 lang: en
 featured-image: camera-monitoring.png
