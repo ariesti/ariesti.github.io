@@ -47,3 +47,7 @@ tag_name: tips
 	</div>
 	</div>
 </section>
+  {% assign filtered_posts = site.werdz | where: 'categories', page.tag_name %}
+  {% for post in filtered_posts %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
