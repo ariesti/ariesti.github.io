@@ -10,7 +10,7 @@ updated-by: "Bob Bock"
 main-categories: [community] 
 other-categories: [event, tutorials]
 categories: [community, event, tutorials]
-tags: [beginners, open-source, reviews]
+tags: [beginners, opensource, reviews]
 lang: en
 featured-image: swags.png
 featured-image-description: S-S-S-SWAAAG!
