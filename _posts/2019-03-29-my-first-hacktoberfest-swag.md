@@ -157,7 +157,7 @@ featured-image-alt: S-S-S-SWAAAG!
             </div>
             <div class="col-auto pb-8 text-center">
                 <img src="/assets/image/2-ftt.png" alt="" class="img-fluid" data-aos="fade-down" data-aos-delay="0">
-                <figcaption class="mt-5">A maroon t-shirt, an Octocat sticker, a shark sticker, a sticker of four dots, a coaster.</figcaption>
+                <figcaption class="mt-5 text-start">A maroon t-shirt, an Octocat sticker, a shark sticker, a sticker of four dots, a coaster.</figcaption>
             </div>
             <div class="col-lg-10 col-xl-8 col-xxl-7">
                 <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
