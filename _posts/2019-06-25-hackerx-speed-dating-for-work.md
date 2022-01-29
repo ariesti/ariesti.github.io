@@ -14,7 +14,7 @@ featured-image: camera-monitoring.png
 featured-image-alt: Speed dating for work
 ---
 <!-- Banner coded manually -->
-<section class="container mt-10 mb-8" style="background-color:lighthrey">
+<section class="container mt-10 mb-8" style="background-color:lightgrey">
     <div class="py-20 bg-size-cover bg-position-bottom-center d-flex align-items-end container-fluid" style="min-height: 50vh; background-image: url(&quot;&quot;);" data-aos="fade-down" data-aos-delay="250">
         <div class="container">
             <div class="row align-items-baseline mb-5 ps-xl-4 ps-lg-4 ps-md-4">
