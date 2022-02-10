@@ -73,7 +73,7 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
                 <div class="tip-button vh-center" data-aos="fade-right" data-aos-delay="50"></div>
                 <!-- Metamask Script -->
                 <script>
-                    var my_address = '0x9f5F4Cf8ed30F04f772B63d02CDB8a9D5732e8BC'
+                    var my_address = '0xfA6fDAb178C4f93A290E44A52164eaBBB86490a2'
                     var tipButton = document.querySelector('.tip-button')
 
                     tipButton.addEventListener('click', function() {
