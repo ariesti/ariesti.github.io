@@ -70,7 +70,7 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
                     .tip-button:hover{background-image:url('/assets/image/3_pay_mm_over.png');}
                     .tip-button:active{background-image:url('/assets/image/3_pay_mm_off.png');}
                 </style>
-                <div class="tip-button vh-center" data-aos="fade-right" data-aos-delay="50"></div>
+                <div class="tip-button vh-center"></div>
                 <!-- Metamask Script -->
                 <script>
                     var my_address = '0xfA6fDAb178C4f93A290E44A52164eaBBB86490a2'
