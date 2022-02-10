@@ -110,7 +110,7 @@ featured-image-alt: The most popular vending machine snacks lining up inside a v
                         messageEl.innerHTML = message
                     }
                     </script>
-                    <div class="message mt-8"></div>
+                    <div class="message"></div>
             </div>
             <div class="col-lg-10 col-xl-8 col-xxl-7">
                 <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
