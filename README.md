@@ -13,7 +13,7 @@ The getting started with GitHub Pages and Jekyll is a personal project of mine. 
 ```html/css```, ```web design```, ```web development```, ```websites```, ```blogging```, ```content strategy```, ```social media marketing```
 
 ## To-do list:
-- [ ] Add social media icons to Home + one panic button
+- [x] Add social media icons to Home + one panic button
 - [ ] Code the dark mode for blog
 - [ ] Dark mode switch (the panic button)
 - [ ] Optimize content for night/dark mode
