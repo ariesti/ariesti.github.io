@@ -51,6 +51,9 @@ featured-image-alt: S-S-S-SWAAAG!
                 <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
                     Don’t worry so much about the coding bits, because the focus of Hacktoberfest is to <b>contribute</b> to a software project. It is first-timer friendly, and you are not limited to only your coding skill sets. Any area where you might be able to help is within your reach: social media marketing, copywriting, editing, design, testing, bug reporting, business, etc.
                 </p>
+		<p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
+			{% include inarticle.html %}
+    		</p>
                 <p class="pb-8 text-dark-1 fs-2" data-aos="fade-down" data-aos-delay="50">
                     Okay, maybe business is still a little way off, but here are some things you can do to get started (right away):
                 </p>
