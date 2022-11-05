@@ -4,7 +4,7 @@ body,p{letter-spacing:-0.03em}.fs-1{letter-spacing:-0.03em}.fs-2{letter-spacing:
 /*Aesthetic Edits*/
 .aside{clear:right;float:right;font-size:1.1rem;line-height:1.3;margin-bottom:0;margin-right:-60%;margin-top:.3rem;position:relative;vertical-align:baseline;width:50%;}
 /*center vertically horizontally*/.vh-center{display:flex;justify-content:center;align-item:center;}
-/*showcase*/.showcase_author{font-size: .75rem;text-transform: uppercase;letter-spacing: 2px;}display:flex;font-size: 1rem;line-height:1.4;text-transform: uppercase;letter-spacing: 1.5px;width:fit-content;
+/*showcase*/.showcase_author{font-size: .75rem;text-transform: uppercase;letter-spacing: 2px;}.svg-inline--fa {display: var(--fa-display,inline-block);vertical-align: -0.125em;width: auto;border-radius: 50%;border: 1px solid;width:.75em;height:.75em;padding: 4px;margin: 2px;}.fa-angles-right:hover{background-color:var(--bs-action-6)!important;}.showcase_link{display:flex;font-size: 1rem;line-height:1.4;text-transform:uppercase;letter-spacing:1.5px;width:fit-content;}
 
 
 /*Syntax Highlighter: Modified from Pygments CSS*/
