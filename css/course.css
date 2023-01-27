@@ -8,7 +8,8 @@ body,p{letter-spacing:-0.03em}.fs-1{letter-spacing:-0.03em}.fs-2{letter-spacing:
 .showcase_author{font-size: .75rem;text-transform: uppercase;letter-spacing: 2px;}
 .svg-inline--fa {display: var(--fa-display,inline-block);vertical-align: -0.125em;width: auto;border-radius: 50%;border: 1px solid;width:.75em;height:.75em;padding: 4px;margin: 2px;}
 .fa-angles-right:hover{background-color:var(--bs-action-6)!important;}
-.showcase_link{display:flex;font-size: 1rem;line-height:1.4;text-transform:uppercase;letter-spacing:1.5px;width:fit-content;}
+.showcase_link{display:flex;font-size: 1rem;line-height:1.4;text-transform:uppercase;letter-spacing:1.5px;}
+.showcase_fit{width:fit-content;}
 .tag-text{font-size:.75rem;letter-spacing:2px;font-weight:600;text-transform:uppercase;}
 .tag-nav_link {font-size:.75rem;background:var(--yellow);letter-spacing:2px;font-weight:600;text-transform:uppercase;}
 
