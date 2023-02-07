@@ -11,7 +11,7 @@ body,p{letter-spacing:-0.03em}.fs-1{letter-spacing:-0.03em}.fs-2{letter-spacing:
 .showcase_link{display:flex;font-size: 1rem;line-height:1.4;text-transform:uppercase;letter-spacing:1.5px;}
 .showcase_fit{width:fit-content;}
 .tag-text{font-size:.75rem;letter-spacing:2px;font-weight:600;text-transform:uppercase;}
-.tag-nav_link {font-size:.75rem;background:var(--yellow);letter-spacing:2px;font-weight:600;text-transform:uppercase;}
+.tag-nav_link {font-size:.75rem;background:var(--bs-orange);letter-spacing:2px;font-weight:600;text-transform:uppercase;}
 
 /*Syntax Highlighter: Modified from Pygments CSS*/
 .highlight pre{ background-color: #404040 }
