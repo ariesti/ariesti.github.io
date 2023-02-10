@@ -10,7 +10,7 @@ description: Fingertip-Top's terms and privacy policy
 permalink: /about/terms
 ---
 <!-- Breadcrumbs -->
-<section class="bg-bg-2 py-2">
+<section class="bg-bg-2 py-2 d-sm-none d-md-block border-bottom border-action-4">
 	<div class="container">
         <div class="row">
 		<div class="col-lg-10 col-xl-8">
@@ -100,10 +100,10 @@ permalink: /about/terms
                 <ol class="pb-5 text-dark-1 fs-2">
                     <li class="fw-bold"><h4 class="mb-4 mb-md-8">Terms</h4></li>
                     <p class="pb-5 text-dark-1 fs-4">
-                        By accessing the website at <a href="https://fingertip.top">fingertip.top</a>, you are agreeing to be bound by these terms of service, all 
-			applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any 
-			of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable 
-			copyright and trademark law.</p>
+                        By accessing the website at <a href="https://fingertip.top" class="text-action-4">fingertip.top</a>, you are agreeing to be bound by these 
+			terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you 
+			do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are 
+			protected by applicable copyright and trademark law.</p>
                     <li class="fw-bold"><h4 class="mb-4 mb-md-8">Use License</h4></li>
                     <p class="pb-5 text-dark-1 fs-4">
                         Permission is granted to temporarily download one copy of the materials (information or software) on Fingertip-Top's website for personal, non-
