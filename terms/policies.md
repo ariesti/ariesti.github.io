@@ -10,7 +10,7 @@ description: Fingertip-Top's terms and privacy policy
 permalink: /about/terms
 ---
 <!-- Breadcrumbs -->
-<section class="bg-bg-2 py-2 d-sm-none d-md-block border-bottom border-action-4">
+<section class="bg-bg-2 py-2 d-none d-sm-block border-bottom border-action-4">
 	<div class="container">
         <div class="row">
 		<div class="col-lg-10 col-xl-8">
@@ -22,9 +22,9 @@ permalink: /about/terms
 					<span class="text-action-4">
 						// 
 				  	</span>
-					<span class="text-dark-1 opacity-60">
+					<a href="https://fingertip.top/about/" class="text-dark-1 opacity-60">
 						About
-					</span>
+					</a>
                     			<span class="text-action-4">
 						// 
 				  	</span>
