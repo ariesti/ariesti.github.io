@@ -14,7 +14,7 @@ body,p{letter-spacing:-0.03em}.fs-1{letter-spacing:-0.03em}.fs-2{letter-spacing:
 .showcase_fit{width:fit-content;}
 .tag-text{font-size:.75rem;letter-spacing:2px;font-weight:600;text-transform:uppercase;}
 .tag-nav_link {font-size:.75rem;background:var(--bs-orange);letter-spacing:2px;font-weight:600;text-transform:uppercase;}
-/*Fonts*/.font-section{font-family: var(--bs-body-font-family);font-weight:600;letter-spacing:-2px;}.font-pop p{letter-spacing:0.02rem;}
+/*Fonts*/.font-section{font-family: var(--bs-body-font-family);font-weight:600;letter-spacing:-2px;}.font-pop{letter-spacing:0.02rem;}
 
 /*Syntax Highlighter: Modified from Pygments CSS*/
 .highlight pre{ background-color: #404040 }
