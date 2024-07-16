@@ -65,7 +65,7 @@ featured-image-alt: Speed dating for work
                 <p class="pt-5 fs-4 text-dark-1">
                     I personally have never attended or RSVP-ed for a speed dating event before, but at the time the idea somewhat made sense.</p>
                 <p class="text-dark-1 fs-4">
-                    Each attendee gets to spend about 10 to 15 minutes to talk to a potential recruiter before rushing on to the next table to chat with the next recruiter, and the next, and the next, and so on. 
+                    From what I could gather from the overview, each attendee gets to spend about 10 to 15 minutes to talk to a potential recruiter before rushing on to the next table to chat with the next recruiter, and the next, and the next, and so on. In reality it was more like 5 minutes. (In practice, more like 2.)
                 </p>
                 <p class="text-dark-1 fs-4">
                     Having worked in Jakarta for a couple of years, I had very low expectations. 
