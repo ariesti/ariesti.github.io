@@ -1,7 +1,7 @@
 ---
 layout: post-plain
 title: "Hacker X Jakarta: My Speed Dating (for Work) Experience"
-description: This is a story about that one time, when I went to a recruitment speed dating… twice. 
+description: Highlights both the chaotic charm of speed networking and the challenges of unexpected outreach. Plus, a sprinkle of unsolicited email marketing to keep things interesting. 
 lead: As soon as I completed my Johns Hopkins data science specialization with Coursera that one time, <b class="alpha mark">offers</b> began flooding in.
 permalink: blog/hackerx-speed-dating-for-work
 published: 2019-06-25 10:16 PM
