@@ -1,6 +1,6 @@
 ---
 layout: post-plain
-title: "Hacker X Jakarta: My Speed Dating (for Work) Experience"
+title: "Hacker X Jakarta: The Thrills & Spills of Speed Networking"
 description: Highlights both the chaotic charm of speed networking and the challenges of unexpected outreach. Plus, a sprinkle of unsolicited email marketing to keep things interesting. 
 lead: As soon as I completed my Johns Hopkins data science specialization with Coursera that one time, <b class="alpha mark">offers</b> began flooding in.
 permalink: blog/hackerx-speed-dating-for-work
@@ -10,7 +10,7 @@ other-categories: [freelancing, job search]
 categories: [community, freelancing, job search]
 tags: [event, review]
 lang: en
-featured-image: camera-monitoring.png
+featured-image: 
 featured-image-alt: Speed dating for work
 ---
 <!-- Banner coded manually -->
@@ -40,7 +40,7 @@ featured-image-alt: Speed dating for work
     </div>
 <!-- OUT-OF-THE-BOX - USE DATE & BYLINE HERE -->
     <div class="col-12 mb-5 col-md-10 col-lg-9 mt-4">
-        <p class="fs-5 text-action-4 text-start ps-md-8">
+        <p class="fs-6 text-action-4 text-start ps-md-8">
             <span class="text-action-4">25.06.2019</span> /
             <a href="/categories/mentoring" class="text-action-4">#event</a> <a href="/categories/guide" class="text-action-4">#review</a>
         </p>
