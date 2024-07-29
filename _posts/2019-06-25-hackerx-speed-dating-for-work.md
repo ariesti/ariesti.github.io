@@ -165,7 +165,7 @@ featured-image-alt: Speed dating for work
                     Recruiters pay.
                 </p>
                 <p class="text-dark-1 fs-4">
-                    The scene was set with big names and emerging start-ups in attendance
+                    The scene was set with big names and emerging start-ups in attendance.
                     These companies were probably hiring all year round and were used to long recruitment processes. 
                     It was a mixed bag, but interesting to see who showed up.
                 </p>
@@ -178,7 +178,7 @@ featured-image-alt: Speed dating for work
                     Surprisingly, I landed a few interviews. 
                     Not entirely sure if it was the event or just sheer luck. 
                     After date night, it all boiled down to them sending me links to their job postings. 
-                    I filled out forms again, waiter for calls from unknown numbers. 
+                    I filled out forms again; waiter for calls from unknown numbers. 
                     The usual drill. 
                     But hey, a lead is a lead, right?
                 </p>
@@ -221,7 +221,7 @@ featured-image-alt: Speed dating for work
                     After a few chats, it started to feel like a circus. The room felt too big, the speakers too loud, and the companies were too into themselves.
                 </p>
                 <p class="text-dark-1 fs-4">
-                    Late in the night, the event organizers started dishing out dinner. Honestly, I wouldn’t have grabbed a bit if I hadn’t been hanging around, eavesdropping on Tokopedia staff chatting about their new HQ’s networking events. The way those pizza boxes were lined up, it felt like the food was only meant for ‘elite’ employees only.
+                    Late in the night, the event organizers started dishing out dinner. Honestly, I wouldn’t have grabbed a bite if I hadn’t been hanging around, eavesdropping on Tokopedia staff chatting about their new HQ’s networking events. The way those pizza boxes were lined up, it felt like the food was only meant for ‘elite’ employees only.
                 </p>
                 <p class="text-dark-1 fs-4">
                     After the chaos of Hacker X Jakarta Night, some recruiters decided to start the chase. Random calls from unknown numbers were a total buzzkill, but a few slick ones actually sent out a  heads-up email before hitting me up or setting up a meet. So sweet.
@@ -262,25 +262,18 @@ featured-image-alt: Speed dating for work
                     At their first meet-up on 2017, I felt like a circus animal. I had to pull out all the stops to impress them with something flashy about myself: “The greatest show on earth!” Meanwhile, the recruiters just sat back, not having to pitch a damn thing to lure in tech talent. 
                 </p>
                 <p class="text-dark-1 fs-4">
-                    The second time I went, it was a lot better organized. 
-                    But after talking to fellow developers attending, it was apparent that they were still quite clueless of what the event was and what to expect.
+                    The second time I went it was a lot better organized, sure. 
+                    But it felt like a forced speed dating session with no real connections. 
+		    Everyone was there to sell themselves, but no one was really listening. 
+		    It was all about the hustle, not the human connection. 
                 </p>
                 <p class="text-dark-1 fs-4">
-                    It felt like a forced-speed dating session with no real connections. Everyone was there to sell themselves, but no one was really listening. It was all about the hustle, not the human connection. 
+                    Like the first date night, I invited everyone I talked to during the event to connect on LinkedIn. 
+		    I again managed to score a couple of invites for further testing from Hacker X Jakarta in 2018. 
+		    And just like before, a few HR folks or recruiting staff reached out after D-day
                 </p>
                 <p class="text-dark-1 fs-4">
-                   Like the first date night, I invited everyone I talked to during the event to connect on LinkedIn. I again managed to score a couple of invites for further testing from Hacker X Jakarta in 2018. 
-		   And just like before, a few HR folks or recruiting staff reached out after D-day
-                </p>
-                <p class="text-dark-1 fs-4">
-                   It feels like jumping through hoops for a digital handshake. 
-                </p>
-                <p class="text-dark-1 fs-4">
-                    I proceeded to invite every single person I talked to during that event to become a LinkedIn contact. 
-                </p>
-                <p class="text-dark-1 fs-4">
-                    A few human resources staff or employees from recruiting departments within the companies that took part reached out to me before the event.
-                    I received a couple of invitations to do further testing afterwards, but that was it really.
+                    It feels like jumping through hoops for a digital handshake. 
                 </p>
             <h3 class="pt-5 mb-4">
                 Should You Go?
