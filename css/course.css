@@ -6,6 +6,7 @@ body,p{letter-spacing:-0.03em}.fs-1{letter-spacing:-0.03em}.fs-2{letter-spacing:
 /*center vertically horizontally*/.vh-center{display:flex;justify-content:center;align-item:center;}
 /*gradients */.grad0{background: linear-gradient(to right, #c4d7e6 0, #c4d7e6 33%, #66a5ad 33%, #66a5ad 66%, #ff0000 66%, #ff0000 100%); background-repeat: no-repeat; background-attachment: fixed;}.grad-crumb{background:linear-gradient(245deg,#f5f5f5 5%,#ffe5f2 33%,#ffe5f2 55%,#cff4d2 80%,#f5f5f5 100%)}.grad-crumb-1{background: linear-gradient(245deg,#f5f5f5 5%,#ffe5f2 33%,#f1f4cf 55%,#cff4d2 80%,#f5f5f5 100%);}
 /*button gradients*/.btn-pink-10{color:#ff017e;border-color:#ff017e;background-color:#ff017e10;}.btn-pink-10:hover{background-image:-webkit-gradient(linear,left top,right bottom,color-stop(0.3,#ff017e00),color-stop(1,#ff017e70))}
+/*border 4*/.border-bg-4{border-color:#cacaca!important;}
 /*showcase*/
 .showcase_author{font-size: .75rem;text-transform: uppercase;letter-spacing: 2px;}
 .svg-inline--fa {display: var(--fa-display,inline-block);vertical-align: -0.125em;width: auto;border-radius: 50%;border: 1px solid;width:.75em;height:.75em;padding: 4px;margin: 2px;}
