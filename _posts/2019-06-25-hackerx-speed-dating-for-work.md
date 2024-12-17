@@ -247,9 +247,9 @@ featured-image-alt: Speed dating for work
                     But hey, the food and drinks were way better this time. Even the Hacker X crew stepped up their game with a better presentation. 
                 </p>
             </div>
-            <div class="py-8 col-auto font-pop text-center">
+            <div class="py-8 col-auto text-center">
                 <img src="https://raw.githubusercontent.com/ariesti/ariesti.github.io/master/assets/image/hackerx-2018.png" alt="Snippets from my second Hacker X Jakarta meet-up" class="img-fluid">
-                <figcaption class="mt-5 text-start">Snippets from Hacker X Jakarta on July 19, 2018.</figcaption>
+                <figcaption class="mt-2 fs-6 font-monospace text-start">Snippets from Hacker X Jakarta on July 19, 2018.</figcaption>
             </div>
             <div class="col-lg-10 col-xl-8 col-xxl-7 font-pop">
             <h3 class="pt-5 mb-4">
