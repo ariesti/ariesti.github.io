@@ -17,26 +17,26 @@ featured-image-description: Are you a freelancer friend?
 featured-image-alt: People facing home cinema screen
 ---
 <!-- Banner coded manually -->
-<section class="container mt-10 mb-8" style="background-color:lightgoldenrodyellow;">
-    <div class="mb-10 mb-lg-20 py-20 align-items-end d-flex container" style="min-height: 50vh; background-image: url(&quot;&quot;);">
-        <div class="container">
-            <div class="row align-items-baseline mb-5 ps-xl-4 ps-lg-4 ps-md-4">
+<section class="container mt-10">
+    <div class="row align-items-baseline">
             <!-- Display the category -->
                 <div class="col-auto">
-                  <p class="fs-4 mb-0 text-dark-1 text-capitalize" data-aos="fade-down" data-aos-delay="0">Freelancing</p>
+                  <p class="tag-text text-action-4 p-1 fs-7">Freelancing</p>
                 </div>
             </div>
-            <div class="row">
-		<div class="col-12 mb-5 col-md-10 col-lg-9">
-			<h2 class="display-3 ps-xl-16 px-lg-12 px-md-8 pt-8" data-aos="flip-left" data-aos-delay="250">A Friendly Guide to Being Good Friends with a Freelancer, Even If You’re Not One</h2>
+    <div class="row">
+		<div class="col-11 mb-5">
+			<h2 class="display-5 text-dark-1">A Friendly Guide to Being Good Friends with a Freelancer, Even If You're Not One</h2>
 		</div>
-			<p class="fs-5 text-xl-center text-xxl-center text-lg-center ps-md-8">
-				<span class="text-dark-1" data-aos="fade-down" data-aos-delay="250">20.10.2016</span> /
-				<a href="/categories/mentoring" class="text-dark-1" data-aos="fade-down" data-aos-delay="250">#mentoring</a> <a href="/categories/guide" class="text-dark-1" data-aos="fade-down" data-aos-delay="250">#guide</a>
+        <div class="col-12 mb-5 col-md-10 col-lg-9">
+			<p class="fs-5 text-action-4 text-start">
+				<span class="text-action-4">14.01.2022</span> /
+				<a href="/categories/mentoring" class="text-action-4">#mentoring</a> <a href="/categories/guide" class="text-action-4">#guide</a>
 			</p>
-            </div>
         </div>
-    </div>
+    </div>      
+<!-- By line, omit if unnecessary -->
+<!-- Current -->    
 </section>
 <!-- Content section -->
 <section class="bg-bg-3 pt-20">
