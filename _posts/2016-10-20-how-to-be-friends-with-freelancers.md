@@ -26,7 +26,7 @@ featured-image-alt: People facing home cinema screen
             </div>
     <div class="row">
 		<div class="col-11 mb-5">
-			<h2 class="display-5 text-dark-1">A Friendly Guide to Being Good Friends with a Freelancer, Even If You're Not One</h2>
+			<h2 class="display-5 text-dark-1" style="line-height:1.3">A Friendly Guide to Being Good Friends with a Freelancer, Even If You're Not One</h2>
 		</div>
         <div class="col-12 mb-5 col-md-10 col-lg-9">
 			<p class="fs-6 text-action-4 text-start">
@@ -43,7 +43,7 @@ featured-image-alt: People facing home cinema screen
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-10 col-xl-8 col-xxl-7 font-body">        
-                <h5 class="pb-3 fw-4 text-muted font-body">
+                <h5 class="pb-3 fw-4 fs-3 font-body">
                     In our lives, there are many types of friends. 
                     There’s the online friend, the offline friend, the Twitter friend, the Facebook friend, the blogging friend, the childhood friend, and nowadays, the freelancer friend.
                 </h5>
